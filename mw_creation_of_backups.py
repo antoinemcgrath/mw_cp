@@ -10,8 +10,6 @@ import re
 import os
 import os.path
 import errno
-import os
-import errno
 import datetime
 from mwclient import Site #import mwclient
 
