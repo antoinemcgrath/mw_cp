@@ -37,7 +37,7 @@ ua = 'CCWPTool run by User:1A' #UserAgent bot note
 site = mwclient.Site(('http', 'www.climatepolitics.info'), path='/w/',)
 site.login(login_user, login_password)
 
-SpecifiedCategory = 'US_CA_Assembly'
+SpecifiedCategory = 'US_CA_Senate'
 
 #http://www.climatecongress.info/wiki/BotResource:usa_congress_votes
 #leg_list = "usa_congress_votes"
