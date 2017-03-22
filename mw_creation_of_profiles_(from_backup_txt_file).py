@@ -6,11 +6,12 @@ import os
 
 count = 0
 
-save_note = "Bot restoring 2016 Candidate pages (that lost)"
+save_note = "Bot restoring Candidate pages (that were removed Mar 9th by AMs mistake)"
 
 
 #### directory to be restored
-path = os.path.expanduser('~') + '/Documents/GITS/mw_cp/mw_site_backups/2017-03-09/Candidates'
+#path = os.path.expanduser('~') + '/Documents/GITS/mw_cp/mw_site_backups/backs/'
+path = '/mnt/8TB/GITS/mw_cp/mw_site_backups/backs/'
 
 #### Fetch access values (must be username+password for a MW with bot/admin permissions)
 with open(os.path.expanduser('~') + "/.invisible/mw.csv", 'r') as f:
