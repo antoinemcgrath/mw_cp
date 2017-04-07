@@ -126,7 +126,7 @@ def get_STW_insert(handles,total_handles):
         total_handles += 1
         total_climate_tweets = 0
         tweets_from_handle = get_tweets_from_handle(handle,total_climate_tweets, insert_body)
-        print ("The current count of climate tweets is " + str(tweets_from_handle[0]))
+       # print ("The current count of climate tweets is " + str(tweets_from_handle[0]))
     STW_insert += tweets_from_handle[1]
     STW_insert += insert_end
     return (STW_insert)
