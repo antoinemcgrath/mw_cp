@@ -131,7 +131,9 @@ def get_STW_insert(handles,total_handles):
        # print ("The current count of climate tweets is " + str(tweets_from_handle[0]))
     #print(insert_body)
     #print(type(insert_body))
-
+    #### The following section takes insert_body (the new string of tweets to be embedded) and changes the order
+    #### The order is changed by replacing irregularities, creating a list, prefacing each item in the list with a parsed date from a later portion of the item, reorder the list and then removing the preface and exporting back to a string
+    #### new tweet(s) = newt(s)
     ib = insert_body.replace("</blockquote> ","</blockquote>")
     junk = re.split("(<blockquote class|<impossible123)", ib)
     junk = junk[1:]
