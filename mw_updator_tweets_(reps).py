@@ -11,6 +11,7 @@ import os
 import os.path
 import errno
 import datetime
+from dateutil.parser import *
 from mwclient import Site #import mwclient
 from pymongo import MongoClient
 connection = c = MongoClient()
@@ -126,9 +127,37 @@ def get_STW_insert(handles,total_handles):
         total_handles += 1
         total_climate_tweets = 0
         tweets_from_handle = get_tweets_from_handle(handle,total_climate_tweets, insert_body)
+        insert_body = tweets_from_handle[1]
        # print ("The current count of climate tweets is " + str(tweets_from_handle[0]))
-    STW_insert += tweets_from_handle[1]
+    #print(insert_body)
+    #print(type(insert_body))
+
+    ib = insert_body.replace("</blockquote> ","</blockquote>")
+    junk = re.split("(<blockquote class|<impossible123)", ib)
+    junk = junk[1:]
+    list_embed = [i1 + i2 for i1, i2 in zip(junk[0::2], junk[1::2])]
+    sorted_tweets = ""
+    newts = []
+    for tweet in list_embed:
+        #print(tweet[-44:-18])#Aug 10 21:47:18 +0000 2015 = MMM dd HH:mm:ss Z yyyy
+        #print(str(parse(tweet[-44:-18])))
+        newt = (str(parse(tweet[-44:-18]))) + (tweet)
+        #print(newt)
+        newts.append(newt)
+    newts.sort(reverse=True)
+    for sorted_tweet in newts:
+        sorted_tweets += sorted_tweet[25:]
+    #print(sorted_tweets)
+    #print(type(sorted_tweets))
+
+    STW_insert += sorted_tweets
+
     STW_insert += insert_end
+    #print(STW_insert)
+    #print(len(STW_insert))
+
+    #print(str(type(insert_body)) + "is the type of the object insert_body")
+    #print(str(type(STW_insert)) + "is the type of the object STW_insert")
     return (STW_insert)
 
 #### For each Category make a list of pages
@@ -174,16 +203,26 @@ for cat in cat_list:
             print (handles)
             profiles_with_handles += 1
             STW_insert = get_STW_insert(handles, total_handles)
-            if len(STW_insert) > 110:
-               # print(STW_insert)
 
-                STW_lines_regex = '(?s) \|STW=<!--StartSTW-->.*<!--EndSTW-->'
+            if len(STW_insert) > 110: # Normal (no change) is 109
+                print(len(STW_insert))
+                #STW_lines_regex = '(?s) \|STW=<!--StartSTW-->.*<!--EndSTW-->'
+                #STW_lines_regex = '\|STW=<!--StartSTW-->.*<!--EndSTW-->'
+                STW_lines_regex = '\|STW=<!--StartSTW-->.*(?s)<!--EndSTW-->'
                 if re.search("<!--StartSTW-->", text) == None:
+                    print("SHOULD INSERT NEW TWEET SECTION")
                     insert_here =  text.rfind("}}")    ####rfind finds in reverse
                     newtext = text[:insert_here] + STW_insert + text[insert_here:]
                 else:
-                    print ("We found that the page had tweets already and will replace them")
+                    print("SHOULD EDIT EXISTING TWEET SECTION")
+                    #print(STW_lines_regex)
+                    #print(STW_insert)
+                    #print(text)
+                    #print ("We found that the page had tweets already and will replace them")
                     newtext = re.sub(STW_lines_regex, STW_insert, text)
+                    #print()
+                    #print()
+                    #print(newtext)
                # print(newtext)
                 a_page.save(newtext, edit_note)
                 print("UPDATED!")
@@ -196,5 +235,5 @@ for cat in cat_list:
 
 print ("Profiles scanned: " + str(profiles_scanned))
 print ("Profiles with handles: " + str(profiles_with_handles))
-print ("Total number of twitter handles: " + str(total_handles))
-print ("Total number of climate tweets: " + str(total_climate_tweets))
+#print ("Total number of twitter handles: " + str(total_handles))
+#print ("Total number of climate tweets: " + str(total_climate_tweets))
