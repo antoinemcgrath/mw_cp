@@ -1,7 +1,7 @@
 # MediaWiki
 # python3 /Users/macbook/Documents/GITS/mediawiki/mw_usa_ca_bill_updater.py
 # http://mwclient.readthedocs.io/en/latest/user/index.html
-
+# add bill info to wiki bot page
 import mwclient
 from mwclient import Site
 import re
@@ -27,6 +27,45 @@ site = mwclient.Site(('http', 'www.climatepolitics.info'), path='/w/',)
 site.login(login_user, login_password)
 
 SpecifiedCategory="US_CA_Bill"
+catsig = "_(USA_CA)"
+new_bill_text = "{{US CA Bill}}"
+leg_list = "usa_ca_votes" ### Results in http://www.climatepolitics.info/wiki/BotResource:usa_ca_votes
+
+
+def get_leg_item(leg_list): ### legislationtext = get_leg_item(leg_list) ###Returns a list of legislation
+    legislationpage = "BotResource:"+leg_list ##This block fetches the legislation of interest
+    print ("Queried MediaWiki for "+ legislationpage)
+    legislation = site.pages[legislationpage]
+    legislationtext = legislation.text()
+    legislationtext = legislationtext.split('\n')
+    #print (legislationtext)
+    for line in legislationtext:
+        #input ca,20172018,AB 151,
+        #output 2017-2018_AB378_(USA_CA)
+        data_legis = line.split(',')
+        state = data_legis[0]
+        session = data_legis[1]
+        session = str(session[:4])+"-"+str(session[4:])
+        bill = (data_legis[2]).replace(" ","")
+        bill_page = (session+ "_"+bill+catsig)
+
+        if len(site.pages[bill_page].text()) < 10:
+            print("create page")
+            site.pages[bill_page].save(new_bill_text, 'New bill page created (bill updator bot v01)')
+            print(bill_page)
+        else:
+            print("page exists")
+            #print(site.pages[legislation].text())
+
+        
+        
+
+get_leg_item(leg_list) #print(legislationtext)
+
+
+
+
+
 
 def bd_motion_votes_loop(vote):
     bd_motion_votes_text = "|bd_motion_votes_text=\n\n\n"
@@ -102,112 +141,74 @@ for a_page in site.Categories[SpecifiedCategory]:
     articlepage = site.Pages[a_page]
     profiletext = articlepage.text()
     val = str(articlepage.name.encode('utf-8'))
-    print("Working on: " + val[2:] )
-
-    #Get Custom values
-    ends = [match.start() for match in re.finditer(re.escape("|"), profiletext)]
-    moreends = [match.start() for match in re.finditer(re.escape("}"), profiletext)]
-    allends = ends + moreends
-    custs = [match.start() for match in re.finditer(re.escape("|Crowdsourced"), profiletext)]
-    morecusts = [match.start() for match in re.finditer(re.escape("|Suggested"), profiletext)]
-    allcusts = custs + morecusts
-    matches = [item for item in allcusts if item in allends]
-    indices = [allends.index(i) for i in matches]
-    custom = ""
-    for i in indices:
-        custom += (profiletext[allends[i]:allends[i+1]])
-    ##ADD custom back to page later
-
-
-    #Get vote id values for Openstates query
-    val = val.split(" ")
-    state = str(val[3][:-2]).lower()
-    session = str(val[0])[2:6]+str(val[0])[7:]
-    bill = str(val[1])[:2]+" "+str(val[1])[2:]
-
-    # print (state + session + bill)
-    # Input is expected to be formatted as ca20152016AB 197
-    vote = openstates.bill_detail( state, session, bill)
-    #print (bill)
-    #print (vote['sponsors'])
-    #    for x in vote:
-    page_start = "{{US CA Bill\n"
-    new_c = page_start
-    new_c += custom
-    new_c += ("|Instance of=Bill")
-    new_c += ("\n|Session=" + str(session[:4])+"-"+session[4:])
-    new_c += ("\n|Bill=" + str(bill))
-    new_c += ("\n|Gov=USA CA")
-    new_c += ("\n|Branch=Legislative")
-    new_c += ("\n|OpenStateVoteID=" + vote['id'])
-    new_c += ("\n|Bill page=" + str(vote['sources'][0])[9:-2])
-    new_c += ("\n|Vote page=" + str(vote['sources'][0]).replace('billNavClient','billVotesClient')[9:-2])
-    new_c += ("\n|JSON page="+ "https://openstates.org/api/v1/bills/" + state + "/" + session + "/" + bill + "/")
-    #print("|Passed Senate=")
-    #print("|Passed Assembly=")
-    #print("|Crowdsourced name=")
-    #print("|Crowdsourced description=")
-    #print("|Crowdsourced detailed description=")
-    new_c += ("\n|Official name=" + vote['title'])
-    #new_c += ("\n|Official description=")
-    new_c += ("\n|Official full description=" + vote['summary'])
+    # Skip pcategory pages that are not bills themselves (example US_CA_Bill which is an index page)
+    if val.find('Bill') > 0:
+        pass
+    else:
+         print("Working on: " + val[2:] )    
+         #Get Custom values
+         ends = [match.start() for match in re.finditer(re.escape("|"), profiletext)]
+         moreends = [match.start() for match in re.finditer(re.escape("}"), profiletext)]
+         allends = ends + moreends
+         custs = [match.start() for match in re.finditer(re.escape("|Crowdsourced"), profiletext)]
+         morecusts = [match.start() for match in re.finditer(re.escape("|Suggested"), profiletext)]
+         allcusts = custs + morecusts
+         matches = [item for item in allcusts if item in allends]
+         indices = [allends.index(i) for i in matches]
+         custom = ""
+         for i in indices:
+             custom += (profiletext[allends[i]:allends[i+1]])
+         ##ADD custom back to page later
 
 
-    bd_final_actions_text = bd_final_actions_loop(vote)
-    bd_final_actions_text += "\n<!--End_bd_final_actions-->"
-    new_c += ("\n" +(bd_final_actions_text))
+         #Get vote id values for Openstates query
+         #print(val)
+         val = val.split(" ")
+         state = str(val[3][:-2]).lower()
+         session = str(val[0])[2:6]+str(val[0])[7:]
+         bill = str(val[1])[:2]+" "+str(val[1])[2:]
 
-    bd_motion_votes_text = bd_motion_votes_loop(vote)
-    bd_motion_votes_text += "\n<!--End_bd_motion_votes-->"
-    new_c += ("\n" +(bd_motion_votes_text))
-
-    page_end = "\n}}"
-    new_c += page_end
-
-    newtext = new_c
-    #print (new_c)
-    articlepage.save(newtext, 'Bill Updated (bill bot v01)')
-
-
-    '''
-
-        if x['yes_votes']['leg_id'] == 'CAL000494':
-            print (x)
-
-        upper_var = vote['votes'][0]
-        for x in vote['votes']:
-            if x['chamber'] == 'upper':
-                if upper_var['date'] < x['date']:
-                    upper_var = x
-
-        lower_var = vote['votes'][0]
-        for x in vote['votes']:
-            if x['chamber'] == 'lower':
-                if lower_var['date'] < x['date']:
-                    lower_var = x
-
-
-    list.append((vote['votes'][0]['chamber'])
-    list.append(var['chamber'])
+         # print (state + session + bill)
+         # Input is expected to be formatted as ca20152016AB 197
+         vote = openstates.bill_detail( state, session, bill)
+         #print (bill)
+         #print (vote['sponsors'])
+         #    for x in vote:
+         page_start = "{{US CA Bill\n"
+         new_c = page_start
+         new_c += custom
+         new_c += ("|Instance of=Bill")
+         new_c += ("\n|Session=" + str(session[:4])+"-"+session[4:])
+         new_c += ("\n|Bill=" + str(bill))
+         new_c += ("\n|Gov=USA CA")
+         new_c += ("\n|Branch=Legislative")
+         new_c += ("\n|OpenStateVoteID=" + vote['id'])
+         new_c += ("\n|Bill page=" + str(vote['sources'][0])[9:-2])
+         new_c += ("\n|Vote page=" + str(vote['sources'][0]).replace('billNavClient','billVotesClient')[9:-2])
+         new_c += ("\n|JSON page="+ "https://openstates.org/api/v1/bills/" + state + "/" + session + "/" + bill + "/")
+         #print("|Passed Senate=")
+         #print("|Passed Assembly=")
+         #print("|Crowdsourced name=")
+         #print("|Crowdsourced description=")
+         #print("|Crowdsourced detailed description=")
+         new_c += ("\n|Official name=" + vote['title'])
+         #new_c += ("\n|Official description=")
+         new_c += ("\n|Official full description=" + vote['summary'])
 
 
+         bd_final_actions_text = bd_final_actions_loop(vote)
+         bd_final_actions_text += "\n<!--End_bd_final_actions-->"
+         new_c += ("\n" +(bd_final_actions_text))
+
+         bd_motion_votes_text = bd_motion_votes_loop(vote)
+         bd_motion_votes_text += "\n<!--End_bd_motion_votes-->"
+         new_c += ("\n" +(bd_motion_votes_text))
+
+         page_end = "\n}}"
+         new_c += page_end
+
+         newtext = new_c
+         #print (new_c)
+         articlepage.save(newtext, 'Bill Updated (bill bot v01)')
 
 
-    datetime.datetime.strptime((x['date']), '%Y-%m-%d %H:%M:%S').date()
-    (x['date']).datetime.strptime((x['date']), '%Y-%m-%d %H:%M:%S').date()
-            print("Assembly motion: " + x['motion'])
-            print("Assembly motion: " + x['motion'])
-
-
-
-        if x['leg_id'] == caleg_id:
-            print (x)
-            if lower_var['date'] < x['date']:
-                lower_var = x
-
-
-    yes_votes no_votes other_votes
-
-    vote['votes'][x]['motion']
-    vote['votes'][4]['yes_votes']
-    '''
