@@ -11,7 +11,6 @@ import json
 import csv
 import datetime
 from mwclient import Site #import mwclient
-
 import os
 
 #### Access your MW with bot/admin approved permissions
@@ -48,17 +47,16 @@ def get_leg_item(leg_list): ### legislationtext = get_leg_item(leg_list) ###Retu
         session = str(session[:4])+"-"+str(session[4:])
         bill = (data_legis[2]).replace(" ","")
         bill_page = (session+ "_"+bill+catsig)
-
         if len(site.pages[bill_page].text()) < 10:
             print("create page")
             site.pages[bill_page].save(new_bill_text, 'New bill page created (bill updator bot v01)')
             print(bill_page)
         else:
-            print("page exists")
+            print("Bill page exists: " + "www.climatepolitics.info/wiki/" + str(bill_page))
             #print(site.pages[legislation].text())
 
-        
-        
+
+
 
 get_leg_item(leg_list) #print(legislationtext)
 
@@ -84,22 +82,18 @@ def bd_motion_votes_loop(vote):
         motion_date = x['date'][:-9]
         chamber = (str(x['chamber'])).replace("upper", "Senate").replace("lower", "Assembly")
         result = (str(x['passed'])).replace("True", "passed").replace("False", "did not pass")
-
-        #Get no votes
-        no = x['no_count']
+        no = x['no_count']        #Get no votes
         n_voters = x['no_votes']
         n_voters = (n_voters)
         n_vots = []
         for nv in n_voters:
             n_vots.append(nv['name'])
-        #Get yes votes
-        yes = x['yes_count']
+        yes = x['yes_count']         #Get yes votes
         y_voters = x['yes_votes']
         y_voters = (y_voters)
         y_vots = []
         for yv in y_voters:
             y_vots.append(yv['name'])
-
         bd_motion_votes_text += ("\n\n'''On " + str(motion_date)  + " the " + chamber + " " + result + " the motion '" + motion + "' in a vote of Yea " + str(yes) + " to Nay " + str(no) + ".'''")
         if yes > 0:
             bd_motion_votes_text += ("\n\n*Voting 'Yea' there were " + str(yes) + " members: ")
@@ -133,6 +127,41 @@ def bd_final_actions_loop(vote):
 
 
 
+def get_vote_roles(vote):
+    ## Get Legislation Role Value on Bill
+    legislation_role = 0
+    role = ""
+    lead_authors = []
+    coauthors = []
+    for cs in vote['sponsors']:
+        if cs['type'] != 'other':
+            legislation_role = legislation_role+1
+            role = (cs['type'])
+            if role == 'sponsor':
+                lead_authors.append(cs['name'])
+                #lead_authors.append(cs['leg_id'])
+            if role == 'primary':
+                lead_authors.append(cs['name'])
+                #lead_authors.append(cs['leg_id'])
+            if role == 'cosponsor':
+                coauthors.append(cs['name'])
+                #coauthors.append(cs['leg_id'])
+    uniq_lead_authors = set(lead_authors)
+    uniq_coauthors = set(coauthors)
+    #print (vote['title'])
+    authors = ""
+    coauthors = ""
+    if len(uniq_lead_authors) != 0:
+        authors += (str(uniq_lead_authors).replace("{'","").replace("'}","").replace(" '"," ").replace('{"','').replace('"}','').replace(' "',' ').replace('",',',').replace("',",","))
+    if len(uniq_coauthors) != 0:
+        coauthors += (str(uniq_coauthors).replace("{'","").replace("'}","").replace(" '"," ").replace('{"','').replace('"}','').replace(' "',' ').replace('",',',').replace("',",","))
+            #[{'name': 'De León', 'official_type': 'LEAD_AUTHOR', 'leg_id': 'CAL000057', 'type': 'primary'}, {'name': 'Leno', 'official_type': 'LEAD_AUTHOR', 'leg_id': 'CAL000003', 'type': 'primary'}, {'name': 'Allen', 'official_type': 'COAUTHOR', 'leg_id': 'CAL000490', 'type': 'cosponsor'}, {'name': 'Hancock', 'official_type': 'COAUTHOR', 'leg_id': 'CAL000009', 'type': 'cosponsor'}, {'name': 'Monning', 'official_type': 'COAUTHOR', 'leg_id': 'CAL000107', 'type': 'cosponsor'}]
+            #print(role)
+            #print(vote['sponsors'])
+            #print ("role" + str(bill))
+    return(authors, coauthors)
+
+
 
 
 
@@ -145,7 +174,7 @@ for a_page in site.Categories[SpecifiedCategory]:
     if val.find('Bill') > 0:
         pass
     else:
-         print("Working on: " + val[2:] )    
+         print("Working on: " + val[2:] )
          #Get Custom values
          ends = [match.start() for match in re.finditer(re.escape("|"), profiletext)]
          moreends = [match.start() for match in re.finditer(re.escape("}"), profiletext)]
@@ -185,15 +214,19 @@ for a_page in site.Categories[SpecifiedCategory]:
          new_c += ("\n|OpenStateVoteID=" + vote['id'])
          new_c += ("\n|Bill page=" + str(vote['sources'][0])[9:-2])
          new_c += ("\n|Vote page=" + str(vote['sources'][0]).replace('billNavClient','billVotesClient')[9:-2])
-         new_c += ("\n|JSON page="+ "https://openstates.org/api/v1/bills/" + state + "/" + session + "/" + bill + "/")
+         new_c += ("\n|JSON page=" + "https://openstates.org/api/v1/bills/" + state + "/" + session + "/" + bill + "/")
          #print("|Passed Senate=")
          #print("|Passed Assembly=")
          #print("|Crowdsourced name=")
          #print("|Crowdsourced description=")
          #print("|Crowdsourced detailed description=")
          new_c += ("\n|Official name=" + vote['title'])
-         #new_c += ("\n|Official description=")
-         new_c += ("\n|Official full description=" + vote['summary'])
+         new_c += ("\n|Official description=")
+         Roles = get_vote_roles(vote) #Authors/Coauthors
+         if Roles[0] != 0:
+             new_c += ("\n|Authors=" + str(Roles[0]))
+         if Roles[1] != 0:
+             new_c += ("\n|Coauthors=" + str(Roles[1]))
 
 
          bd_final_actions_text = bd_final_actions_loop(vote)
@@ -210,5 +243,3 @@ for a_page in site.Categories[SpecifiedCategory]:
          newtext = new_c
          #print (new_c)
          articlepage.save(newtext, 'Bill Updated (bill bot v01)')
-
-
