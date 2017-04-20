@@ -14,7 +14,8 @@ import datetime
 from mwclient import Site #import mwclient
 
 DATE = datetime.datetime.now().strftime('%Y-%m-%d')
-base_dir = '/mnt/8TB/GITS/mw_cp/mw_site_backups/'+DATE+"/"
+base_dir = '/mnt/8TB/GITS/mw_cp/mw_site_most_recent/'+DATE+"/"
+historical_dir = '/mnt/8TB/GITS/mw_cp/mw_site_backups/'
 
 
 #### Fetch access values (must be username+password for a MW with bot/admin permissions)
@@ -50,6 +51,12 @@ def make_path_exist(path):
         if exception.errno != errno.EEXIST:
             raise
 make_path_exist(base_dir)
+make_path_exist(historical_dir)
+
+#### Move any existing most recent backup to the mw_site_backups dir
+for sub_dir in base_dir:
+    shutil.move(sub_dir, historical_dir)
+
 
 #### For each Category make a list of pages
 for cat in cat_list:
