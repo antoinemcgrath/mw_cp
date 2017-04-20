@@ -99,7 +99,7 @@ def get_atweet_embed(obj):
 
 def get_tweets_from_handle(handle, total_climate_tweets, insert_body):
     handles_climate_tweets = 0
-    keywords_re = re.compile(r'climate|carbon', re.IGNORECASE)
+    keywords_re = re.compile(r'climate|carbon|globalwarming|global warming|renewable', re.IGNORECASE)
     results = db.politicians.find({"user.screen_name": handle, "text": keywords_re})
     handles_climate_tweets += results.count()
     total_climate_tweets += handles_climate_tweets
@@ -120,7 +120,7 @@ def get_STW_insert(handles,total_handles):
     STW_insert = ""
     insert_body = ""
     insert_start = "|STW=<!--StartSTW-->'''Automatically captured tweets'''{{#widget:Tweet|id=794256025297653761}}\n"
-    insert_end = "<!--EndSTW-->\n"
+    insert_end = "<!--EndSTW-->"
     STW_insert += insert_start
     for handle in handles:
         #print (handle)
