@@ -1,0 +1,8 @@
+{{Candidate
+|Firstname=Kerith
+|Lastname=Taylor
+|State=Pennsylvania
+|District=5
+|Office=House
+|Party=Democratic
+}}

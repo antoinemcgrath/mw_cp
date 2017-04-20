@@ -1,0 +1,39 @@
+{{Candidate
+|Firstname=Frederick
+|Lastname=Upton
+|Nickname=Fred Upton
+|Wiki1=https://en.wikipedia.org/wiki/Fred_Upton
+|Wiki2=https://en.wikipedia.org/wiki/Fred_Upton#Tenure
+|State=Michigan
+|District=6
+|Office=House
+|Party=Republican
+|Position=Incumbent
+|HouseOfficialSite=http://upton.house.gov/
+|CampaignSite=http://fredupton.com/
+|FB1=http://www.facebook.com/RepFredUpton
+|FB2=https://www.facebook.com/uptonforallofus
+|TW1=http://twitter.com/RepFredUpton
+|TW2=https://twitter.com/UptonForAllOfUs
+|WikiDraftSum=In 2011, Fred Upton said "in fact you look at this last year, it was the warmest year in the last decade...I accept that. I do not say that it is man-made," (1). In December 2015, he voted for HR 2042, a bill designed block implementation of the Clean Power Plan (2,3). In 2014, he voted against a House amendment calling on Congress to recognize that man-made carbon pollution contributes to climate change and that climate change has a wide range of negative effects (4).
+
+
+1. "Rep. Fred Upton On Global Warming: ‘I Do Not Say That It Is Man-Made'" in Think Progress, Brad Johnson, 2011-02-08. https://thinkprogress.org/rep-fred-upton-on-global-warming-i-do-not-say-that-it-is-man-made-bedbf3a90f73#.amg2gkfrt 
+
+
+2. "Measure to block EPA Clean Power Plan passes House," in Utility Dive, Robert Walton, 2015-06-26. http://www.utilitydive.com/news/measure-to-block-epa-clean-power-plan-passes-house/401376/
+
+
+3. U.S. House of Representatives Roll Call Votes 114th Congress, Vote Number 384, 2015-06-24. http://clerk.house.gov/evs/2015/roll384.xml
+
+
+4. U.S. House of Representatives Roll Call Votes 113th Congress, Vote Number 103, 2014-03-06 http://clerk.house.gov/evs/2014/roll103.xml
+|MovedToWikipedia=Information <b>HAS NEVER</b> been transferred to Wikipedia &#x2717;
+|Q1=In 2011, he said "in fact you look at this last year, it was the warmest year in the last decade...I accept that. I do not say that it is man-made." https://thinkprogress.org/rep-fred-upton-on-global-warming-i-do-not-say-that-it-is-man-made-bedbf3a90f73#.amg2gkfrt
+|Q2=According to his campaign website, "Fred is focused on common sense solutions for our nation’s energy future through a sensible “all of the above” approach that focuses on emerging energy technologies like wind, solar, nuclear, and hydropower mixed with traditional energy solutions." http://fredupton.com/energy/ 
+In December 2015, he voted for HR 2042, a bill designed block implementation of the Clean Power Plan. http://www.utilitydive.com/news/measure-to-block-epa-clean-power-plan-passes-house/401376/
+https://rules.house.gov/bill/114/hr-2042
+In 2014, he voted against a House amendment calling on Congress to recognize that man-made carbon pollution contributes to climate change and that climate change has a wide range of negative effects. http://clerk.house.gov/evs/2014/roll103.xml
+|Q3=None found.
+|OtherSources=Media have described his position on climate change as shifting. http://www.motherjones.com/blue-marble/2011/01/fred-upton-global-warming https://thinkprogress.org/supported-by-tea-party-polluters-upton-flips-on-threat-of-global-warming-2d9a4654b669#.py64gad22
+}}

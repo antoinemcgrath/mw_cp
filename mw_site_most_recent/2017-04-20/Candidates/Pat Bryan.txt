@@ -1,0 +1,8 @@
+{{Candidate
+|Firstname=Pat
+|Lastname=Bryan
+|State=Texas
+|District=2
+|Office=House
+|Party=Democratic
+}}

@@ -1,0 +1,48 @@
+{{Candidate
+|Firstname=Judy
+|Lastname=Chu
+|Bioguide_id=C001080
+|Gender=F
+|State=California
+|District=27
+|Office=House
+|Party=Democratic
+|HiddenValues=Provided_by_ProPublica.org
+                 "id": "C001080",
+                 "thomas_id": "1970",
+                 "api_uri":"https://api.propublica.org/congress/v1/members/C001080.json",
+                 "first_name": "Judy",
+                 "middle_name": null,
+                 "last_name": "Chu",
+                 "party": "D",
+                 "twitter_account": "RepJudyChu",
+                 "facebook_account": "RepJudyChu",
+                 "facebook_id": "41228315130",
+                 "google_entity_id": "kg:/m/0krsk2",
+                 "url": "http://chu.house.gov",
+                 "rss_url": "https://chu.house.gov/rss.xml",
+                 "domain": "chu.house.gov",
+                 "dw_nominate": "",
+                 "ideal_point": "",
+                 "seniority": "10",
+                 "next_election": "2016",
+                 "total_votes": "1325",
+                 "missed_votes": "60",
+                 "total_present": "0",
+                 "state": "CA",
+                 "district": "27"
+                 ,"missed_votes_pct": "4.53",
+                 "votes_with_party_pct": "97.31"
+
+|Q2=
+
+'''Automatically Generated Congressional Votes'''
+
+In 2011, she voted against limiting the EPA's ability to regulate greenhouse gas emissions. http://clerk.house.gov/evs/2011/roll249.xml 
+
+In 2013, she voted against making it harder for Congress to put a price on carbon by voting against a point of order opposing a carbon tax or a fee on carbon emissions. http://clerk.house.gov/evs/2013/roll445.xml 
+
+In 2014, she voted for a House amendment calling on Congress to recognize that man-made carbon pollution contributes to climate change and that climate change has a wide range of negative effects. http://clerk.house.gov/evs/2014/roll103.xml 
+
+In 2015, as a member of Congress she voted against HR 2042, The Ratepayer Protection Act, which would have prevented implementation of the Clean Power Plan. http://clerk.house.gov/evs/2015/roll384.xml 
+}}

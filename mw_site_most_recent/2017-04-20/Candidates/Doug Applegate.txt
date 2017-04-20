@@ -1,0 +1,22 @@
+{{Candidate
+|Firstname=Douglas
+|Lastname=Applegate
+|Nickname=Doug Applegate
+|State=California
+|District=49
+|Office=House
+|Party=Democratic
+|Position=Challenger
+|CampaignSite=http://applegateforcongress.com/
+|FB2=https://www.facebook.com/APPLEGATEFORCONGRESS/
+|TW2=https://twitter.com/dlapplegate1
+|WikiDraftSum=On his campaign website, Doug Applegate states "I will work very hard in Congress on measures that combat global warming and climate change. The adverse effects of global warming are a reality that must be addressed head on, especially for our coastal communities. We have no time to stand idly by as our coastline continues to erode and the drought cripples our economy. So I promise and plan on supporting legislation that actively combats global warming and climate change, and renewable energy to sustain our community well into the future." 
+
+
+1. Environment and Energy - Issues. http://applegateforcongress.com/issues/ Accessed 2016-10-18.
+|MovedToWikipedia=Information <b>HAS NEVER</b> been transferred to Wikipedia &#x2717;
+|Q1=On his campaign website, Doug Applegate states "I will work very hard in Congress on measures that combat global warming and climate change...I promise and plan on supporting legislation that actively combats global warming and climate change, and renewable energy to sustain our community well into the future." http://applegateforcongress.com/issues/
+|Q2=None found.
+|Q3=On his campaign website, he states "the adverse effects of global warming are a reality that must be addressed head on, especially for our coastal communities. We have no time to stand idly by as our coastline continues to erode and the drought cripples our economy."
+|OtherSources=None found.
+}}

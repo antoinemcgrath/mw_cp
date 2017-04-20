@@ -1,0 +1,8 @@
+{{Candidate
+|Firstname=Wendy
+|Lastname=Reed
+|State=California
+|District=23
+|Office=House
+|Party=Democratic
+}}

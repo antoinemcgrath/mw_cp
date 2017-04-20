@@ -1,0 +1,8 @@
+{{Candidate
+|Firstname=Britani
+|Lastname=Potter
+|State=Kansas
+|District=2
+|Office=House
+|Party=Democratic
+}}

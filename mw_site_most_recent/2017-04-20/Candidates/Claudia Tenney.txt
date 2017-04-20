@@ -1,0 +1,31 @@
+{{Candidate
+|Firstname=Claudia
+|Lastname=Tenney
+|Bioguide_id=T000478
+|Gender=F
+|Wiki1=https://en.wikipedia.org/wiki/Claudia_Tenney
+|State=New York
+|District=22
+|Office=House
+|Party=Republican
+|Position=Challenger
+|HouseOfficialSite=http://assembly.state.ny.us/mem/Claudia-Tenney
+|CampaignSite=https://claudiaforcongress.com/
+|FB2=https://www.facebook.com/ClaudiaForCongress
+|TW1=https://twitter.com/claudiatenney
+|TW2=https://twitter.com/claudiaforny22
+|WikiDraftSum=At a 2016 candidate forum, Claudia Tenney said on climate change, "The science is not determined. It’s not certain.” (1)
+
+
+1. “Candidates Talk Climate Change At SUNY Broome Forum” on WSKGnews, by Bret Jaspers, 2016-09-30.
+|MovedToWikipedia=Information <b>HAS NEVER</b> been transferred to Wikipedia &#x2717;
+|Q1=At a 2016 candidate forum, Claudia Tenney said on climate change, "The science is not determined. It’s not certain.”
+http://wskgnews.org/post/candidates-talk-climate-change-suny-broome-forum#stream/0
+|Q2=In a 2015 press release, she criticized a fellow republican for voting against a bill that would have weakened the Obama administration’s Clean Power Plan. 
+https://claudiaforcongress.com/tenney-rejects-hannas-support-of-obamas-climate-change-agenda/
+
+In a December Facebook post, she referred to “Obama’s Job-Killing Climate Change Agenda” and said “the burdensome regulations, which provide nearly no benefit to our environment, will dramatically drive up the cost of energy”. 
+https://www.facebook.com/ClaudiaForCongress/posts/474308642742057
+|Q3=None found.
+|OtherSources=None found.
+}}

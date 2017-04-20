@@ -1,0 +1,8 @@
+{{Candidate
+|Firstname=John
+|Lastname=McNeil
+|State=North Carolina
+|District=2
+|Office=House
+|Party=Democratic
+}}

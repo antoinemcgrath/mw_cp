@@ -1,0 +1,8 @@
+{{Candidate
+|Firstname=Peter
+|Lastname=DiCianni
+|State=Illinois
+|District=8
+|Office=House
+|Party=Republican
+}}

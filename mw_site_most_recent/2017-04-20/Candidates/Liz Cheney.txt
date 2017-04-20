@@ -1,0 +1,27 @@
+{{Candidate
+|Firstname=Liz
+|Lastname=Cheney
+|Bioguide_id=C001109
+|Gender=F
+|Wiki1=https://en.wikipedia.org/wiki/Liz_Cheney
+|State=Wyoming
+|District=At-large
+|Office=House
+|Party=Republican
+|Position=Incumbent
+|CampaignSite=http://www.cheneyforwyoming.com/
+|FB2=https://www.facebook.com/CheneyLiz
+|TW2=https://twitter.com/Liz_Cheney
+|WikiDraftSum=When asked about what the Republican Party should do to address climate change during, Liz Cheney said "nothing...It’s bad science," (1). According to her campaign site, she supports "Rescinding the Clean Power Plan," "lifting the moratorium on coal leases on federal lands," "Enacting legislation that prohibits the regulation of CO2 as a pollutant," and "ending federal government favoritism of renewable sources of energy," (2).
+
+
+1. "Liz Cheney scorns climate action, just like her dad," Lisa Hymas, Grist, 2015-07-15 https://grist.org/politics/liz-cheney-scorns-climate-action-just-as-much-as-her-dad/
+
+
+2. "Cheney: Clinton’s “Climate Army” Must Be Stopped," Cheney for Wyoming.  http://www.cheneyforwyoming.com/2016/07/cheney-clintons-climate-army-must-stopped/  Accessed 2016-07-16.
+|MovedToWikipedia=Information <b>HAS NEVER</b> been transferred to Wikipedia &#x2717;
+|Q1=When asked about what the Republican Party should do to address climate change during, she responded "nothing...It’s bad science." https://grist.org/politics/liz-cheney-scorns-climate-action-just-as-much-as-her-dad/
+|Q2=According to her campaign site, she supports "Rescinding the Clean Power Plan," "lifting the moratorium on coal leases on federal lands," "Enacting legislation that prohibits the regulation of CO2 as a pollutant," and "ending federal government favoritism of renewable sources of energy." http://www.cheneyforwyoming.com/2016/07/cheney-clintons-climate-army-must-stopped/
+|Q3=None found.
+|OtherSources=None found.
+}}

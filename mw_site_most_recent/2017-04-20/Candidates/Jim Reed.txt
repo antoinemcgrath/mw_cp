@@ -1,0 +1,8 @@
+{{Candidate
+|Firstname=Jim
+|Lastname=Reed
+|State=California
+|District=1
+|Office=House
+|Party=Democratic
+}}

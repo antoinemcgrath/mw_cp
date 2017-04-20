@@ -1,0 +1,8 @@
+{{Candidate
+|Firstname=Kenneth
+|Lastname=Cutno
+|State=Louisiana
+|District=2
+|Office=House
+|Party=Democratic
+}}

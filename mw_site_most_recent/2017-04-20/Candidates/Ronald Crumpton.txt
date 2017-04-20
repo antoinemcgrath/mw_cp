@@ -1,0 +1,22 @@
+{{Candidate
+|Firstname=Ronald
+|Lastname=Crumpton
+|Nickname=Ron
+|State=Alabama
+|Office=Senate
+|Party=Democratic
+|Position=Challenger
+|CampaignSite=http://crumptonforalabama.com/
+|FB2=https://www.facebook.com/rscrumpton
+|TW2=https://twitter.com/crumpton_us_sen
+|WikiDraftSum=In a 2016 interview, in response to a question about international climate agreements, Ron Crumpton said, “The Paris Agreement, from what I’ve read…I wouldn’t have a whole lotta problems with it.” (1)
+
+
+“Meet the Candidate: Ron Crumpton on climate change”, WVTM13 Interview, 2016-02-01. http://www.wvtm13.com/politics/meet-the-candidate-ron-crumpton-on-climate-change/37757862
+|MovedToWikipedia=Information <b>HAS NOT</b> been transferred to Wikipedia &#x2717;
+|Q1=None found.
+|Q2=In a 2016 interview, in response to a question about international climate agreements, Ron Crumpton said, “The Paris Agreement, from what I’ve read…I wouldn’t have a whole lotta problems with it”.
+http://www.wvtm13.com/politics/meet-the-candidate-ron-crumpton-on-climate-change/37757862
+|Q3=None found.
+|OtherSources=None found.
+}}

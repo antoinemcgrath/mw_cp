@@ -1,0 +1,23 @@
+{{Candidate
+|Firstname=Paul
+|Lastname=Mitchell
+|Bioguide_id=M001201
+|Gender=M
+|State=Michigan
+|District=10
+|Office=House
+|Party=Republican
+|Position=Challenger
+|CampaignSite=http://www.paulmitchellforcongress.com/
+|FB2=https://www.facebook.com/PaulMitchellforUS
+|TW2=https://twitter.com/PaulMitchell4us
+|WikiDraftSum=In July 2016, Paul Mitchell said "I support an all of the above energy strategy that allows our nation to take advantage of all forms of energy reserves," (1).
+
+
+1. "Election 2016: Paul Mitchell Candidate Questionnaire," WDET 101.9, 2016-07-28. http://wdet.org/posts/2016/07/28/83567-election-2016-paul-mitchell-candidate-questionnaire/
+|MovedToWikipedia=Information <b>HAS NEVER</b> been transferred to Wikipedia &#x2717;
+|Q1=None found.
+|Q2=In July 2016, he said "I support an all of the above energy strategy that allows our nation to take advantage of all forms of energy reserves." http://wdet.org/posts/2016/07/28/83567-election-2016-paul-mitchell-candidate-questionnaire/
+|Q3=None found.
+|OtherSources=None found.
+}}

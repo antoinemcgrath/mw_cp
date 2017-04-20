@@ -1,0 +1,23 @@
+{{Candidate
+|Firstname=Angela
+|Lastname=Craig
+|Nickname=Angie Craig
+|Wiki1=https://en.wikipedia.org/wiki/Angie_Craig
+|State=Minnesota
+|District=2
+|Office=House
+|Party=Democratic/Farmer/Labor
+|Position=Challenger
+|CampaignSite=http://http//www.angiecraig.com/
+|FB2=https://www.facebook.com/AngieCraigforCongress/
+|TW2=https://twitter.com/angiecraigmn
+|WikiDraftSum=On her campaign site, Angie Craig states, "there’s no denying it — climate change is happening, and we have to address it now... Scientists agree that the warming of the past 50 years is largely due to human-induced emissions of heat-trapping gasses. These emissions come mainly from burning fossil fuels...in Minnesota, we’ve already seen milder winters, heat waves, droughts, and floods," (1).
+
+
+1. Priorities - Angie Craig for Congress. http://www.angiecraig.com/issues Accessed 2016-10-15.
+|MovedToWikipedia=Information <b>HAS NEVER</b> been transferred to Wikipedia &#x2717;
+|Q1=On her campaign site, Angie Craig states, "there’s no denying it — climate change is happening, and we have to address it now... Scientists agree that the warming of the past 50 years is largely due to human-induced emissions of heat-trapping gasses. These emissions come mainly from burning fossil fuels." http://www.angiecraig.com/issues Accessed 2016-10-15.
+|Q2=None found.
+|Q3=She states on her campaign website, "in Minnesota, we’ve already seen milder winters, heat waves, droughts, and floods." http://www.angiecraig.com/issues Accessed 2016-10-15.
+|OtherSources=None found.
+}}

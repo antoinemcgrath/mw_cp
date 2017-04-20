@@ -1,0 +1,50 @@
+{{Candidate
+|Firstname=Danny
+|Lastname=Davis
+|Bioguide_id=D000096
+|Gender=M
+|State=Illinois
+|District=7
+|Office=House
+|Party=Democratic
+|HiddenValues=Provided_by_ProPublica.org
+                 "id": "D000096",
+                 "thomas_id": "1477",
+                 "api_uri":"https://api.propublica.org/congress/v1/members/D000096.json",
+                 "first_name": "Danny",
+                 "middle_name": "K.",
+                 "last_name": "Davis",
+                 "party": "D",
+                 "twitter_account": "RepDannyDavis",
+                 "facebook_account": "280757931935749",
+                 "facebook_id": "",
+                 "google_entity_id": "kg:/m/0256k7",
+                 "url": "http://davis.house.gov",
+                 "rss_url": "https://davis.house.gov/rss/press-releases.xml",
+                 "domain": "www.davis.house.gov",
+                 "dw_nominate": "",
+                 "ideal_point": "",
+                 "seniority": "20",
+                 "next_election": "2016",
+                 "total_votes": "1325",
+                 "missed_votes": "71",
+                 "total_present": "0",
+                 "state": "IL",
+                 "district": "7"
+                 ,"missed_votes_pct": "5.36",
+                 "votes_with_party_pct": "97.29"
+
+|Q2=
+
+'''Automatically Generated Congressional Votes'''
+
+In 2009, as a member of the US House of Representatives, he voted for the American Clean Energy and Security Act HR 2454 (Waxman-Markey). https://www.congress.gov/bill/111th-congress/house-bill/2454 
+
+In 2011, he voted against limiting the EPA's ability to regulate greenhouse gas emissions. http://clerk.house.gov/evs/2011/roll249.xml 
+
+In 2013, he voted against making it harder for Congress to put a price on carbon by voting against a point of order opposing a carbon tax or a fee on carbon emissions. http://clerk.house.gov/evs/2013/roll445.xml 
+
+In 2014, he voted for a House amendment calling on Congress to recognize that man-made carbon pollution contributes to climate change and that climate change has a wide range of negative effects. http://clerk.house.gov/evs/2014/roll103.xml 
+
+In 2015, as a member of Congress he voted against HR 2042, The Ratepayer Protection Act, which would have prevented implementation of the Clean Power Plan. http://clerk.house.gov/evs/2015/roll384.xml 
+}}

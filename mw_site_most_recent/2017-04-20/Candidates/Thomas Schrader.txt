@@ -1,0 +1,8 @@
+{{Candidate
+|Firstname=Thomas
+|Lastname=Schrader
+|State=Indiana
+|District=3
+|Office=House
+|Party=Democratic
+}}

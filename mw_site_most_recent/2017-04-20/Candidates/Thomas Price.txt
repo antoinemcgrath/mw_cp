@@ -1,0 +1,8 @@
+{{Candidate
+|Firstname=Thomas
+|Lastname=Price
+|State=Georgia
+|District=6
+|Office=House
+|Party=Republican
+}}

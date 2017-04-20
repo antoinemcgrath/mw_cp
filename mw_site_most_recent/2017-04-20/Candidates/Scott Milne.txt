@@ -1,0 +1,21 @@
+{{Candidate
+|Firstname=Scott
+|Lastname=Milne
+|Wiki1=https://en.wikipedia.org/wiki/Scott_Milne
+|State=Vermont
+|Office=Senate
+|Party=Republican
+|Position=Challenger
+|CampaignSite=http://www.scottmilne.org/
+|FB2=https://www.facebook.com/scottmilnevt/
+|TW2=https://twitter.com/milneforvt
+|WikiDraftSum=In a 2014 debate Scott Milne said “climate change is a reality…We want to be responsible citizens, but the government can't be sticking its neck out and getting too far overboard on spending money on this.” (1)
+
+
+1. “Seven Takeaways From VPR's Gubernatorial Debate” on Seven Days, by Paul Heinz, 2014-09-24. http://www.sevendaysvt.com/OffMessage/archives/2014/09/24/seven-takeaways-from-vprs-gubernatorial-debate
+|MovedToWikipedia=Information <b>HAS</b> been transferred to Wikipedia &#10003;
+|Q1=In a 2014 debate Scott Milne said “climate change is a reality…We want to be responsible citizens, but the government can't be sticking its neck out and getting too far overboard on spending money on this”. http://www.sevendaysvt.com/OffMessage/archives/2014/09/24/seven-takeaways-from-vprs-gubernatorial-debate
+|Q2=None found.
+|Q3=None found.
+|OtherSources=None found.
+}}

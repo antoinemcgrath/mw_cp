@@ -1,0 +1,34 @@
+{{Candidate
+|Firstname=Joseph
+|Lastname=Courtney
+|State=Connecticut
+|District=2
+|Office=House
+|Party=Democratic
+|HiddenValues=Provided_by_ProPublica.org
+                 "id": "C001069",
+                 "thomas_id": "1836",
+                 "api_uri":"https://api.propublica.org/congress/v1/members/C001069.json",
+                 "first_name": "Joe",
+                 "middle_name": null,
+                 "last_name": "Courtney",
+                 "party": "D",
+                 "twitter_account": "RepJoeCourtney",
+                 "facebook_account": "joecourtney",
+                 "facebook_id": "330408799230",
+                 "google_entity_id": "kg:/m/0700nd",
+                 "url": "http://courtney.house.gov",
+                 "rss_url": "https://courtney.house.gov/rss.xml",
+                 "domain": "courtney.house.gov",
+                 "dw_nominate": "",
+                 "ideal_point": "",
+                 "seniority": "10",
+                 "next_election": "2016",
+                 "total_votes": "1325",
+                 "missed_votes": "17",
+                 "total_present": "0",
+                 "state": "CT",
+                 "district": "2"
+                 ,"missed_votes_pct": "1.28",
+                 "votes_with_party_pct": "95.11"
+}}

@@ -1,0 +1,8 @@
+{{Candidate
+|Firstname=Donald
+|Lastname=Larson
+|State=Ohio
+|District=9
+|Office=House
+|Party=Republican
+}}

@@ -1,0 +1,8 @@
+{{Candidate
+|Firstname=David
+|Lastname=Putman
+|State=Alabama
+|District=6
+|Office=House
+|Party=Democratic
+}}

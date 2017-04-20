@@ -1,0 +1,40 @@
+{{Candidate
+|Firstname=John
+|Lastname=Katko
+|Bioguide_id=K000386
+|Gender=M
+|Wiki1=https://en.wikipedia.org/wiki/John_Katko
+|State=New York
+|District=24
+|Office=House
+|Party=Republican
+|Position=Incumbent
+|HouseOfficialSite=https://katko.house.gov/
+|CampaignSite=http://www.johnkatkoforcongress.com/
+|FB1=https://www.facebook.com/RepJohnKatko
+|FB2=https://www.facebook.com/JohnKatkoForCongress
+|TW1=https://twitter.com/RepJohnKatko
+|WikiDraftSum=In 2015, John Katko voted to disapprove of the Clean Power Plan, but voted against blocking limits on greenhouse gas emissions from new power plants. (1) In 2016, he said his positions on climate change were “evolving” and co-sponsored a bill acknowledging human activities have impacted the climate. (2, 3)
+
+
+1. “Reps. John Katko, Richard Hanna split with GOP over Obama clean power plan” on Syracuse.com, by Mark Weiner, 2015-12-02. http://www.syracuse.com/politics/index.ssf/2015/12/reps_john_katko_richard_hanna_split_with_gop_over_obama_clean_power_plan.html
+
+
+2. “Katko says his position on climate change evolving, recognizes human role” on WRVO.org, by Payne Horning, 2016-07-22. http://wrvo.org/post/katko-says-his-position-climate-change-evolving-recognizes-human-role#stream/0
+
+
+3. “Rep. John Katko acknowledges human role in climate change” on Syracuse.com, by Mark Weiner, 2016-07-19. http://www.syracuse.com/politics/index.ssf/2016/07/rep_john_katko_acknowledges_human_role_in_climate_change.html
+|MovedToWikipedia=Information <b>HAS NEVER</b> been transferred to Wikipedia &#x2717;
+|Q1=In 2016, John Katko said his positions on climate change were “evolving”.	
+http://wrvo.org/post/katko-says-his-position-climate-change-evolving-recognizes-human-role#stream/0
+
+
+In 2016, John Katko co-sponsored a bill acknowledging human activities have impacted the climate.
+http://www.syracuse.com/politics/index.ssf/2016/07/rep_john_katko_acknowledges_human_role_in_climate_change.html
+|Q2=In 2015, John Katko voted to disapprove of the Clean Power Plan, but voted against blocking limits on greenhouse gas emissions from new power plants.
+http://www.syracuse.com/politics/index.ssf/2015/12/reps_john_katko_richard_hanna_split_with_gop_over_obama_clean_power_plan.html
+|Q3=None found.
+|OtherSources=None found.
+|STW=<!--StartSTW-->'''Automatically captured tweets'''{{#widget:Tweet|id=794256025297653761}}
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Checking in with Phil Van Horne on @WSYRNews @BlueRockEnergy Hour -- we're talking renewable energy &amp; nuclear power https://t.co/fsBpFO8kpp</p><a href="https://twitter.com/RepJohnKatko/status/701079521856983040/status/Sat Feb 20 16:22:38 +0000 2016</a></blockquote>
+<!--EndSTW-->}}

@@ -1,0 +1,69 @@
+{{Candidate
+|Firstname=Robert
+|Lastname=Pittenger
+|Bioguide_id=P000606
+|Gender=M
+|Wiki1=https://en.wikipedia.org/wiki/Robert_Pittenger
+|Wiki2=https://en.wikipedia.org/wiki/Robert_Pittenger#Tenure_2
+|State=North Carolina
+|District=9
+|Office=House
+|Party=Republican
+|Position=Incumbent
+|HouseOfficialSite=https://pittenger.house.gov/
+|CampaignSite=http://www.robertpittenger.com/
+|FB1=https://www.facebook.com/congressmanpittenger
+|TW1=https://twitter.com/reppittenger
+|WikiDraftSum=In 2007, Robert Pittenger said, ""We don't have the facts yet ... Those in my party understand that in some great measure this is a hoax" (1). In 2013, he voted for a concurrent resolution creating a point of order which would make it harder for Congress to put a price on carbon (2, 3). In 2014, he voted against a House amendment calling on Congress to recognize that man-made carbon pollution contributes to climate change and that climate change has a wide range of negative effects (4, 5). In 2015, he voted against the Obama administration’s Clean Power Plan (6, 7, 8). (Hyperlink Clean Power Plan https://en.wikipedia.org/wiki/Clean_Power_Plan)
+
+
+1. (Behind Paywall, This and additional sources already on Wikipedia) http://pqasb.pqarchiver.com/citizen_times/access/1721457651.html?FMT=ABS&FMTS=ABS:FT&type=current&date=Oct+25%2C+2007&author=JORDAN+SCHRADER&pub=Asheville+Citizen+-+Times&edition=&startpage=A.2&desc=GOP%27s+Thomas%3A+Green+is+good
+
+
+2. VIS.org info: http://www.vis.org/toolbox/VoteDetail.aspx?vid=15863
+
+
+3. Roll Call: http://clerk.house.gov/evs/2013/roll445.xml
+
+
+4. News Link: https://thinkprogress.org/24-house-republicans-just-voted-to-deny-the-reality-of-climate-change-e3f66d07f897#.5ha4jdq7i
+
+
+5. Roll Call: http://clerk.house.gov/evs/2014/roll103.xml
+
+
+6. News Link: http://www.utilitydive.com/news/measure-to-block-epa-clean-power-plan-passes-house/401376/
+
+
+7. Bill Profile: https://www.congress.gov/bill/114th-congress/house-bill/2042
+
+
+8. Roll call: http://clerk.house.gov/evs/2015/roll384.xml
+|MovedToWikipedia=Information <b>HAS NEVER</b> been transferred to Wikipedia &#x2717;
+|Q1=In 2007, Robert Pittenger said, ""We don't have the facts yet ... Those in my party understand that in some great measure this is a hoax".
+ 
+http://pqasb.pqarchiver.com/citizen_times/access/1721457651.html?FMT=ABS&FMTS=ABS:FT&type=current&date=Oct+25%2C+2007&author=JORDAN+SCHRADER&pub=Asheville+Citizen+-+Times&edition=&startpage=A.2&desc=GOP%27s+Thomas%3A+Green+is+good
+|Q2=In 2013, he voted for a concurrent resolution creating a point of order which would make it harder for Congress to put a price on carbon.
+
+VIS.org info: http://www.vis.org/toolbox/VoteDetail.aspx?vid=15863
+
+Roll Call: http://clerk.house.gov/evs/2013/roll445.xml
+
+
+In 2014, he voted against a House amendment calling on Congress to recognize that man-made carbon pollution contributes to climate change and that climate change has a wide range of negative effects.
+
+News Link: https://thinkprogress.org/24-house-republicans-just-voted-to-deny-the-reality-of-climate-change-e3f66d07f897#.5ha4jdq7i
+
+Roll Call: http://clerk.house.gov/evs/2014/roll103.xml
+
+
+In 2015, he voted against the Obama administration’s Clean Power Plan.
+
+News Link: http://www.utilitydive.com/news/measure-to-block-epa-clean-power-plan-passes-house/401376/
+
+Bill Profile: https://www.congress.gov/bill/114th-congress/house-bill/2042
+
+Roll call: http://clerk.house.gov/evs/2015/roll384.xml
+|Q3=None found.
+|OtherSources=None found.
+}}

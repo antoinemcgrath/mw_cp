@@ -1,0 +1,8 @@
+{{Candidate
+|Firstname=Dimitri
+|Lastname=Cherny
+|State=South Carolina
+|District=1
+|Office=House
+|Party=Democratic
+}}

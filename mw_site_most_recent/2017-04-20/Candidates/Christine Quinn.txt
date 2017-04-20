@@ -1,0 +1,8 @@
+{{Candidate
+|Firstname=Christine
+|Lastname=Quinn
+|State=Florida
+|District=14
+|Office=House
+|Party=Republican
+}}

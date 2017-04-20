@@ -1,0 +1,42 @@
+{{Candidate
+|Firstname=Donald
+|Lastname=Beyer
+|Bioguide_id=B001292
+|Gender=M
+|State=Virginia
+|District=8
+|Office=House
+|Party=Democratic
+|HiddenValues=Provided_by_ProPublica.org
+                 "id": "B001292",
+                 "thomas_id": "2272",
+                 "api_uri":"https://api.propublica.org/congress/v1/members/B001292.json",
+                 "first_name": "Donald",
+                 "middle_name": null,
+                 "last_name": "Beyer",
+                 "party": "D",
+                 "twitter_account": "RepDonBeyer",
+                 "facebook_account": "",
+                 "facebook_id": "",
+                 "google_entity_id": "kg:/m/053g16",
+                 "url": "http://beyer.house.gov",
+                 "rss_url": "",
+                 "domain": "beyer.house.gov",
+                 "dw_nominate": "",
+                 "ideal_point": "",
+                 "seniority": "2",
+                 "next_election": "2016",
+                 "total_votes": "1325",
+                 "missed_votes": "54",
+                 "total_present": "0",
+                 "state": "VA",
+                 "district": "8"
+                 ,"missed_votes_pct": "4.08",
+                 "votes_with_party_pct": "95.59"
+
+|Q2=
+
+'''Automatically Generated Congressional Votes'''
+
+In 2015, as a member of Congress he voted against HR 2042, The Ratepayer Protection Act, which would have prevented implementation of the Clean Power Plan. http://clerk.house.gov/evs/2015/roll384.xml 
+}}

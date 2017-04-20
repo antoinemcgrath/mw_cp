@@ -1,0 +1,41 @@
+{{Candidate
+|Firstname=Margaret
+|Lastname=Wood Hassan
+|Nickname=Maggie
+|Wiki1=https://en.wikipedia.org/wiki/Maggie_Hassan
+|State=New Hampshire
+|Office=Senate
+|Party=Democratic
+|Position=Challenger
+|CampaignSite=http://maggiehassan.com/
+|FB1=https://www.facebook.com/GovernorHassan
+|FB2=https://www.facebook.com/maggiefornh/
+|TW1=https://twitter.com/governorhassan
+|WikiDraftSum=As a State Senator and Governor, Maggie Hassan worked to bring New Hampshire into the Regional Greenhouse Gas Initiative (RGGI), enact a Renewable Portfolio Standard, establish a state energy plan, (1, 2) and support local climate resilience planning. (3) In 2015, she said “the science is clear that greenhouse gas emissions and other man-made pollutants are the key contributors to climate change, which threatens our environment, our economy and our way of life. We know that a healthy environment and economic development go hand-in-hand, and that’s why doing everything that we can to address climate change is an economic imperative for our state.” (1) She supports the national Clean Power Plan and the Paris Agreement. (4) In May 2016, she said climate change will be one of her top priorities if elected to the Senate. (5)
+
+
+1. “Governor Hassan Announces New Hampshire Signs Under 2 MOU Climate Agreement” Press Release, 2015-10-27. http://governor.nh.gov/media/news/2015/pr-2015-10-27-climate-agreement.htm
+
+
+2. “Gov. Hassan signs bill to create sea level rise commission” on Seacoastonline.com, by Staff reports, 2013-08-21. http://www.seacoastonline.com/article/20130821/News/130829956
+
+
+3. “Governor Hassan Statement on Signing HB 306 and HB 630”, Press Release, 2013-07-16. http://governor.nh.gov/media/news/2013/pr-2013-07-16-hb-306-hb-630.htm
+
+
+4. “Energy & The Environment” on Campaign Priority page, Accessed 2016-09-15. http://maggiehassan.com/priority/energy-environment/
+
+
+5. “Gov. Maggie Hassan Says Climate Change, Women's Reproductive Rights Priorities to Be in Senate If Elected” on NECN.com, 2016-05-11. http://www.necn.com/news/politics/Gov-Maggie-Hassan-Says-Climate-Change-Womens-Reproductive-Rights-Priorities-to-be-in-Senate-if-Elected-379020651.html
+|MovedToWikipedia=Information <b>HAS</b> been transferred to Wikipedia &#10003;
+|Q1=In 2015, Maggie Hassan said, “The science is clear that greenhouse gas emissions and other man-made pollutants are the key contributors to climate change, which threatens our environment, our economy and our way of life.” “We know that a healthy environment and economic development go hand-in-hand, and that’s why doing everything that we can to address climate change is an economic imperative for our state.” http://governor.nh.gov/media/news/2015/pr-2015-10-27-climate-agreement.htm
+|Q2=As a State Senator, she sponsored legislation that allowed the state to join the Regional Greenhouse Gas Initiative (RGGI). Gov. Hassan’s campaign website http://maggiehassan.com/priority/energy-environment/
+
+“Continuing her efforts to protect the environment and reduce harmful emissions that lead to climate change, Governor Maggie Hassan announced today that New Hampshire has signed the Under 2 MOU, a global compact among cities, states and provinces worldwide to limit the increase in global average temperature to below two degrees Celsius”. http://governor.nh.gov/media/news/2015/pr-2015-10-27-climate-agreement.htm
+
+Her campaign website says “she believes that combating climate change is critical to our economy, our environment, our people, and our way of life – and she has made clear that we must take stronger action to support clean energy alternatives and curb the devastating effects of climate change. She is a strong supporter of the President’s Clean Power Plan and called on New Hampshire’s congressional delegation to do everything in their power to support the plan. Maggie also supports the recent Paris Agreement on climate change and believes the United States must take action to implement the agreement while ensuring that our international partners also fulfill their obligations." Gov. Hassan’s campaign website http://maggiehassan.com/priority/energy-environment/ Accessed 2016-09-15
+
+In May 2016, Gov. Maggie Hassan said that combatting climate change will be one of her top priorities if she is elected to the US Senate. http://www.necn.com/news/politics/Gov-Maggie-Hassan-Says-Climate-Change-Womens-Reproductive-Rights-Priorities-to-be-in-Senate-if-Elected-379020651.html
+|Q3=In 2013, after signing two bills relating to managing the local impacts of climate change, Hassan said “We need to be looking for smarter, more innovative ways to make our communities resilient so that we can weather storms and protect property, natural resources and reduce the economic hardship that will result from sea level rise.” http://www.seacoastonline.com/article/20130818/NEWS/308180332
+|OtherSources=None found.
+}}

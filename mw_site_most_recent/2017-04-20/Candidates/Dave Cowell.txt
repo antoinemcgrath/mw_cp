@@ -1,0 +1,8 @@
+{{Candidate
+|Firstname=Dave
+|Lastname=Cowell
+|State=Missouri
+|District=8
+|Office=House
+|Party=Democratic
+}}

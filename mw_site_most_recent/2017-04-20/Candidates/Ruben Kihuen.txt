@@ -1,0 +1,22 @@
+{{Candidate
+|Firstname=Ruben
+|Lastname=Kihuen
+|Bioguide_id=K000390
+|Gender=M
+|State=Nevada
+|District=4
+|Office=House
+|Party=Democratic
+|Position=Challenger
+|CampaignSite=http://rubenforcongress.com/
+|FB1=https://www.facebook.com/RubenKihuen
+|TW2=https://twitter.com/RubenKihuen
+|WikiDraftSum=On his campaign site, Ruben Kihuen states "climate change demands action now. Any delay caused by political fighting is a critical loss for our environment," (1).
+
+
+1. It's About Responsibility. Ruben for Congress https://rubenforcongress.com/its-about-responsibility Accesses 2016-10-14.
+|Q1=On his campaign site, Ruben Kihuen states "climate change demands action now. Any delay caused by political fighting is a critical loss for our environment." https://rubenforcongress.com/its-about-responsibility
+|Q2=None found.
+|Q3=None found.
+|OtherSources=None found.
+}}

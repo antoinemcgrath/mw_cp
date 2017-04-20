@@ -1,0 +1,44 @@
+{{Candidate
+|Firstname=Tony
+|Lastname=Cárdenas
+|Bioguide_id=C001097
+|Gender=M
+|State=California
+|District=29
+|Office=House
+|Party=Democratic
+|HiddenValues=Provided_by_ProPublica.org
+                 "id": "C001097",
+                 "thomas_id": "2107",
+                 "api_uri":"https://api.propublica.org/congress/v1/members/C001097.json",
+                 "first_name": "Tony",
+                 "middle_name": null,
+                 "last_name": "Cardenas",
+                 "party": "D",
+                 "twitter_account": "RepCardenas",
+                 "facebook_account": "repcardenas",
+                 "facebook_id": "",
+                 "google_entity_id": "kg:/m/0cgzsw",
+                 "url": "https://cardenas.house.gov",
+                 "rss_url": "https://cardenas.house.gov/rss.xml",
+                 "domain": "cardenas.house.gov",
+                 "dw_nominate": "",
+                 "ideal_point": "",
+                 "seniority": "4",
+                 "next_election": "2016",
+                 "total_votes": "1325",
+                 "missed_votes": "112",
+                 "total_present": "0",
+                 "state": "CA",
+                 "district": "29"
+                 ,"missed_votes_pct": "8.45",
+                 "votes_with_party_pct": "95.71"
+
+|Q2=
+
+'''Automatically Generated Congressional Votes'''
+
+In 2013, he voted against making it harder for Congress to put a price on carbon by voting against a point of order opposing a carbon tax or a fee on carbon emissions. http://clerk.house.gov/evs/2013/roll445.xml 
+
+In 2015, as a member of Congress he voted against HR 2042, The Ratepayer Protection Act, which would have prevented implementation of the Clean Power Plan. http://clerk.house.gov/evs/2015/roll384.xml 
+}}

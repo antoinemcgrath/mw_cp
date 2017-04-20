@@ -1,0 +1,8 @@
+{{Candidate
+|Firstname=Mark
+|Lastname=Assini
+|State=New York
+|District=25
+|Office=House
+|Party=Republican
+}}

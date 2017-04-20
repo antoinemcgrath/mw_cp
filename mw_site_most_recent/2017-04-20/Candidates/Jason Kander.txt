@@ -1,0 +1,31 @@
+{{Candidate
+|Firstname=Jason
+|Lastname=Kander
+|Wiki1=https://en.wikipedia.org/wiki/Jason_Kander
+|State=Missouri
+|Office=Senate
+|Party=Democratic
+|Position=Challenger
+|CampaignSite=http://jasonkander.com/
+|FB2=https://www.facebook.com/kanderformissouri
+|TW1=https://twitter.com/MissouriSOS
+|TW2=https://twitter.com/JasonKander
+|WikiDraftSum=Jason Kander stated on his Senatorial campaign website that climate change is real and that “we have a moral obligation to address this challenge” (1). As a state legislator, in 2010 he voted against HCR 46, which would urge Missouri’s Congressional delegation to oppose the proposed cap-and-trade bill, HR 2454 (Waxman-Markey) (2). In 2011, he voted against HCR 42, which would urge Congress to prohibit the EPA from regulating greenhouse gas emissions and taking action on climate change. (3)
+
+
+1. “PROTECTING OUR ENVIRONMENT.” https://www.jasonkander.com/issues/protecting-our-environment/ Accessed 2016-09-06
+
+
+2. Missouri House of Representatives, House Bill List, HCR 42, 2011-05-11. http://www.house.mo.gov/billsummary.aspx?bill=HCR42&year=2011&code=R
+
+
+3. Missouri House of Representatives, House Bill List, HCR 46, 2010-05-14. http://www.house.mo.gov/billtracking/bills101/bills/HCR46.htm
+|Q1=Jason Kander’s campaign website states “he understands that climate change is a real consequence of human activity and we have a moral obligation to address this challenge. That means reducing carbon pollution and accelerating our transition to clean energy, not only to protect our planet, but also to ensure our national security.” https://www.jasonkander.com/issues/protecting-our-environment/ Accessed 2016-09-16.
+|Q2=In 2010, as a state legislator, he voted against HCR 46, which would urge the state's House delegation to oppose the proposed cap-and-trade bill, HR 2454 (Waxman-Markey). http://www.house.mo.gov/billtracking/bills101/bills/HCR46.htm
+
+In 2011, he voted against HCR 42, which would urge Congress to prohibit the EPA from regulating greenhouse gas emissions and taking action on climate change.
+
+http://www.house.mo.gov/billsummary.aspx?bill=HCR42&year=2011&code=R
+|Q3=None found.
+|OtherSources=None found.
+}}

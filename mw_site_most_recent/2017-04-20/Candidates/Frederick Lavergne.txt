@@ -1,0 +1,8 @@
+{{Candidate
+|Firstname=Frederick
+|Lastname=Lavergne
+|State=New Jersey
+|District=3
+|Office=House
+|Party=Democratic
+}}

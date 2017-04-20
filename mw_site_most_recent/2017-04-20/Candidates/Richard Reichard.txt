@@ -1,0 +1,8 @@
+{{Candidate
+|Firstname=Richard
+|Lastname=Reichard
+|State=New York
+|District=11
+|Office=House
+|Party=Democratic
+}}

@@ -1,0 +1,8 @@
+{{Candidate
+|Firstname=Jim
+|Lastname=Lawrence
+|State=New Hampshire
+|District=2
+|Office=House
+|Party=Republican
+}}

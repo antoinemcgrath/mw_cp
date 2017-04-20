@@ -1,0 +1,8 @@
+{{Candidate
+|Firstname=Roy
+|Lastname=Rich
+|State=Ohio
+|District=7
+|Office=House
+|Party=Democratic
+}}

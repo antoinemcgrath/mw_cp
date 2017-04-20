@@ -1,0 +1,8 @@
+{{Candidate
+|Firstname=Allan
+|Lastname=Romaguera
+|State=New York
+|District=7
+|Office=House
+|Party=Republican
+}}

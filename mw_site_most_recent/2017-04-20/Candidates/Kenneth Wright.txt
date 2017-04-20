@@ -1,0 +1,8 @@
+{{Candidate
+|Firstname=Kenneth
+|Lastname=Wright
+|State=California
+|District=33
+|Office=House
+|Party=Republican
+}}

@@ -1,0 +1,8 @@
+{{Candidate
+|Firstname=Robert
+|Lastname=Evans
+|State=New York
+|District=13
+|Office=House
+|Party=Republican
+}}

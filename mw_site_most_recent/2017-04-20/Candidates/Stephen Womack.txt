@@ -1,0 +1,8 @@
+{{Candidate
+|Firstname=Stephen
+|Lastname=Womack
+|State=Arkansas
+|District=3
+|Office=House
+|Party=Republican
+}}

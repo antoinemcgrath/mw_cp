@@ -1,0 +1,8 @@
+{{Candidate
+|Firstname=Reynaldo
+|Lastname=Gonzalez
+|State=Texas
+|District=34
+|Office=House
+|Party=Republican
+}}

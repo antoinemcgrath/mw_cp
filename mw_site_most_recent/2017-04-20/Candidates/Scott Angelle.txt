@@ -1,0 +1,8 @@
+{{Candidate
+|Firstname=Scott
+|Lastname=Angelle
+|State=Louisiana
+|District=3
+|Office=House
+|Party=Republican
+}}

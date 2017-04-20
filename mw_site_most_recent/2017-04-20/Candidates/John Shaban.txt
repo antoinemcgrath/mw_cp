@@ -1,0 +1,8 @@
+{{Candidate
+|Firstname=John
+|Lastname=Shaban
+|State=Connecticut
+|District=4
+|Office=House
+|Party=Republican
+}}

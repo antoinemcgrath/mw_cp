@@ -1,0 +1,29 @@
+{{Candidate
+|Firstname=Steven
+|Lastname=Santarsiero
+|Nickname=Steve
+|Wiki1=https://en.wikipedia.org/wiki/Steve_Santarsiero
+|State=Pennsylvania
+|District=8
+|Office=House
+|Party=Democratic
+|Position=Challenger
+|HouseOfficialSite=http://www.pahouse.com/Santarsiero/
+|CampaignSite=http://www.santarsieroforcongress.com/
+|TW2=https://twitter.com/SantarsieroPA8
+|WikiDraftSum=In 2016, Steve Santarsiero introduced a bill that would cut Pennsylvannia’s greenhouse gas emissions by 50% by 2030, saying “Climate change continues to be a major threat to humanity, and much of the world is taking serious notice.” (1)
+
+
+1. “WirePOLTICS: Santarsiero announces greenhouse gas emissions bill”, on The Midweek Wire, by Tom Waring, 2016-03-17. https://midweekwire.com/2016/03/17/wirepoltics-santarsiero-announces-greenhouse-gas-emissions-bill/
+|MovedToWikipedia=Information <b>HAS NEVER</b> been transferred to Wikipedia &#x2717;
+|Q1=In 2016, Steve Santarsiero said “Climate change continues to be a major threat to humanity, and much of the world is taking serious notice”.
+https://midweekwire.com/2016/03/17/wirepoltics-santarsiero-announces-greenhouse-gas-emissions-bill/
+
+
+His campaign Issues page states, “Steve knows that dealing with climate change goes hand in hand with securing our environment and our local economy”.
+http://www.santarsieroforcongress.com/issues/the-environment/
+|Q2=In 2016, Steve Santarsiero introduced a bill that would cut Pennsylvania’s greenhouse gas emissions by 50% by 2030.
+https://midweekwire.com/2016/03/17/wirepoltics-santarsiero-announces-greenhouse-gas-emissions-bill/
+|Q3=None found.
+|OtherSources=None found.
+}}

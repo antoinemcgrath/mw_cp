@@ -1,0 +1,20 @@
+{{Candidate
+|Firstname=Thomas
+|Lastname=Dixon
+|State=South Carolina
+|Office=Senate
+|Party=Democratic
+|Position=Challenger
+|FB2=https://www.facebook.com/PastorDixonForSenate/
+|TW2=https://twitter.com/dixonforsenate
+|WikiDraftSum=Thomas Dixon’s 2016 Senate campaign platform says, “Climate change is real and we must fund studies to make sure we are prepared for its effects on South Carolina and the nation.” (1) 
+
+
+1. Candidate Dixon’s 2016 Senate campaign page, http://www.dixonforsc.com/dixon-platform accessed 09-30-2016
+|MovedToWikipedia=Information <b>HAS NOT</b> been transferred to Wikipedia &#x2717;
+|Q1=During Thomas Dixon’s 2016 Senate campaign his platform included, “Climate change is real.”
+http://www.dixonforsc.com/dixon-platform
+|Q2=None found.
+|Q3=His Senate campaign platform says, “We have an obligation to make sure our planet is habitable for future generations, particularly in South Carolina, which stands to bear a large part of the damage done by climate change.” http://www.dixonforsc.com/dixon-platform  accessed 09-30-2016
+|OtherSources=None found.
+}}

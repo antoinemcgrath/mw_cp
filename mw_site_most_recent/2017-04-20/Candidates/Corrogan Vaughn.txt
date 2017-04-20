@@ -1,0 +1,8 @@
+{{Candidate
+|Firstname=Corrogan
+|Lastname=Vaughn
+|State=Maryland
+|District=7
+|Office=House
+|Party=Republican
+}}

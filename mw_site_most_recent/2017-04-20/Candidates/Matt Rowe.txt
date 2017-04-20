@@ -1,0 +1,8 @@
+{{Candidate
+|Firstname=Matt
+|Lastname=Rowe
+|State=Virginia
+|District=1
+|Office=House
+|Party=Democratic
+}}

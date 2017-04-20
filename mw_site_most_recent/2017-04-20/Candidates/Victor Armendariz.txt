@@ -1,0 +1,8 @@
+{{Candidate
+|Firstname=Victor
+|Lastname=Armendariz
+|State=Georgia
+|District=4
+|Office=House
+|Party=Republican
+}}

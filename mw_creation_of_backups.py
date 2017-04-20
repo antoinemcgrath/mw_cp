@@ -11,11 +11,23 @@ import os
 import os.path
 import errno
 import datetime
+import shutil
 from mwclient import Site #import mwclient
+from glob import glob
+import subprocess
 
+gitPath = '/mnt/8TB/GITS/mw_cp/'
 DATE = datetime.datetime.now().strftime('%Y-%m-%d')
+base = '/mnt/8TB/GITS/mw_cp/mw_site_most_recent/'
 base_dir = '/mnt/8TB/GITS/mw_cp/mw_site_most_recent/'+DATE+"/"
 historical_dir = '/mnt/8TB/GITS/mw_cp/mw_site_backups/'
+
+print("git add .")
+subprocess.call(["git", 'add', '.'], cwd=gitPath)
+print("git commit -m 'mw_pages backedup'")
+subprocess.call(["git", 'commit', '-m', '"pushed for change"'], cwd=gitPath)
+print("git push -u origin master")
+subprocess.call(["git", 'push', '-u', 'origin', 'master'], cwd=gitPath)
 
 
 #### Fetch access values (must be username+password for a MW with bot/admin permissions)
@@ -50,17 +62,23 @@ def make_path_exist(path):
     except OSError as exception:
         if exception.errno != errno.EEXIST:
             raise
-make_path_exist(base_dir)
-make_path_exist(historical_dir)
+
+make_path_exist(historical_dir) # Create historical dir if it does not exist
 
 #### Move any existing most recent backup to the mw_site_backups dir
-for sub_dir in base_dir:
+
+sub_dirs = glob(base+"*/")
+for sub_dir in sub_dirs:
+    #print(sub_dir)
+    #print(historical_dir)
     shutil.move(sub_dir, historical_dir)
-
-
+    print("Moving " + sub_dir + "  to backups dir." )
+    
+make_path_exist(base_dir) # Create today's backup dir if it does not exist
 #### For each Category make a list of pages
 for cat in cat_list:
     make_path_exist(base_dir+cat)
+    print ("Adding current category: " + cat + " to the " + str(DATE) + " backup.")
 #### For each page write contents to a .txt file
     for a_page in site.Categories[cat]:
         listpage = site.Pages[a_page]

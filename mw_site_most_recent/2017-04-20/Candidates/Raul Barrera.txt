@@ -1,0 +1,8 @@
+{{Candidate
+|Firstname=Raul
+|Lastname=Barrera
+|State=Texas
+|District=27
+|Office=House
+|Party=Democratic
+}}

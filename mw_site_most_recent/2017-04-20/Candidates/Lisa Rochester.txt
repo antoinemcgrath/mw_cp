@@ -1,0 +1,28 @@
+{{Candidate
+|Firstname=Lisa
+|Lastname=Rochester
+|Bioguide_id=B001303
+|Gender=F
+|Nickname=Lisa Blunt Rochester
+|Wiki1=https://en.wikipedia.org/wiki/Lisa_Blunt_Rochester
+|State=Delaware
+|District=At-large
+|Office=House
+|Party=Democratic
+|Position=Incumbent
+|CampaignSite=https://lisabluntrochester.com
+|FB2=https://www.facebook.com/LisaBluntRochester/
+|TW2=https://twitter.com/LisaBRochester
+|WikiDraftSum=In October 2016, Lisa Blunt Rochester  said "I’ll work to secure funding for beach replenishment as well as work to fight climate change to prevent dangerous sea level rise and more intense storms," (1). She later said "Delaware is one of the lowest lying states in the country, so I understand clearly just how harmful the impacts of sea level rise and climate change could be for Delawareans," (2).
+
+
+1. "U.S. Congressional candidates respond," Cape Gazette, Chris Flood, 2016-10-26. http://www.capegazette.com/article/us-congressional-candidates-respond/118422
+
+
+2. "LCV Action Fund Endorses Lisa Blunt Rochester for Congress," Lisa Blunt Rochester for Congress. https://lisabluntrochester.com/news/lcv-action-fund-endorses-lisa-blunt-rochester-congress Accessed 2016-12-23.
+|MovedToWikipedia=Information <b>HAS NEVER</b> been transferred to Wikipedia &#x2717;
+|Q1=In October 2016, she said "I’ll work to secure funding for beach replenishment as well as work to fight climate change to prevent dangerous sea level rise and more intense storms." http://www.capegazette.com/article/us-congressional-candidates-respond/118422
+|Q2=None found.
+|Q3=In October 2016, she said "Delaware is one of the lowest lying states in the country, so I understand clearly just how harmful the impacts of sea level rise and climate change could be for Delawareans." https://lisabluntrochester.com/news/lcv-action-fund-endorses-lisa-blunt-rochester-congress
+|OtherSources=None found.
+}}

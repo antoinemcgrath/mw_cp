@@ -1,0 +1,42 @@
+{{US CA Assembly
+|Firstname=Todd
+|Lastname=Gloria
+|Gender=Male
+|Start Edit Date=2017/01/25
+|End Edit Date=2017/02/09
+|Office=CA State Assemblymember
+|State=California
+|District=78
+|Party=Democratic
+|OfficialGovSite=https://a78.asmdc.org/
+|AdditionalSite=http://www.toddgloriaforassembly.com/
+|Wiki1=https://en.wikipedia.org/wiki/Todd_Gloria
+|FB1=https://www.facebook.com/toddgloria
+|TW1=https://twitter.com/AsmToddGloria
+|TW2=https://twitter.com/ToddGloria
+|WikiDraftSum=As interim mayor of San Diego, Todd Gloria developed a draft climate action plan that had as its goals “100 percent renewable power and cutting the city’s carbon emissions in half” by 2035 (1). As interim mayor of San Diego, he was a keynote speaker at the Climate Leadership Conference in 2014 (2)
+
+
+1. Anne C. Mulkern. "Can Republicans Act on Climate Change?" Scientific American. 7 April 2016. https://www.scientificamerican.com/article/can-republicans-act-on-climate-change/
+
+
+2. Conference Website, Climate Leadership Conference.  http://www.climateleadershipconference.org/todd-gloria/ Accessed 25 January 2017.
+|MovedToWikipedia=Information <b>HAS NEVER</b> been transferred to Wikipedia &#x2717;
+|Q1=Todd Gloria’s campaign website features a photo of him holding a “Climate Action Campaign” banner (http://www.toddgloriaforassembly.com/. Last accessed Feb 9, 2017).
+|Q2=“The temporary mayor, Todd Gloria, was a Democrat, and his climate plan had ambitious goals. He wanted to switch to 100 percent renewable power and cut the city’s carbon emissions in half. Both would be done by 2035.” Anne C. Mulkern, ClimateWire on 7 April 2016. “Can Republicans Act on Climate Change?” via  https://www.scientificamerican.com/article/can-republicans-act-on-climate-change/
+ 
+He was able to support the plan under the Republican mayor, Kevin Faulconer, as a City Councilman. (http://www.kpbs.org/news/2015/nov/30/san-diego-climate-action-plan-receives-wide-suppor/ Claire Trageser. "San Diego’s Climate Action Plan Moves To City Council." KPBS. November 30, 2015.)
+
+
+
+'''Automatically Generated Legislative Actions'''
+
+<!--EndQ2-->
+|
+|Q3=When asked about San Diego’s Climate Action Plan, Todd Gloria said: “That we value our people and our environment enough to commit to progressive measurable outcomes in this plan.” http://www.kpbs.org/news/2015/nov/30/san-diego-climate-action-plan-receives-wide-suppor/ Claire Trageser. "San Diego’s Climate Action Plan Moves To City Council." KPBS. 30 November 2015.
+|OtherSources=He was the keynote speaker - as interim mayor - at the Climate Leadership Conference in 2014. Conference Website, http://www.climateleadershipconference.org/todd-gloria/, accessed 25 January  2017
+|Wing=Assembly
+|Level=US_State
+|Photo=http://assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/ad78_gloria_roster150_20161205.jpg
+|Leg_id=CAL000527
+}}

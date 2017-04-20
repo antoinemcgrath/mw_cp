@@ -1,0 +1,21 @@
+{{Candidate
+|Firstname=Anil
+|Lastname=Kumar
+|State=Michigan
+|District=11
+|Office=House
+|Party=Democratic
+|Position=Challenger
+|CampaignSite=http://www.kumarforuscongress.com/
+|FB2=https://www.facebook.com/kumarforuscongress
+|TW2=https://twitter.com/DrKumarMichigan
+|WikiDraftSum=In September 2016, Anil Kumar posted on Facebook "Dr. Kumar is the only candidate in the 11th district congressional race who believes that climate change is real," (1).
+
+
+1. Anil Kumar for Michigan Facebook Page.  https://www.facebook.com/kumarforuscongress/photos/pb.1407488082854881.-2207520000.1473578672./1781781255425560/?type=3&theater Accessed 2016-10-27.
+|MovedToWikipedia=Information <b>HAS NEVER</b> been transferred to Wikipedia &#x2717;
+|Q1=In September 2016, Anil Kumar posted on Facebook "Dr. Kumar is the only candidate in the 11th district congressional race who believes that climate change is real." https://www.facebook.com/kumarforuscongress/photos/pb.1407488082854881.-2207520000.1473578672./1781781255425560/?type=3&theater
+|Q2=None found.
+|Q3=None found.
+|OtherSources=None found.
+}}

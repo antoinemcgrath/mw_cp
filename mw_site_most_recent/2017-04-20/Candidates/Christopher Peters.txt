@@ -1,0 +1,8 @@
+{{Candidate
+|Firstname=Christopher
+|Lastname=Peters
+|State=Iowa
+|District=2
+|Office=House
+|Party=Republican
+}}

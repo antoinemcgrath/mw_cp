@@ -1,0 +1,8 @@
+{{Candidate
+|Firstname=Suzanne
+|Lastname=Savary
+|State=California
+|District=48
+|Office=House
+|Party=Democratic
+}}

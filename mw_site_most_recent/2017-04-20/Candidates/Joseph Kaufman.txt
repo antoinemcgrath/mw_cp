@@ -1,0 +1,8 @@
+{{Candidate
+|Firstname=Joseph
+|Lastname=Kaufman
+|State=Florida
+|District=23
+|Office=House
+|Party=Republican
+}}

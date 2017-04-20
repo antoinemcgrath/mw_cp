@@ -1,0 +1,8 @@
+{{Candidate
+|Firstname=Stephen
+|Lastname=Tryon
+|State=Utah
+|District=3
+|Office=House
+|Party=Democratic
+}}

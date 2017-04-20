@@ -1,0 +1,19 @@
+{{Candidate
+|Firstname=Brian
+|Lastname=Mast
+|Bioguide_id=M001199
+|Gender=M
+|State=Florida
+|District=18
+|Office=House
+|Party=Republican
+|Position=Challenger
+|CampaignSite=http://www.mastforcongress.com/
+|FB2=https://www.facebook.com/BrianMastFL
+|TW2=https://twitter.com/BrianMastFL
+|Q1=In a debate, Brian Mast acknowledged the reality of climate change but opposed regulating carbon dioxide.
+http://www.tcpalm.com/story/news/politics/elections/2016/10/17/brian-mast-randy-perkins-debate/92321462/
+|Q2=None found.
+|Q3=None found.
+|OtherSources=None found.
+}}

@@ -1,0 +1,8 @@
+{{Candidate
+|Firstname=Rick
+|Lastname=Nolan
+|State=Minnesota
+|District=8
+|Office=House
+|Party=Democratic/Farmer/Labor
+}}

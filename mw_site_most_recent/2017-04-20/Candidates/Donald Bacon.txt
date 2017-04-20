@@ -1,0 +1,22 @@
+{{Candidate
+|Firstname=Donald
+|Lastname=Bacon
+|Nickname=Don
+|Wiki1=https://en.wikipedia.org/wiki/Don_Bacon_(general)
+|State=Nebraska
+|District=2
+|Office=House
+|Party=Republican
+|Position=Challenger
+|CampaignSite=http://www.donbacon2016.com/
+|FB2=https://www.facebook.com/donbacon2016/
+|TW2=https://twitter.com/DonBacon2016
+|WikiDraftSum=In May 2016, Don Bacon said, “There is no doubt we have weather fluctuations, and I think, you can see the last two or three decades there has been incremental heating, but...it is debatable how much is that man-made and how much is that natural cycles...I think we have an obligation to make sure that we are taking care of our environment, regardless, of what you think the underpinnings are of temperature changes going on” (1).
+
+
+1. “Matt Tompkins Show - 1290 KOIL,” https://soundcloud.com/donbacon2016/matt-tompkins-show-1290-koil-august-24-2016 8:00-8:30.
+|Q1=In May 2016, Don Bacon said “There is no doubt we have weather fluctuations, and I think, you can see the last two or three decades there has been incremental heating, but...it is debatable how much is that man-made and how much is that natural cycles...I think we have an obligation to make sure that we are taking care of our environment, regardless, of what you think the underpinnings are of temperature changes going on.” https://soundcloud.com/donbacon2016/matt-tompkins-show-1290-koil-august-24-2016 8:00-8:30.
+|Q2=None found.
+|Q3=None found.
+|OtherSources=None found.
+}}

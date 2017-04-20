@@ -1,0 +1,20 @@
+{{Candidate
+|Firstname=Thomas
+|Lastname=Marino
+|Nickname=Tom Marino
+|Wiki1=https://en.wikipedia.org/wiki/Tom_Marino
+|State=Pennsylvania
+|District=10
+|Office=House
+|Party=Republican
+|HouseOfficialSite=https://marino.house.gov/
+|WikiDraftSum=Congressman Thomas Marino has voted to prevented implementation of the 2015 Clean Power Plan. (1)  
+
+1. U.S. House of Representatives Roll Call Votes 114th Congress, Vote Number 384, 2015-06-24.  https://www.govtrack.us/congress/votes/114-2015/h384
+
+
+|Q1=When directly asked about his views on whether climate change is real and caused by human activity Congressman Thomas Marino stated he cannot deny that human beings have had a negative impact over the course of human existence but attributes claims to the degree of human contribution to global warming as being an "extreme left" position that he does not agree with. http://votesmart.org/public-statement/935060/the-daily-review-congressional-candidates-discuss-global-warming-and-abortion/?search=solar#.WB6rOS0rKUm
+|Q2=Congressman Marino has signed on to the AFP which is a pledge to oppose any tax related to climate change http://noclimatetax.com/wp-content/uploads/2016/06/Marino.pdf. 
+
+In 2015, as a Congress member, he supported HR 2042, The Ratepayer Protection Act, which would have prevented implementation of the Clean Power Plan. http://clerk.house.gov/evs/2015/roll384.xml 
+}}

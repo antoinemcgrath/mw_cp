@@ -1,0 +1,17 @@
+{{Candidate
+|Firstname=John
+|Lastname=Plumb
+|State=New York
+|District=23
+|Office=House
+|Party=Democratic
+|Position=Challenger
+|CampaignSite=http://johnplumbforcongress.com/
+|FB2=https://www.facebook.com/JohnPlumbforCongress/
+|TW2=https://twitter.com/johnfplumb
+|Q1=None found.
+|Q2=On his campaign Energy and Environment issues page, John Plumb states, "I support a true “all of the above” strategy that takes into account the need to truly diversify our energy supply.  To do that, we need reliable energy policies that provide the market signals necessary to support the transition to new technologies.  I will support efforts to reduce emissions from fossil fuels, by adopting technology to minimize emissions from these fuels, improving efficiency – which reduces power requirements and therefore reduces emissions, and by encouraging the use of clean energy.  I will fight to accelerate the adoption of clean energy and energy efficient technologies, to include solar, wind, biofuels, hydropower, geothermal, and other types of clean energy technologies.  And I will also support the development of new, safe nuclear power in the United States, which like renewables has zero carbon emissions."
+http://johnplumbforcongress.com/index.php?option=com_content&view=article&id=71&Itemid=245
+|Q3=None found.
+|OtherSources=None found.
+}}

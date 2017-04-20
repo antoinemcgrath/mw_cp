@@ -1,0 +1,8 @@
+{{Candidate
+|Firstname=Ryan
+|Lastname=Downing
+|State=California
+|District=38
+|Office=House
+|Party=Republican
+}}

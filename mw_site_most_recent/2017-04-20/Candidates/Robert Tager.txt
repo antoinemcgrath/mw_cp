@@ -1,0 +1,8 @@
+{{Candidate
+|Firstname=Robert
+|Lastname=Tager
+|State=Florida
+|District=12
+|Office=House
+|Party=Democratic
+}}

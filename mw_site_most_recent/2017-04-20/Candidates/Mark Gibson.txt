@@ -1,0 +1,8 @@
+{{Candidate
+|Firstname=Mark
+|Lastname=Gibson
+|State=Texas
+|District=22
+|Office=House
+|Party=Democratic
+}}

@@ -1,0 +1,8 @@
+{{Candidate
+|Firstname=Corey
+|Lastname=Foister
+|State=Ohio
+|District=8
+|Office=House
+|Party=Democratic
+}}

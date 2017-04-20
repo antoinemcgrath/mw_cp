@@ -1,0 +1,8 @@
+{{Candidate
+|Firstname=Mark
+|Lastname=Alliegro
+|State=Massachusetts
+|District=9
+|Office=House
+|Party=Republican
+}}

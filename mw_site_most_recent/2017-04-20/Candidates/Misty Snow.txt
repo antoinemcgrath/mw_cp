@@ -1,0 +1,24 @@
+{{Candidate
+|Firstname=Misty
+|Lastname=Snow
+|Wiki1=https://en.wikipedia.org/wiki/Misty_Snow
+|State=Utah
+|Office=Senate
+|Party=Democratic
+|Position=Challenger
+|CampaignSite=http://www.mistyksnow.com/
+|FB2=https://www.facebook.com/MistyKSnow/
+|TW2=https://twitter.com/mistyksnow
+|WikiDraftSum=In an August 18, 2016 Facebook post Misty Snow wrote, “Climate change is a serious issue and is caused by many of the same pollution sources that cause Utah's infamous inversions. Failure to reduce greenhouse gas emissions could have a significant and negative impact on the health and stability of communities around the world. It's very important that we take action on this issue.” (1) In an August 22, 2016 Facebook post, she wrote, “Climate change is a threat to the security of this nation and world. Already we're seeing the effects across America and world through massive droughts, deadly heatwaves and fires. Taking care of our planet, not continuing to pollute our water, air and land should be something we all agree on.” (2)
+
+
+1. Misty Snow Facebook Post on Greenhouse Gas Emissions and Climate Change, 2016-08-18 https://www.facebook.com/MistyKSnow/posts/1786544784921571
+
+
+2. Misty Snow Facebook Post on Clean Energy and Climate Change, 2016-08-22 https://www.facebook.com/MistyKSnow/posts/1788334364742613
+|MovedToWikipedia=Information <b>HAS</b> been transferred to Wikipedia &#10003;
+|Q1=In an August 22, 2016 Facebook post, Misty Snow wrote: “Climate change is a threat to the security of this nation and world. Already we're seeing the effects across America and world through massive droughts, deadly heatwaves and fires. Taking care of our planet, not continuing to pollute our water, air and land should be something we all agree on.” https://www.facebook.com/MistyKSnow/posts/1788334364742613
+|Q2=None found.
+|Q3=On August 18, 2016 Misty Snow posted on Facebook: “Climate change is a serious issue and is caused by many of the same pollution sources that cause Utah's infamous inversions. Failure to reduce greenhouse gas emissions could have a significant and negative impact on the health and stability of communities around the world. It's very important that we take action on this issue.” https://www.facebook.com/MistyKSnow/posts/1786544784921571
+|OtherSources=Campaign Clean, Renewable Energy Platform Page. http://www.mistyksnow.com/clean-renewable-energy/ Accessed 2016-09-12
+}}

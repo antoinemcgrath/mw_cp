@@ -1,0 +1,8 @@
+{{Candidate
+|Firstname=Jack
+|Lastname=Orswell
+|State=California
+|District=27
+|Office=House
+|Party=Republican
+}}

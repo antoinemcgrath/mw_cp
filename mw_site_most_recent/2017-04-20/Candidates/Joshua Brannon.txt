@@ -1,0 +1,8 @@
+{{Candidate
+|Firstname=Joshua
+|Lastname=Brannon
+|State=North Carolina
+|District=5
+|Office=House
+|Party=Democratic
+}}

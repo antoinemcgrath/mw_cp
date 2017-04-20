@@ -1,0 +1,8 @@
+{{Candidate
+|Firstname=Herman
+|Lastname=Vidrine
+|State=Louisiana
+|District=3
+|Office=House
+|Party=Republican
+}}

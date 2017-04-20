@@ -1,0 +1,27 @@
+{{Candidate
+|Firstname=Gail
+|Lastname=Schwartz
+|Wiki1=https://en.wikipedia.org/wiki/Gail_Schwartz
+|State=Colorado
+|District=3
+|Office=House
+|Party=Democratic
+|Position=Challenger
+|CampaignSite=http://schwartzforcongress.org/
+|FB2=https://www.facebook.com/gailforcongress
+|TW2=https://twitter.com/GailForCongress
+|WikiDraftSum=Gail Schwartz has linked climate change to local impacts on water availability and the outdoor recreation industry, in particular skiing (1,2). 
+
+
+1. "Winds of political change shifting on climate issues in Colorado, experts say", Real Vail, by David O. Williams, 2016-07-07. 
+http://www.realvail.com/climate-concerns-driving-political-choices-in-colorado/a3256
+
+
+2. "Water", Issues - Gail Schwartz Congrees, Accessed 2016-10-23. http://schwartzforcongress.org/index.php/issues/
+|Q1=None found.
+|Q2=None found.
+|Q3=Gail Schwartz has linked climate change to local impacts on water and the outdoor recreation industry, in particular skiing. 
+http://www.realvail.com/climate-concerns-driving-political-choices-in-colorado/a3256
+http://schwartzforcongress.org/index.php/issues/
+|OtherSources=None found.
+}}

@@ -1,0 +1,8 @@
+{{Candidate
+|Firstname=Edward
+|Lastname=Albertson
+|State=Ohio
+|District=12
+|Office=House
+|Party=Democratic
+}}

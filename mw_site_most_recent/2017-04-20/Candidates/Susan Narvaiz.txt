@@ -1,0 +1,8 @@
+{{Candidate
+|Firstname=Susan
+|Lastname=Narvaiz
+|State=Texas
+|District=35
+|Office=House
+|Party=Republican
+}}

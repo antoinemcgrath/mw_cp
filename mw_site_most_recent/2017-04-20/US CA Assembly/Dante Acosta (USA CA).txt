@@ -1,0 +1,30 @@
+
+{{US CA Assembly
+|Firstname=Dante
+|Lastname=Acosta
+|Gender=Male
+|Start Edit Date=2017/01/26
+|End Edit Date=2017/02/08
+|Office=CA State Assemblymember
+|State=California
+|District=38
+|Party=Republican
+|OfficialGovSite=https://ad38.asmrc.org/
+|AdditionalSite=http://danteacosta.com/
+|Wiki1=https://en.wikipedia.org/wiki/Dante_Acosta
+|FB1=https://www.facebook.com/ElectDanteAcosta/
+|TW2=https://twitter.com/danteacostascv
+|WikiDraftSum=No documented position or voting record on climate change found.
+|Q1=None found.
+|Q2=
+
+'''Automatically Generated Legislative Actions'''
+
+<!--EndQ2-->
+|
+|Q3=None found.
+|Wing=Assembly
+|Level=US_State
+|Photo=http://assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/acosta.jpg
+|Leg_id=CAL000518
+}}

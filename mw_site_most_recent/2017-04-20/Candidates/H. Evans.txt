@@ -1,0 +1,8 @@
+{{Candidate
+|Firstname=H.
+|Lastname=Evans
+|State=Nevada
+|District=2
+|Office=House
+|Party=Democratic
+}}

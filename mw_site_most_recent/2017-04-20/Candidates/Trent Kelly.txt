@@ -1,0 +1,12 @@
+{{Candidate
+|Firstname=Trent
+|Lastname=Kelly
+|Bioguide_id=K000388
+|Gender=M
+|State=Mississippi
+|District=1
+|Office=House
+|Party=Republican|Q2=
+
+'''Automatically Generated Congressional Votes'''
+}}

@@ -1,0 +1,8 @@
+{{Candidate
+|Firstname=Corry
+|Lastname=Westbrook
+|State=Florida
+|District=8
+|Office=House
+|Party=Democratic
+}}

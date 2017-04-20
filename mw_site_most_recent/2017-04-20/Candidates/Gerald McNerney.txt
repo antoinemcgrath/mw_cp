@@ -1,0 +1,8 @@
+{{Candidate
+|Firstname=Gerald
+|Lastname=McNerney
+|State=California
+|District=9
+|Office=House
+|Party=Democratic
+}}

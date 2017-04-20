@@ -1,0 +1,21 @@
+{{Candidate
+|Firstname=Suzanna
+|Lastname=Shkreli
+|State=Michigan
+|District=8
+|Office=House
+|Party=Democratic
+|Position=Challenger
+|CampaignSite=http://www.suzannaforcongress.com/
+|FB2=https://www.facebook.com/SuzannaForMi/
+|WikiDraftSum=Suzanna Shkreli stated, "By tapping into new areas of technology and reconfiguring our energy sources, our state can create good jobs and serve as an example on combatting climate change without sacrificing economic growth". (1)
+
+
+1. "Creating good jobs in Michigan", Suzanna Shkreli For Congress, Accessed 2016-10-14. http://www.suzannaforcongress.com/issues/entry/creating-good-jobs-in-michigan
+|MovedToWikipedia=Information <b>HAS NEVER</b> been transferred to Wikipedia &#x2717;
+|Q1=None found.
+|Q2=On her campaign Issues page, she says, "By tapping into new areas of technology and reconfiguring our energy sources, our state can create good jobs and serve as an example on combatting climate change without sacrificing economic growth".
+http://www.suzannaforcongress.com/issues/entry/creating-good-jobs-in-michigan
+|Q3=None found.
+|OtherSources=None found.
+}}

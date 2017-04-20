@@ -1,0 +1,83 @@
+{{Candidate
+|Firstname=Richard
+|Lastname=Blumenthal
+|Bioguide_id=B001277
+|Gender=M
+|Wiki1=https://en.wikipedia.org/wiki/Richard_Blumenthal
+|Wiki2=https://en.wikipedia.org/wiki/Richard_Blumenthal#Global_warming
+|State=Connecticut
+|Office=Senate
+|Party=Democratic
+|Position=Incumbent
+|SenateOfficialSite=https://www.blumenthal.senate.gov/
+|CampaignSite=http://richardblumenthal.com/
+|FB1=https://www.facebook.com/SenBlumenthal
+|FB2=https://www.facebook.com/dickblumenthal
+|TW1=https://twitter.com/SenBlumenthal
+|TW2=https://twitter.com/dickblumenthal
+|WikiDraftSum=In 2013, Richard Blumenthal said, "anyone who questions whether we must act on the critical issue of climate change needs not look beyond the recent rash of unprecedented severe weather events that have devastated communities across the country. From Superstorm Sandy, which wrought havoc in New Jersey, New York and Connecticut, to last month’s lethal, destructive Oklahoma tornados, severe, large-scale weather is the new normal." (1) In 2015, he said, "The science is clear - climate change is a grave, growing threat that requires immediate, robust action." (2) In July 2016, he joined 18 other Senators in bringing to attention the role of "fossil fuel-funded groups involved in a campaign to deny climate facts and stymie climate legislation" (3). In 2014, he supported the Clean Power Plan (4). 
+
+
+1. "Blumenthal Statement on President Obama’s Plan To Prepare U.S. For Impact of Climate Change." https://www.blumenthal.senate.gov/newsroom/press/release/blumenthal-statement-on-president-obamas-plan-to-prepare-us-for-impact-of-climate-change
+
+
+2. "Blumenthal Statement on Obama Administration Rejection of Keystone XL Pipeline." https://www.blumenthal.senate.gov/newsroom/press/release/blumenthal-statement-on-obama-administration-rejection-of-keystone-xl-pipeline 
+
+
+3. "Senators Call Out Web Of Denial Blocking Action On Climate Change." https://www.whitehouse.senate.gov/news/release/senators-call-out-web-of-denial-blocking-action-on-climate-change 
+
+
+4. "Blumenthal Statement on Obama Administration’s Clean Power Plan." https://www.blumenthal.senate.gov/newsroom/press/release/blumenthal-statement-on-obama-administrations-clean-power-plan
+|MovedToWikipedia=Information <b>HAS NOT</b> been transferred to Wikipedia &#x2717;
+|Q1=In 2015, he said "the science is clear – climate change is a grave, growing threat that requires immediate, robust action." https://www.blumenthal.senate.gov/newsroom/press/release/blumenthal-statement-on-obama-administration-rejection-of-keystone-xl-pipeline
+|Q2=In 2014, he supported the Clean Power Plan. https://www.blumenthal.senate.gov/newsroom/press/release/blumenthal-statement-on-obama-administrations-clean-power-plan
+
+In 2014, he participated in an all-night Senate talkathon on climate change. https://www.washingtonpost.com/news/post-politics/wp/2014/03/11/senators-conclude-all-night-climate-change-talkathon/
+
+In July 2016, he joined 18 other Senators in bringing to attention the role of "fossil fuel-funded groups involved in a campaign to deny climate facts and stymie climate legislation." https://www.whitehouse.senate.gov/news/release/senators-call-out-web-of-denial-blocking-action-on-climate-change
+|Q3=In 2013, he said, "anyone who questions whether we must act on the critical issue of climate change needs not look beyond the recent rash of unprecedented severe weather events that have devastated communities across the country. From Superstorm Sandy, which wrought havoc in New Jersey, New York and Connecticut, to last month’s lethal, destructive Oklahoma tornados, severe, large-scale weather is the new normal." https://www.blumenthal.senate.gov/newsroom/press/release/blumenthal-statement-on-president-obamas-plan-to-prepare-us-for-impact-of-climate-change
+|OtherSources=Interview with Yale School of Forestry & Environmental Studies on climate change. http://cbey.yale.edu/our-impact/senator-blumenthal-shares-thoughts-climate-change
+|STW=<!--StartSTW-->'''Automatically captured tweets'''{{#widget:Tweet|id=794256025297653761}}
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Holding Town Hall at 10:30am Saturday @wesleyan_u's Goldsmith Cinema. Excited to discuss #SCOTUS, climate change, a… https://t.co/eT4nvbrVQD</p><a href="https://twitter.com/SenBlumenthal/status/847132100922888193/status/Wed Mar 29 17:03:26 +0000 2017</a></blockquote>
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">We need an EPA administrator who accepts reality of climate change. #PollutingPruitt is not that man.</p><a href="https://twitter.com/SenBlumenthal/status/832272628329091073/status/Thu Feb 16 16:57:12 +0000 2017</a></blockquote>
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">New @USDA Rural Energy for America grants going to many #CT farms not only invest in renewable energy—but also jobs: https://t.co/KCwiiIuiq0</p><a href="https://twitter.com/SenBlumenthal/status/793893718189301761/status/Wed Nov 02 19:13:06 +0000 2016</a></blockquote>
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">.@SenateDems agree—it's #TimeToCallOut @ALEC_states &amp; @AFPhq as part of the #WebOfDenial on #ClimateChange. We need real solutions now.</p><a href="https://twitter.com/SenBlumenthal/status/753028856924237824/status/Wed Jul 13 00:50:44 +0000 2016</a></blockquote>
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Public won't be fooled by a #WebOfDenial. #ClimateChange is real &amp; demands real action. Congress must #ActOnClimate. https://t.co/NnXvE357N8</p><a href="https://twitter.com/SenBlumenthal/status/753028737206222848/status/Wed Jul 13 00:50:16 +0000 2016</a></blockquote>
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">This winter season, please be sure to check &amp; regularly test carbon monoxide detectors in your home. Together, we can eliminate CO poisoning</p><a href="https://twitter.com/SenBlumenthal/status/691051662509752320/status/Sun Jan 24 00:15:30 +0000 2016</a></blockquote>
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Carbon monoxide poisoning is most common in colder months because of faulty home heating appliances. Proper use &amp; maintenance is critical.</p><a href="https://twitter.com/SenBlumenthal/status/691051394678308864/status/Sun Jan 24 00:14:26 +0000 2016</a></blockquote>
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Announcing $800,000 in @USDA funding for CT renewable energy &amp; energy efficient projects.</p><a href="https://twitter.com/SenBlumenthal/status/659725155770499072/status/Thu Oct 29 13:35:08 +0000 2015</a></blockquote>
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Thanks to help of @POTUS, major American companies recently pledged to #actonclimate. #whatstheGOPclimateplan</p><a href="https://twitter.com/SenBlumenthal/status/628674531272601600/status/Tue Aug 04 21:11:03 +0000 2015</a></blockquote>
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">.@POTUS #CleanPowerPlan is biggest step government has taken to #ActOnClimate. CT and U.S. will be healthier &amp; safer bc of it.</p><a href="https://twitter.com/SenBlumenthal/status/628657722003714050/status/Tue Aug 04 20:04:15 +0000 2015</a></blockquote>
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">I commend @POTUS for his new #CleanPowerPlan - a bold, significant step toward battling carbon emissions &amp; climate disruption. #ActOnClimate</p><a href="https://twitter.com/SenBlumenthal/status/627886051772731392/status/Sun Aug 02 16:57:54 +0000 2015</a></blockquote>
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">It’s time we #ActOnClimate. Our #COAST bill would help keep the ban on Atlantic coast drilling. http://t.co/lA95vhv0dU #EarthDay</p><a href="https://twitter.com/SenBlumenthal/status/590957365505167360/status/Wed Apr 22 19:16:30 +0000 2015</a></blockquote>
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">It’s been 5yrs since @BP_america oil spill—it’s time we #ActOnClimate. Our #COAST bill would help keep the ban on Atlantic coast drilling.</p><a href="https://twitter.com/SenBlumenthal/status/590895203013242880/status/Wed Apr 22 15:09:29 +0000 2015</a></blockquote>
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Great to see @EPA recognize @mayorbillfinch &amp; @thehartford for strong climate leadership in @CityofBptCT! http://t.co/PAyPpNKY40 #TheCLC</p><a href="https://twitter.com/SenBlumenthal/status/570669435691909121/status/Wed Feb 25 19:39:30 +0000 2015</a></blockquote>
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Proud of my colleague @SenWhitehouse, providing a riveting case for action on climate change: http://t.co/BLgQzg7Mll</p><a href="https://twitter.com/SenBlumenthal/status/549654825789841408/status/Mon Dec 29 19:54:57 +0000 2014</a></blockquote>
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">We must lead the way in fighting climate change—#KeystoneXL would do irreversible harm to our environment. I'll vote 'no' today. -RB</p><a href="https://twitter.com/SenBlumenthal/status/534734864797683712/status/Tue Nov 18 15:48:21 +0000 2014</a></blockquote>
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">We must be aware of the threat that climate change has on national security &amp; plan our military strategy accordingly. http://t.co/IhiompHMvp</p><a href="https://twitter.com/SenBlumenthal/status/522060594514776067/status/Tue Oct 14 16:25:19 +0000 2014</a></blockquote>
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">I'm proposing legislation to repeal the blanket antitrust exemption for sports leagues &amp; make it renewable every 5yrs http://t.co/je55I8Txn1</p><a href="https://twitter.com/SenBlumenthal/status/512345994688618496/status/Wed Sep 17 21:02:58 +0000 2014</a></blockquote>
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">At a Roundtable on Climate and Jobs to highlight the labor and religious communities in the #PeoplesClimate March: http://t.co/HRKqI3EC7F</p><a href="https://twitter.com/SenBlumenthal/status/506867519798673410/status/Tue Sep 02 18:13:28 +0000 2014</a></blockquote>
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Yesterday's @EPA proposal to reduce carbon pollution is a strong step in protecting our future. Here’s what it means: http://t.co/OgKB5M7Mdq</p><a href="https://twitter.com/SenBlumenthal/status/473888617912623104/status/Tue Jun 03 18:07:05 +0000 2014</a></blockquote>
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Hundreds of the nation’s top climate scientists worked for years to develop this report on climate-change impacts. http://t.co/gLZHNHlpdK</p><a href="https://twitter.com/SenBlumenthal/status/464199283089354752/status/Thu May 08 00:25:08 +0000 2014</a></blockquote>
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">The impact of climate change is real—more communities will be vulnerable to Lyme disease if we don’t #actonclimate. http://t.co/uhYxkCnaic</p><a href="https://twitter.com/SenBlumenthal/status/464097954807422976/status/Wed May 07 17:42:29 +0000 2014</a></blockquote>
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">With @ChrisMurphyCT, @ElinorCarbone &amp; docs from Charlotte Hungerford Hospital to discuss the rise of opiate use in CT http://t.co/YIFBUqsTc8</p><a href="https://twitter.com/SenBlumenthal/status/459069694738046976/status/Wed Apr 23 20:41:58 +0000 2014</a></blockquote>
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">#EarthDay can kickstart many individual efforts to fight global warming—what will your commitment be to #ActonClimate?</p><a href="https://twitter.com/SenBlumenthal/status/458636542702280704/status/Tue Apr 22 16:00:47 +0000 2014</a></blockquote>
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Joined committed, effective activists @wesleyan_u this morning working to preserve open space &amp; fight climate change.</p><a href="https://twitter.com/SenBlumenthal/status/444919365138644992/status/Sat Mar 15 19:33:37 +0000 2014</a></blockquote>
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">A bit weary but proud after great conversation &amp; camaraderie advocating for fight against climate disruption, global warming on Senate floor</p><a href="https://twitter.com/SenBlumenthal/status/443565684174651392/status/Wed Mar 12 01:54:34 +0000 2014</a></blockquote>
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Well worth staying up last night w/ @EPWChairBoxer, @SenWhitehouse, @SenBrianSchatz, &amp; others to champion action on climate change.</p><a href="https://twitter.com/SenBlumenthal/status/443562209025990656/status/Wed Mar 12 01:40:46 +0000 2014</a></blockquote>
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Exciting &amp; inspiring launch to helping save #CT from climate change at @UCONN’s new Avery Point Climate Institute http://t.co/kzzVCpQEhK</p><a href="https://twitter.com/SenBlumenthal/status/426804502734200833/status/Fri Jan 24 19:51:38 +0000 2014</a></blockquote>
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Joined champions of clean &amp; renewable energy at today’s @energizect Energy Efficiency Award ceremony today #CT #energy</p><a href="https://twitter.com/SenBlumenthal/status/408362073593102336/status/Wed Dec 04 22:28:00 +0000 2013</a></blockquote>
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Joined @WhiteHouseCEQ’s Nancy Sutley &amp; @GovMalloyOffice to discuss #climatechange, energy security, reliability http://t.co/rVhFzGUHte</p><a href="https://twitter.com/SenBlumenthal/status/367780188710387712/status/Wed Aug 14 22:50:04 +0000 2013</a></blockquote>
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Met this morning w/ @ChrisMurphyCT, @FEMA &amp; others to discuss Superstorm #Sandy damage to #CT coast &amp; future dangers from climate change</p><a href="https://twitter.com/SenBlumenthal/status/360912198249361408/status/Fri Jul 26 23:59:08 +0000 2013</a></blockquote>
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">.@Yale &amp; @SierraClub bringing us together to discuss how we can fight climate change &amp; find sensible energy solutions for the 21st century</p><a href="https://twitter.com/SenBlumenthal/status/317089159099584514/status/Thu Mar 28 01:42:01 +0000 2013</a></blockquote>
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Great having Joe Carbone in #DC to share amazing work of @TheWorkPlace_CT  giving #CT's unemployed tools to get hired http://t.co/VeuahQJquG</p><a href="https://twitter.com/SenBlumenthal/status/311893799527923712/status/Wed Mar 13 17:37:31 +0000 2013</a></blockquote>
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">@DFANewHaven Our nation needs a sensible #energy policy that supports #renewable resources, cuts our carbon footprint…#LISSandy</p><a href="https://twitter.com/SenBlumenthal/status/267006313651908608/status/Fri Nov 09 20:50:40 +0000 2012</a></blockquote>
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Reducing carbon dioxide emissions, investing in clean energy like fuel cells, promoting energy efficiency in consumer uses… #LISSandy</p><a href="https://twitter.com/SenBlumenthal/status/266997725248229376/status/Fri Nov 09 20:16:32 +0000 2012</a></blockquote>
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Don't forget, tmrw @ 2:30pm I'll be w/ @SavetheSound 4 live @Twitter TownHall on #Sandy &amp; #climate change. Ask questions now, use #LISSandy</p><a href="https://twitter.com/SenBlumenthal/status/266645064447574017/status/Thu Nov 08 20:55:12 +0000 2012</a></blockquote>
+<!--EndSTW-->
+
+
+
+
+
+}}

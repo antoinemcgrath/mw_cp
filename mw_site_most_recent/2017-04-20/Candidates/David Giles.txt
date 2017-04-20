@@ -1,0 +1,24 @@
+{{Candidate
+|Firstname=David
+|Lastname=Giles
+|Nickname=Dave Giles
+|State=Arizona
+|District=9
+|Office=House
+|Party=Republican
+|Position=Challenger
+|CampaignSite=http://www.davegilesforcongress.com/
+|FB2=https://www.facebook.com/davegilesforcongress/
+|TW2=https://twitter.com/votegiles
+|WikiDraftSum=In 2016, Dave Giles said "the Earth's climate is cyclical. It goes through warming and cooling periods. Climate change does occur. The question becomes how much can we control and how much should we be willing to spend in order to make a nominal change," (1). On his campaign site, he states, "traditional sources must be developed domestically for the United States to become energy independent, and that will necessitate the federal government allowing the... expansion of oil and gas drilling on federal lands," (2).
+
+
+1. The Voter Guide 2016. http://c3.thevoterguide.org/v/phoenix16/race-detail.do?id=15113242&party=Rep Accessed 2016-10-25
+
+
+2. Issues. http://www.davegilesforcongress.com/issues/ Accessed 2016-10-25.
+|Q1=In 2016, he said "the Earth's climate is cyclical. It goes through warming and cooling periods. Climate change does occur. The question becomes how much can we control and how much should we be willing to spend in order to make a nominal change." http://c3.thevoterguide.org/v/phoenix16/race-detail.do?id=15113242&party=Rep
+|Q2=On his campaign site, he states, "Traditional sources must be developed domestically for the United States to become energy independent, and that will necessitate the federal government allowing the... expansion of oil and gas drilling on federal lands." http://www.davegilesforcongress.com/issues/
+|Q3=None found.
+|OtherSources=None found.
+}}

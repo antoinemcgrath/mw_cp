@@ -1,0 +1,8 @@
+{{Candidate
+|Firstname=Eve
+|Lastname=Nuñez
+|State=Arizona
+|District=7
+|Office=House
+|Party=Republican
+}}

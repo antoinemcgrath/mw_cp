@@ -1,0 +1,16 @@
+{{Candidate
+|Firstname=David
+|Lastname=Rouzer
+|Bioguide_id=R000603
+|Gender=M
+|State=North Carolina
+|District=7
+|Office=House
+|Party=Republican
+
+|Q2=
+
+'''Automatically Generated Congressional Votes'''
+
+In 2015, as a member of Congress, he supported HR 2042, The Ratepayer Protection Act, which would have prevented implementation of the Clean Power Plan. http://clerk.house.gov/evs/2015/roll384.xml 
+}}

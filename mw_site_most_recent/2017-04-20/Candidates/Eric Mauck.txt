@@ -1,0 +1,8 @@
+{{Candidate
+|Firstname=Eric
+|Lastname=Mauck
+|State=Texas
+|District=26
+|Office=House
+|Party=Democratic
+}}

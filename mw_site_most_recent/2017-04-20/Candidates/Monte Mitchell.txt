@@ -1,0 +1,8 @@
+{{Candidate
+|Firstname=Monte
+|Lastname=Mitchell
+|State=Texas
+|District=33
+|Office=House
+|Party=Republican
+}}

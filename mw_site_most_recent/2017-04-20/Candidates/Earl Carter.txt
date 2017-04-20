@@ -1,0 +1,34 @@
+{{Candidate
+|Firstname=Earl
+|Lastname=Carter
+|State=Georgia
+|District=1
+|Office=House
+|Party=Republican
+|HiddenValues=Provided_by_ProPublica.org
+                 "id": "C001103",
+                 "thomas_id": "2236",
+                 "api_uri":"https://api.propublica.org/congress/v1/members/C001103.json",
+                 "first_name": "Buddy",
+                 "middle_name": null,
+                 "last_name": "Carter",
+                 "party": "R",
+                 "twitter_account": "RepBuddyCarter",
+                 "facebook_account": "",
+                 "facebook_id": "",
+                 "google_entity_id": "kg:/m/0w32xj9",
+                 "url": "http://buddycarter.house.gov",
+                 "rss_url": "",
+                 "domain": "buddycarter.house.gov",
+                 "dw_nominate": "",
+                 "ideal_point": "",
+                 "seniority": "2",
+                 "next_election": "2016",
+                 "total_votes": "1325",
+                 "missed_votes": "24",
+                 "total_present": "0",
+                 "state": "GA",
+                 "district": "1"
+                 ,"missed_votes_pct": "1.81",
+                 "votes_with_party_pct": "95.39"
+}}

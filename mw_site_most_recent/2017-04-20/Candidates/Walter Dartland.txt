@@ -1,0 +1,25 @@
+{{Candidate
+|Firstname=Walter
+|Lastname=Dartland
+|State=Florida
+|District=2
+|Office=House
+|Party=Democratic
+|Position=Challenger
+|CampaignSite=http://waltdartland2016.com/
+|FB2=https://www.facebook.com/wdartland
+|TW2=https://twitter.com/walterdartland
+|WikiDraftSum=In August 2016, Walter Dartland said "climate change is one of the most pressing issues we face. We can and must act now," (1). In support of a carbon tax, he said, "A carbon tax is the only thing that seems to encourage companies to pollute less and create another system,” (2). 
+
+
+1. Florida Conference of Catholic Bishops Candidate Questionnaire Project. http://flaccb.org/documents/2016/8/dartland_walter.pdf
+
+
+2. Our opinion: A voter’s guide to the U.S. House, District 2, primaries, Editorial Board, Tallahassee Democrat, 2016-08-08. http://www.tallahassee.com/story/opinion/editorials/2016/08/06/opinion-voters-guide-us-house-district-primaries/88354556/
+|MovedToWikipedia=Information <b>HAS NEVER</b> been transferred to Wikipedia &#x2717;
+|Q1=In August 2016, he said "climate change is one of the most pressing issues we face. We can and
+must act now." http://flaccb.org/documents/2016/8/dartland_walter.pdf
+|Q2=He supports a Carbon Tax, saying, in August 2016, "A carbon tax is the only thing that seems to encourage companies to pollute less and create another system.” http://www.tallahassee.com/story/opinion/editorials/2016/08/06/opinion-voters-guide-us-house-district-primaries/88354556/
+|Q3=None found.
+|OtherSources=None found.
+}}

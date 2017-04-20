@@ -1,0 +1,8 @@
+{{Candidate
+|Firstname=John
+|Lastname=Dale
+|State=Indiana
+|District=4
+|Office=House
+|Party=Democratic
+}}

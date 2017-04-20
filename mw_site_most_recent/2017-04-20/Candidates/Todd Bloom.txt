@@ -1,0 +1,8 @@
+{{Candidate
+|Firstname=Todd
+|Lastname=Bloom
+|State=Washington
+|District=6
+|Office=House
+|Party=Republican
+}}

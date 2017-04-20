@@ -1,0 +1,24 @@
+{{Candidate
+|Firstname=Michael
+|Lastname=Eggman
+|Wiki1=https://en.wikipedia.org/wiki/Michael_Eggman
+|State=California
+|District=10
+|Office=House
+|Party=Democratic
+|Position=Challenger
+|CampaignSite=http://www.eggmanforcongress.com/splash
+|FB2=https://www.facebook.com/eggmanforcongress
+|TW2=https://twitter.com/eggman4congress
+|WikiDraftSum=In May 2016, Michael Eggman said "this climate crisis is real and it’s hitting the Valley and the Valley economy first and hardest. It kills crops, it kills livestock,” (1). In 2014, he said "by making smart investments here, we can boost our economic output and reduce the threat of climate change, which disproportionately affects rural America,” (2). 
+
+
+1. Congressional candidates address water, climate change at open forum, Angela Martin, Turlock Journal, 2016-05-01. http://www.turlockjournal.com/archives/31854/
+
+
+2. Valley Dems take issue on climate change, Carolyn Lochhead, SF Gate, 2014-08-19. http://blog.sfgate.com/politics/2014/08/19/valley-dems-take-issue-on-climate-change/
+|Q1=In May 2015, he said "This climate crisis is real and it’s hitting the Valley and the Valley economy first and hardest. It kills crops, it kills livestock.” http://www.turlockjournal.com/archives/31854/
+|Q2=In 2014, his energy policy stated "By making smart investments here, we can boost our economic output and reduce the threat of climate change, which disproportionately affects rural America.” http://blog.sfgate.com/politics/2014/08/19/valley-dems-take-issue-on-climate-change/
+|Q3=In 2014, he said "I know that these droughts and dramatic temperature swings are killing our crops – driving up food costs and hitting farmers hard in the pocketbook." https://web.archive.org/web/20141029185522/http://www.eggmanforcongress.com/issues/detail/energy
+|OtherSources=None found.
+}}

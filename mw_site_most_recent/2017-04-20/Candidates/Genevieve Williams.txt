@@ -1,0 +1,8 @@
+{{Candidate
+|Firstname=Genevieve
+|Lastname=Williams
+|State=Missouri
+|District=7
+|Office=House
+|Party=Democratic
+}}

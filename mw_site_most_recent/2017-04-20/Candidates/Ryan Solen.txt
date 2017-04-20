@@ -1,0 +1,8 @@
+{{Candidate
+|Firstname=Ryan
+|Lastname=Solen
+|State=Wisconsin
+|District=1
+|Office=House
+|Party=Democratic
+}}

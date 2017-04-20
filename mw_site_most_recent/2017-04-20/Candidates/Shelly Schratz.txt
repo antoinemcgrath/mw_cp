@@ -1,0 +1,8 @@
+{{Candidate
+|Firstname=Shelly
+|Lastname=Schratz
+|State=New York
+|District=26
+|Office=House
+|Party=Republican
+}}

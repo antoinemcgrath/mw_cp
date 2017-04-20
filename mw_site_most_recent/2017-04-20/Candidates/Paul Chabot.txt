@@ -1,0 +1,22 @@
+{{Candidate
+|Firstname=Paul
+|Lastname=Chabot
+|Wiki1=https://en.wikipedia.org/wiki/Paul_Chabot
+|State=California
+|District=31
+|Office=House
+|Party=Republican
+|Position=Challenger
+|CampaignSite=http://www.paulchabot.com/
+|FB2=https://www.facebook.com/PaulChabotCalifornia/
+|TW2=https://twitter.com/DrPaulChabot
+|WikiDraftSum=On his campaign website, Paul Chabot states, "I do believe in climate change; however I do not believe that "man" is the sole reason, or reason at all, for the changes we see in our climate.  I promise to faithfully monitor the science, unobstructed by radical extremists," (1).
+
+
+1. The Issues. http://www.paulchabot.com/on_the_issues Accessed 2016-10-25
+|MovedToWikipedia=Information <b>HAS NEVER</b> been transferred to Wikipedia &#x2717;
+|Q1=On his campaign website, he states, "I do believe in climate change; however I do not believe that "man" is the sole reason, or reason at all, for the changes we see in our climate.  I promise to faithfully monitor the science, unobstructed by radical extremists." http://www.paulchabot.com/on_the_issues
+|Q2=None found.
+|Q3=None found.
+|OtherSources=None found.
+}}

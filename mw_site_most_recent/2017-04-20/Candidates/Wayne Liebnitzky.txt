@@ -1,0 +1,8 @@
+{{Candidate
+|Firstname=Wayne
+|Lastname=Liebnitzky
+|State=Florida
+|District=9
+|Office=House
+|Party=Republican
+}}

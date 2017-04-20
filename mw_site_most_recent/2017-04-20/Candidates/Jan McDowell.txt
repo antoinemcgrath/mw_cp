@@ -1,0 +1,8 @@
+{{Candidate
+|Firstname=Jan
+|Lastname=McDowell
+|State=Texas
+|District=24
+|Office=House
+|Party=Democratic
+}}

@@ -1,0 +1,19 @@
+{{US CA Assembly
+|Firstname=Raul
+|Lastname=Bocanegra
+|Office=CA State Assemblymember
+|State=California
+|District=39
+|Party=Democratic
+|OfficialGovSite=https://a39.asmdc.org/
+|Q2=
+
+'''Automatically Generated Legislative Actions'''
+
+<!--EndQ2-->
+|
+|Wing=Assembly
+|Level=US_State
+|Photo=http://assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/ad39_bocanegra_roster150_20161205.jpg
+|Leg_id=CAL000526
+}}

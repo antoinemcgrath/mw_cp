@@ -1,0 +1,8 @@
+{{Candidate
+|Firstname=Joseph
+|Lastname=Wenzel
+|State=New Jersey
+|District=11
+|Office=House
+|Party=Democratic
+}}

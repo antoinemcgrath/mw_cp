@@ -1,0 +1,24 @@
+{{Candidate
+|Firstname=Mike
+|Lastname=Derrick
+|State=New York
+|District=21
+|Office=House
+|Party=Democratic
+|Position=Challenger
+|CampaignSite=http://www.derrickforcongress.com/
+|FB2=https://www.facebook.com/mikederrickforcongress/
+|TW2=https://twitter.com/MikeDerrickNY21
+|WikiDraftSum=On his campaign site, Mike Derrick states, "Mike...believes that American leadership is essential to solving the problem of climate change. Only when we have taken action  ourselves will we be in a position to influence action abroad," (1). On a October Facebook post, he said he "supports efforts to reduce the burning of fossil fuels; facilitate the building of clean energy infrastructure; and address climate change aggressively and immediately before it spins out of control," (2).  
+
+
+1. Issues. http://www.derrickforcongress.com/issues Accessed 2016-11-02.
+
+
+2. Mike Derrick for Congress. 2016-11-02. https://www.facebook.com/mikederrickforcongress/posts/1110084199041532:0
+|MovedToWikipedia=Information <b>HAS NEVER</b> been transferred to Wikipedia &#x2717;
+|Q1=On his campaign site, he states, "Mike also believes that American leadership is essential to solving the problem of climate change. Only when we have taken action ourselves will we be in a position to influence action abroad." http://www.derrickforcongress.com/issues
+|Q2=On a October Facebook post, he said he "support efforts to reduce the burning of fossil fuels; facilitate the building of clean energy infrastructure; and address climate change aggressively and immediately before it spins out of control.” https://www.facebook.com/mikederrickforcongress/posts/1110084199041532:0
+|Q3=None found.
+|OtherSources=None found.
+}}

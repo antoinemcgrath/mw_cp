@@ -1,0 +1,8 @@
+{{Candidate
+|Firstname=Rafael
+|Lastname=Dagnesses
+|State=California
+|District=26
+|Office=House
+|Party=Republican
+}}

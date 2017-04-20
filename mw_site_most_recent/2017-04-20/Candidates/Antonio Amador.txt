@@ -1,0 +1,8 @@
+{{Candidate
+|Firstname=Antonio
+|Lastname=Amador
+|State=California
+|District=9
+|Office=House
+|Party=Republican
+}}

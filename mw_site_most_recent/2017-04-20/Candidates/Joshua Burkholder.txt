@@ -1,0 +1,8 @@
+{{Candidate
+|Firstname=Joshua
+|Lastname=Burkholder
+|State=Pennsylvania
+|District=4
+|Office=House
+|Party=Democratic
+}}

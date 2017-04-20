@@ -1,0 +1,8 @@
+{{Candidate
+|Firstname=David
+|Lastname=Walker
+|State=Oregon
+|District=3
+|Office=House
+|Party=Republican
+}}

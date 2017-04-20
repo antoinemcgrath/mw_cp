@@ -1,0 +1,8 @@
+{{Candidate
+|Firstname=James
+|Lastname=Postma
+|State=Washington
+|District=10
+|Office=House
+|Party=Republican
+}}

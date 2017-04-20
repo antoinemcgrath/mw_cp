@@ -1,0 +1,8 @@
+{{Candidate
+|Firstname=Arik
+|Lastname=Bjorn
+|State=South Carolina
+|District=2
+|Office=House
+|Party=Democratic
+}}

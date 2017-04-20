@@ -1,0 +1,37 @@
+{{Candidate
+|Firstname=Kyrsten
+|Lastname=Sinema
+|Bioguide_id=S001191
+|Gender=F
+|Wiki1=https://en.wikipedia.org/wiki/Kyrsten_Sinema
+|State=Arizona
+|District=9
+|Office=House
+|Party=Democratic
+|Position=Incumbent
+|HouseOfficialSite=http://sinema.house.gov/
+|CampaignSite=http://kyrstensinema.com/
+|FB2=http://www.facebook.com/ksinemaaz
+|TW1=https://twitter.com/RepSinema
+|TW2=http://twitter.com/kyrstensinema
+|WikiDraftSum=In 2016, Kyrsten Sinema said "Scientific research has concluded that our climate is changing and human activity is contributing to climate change," (1). In December 2015, she voted for HR 2042, a bill designed block implementation of the Clean Power Plan (2,3). In 2014, she voted for a House amendment calling on Congress to recognize that man-made carbon pollution contributes to climate change and that climate change has a wide range of negative effects (4).   
+
+
+1. The Voter Guide 2016. http://c3.thevoterguide.org/v/phoenix16/race-detail.do?id=15113242&party=Rep Accessed 2016-10-25
+
+
+2. "Measure to block EPA Clean Power Plan passes House," in Utility Dive, Robert Walton, 2015-06-26. http://www.utilitydive.com/news/measure-to-block-epa-clean-power-plan-passes-house/401376/
+
+
+3. U.S. House of Representatives Roll Call Votes 114th Congress, Vote Number 384, 2015-06-24. http://clerk.house.gov/evs/2015/roll384.xml
+
+
+4. U.S. House of Representatives Roll Call Votes 113th Congress, Vote Number 103, 2014-03-06 http://clerk.house.gov/evs/2014/roll103.xml
+|MovedToWikipedia=Information <b>HAS NEVER</b> been transferred to Wikipedia &#x2717;
+|Q1=In 2016, she said "scientific research has concluded that our climate is changing and human activity is contributing to climate change." http://c3.thevoterguide.org/v/phoenix16/race-detail.do?id=15113242&party=Rep
+|Q2=In December 2015, she voted for HR 2042, a bill designed block implementation of the Clean Power Plan. http://www.utilitydive.com/news/measure-to-block-epa-clean-power-plan-passes-house/401376/
+https://rules.house.gov/bill/114/hr-2042
+In 2014, she voted for a House amendment calling on Congress to recognize that man-made carbon pollution contributes to climate change and that climate change has a wide range of negative effects.
+|Q3=None found.
+|OtherSources=Kirkpatrick and Sinema put polluters before environment. http://www.azcentral.com/story/opinion/letters/2015/07/04/kirkpatrick-and-sinema-put-polluters-before-environment/29716745/
+}}

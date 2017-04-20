@@ -1,0 +1,59 @@
+{{Candidate
+|Firstname=David
+|Lastname=Young
+|Bioguide_id=Y000066
+|Gender=M
+|Wiki1=https://en.wikipedia.org/wiki/David_Young_(Iowa_politician)
+|State=Iowa
+|District=3
+|Office=House
+|Party=Republican
+|Position=Incumbent
+|HouseOfficialSite=https://davidyoung.house.gov/
+|CampaignSite=https://youngforiowa.com/
+|FB1=https://www.facebook.com/RepDavidYoung/
+|TW1=https://twitter.com/RepDavidYoung
+|WikiDraftSum=In 2014, he said he'd seen “credible studies” saying man-made climate change isn’t real and stated, “the climate does change...a lot of times some of the climate change is because of natural occurrences with volcanoes or natural gases”. In 2015, he voted against the Obama administration’s Clean Power Plan (2, 3, 4). (Hyperlink Clean Power Plan https://en.wikipedia.org/wiki/Clean_Power_Plan)
+
+
+1. "Iowa Congressional Candidate Says He’s Read ‘Credible Studies’ Disputing Man-Made Climate Change", on Think Progress, by Abigail Bessler. 
+https://thinkprogress.org/iowa-congressional-candidate-says-hes-read-credible-studies-disputing-man-made-climate-change-bd03d3c42446#.elpdjuxo6
+
+
+2. News Link: http://www.utilitydive.com/news/measure-to-block-epa-clean-power-plan-passes-house/401376/
+
+
+3. Bill Profile: https://www.congress.gov/bill/114th-congress/house-bill/2042
+
+
+4. Roll call: http://clerk.house.gov/evs/2015/roll384.xml
+|MovedToWikipedia=Information <b>HAS NEVER</b> been transferred to Wikipedia &#x2717;
+|Q1=In 2014, he said he'd seen “credible studies” saying man-made climate change isn’t real and stated, “the climate does change...a lot of times some of the climate change is because of natural occurrences with volcanoes or natural gases”. 
+https://thinkprogress.org/iowa-congressional-candidate-says-hes-read-credible-studies-disputing-man-made-climate-change-bd03d3c42446#.elpdjuxo6
+|Q2=In 2015, he/she vote for/against the Obama administration’s Clean Power Plan (1, 2, 3). Hyperlink Clean Power Plan https://en.wikipedia.org/wiki/Clean_Power_Plan
+1. News Link: http://www.utilitydive.com/news/measure-to-block-epa-clean-power-plan-passes-house/401376/
+2. Bill Profile: https://www.congress.gov/bill/114th-congress/house-bill/2042
+3. Roll call: http://clerk.house.gov/evs/2015/roll384.xml
+|Q3=None found.
+|OtherSources=None found.
+|STW=<!--StartSTW-->'''Automatically captured tweets'''{{#widget:Tweet|id=794256025297653761}}
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Good discussion about Iowa's renewable fuel industry during my visit to @ethanolbyPOET today. https://t.co/dRdLOOorig</p><a href="https://twitter.com/RepDavidYoung/status/808749723192541184/status/Tue Dec 13 19:05:34 +0000 2016</a></blockquote>
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Visited Southwest Iowa Renewable Energy in Council Bluffs this afternoon for a tour. #IA03 https://t.co/MrJRtPQXAC</p><a href="https://twitter.com/RepDavidYoung/status/803365899046621184/status/Mon Nov 28 22:32:10 +0000 2016</a></blockquote>
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">During yesterday's visit to @KumandGo in Johnston, a station w/ E15 &amp; E85, we discussed issues facing the renewable… https://t.co/3iiyvcOvbm</p><a href="https://twitter.com/RepDavidYoung/status/792026391692926977/status/Fri Oct 28 15:33:01 +0000 2016</a></blockquote>
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">'Liked' my tour of Altoona's @Facebook data center. Discussed role renewable fuels play to run the facility. #IA03 https://t.co/0390KFMpcJ</p><a href="https://twitter.com/RepDavidYoung/status/695691567110234113/status/Fri Feb 05 19:32:49 +0000 2016</a></blockquote>
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">On campus at @IowaStateU. Toured the Biorenewables Research Laboratory &amp; discussed the future of biorenewables. https://t.co/vIxHhoavGR</p><a href="https://twitter.com/RepDavidYoung/status/690623027743232001/status/Fri Jan 22 19:52:15 +0000 2016</a></blockquote>
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Led the IA congressional delegation in a letter urging EPA to set strong renewable fuels levels, get RFS on track: https://t.co/KXdnLGiXdo</p><a href="https://twitter.com/RepDavidYoung/status/689518377216393216/status/Tue Jan 19 18:42:46 +0000 2016</a></blockquote>
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Shenandoah coffee, 15 in attendance, talked VA-CBOC, #veterans issues, climate change, education. #ia03 #CWMC http://t.co/tm1JtjYaVU</p><a href="https://twitter.com/RepDavidYoung/status/637352283949428736/status/Fri Aug 28 19:53:20 +0000 2015</a></blockquote>
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Really enjoyed touring the Sarah Shepard Farm in Stuart. Impressive place. #windpower #windenergy #renewables #ia03 http://t.co/S1cwCHhUPI</p><a href="https://twitter.com/RepDavidYoung/status/631582917601402880/status/Wed Aug 12 21:47:56 +0000 2015</a></blockquote>
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Met with folks from Iowa's chapter of @citizensclimate - good group from Des Moines. #ia03 http://t.co/Il5BERXVrC</p><a href="https://twitter.com/RepDavidYoung/status/613402020603686913/status/Tue Jun 23 17:43:32 +0000 2015</a></blockquote>
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Glad @PMCofIowa came by to discuss petroleum &amp; renewable fuels, ADA &amp; more. Met some younger Iowans too! #ia03 http://t.co/9uscOToy7b</p><a href="https://twitter.com/RepDavidYoung/status/598889565286436865/status/Thu May 14 16:36:13 +0000 2015</a></blockquote>
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Great to have @iowafuel in DC to discuss the Renewable Fuel Standard. @EthanolRFA #ia03 #RFS http://t.co/TmW9u6trZ2</p><a href="https://twitter.com/RepDavidYoung/status/593156023453622273/status/Tue Apr 28 20:53:10 +0000 2015</a></blockquote>
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Thank you for the invitation @ethanolbyPOET to visit your facility today in Adams County Iowa. #ia03 #renewableenergy http://t.co/EeANNxGUyt</p><a href="https://twitter.com/RepDavidYoung/status/589094244889010176/status/Fri Apr 17 15:53:07 +0000 2015</a></blockquote>
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Meeting with Green Plains Renewable Energy officials in Shenandoah. Thanks for having me. #IA03 http://t.co/k5EXRJ8Oxn</p><a href="https://twitter.com/RepDavidYoung/status/582580567583113217/status/Mon Mar 30 16:30:05 +0000 2015</a></blockquote>
+<!--EndSTW-->
+
+
+
+
+
+}}

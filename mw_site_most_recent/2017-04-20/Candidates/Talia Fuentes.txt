@@ -1,0 +1,8 @@
+{{Candidate
+|Firstname=Talia
+|Lastname=Fuentes
+|State=Arizona
+|District=5
+|Office=House
+|Party=Democratic
+}}

@@ -1,0 +1,8 @@
+{{Candidate
+|Firstname=Will
+|Lastname=Boyd
+|State=Alabama
+|District=4
+|Office=House
+|Party=Democratic
+}}

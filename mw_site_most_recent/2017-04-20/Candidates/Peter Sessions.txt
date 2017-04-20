@@ -1,0 +1,8 @@
+{{Candidate
+|Firstname=Peter
+|Lastname=Sessions
+|State=Texas
+|District=32
+|Office=House
+|Party=Republican
+}}

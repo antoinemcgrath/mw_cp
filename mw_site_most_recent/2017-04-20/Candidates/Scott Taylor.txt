@@ -1,0 +1,24 @@
+{{Candidate
+|Firstname=Scott
+|Lastname=Taylor
+|Bioguide_id=T000477
+|Gender=M
+|Wiki1=https://en.wikipedia.org/wiki/Scott_Taylor_(politician)
+|State=Virginia
+|District=2
+|Office=House
+|Party=Republican
+|Position=Challenger
+|CampaignSite=http://scotttaylor.us/
+|FB2=https://www.facebook.com/scotttaylorvirginia
+|TW2=https://twitter.com/Scotttaylorva
+|WikiDraftSum=As a state Delegate, Scott Taylor opposed the Clean Power Plan, saying "The entire Commonwealth will feel the effects of these overreaching regulations and President Obama’s continued war on coal," (1). 
+
+
+1. "House passes legislation to restore oversight on energy policy," Virginia House GOP, 2016-01-27.  http://virginiahouse.gop/2016/01/27/house-passes-legislation-to-restore-oversight-on-energy-policy/
+|MovedToWikipedia=Information <b>HAS NEVER</b> been transferred to Wikipedia &#x2717;
+|Q1=None found.
+|Q2=As a state Delegate, he opposed the Clean Power Plan, saying "The entire Commonwealth will feel the effects of these overreaching regulations and President Obama’s continued war on coal." http://virginiahouse.gop/2016/01/27/house-passes-legislation-to-restore-oversight-on-energy-policy/
+|Q3=None found.
+|OtherSources=In August 2015, he co-wrote an op-ed about the Clean Power Plan. http://pilotonline.com/opinion/columnist/guest/o-quinn-and-taylor-fixing-obama-s-power-plan/article_47515caf-abab-51f5-9beb-90d653cb1bc2.html
+}}

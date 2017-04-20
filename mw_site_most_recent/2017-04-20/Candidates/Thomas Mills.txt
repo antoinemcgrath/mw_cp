@@ -1,0 +1,8 @@
+{{Candidate
+|Firstname=Thomas
+|Lastname=Mills
+|State=North Carolina
+|District=8
+|Office=House
+|Party=Democratic
+}}

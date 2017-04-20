@@ -1,0 +1,23 @@
+{{Candidate
+|Firstname=Terri
+|Lastname=Bonoff
+|Wiki1=https://en.wikipedia.org/wiki/Terri_Bonoff
+|State=Minnesota
+|District=3
+|Office=House
+|Party=Democratic/Farmer/Labor
+|Position=Challenger
+|CampaignSite=http://www.terribonoff.com/
+|FB2=https://www.facebook.com/tbonoff
+|TW2=https://twitter.com/Terri_Bonoff
+|WikiDraftSum=Terri Bonoff stated, "Climate change is real and we must act with urgency to reduce our carbon footprint and work towards clean energy". She is in favor of considering a fee on carbon emissions. (1) 
+
+
+1. "Securing Our Environment", Terri Bonoff for Congress, Accessed 2016-10-15. http://www.terribonoff.com/securing-our-environment/
+|MovedToWikipedia=Information <b>HAS NEVER</b> been transferred to Wikipedia &#x2717;
+|Q1=On her campaign website Terri Bonoff states, "Climate change is real and we must act with urgency to reduce our carbon footprint and work towards clean energy. Last year, world leaders came together to agree upon and move forward with strict goals to limit our impact on climate change. In order to meet our 2025 and 2050 goals we need to get real about the policies that we put in place to get us there. I support efforts to reduce the levels of carbon emission, including the serious consideration of a carbon emissions fee.”
+http://www.terribonoff.com/securing-our-environment/
+|Q2=None found.
+|Q3=None found.
+|OtherSources=None found.
+}}

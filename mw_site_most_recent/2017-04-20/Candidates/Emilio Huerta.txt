@@ -1,0 +1,18 @@
+{{Candidate
+|Firstname=Emilio
+|Lastname=Huerta
+|Wiki1=https://en.wikipedia.org/wiki/Emilio_Huerta
+|State=California
+|District=21
+|Office=House
+|Party=Democratic
+|Position=Challenger
+|CampaignSite=http://www.huertaforcongress.com/
+|FB2=https://www.facebook.com/huertaforcongress/?fref=ts
+|TW1=https://twitter.com/Huerta4Congress
+|MovedToWikipedia=Information <b>HAS NEVER</b> been transferred to Wikipedia &#x2717;
+|Q1=None found.
+|Q2=None found.
+|Q3=None found.
+|OtherSources=None found.
+}}

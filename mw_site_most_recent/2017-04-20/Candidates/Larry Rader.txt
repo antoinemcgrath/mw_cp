@@ -1,0 +1,8 @@
+{{Candidate
+|Firstname=Larry
+|Lastname=Rader
+|State=Louisiana
+|District=3
+|Office=House
+|Party=Democratic
+}}

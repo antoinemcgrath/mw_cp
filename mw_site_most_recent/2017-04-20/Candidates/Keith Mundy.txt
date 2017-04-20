@@ -1,0 +1,8 @@
+{{Candidate
+|Firstname=Keith
+|Lastname=Mundy
+|State=Ohio
+|District=16
+|Office=House
+|Party=Democratic
+}}

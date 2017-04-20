@@ -1,0 +1,8 @@
+{{Candidate
+|Firstname=Theodore
+|Lastname=Yoho
+|State=Florida
+|District=3
+|Office=House
+|Party=Republican
+}}

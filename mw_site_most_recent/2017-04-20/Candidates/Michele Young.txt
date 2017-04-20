@@ -1,0 +1,8 @@
+{{Candidate
+|Firstname=Michele
+|Lastname=Young
+|State=Ohio
+|District=1
+|Office=House
+|Party=Democratic
+}}

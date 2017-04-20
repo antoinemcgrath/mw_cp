@@ -1,0 +1,8 @@
+{{Candidate
+|Firstname=Jim
+|Lastname=Walz
+|State=Illinois
+|District=14
+|Office=House
+|Party=Democratic
+}}

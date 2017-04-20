@@ -1,0 +1,20 @@
+{{Candidate
+|Firstname=Ray
+|Lastname=Metcalfe
+|Wiki1=https://en.wikipedia.org/wiki/Ray_Metcalfe
+|State=Alaska
+|Office=Senate
+|Party=Democratic
+|Position=Challenger
+|CampaignSite=http://metcalfeforussenate.com/
+|FB2=https://www.facebook.com/RayforUSSenate/
+|TW2=https://twitter.com/RayMetcalfe
+|WikiDraftSum=In August 2016, he said, "Every Alaskan has witnessed climate change over the past fifty years. Our winters are warmer, our summers are longer, and our Arctic Village shores, once protected by sea ice are eroding. Bold clean energy action is needed to stave off a climate hostile to human life." (1)
+
+
+1. Ray for US Senate Facebook Post, 2016-08-02. https://www.facebook.com/RayforUSSenate/posts/1645855285733453
+|Q1=None found.
+|Q2=None found.
+|Q3=In August 2016, he said "Every Alaskan has witnessed climate change over the past fifty years. Our winters are warmer, our summers are longer, and our Arctic Village shores, once protected by sea ice are eroding. Bold clean energy action is needed to stave off a climate hostile to human life." https://www.facebook.com/RayforUSSenate/posts/1645855285733453
+|OtherSources=None found.
+}}

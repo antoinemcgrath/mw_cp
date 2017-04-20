@@ -1,0 +1,8 @@
+{{Candidate
+|Firstname=William
+|Lastname=Flores
+|State=Texas
+|District=17
+|Office=House
+|Party=Republican
+}}

@@ -1,0 +1,73 @@
+{{Candidate
+|Firstname=Michael
+|Lastname=Coffman
+|Nickname=Mike
+|Wiki1=https://en.wikipedia.org/wiki/Mike_Coffman
+|State=Colorado
+|District=6
+|Office=House
+|Party=Republican
+|Position=Incumbent
+|HouseOfficialSite=https://coffman.house.gov
+|CampaignSite=https://www.coffmanforcongress.com/
+|FB1=https://www.facebook.com/repmikecoffman
+|TW1=https://twitter.com/repmikecoffman
+|WikiDraftSum=In 2013, he voted to make it harder for Congress to put a price on carbon by voting for a point of order opposing a carbon tax or a fee on carbon emissions (1). In 2014, he voted against a House amendment calling on Congress to recognize that man-made carbon pollution contributes to climate change and that climate change has a wide range of negative effects (2). In 2015, he supported HR 2042, The Ratepayer Protection Act, which would have prevented implementation of the Clean Power Plan (3, 4). On his House website’s Issues page, he states, “The role that carbon emissions, from human activity, have on climate change is still a subject of debate. But what is clear is that we should do all that we can to reduce carbon emissions in order to improve the quality of our environment. However, we should do so under a balanced approach that considers the economic impact of the rate at which we reduce our carbon emissions…No doubt, there will always be those with extreme views about climate change. They do not care if their radical environmental solutions punish working middle class families” (5).
+
+
+1. “Final Vote Results for Roll Call 445”, Regulations From the Executive in Need of Scrutiny Act, 2013-08-02. http://clerk.house.gov/evs/2013/roll445.xml
+
+
+2. “Final Vote Results for Roll Call 103”, 2014-03-06. http://clerk.house.gov/evs/2014/roll103.xml
+
+
+3. “H.R. 2042 - Ratepayer Protection Act of 2015”, House of Representatives Committee on Rules. https://rules.house.gov/bill/114/hr-2042
+
+
+4. “Final Vote Results for Roll Call 380”, 2015-06-24. http://clerk.house.gov/evs/2015/roll380.xml
+
+
+5. “Issues – Climate Change”, Mike Coffman House Website,  https://coffman.house.gov/issues/climate-change Accessed 2016-09-24
+|MovedToWikipedia=Information <b>HAS NOT</b> been transferred to Wikipedia &#x2717;
+|Q1=On his House website’s Issues page, he states, “There is no question that climate change is real and has existed since the beginning of time, and will always be a factor that can negatively impact our environment. The role that carbon emissions, from human activity, have on climate change is still a subject of debate. But what is clear is that we should do all that we can to reduce carbon emissions in order to improve the quality of our environment. However, we should do so under a balanced approach that considers the economic impact of the rate at which we reduce our carbon emissions…No doubt, there will always be those with extreme views about climate change. They do not care if their radical environmental solutions punish working middle class families.”
+https://coffman.house.gov/issues/climate-change
+|Q2=In 2011, he voted for HR910, a bill which would have amended the Clean Air Act to prohibit the EPA from regulating greenhouse gases or other contributing factors to climate change.
+http://clerk.house.gov/evs/2011/roll249.xml
+https://www.congress.gov/bill/112th-congress/house-bill/910/
+In 2013, he voted to make it harder for Congress to put a price on carbon by voting for a point of order opposing a carbon tax or a fee on carbon emissions.
+http://clerk.house.gov/evs/2013/roll445.xml
+In 2014, he voted against a House amendment calling on Congress to recognize that man-made carbon pollution contributes to climate change and that climate change has a wide range of negative effects.
+http://clerk.house.gov/evs/2014/roll103.xml
+In 2015, as a Congressman, he supported HR 2042, The Ratepayer Protection Act, which would have prevented implementation of the Clean Power Plan.
+http://clerk.house.gov/evs/2015/roll384.xml
+https://www.congress.gov/bill/114th-congress/house-bill/2042
+|Q3=None found.
+|OtherSources=During a 2014 campaign debate, he gave a range of answers on climate change. http://www.denverpost.com/2014/09/23/mike-coffman-andrew-romanoff-clash-on-style-and-substance-in-debate/
+That lead some in the media to describe him as confused: https://thinkprogress.org/climate-change-issue-makes-rep-mike-coffmans-head-spin-89fbb1e482eb#.hbhpwvhhc
+|HiddenValues=Provided_by_ProPublica.org
+                 "id": "C001077",
+                 "thomas_id": "1912",
+                 "api_uri":"https://api.propublica.org/congress/v1/members/C001077.json",
+                 "first_name": "Mike",
+                 "middle_name": null,
+                 "last_name": "Coffman",
+                 "party": "R",
+                 "twitter_account": "RepMikeCoffman",
+                 "facebook_account": "repmikecoffman",
+                 "facebook_id": "366142384492",
+                 "google_entity_id": "kg:/m/03gy95d",
+                 "url": "http://coffman.house.gov",
+                 "rss_url": "http://coffman.house.gov/rss.xml",
+                 "domain": "coffman.house.gov",
+                 "dw_nominate": "",
+                 "ideal_point": "",
+                 "seniority": "8",
+                 "next_election": "2016",
+                 "total_votes": "1325",
+                 "missed_votes": "9",
+                 "total_present": "0",
+                 "state": "CO",
+                 "district": "6"
+                 ,"missed_votes_pct": "0.68",
+                 "votes_with_party_pct": "92.71"
+}}

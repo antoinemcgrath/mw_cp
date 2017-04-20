@@ -1,0 +1,53 @@
+{{Candidate
+|Firstname=Mia
+|Lastname=Love
+|Bioguide_id=L000584
+|Gender=F
+|Nickname=Ludmya Bourdeau
+|Wiki1=https://en.wikipedia.org/wiki/Mia_Love
+|State=Utah
+|District=4
+|Office=House
+|Party=Republican
+|Position=Incumbent
+|HouseOfficialSite=https://love.house.gov/
+|CampaignSite=http://love4utah.com/
+|FB2=https://www.facebook.com/miablove
+|TW1=https://twitter.com/repmialove
+|TW2=https://twitter.com/MiaBLove
+|WikiDraftSum=Mia Love supports an all-of-the-above energy approach and cosponsored the Public Land Renewable Energy Development Act and the Master Limited Partnerships Parity Act (1). In 2015, she voted against the Obama administration’s Clean Power Plan (2, 3, 4). (Hyperlink Clean Power Plan https://en.wikipedia.org/wiki/Clean_Power_Plan) 
+In a 2016 debate, she repeatedly declined to say whether she thinks humans play a role in climate change, saying it's not important to ask what's causing climate change but the focus instead should be on trying to address the issue (5). 
+
+
+1. "Energy Independence", Mia Love Campaign Issues Page, http://love4utah.com/issue/energy-independence/  Accessed 2016-10-22.
+
+
+2. News Link: http://www.utilitydive.com/news/measure-to-block-epa-clean-power-plan-passes-house/401376/
+
+
+3. Bill Profile: https://www.congress.gov/bill/114th-congress/house-bill/2042
+
+
+4. Roll call: http://clerk.house.gov/evs/2015/roll384.xml
+
+
+5. "Mia Love, Doug Owens spar during congressional debate", on WRAL.com, by Michelle Price, 2016-10-10. http://www.wral.com/mia-love-doug-owens-spar-during-congressional-debate/16105502/
+|MovedToWikipedia=Information <b>HAS NEVER</b> been transferred to Wikipedia &#x2717;
+|Q1=In a 2016 debate, Mia Love repeatedly declined to say whether she thinks humans play a role in climate change, saying it's not important to ask what's causing climate change but the focus instead should be on trying to address the issue. 
+http://www.wral.com/mia-love-doug-owens-spar-during-congressional-debate/16105502/
+|Q2=According to her campaign issues page, Mia Love supports an all-of-the-above energy approach and cosponsored the Public Land Renewable Energy Development Act and the Master Limited Partnerships Parity Act.
+http://love4utah.com/issue/energy-independence/
+
+
+In 2015, she voted against the Obama administration’s Clean Power Plan. 
+
+
+News Link: http://www.utilitydive.com/news/measure-to-block-epa-clean-power-plan-passes-house/401376/
+
+Bill Profile: https://www.congress.gov/bill/114th-congress/house-bill/2042
+
+Roll call: http://clerk.house.gov/evs/2015/roll384.xml
+|Q3=None found.
+|OtherSources=Full debate can be viewed at:
+http://fox13now.com/2016/10/10/love-owens-debate-gets-a-little-heated-in-rematch-election/
+}}

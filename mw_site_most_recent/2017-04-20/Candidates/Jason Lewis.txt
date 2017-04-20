@@ -1,0 +1,23 @@
+{{Candidate
+|Firstname=Jason
+|Lastname=Lewis
+|Bioguide_id=L000587
+|Gender=M
+|Wiki1=https://en.wikipedia.org/wiki/Jason_Lewis_(radio_host)
+|State=Minnesota
+|District=2
+|Office=House
+|Party=Republican
+|Position=Challenger
+|CampaignSite=https://www.jasonlewis2016.com/
+|FB2=https://www.facebook.com/Jason-Lewis-130467958471/timeline/
+|TW2=https://twitter.com/Jason2CD/
+|WikiDraftSum=In commentary published in 2011, Jason Lewis said "the global-warming hysteria is based on computer models, not empirical data, because the records simply don't go back far enough....Temperatures had been declining since 1940 even as carbon dioxide levels rose," (1).
+
+
+1. Climate change is natural, and we don't have the data to predict it, Jason Lewis, Minnesota Star-Tribune, 2011-03-19. http://www.startribune.com/jason-lewis-climate-change-is-natural-and-we-don-t-have-the-data-to-predict-it/118270544/
+|Q1=In commentary published in 2011, Jason Lewis said "the global-warming hysteria is based on computer models, not empirical data, because the records simply don't go back far enough....Temperatures had been declining since 1940 even as carbon dioxide levels rose." http://www.startribune.com/jason-lewis-climate-change-is-natural-and-we-don-t-have-the-data-to-predict-it/118270544/
+|Q2=None found.
+|Q3=None found.
+|OtherSources=In 2008, he hosted Rush Limbaugh's radio show, with the topic being global warming. http://www.globalclimatescam.com/biofuels/globalclimatescamcom-featured-on-jason-lewis/
+}}

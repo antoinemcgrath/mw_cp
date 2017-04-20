@@ -1,0 +1,27 @@
+{{Candidate
+|Firstname=Nanette
+|Lastname=Barragán
+|Bioguide_id=B001300
+|Gender=F
+|Nickname=Nanette Barragan
+|Wiki1=https://en.wikipedia.org/wiki/Nanette_Barrag%C3%A1n
+|State=California
+|District=44
+|Office=House
+|Party=Democratic
+|Position=Incumbent
+|CampaignSite=http://barraganforcongress.com/
+|FB2=https://www.facebook.com/nanettebarraganforcongress
+|TW2=https://twitter.com/Nanette4CA
+|WikiDraftSum=On her campaign site, Nanette Barragan states, "[she] understands that climate change is an urgent environmental problem and she intends to act accordingly. She will fight to combat climate change and work to transition us to clean, renewable energy," (1). In 2016, she said "when you talk to parents about their kids’ asthma and cancer rates, then they listen. Do we say the words ‘climate change’ a lot? No, because you have to talk to people about what strikes a chord with them," (2). 
+
+
+1. Issues. http://barraganforcongress.com/issues/ Accessed 2016-12-11
+
+2. Climate could be pivotal in this congressional race between two California Democrats, Ben Adler, Grist, 10 August 2016. https://grist.org/election-2016/climate-could-be-pivotal-in-this-congressional-race-between-two-california-democrats/
+|MovedToWikipedia=Information <b>HAS NEVER</b> been transferred to Wikipedia &#x2717;
+|Q1=On her campaign site, she states, "Nanette understands that climate change is an urgent environmental problem and she intends to act accordingly. She will fight to combat climate change and work to transition us to clean, renewable energy." http://barraganforcongress.com/issues/
+|Q2=According to her campaign site, "she was a leader in the successful fight that prevented oil drilling in the Santa Monica Bay. Nanette worked with grassroots community activists to soundly defeat Measure O at the ballot box despite a multimillion dollar campaign by oil companies." http://barraganforcongress.com/issues/
+|Q3=In 2016, she said "When you talk to parents about their kids’ asthma and cancer rates, then they listen. Do we say the words ‘climate change’ a lot? No, because you have to talk to people about what strikes a chord with them." https://grist.org/election-2016/climate-could-be-pivotal-in-this-congressional-race-between-two-california-democrats/
+|OtherSources=In 2015, she wrote an op-ed on the Refugio Beach oil spill. http://www.dailybreeze.com/opinion/20150602/why-the-santa-barbara-oil-spill-matters-here-guest-commentary
+}}

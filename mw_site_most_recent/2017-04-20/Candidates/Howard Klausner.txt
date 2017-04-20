@@ -1,0 +1,8 @@
+{{Candidate
+|Firstname=Howard
+|Lastname=Klausner
+|State=Michigan
+|District=14
+|Office=House
+|Party=Republican
+}}

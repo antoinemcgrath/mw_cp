@@ -1,0 +1,18 @@
+{{Candidate
+|Firstname=Mike
+|Lastname=Kelly
+|Bioguide_id=K000376
+|Gender=M
+|State=Pennsylvania
+|District=3
+|Office=House
+|Party=Republican
+|CampaignSite=http://kelly.house.gov/
+|WikiDraftSum=Congressman Mike Kelly believes in pursuing and all of the above approach when it comes time to energy production. He has also stated that he wishes to support policies that will encourage use of Marcellus Shale in western Pennsylvania. (1). 
+
+1  http://kelly.house.gov/issue/energy
+|Q1=Currently no information found
+|Q2=Congressman Kelly introduced H.R. 4808 Coal Country Protection Act which was a bill that would  prohibit any further carbon related regulations from being implemented until various criteria were met. https://www.congress.gov/bill/113th-congress/house-bill/4808 
+
+He voted in favor of H.R.1938, the North American-Made Energy Security Act whichwas a yes vote for the construction of the Keystone pipeline. http://kelly.house.gov/issue/energy
+}}

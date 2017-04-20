@@ -1,0 +1,8 @@
+{{Candidate
+|Firstname=Lorna
+|Lastname=Phillipson
+|State=New Jersey
+|District=4
+|Office=House
+|Party=Democratic
+}}

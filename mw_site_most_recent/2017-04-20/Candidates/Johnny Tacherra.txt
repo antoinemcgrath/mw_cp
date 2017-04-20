@@ -1,0 +1,8 @@
+{{Candidate
+|Firstname=Johnny
+|Lastname=Tacherra
+|State=California
+|District=16
+|Office=House
+|Party=Republican
+}}

@@ -1,0 +1,14 @@
+{{Candidate
+|Firstname=Mike
+|Lastname=Johnson
+|Bioguide_id=J000299
+|Gender=M
+|State=Louisiana
+|District=4
+|Office=House
+|Party=Republican
+
+|Q2=
+
+'''Automatically Generated Congressional Votes'''
+}}

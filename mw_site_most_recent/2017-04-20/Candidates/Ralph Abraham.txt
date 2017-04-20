@@ -1,0 +1,47 @@
+{{Candidate
+|Firstname=Ralph
+|Lastname=Abraham
+|Bioguide_id=A000374
+|Gender=M
+|Wiki1=https://en.wikipedia.org/wiki/Ralph_Abraham_(politician)
+|State=Louisiana
+|District=5
+|Office=House
+|Party=Republican
+|Position=Incumbent
+|HouseOfficialSite=https://abraham.house.gov/
+|FB1=https://www.facebook.com/CongressmanRalphAbraham
+|TW1=https://twitter.com/repabraham
+|HiddenValues=Provided_by_ProPublica.org
+                 "id": "A000374",
+                 "thomas_id": "2244",
+                 "api_uri":"https://api.propublica.org/congress/v1/members/A000374.json",
+                 "first_name": "Ralph",
+                 "middle_name": null,
+                 "last_name": "Abraham",
+                 "party": "R",
+                 "twitter_account": "RepAbraham",
+                 "facebook_account": "",
+                 "facebook_id": "",
+                 "google_entity_id": "kg:/m/012dwd7_",
+                 "url": "https://abraham.house.gov",
+                 "rss_url": "https://abraham.house.gov/rss.xml",
+                 "domain": "",
+                 "dw_nominate": "",
+                 "ideal_point": "",
+                 "seniority": "2",
+                 "next_election": "2016",
+                 "total_votes": "1325",
+                 "missed_votes": "2",
+                 "total_present": "0",
+                 "state": "LA",
+                 "district": "5"
+                 ,"missed_votes_pct": "0.15",
+                 "votes_with_party_pct": "96.52"
+
+|Q2=
+
+'''Automatically Generated Congressional Votes'''
+
+In 2015, as a member of Congress, he supported HR 2042, The Ratepayer Protection Act, which would have prevented implementation of the Clean Power Plan. http://clerk.house.gov/evs/2015/roll384.xml 
+}}

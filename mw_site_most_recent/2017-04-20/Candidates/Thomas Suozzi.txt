@@ -1,0 +1,25 @@
+{{Candidate
+|Firstname=Thomas
+|Lastname=Suozzi
+|Bioguide_id=S001201
+|Gender=M
+|Nickname=Tom
+|Wiki1=https://en.wikipedia.org/wiki/Thomas_Suozzi
+|State=New York
+|District=3
+|Office=House
+|Party=Democratic
+|Position=Challenger
+|CampaignSite=http://suozziforcongress.com/
+|FB2=https://www.facebook.com/tom.suozzi
+|TW2=https://twitter.com/tom_suozzi
+|WikiDraftSum=On his campaign’s Issues page, Tom Suozzi states, “Today, climate change is affecting our national, economic, food, and water security, and we must take decisive action to reclaim control of our energy future. The threat of climate change has proved itself as one of the defining issues of our time, and we are already feeling its undeniable consequences. As your Congressman, I promise to support policies that will increase our energy independence, lower our energy expenditures, and transition the country toward cleaner, more cost-effective energy sources” (1).
+
+
+1. “Clean Energy & The Environment”, Campaign Issues page, Accessed 2016-09-29. http://suozziforcongress.com/issues
+|Q1=On his campaign’s Issues page, Tom Suozzi states, “Today, climate change is affecting our national, economic, food, and water security, and we must take decisive action to reclaim control of our energy future. The threat of climate change has proved itself as one of the defining issues of our time, and we are already feeling its undeniable consequences. As your Congressman, I promise to support policies that will increase our energy independence, lower our energy expenditures, and transition the country toward cleaner, more cost-effective energy sources”.
+http://suozziforcongress.com/issues
+|Q2=None found.
+|Q3=None found.
+|OtherSources=None found.
+}}

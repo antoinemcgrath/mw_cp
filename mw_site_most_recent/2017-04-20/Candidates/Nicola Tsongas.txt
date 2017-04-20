@@ -1,0 +1,8 @@
+{{Candidate
+|Firstname=Nicola
+|Lastname=Tsongas
+|State=Massachusetts
+|District=3
+|Office=House
+|Party=Democratic
+}}

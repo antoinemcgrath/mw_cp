@@ -1,0 +1,68 @@
+{{Candidate
+|Firstname=Michael
+|Lastname=Bost
+|Nickname=Mike
+|Wiki1=https://en.wikipedia.org/wiki/Mike_Bost
+|Wiki2=https://en.wikipedia.org/wiki/Mike_Bost#2014
+|State=Illinois
+|District=12
+|Office=House
+|Party=Republican
+|Position=Incumbent
+|HouseOfficialSite=https://bost.house.gov
+|CampaignSite=http://bostforcongress.com/
+|FB1=https://www.facebook.com/RepBost/
+|FB2=https://www.facebook.com/MikeBostForCongress
+|TW1=https://twitter.com/repbost
+|WikiDraftSum=In 2015, he voted against the Obama administration’s Clean Power Plan (1, 2, 3). (Hyperlink Clean Power Plan https://en.wikipedia.org/wiki/Clean_Power_Plan)
+
+
+1. News Link: http://www.utilitydive.com/news/measure-to-block-epa-clean-power-plan-passes-house/401376/
+
+
+2. Bill Profile: https://www.congress.gov/bill/114th-congress/house-bill/2042
+
+
+3. Roll call: http://clerk.house.gov/evs/2015/roll384.xml
+|MovedToWikipedia=Information <b>HAS NEVER</b> been transferred to Wikipedia &#x2717;
+|Q1=In a 2014 radio interview, Mike Bost said some scientists believe in anthropogenic climate change while other scientists do not.
+
+http://news.stlpublicradio.org/post/illinois-12th-district-contenders-highlight-differences
+
+(Already on Wikipedia)
+|Q2=In 2015, he voted against the Obama administration’s Clean Power Plan.
+
+News Link: http://www.utilitydive.com/news/measure-to-block-epa-clean-power-plan-passes-house/401376/
+
+Bill Profile: https://www.congress.gov/bill/114th-congress/house-bill/2042
+
+Roll call: http://clerk.house.gov/evs/2015/roll384.xml
+|Q3=None found.
+|OtherSources=None found.
+|HiddenValues=Provided_by_ProPublica.org
+                 "id": "B001295",
+                 "thomas_id": "2243",
+                 "api_uri":"https://api.propublica.org/congress/v1/members/B001295.json",
+                 "first_name": "Mike",
+                 "middle_name": null,
+                 "last_name": "Bost",
+                 "party": "R",
+                 "twitter_account": "RepBost",
+                 "facebook_account": "",
+                 "facebook_id": "",
+                 "google_entity_id": "kg:/m/0kry42",
+                 "url": "https://bost.house.gov",
+                 "rss_url": "https://bost.house.gov/rss.xml",
+                 "domain": "",
+                 "dw_nominate": "",
+                 "ideal_point": "",
+                 "seniority": "2",
+                 "next_election": "2016",
+                 "total_votes": "1325",
+                 "missed_votes": "60",
+                 "total_present": "0",
+                 "state": "IL",
+                 "district": "12"
+                 ,"missed_votes_pct": "4.53",
+                 "votes_with_party_pct": "91.86"
+}}

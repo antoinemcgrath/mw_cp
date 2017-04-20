@@ -1,0 +1,8 @@
+{{Candidate
+|Firstname=Mark
+|Lastname=Hunt
+|State=West Virginia
+|District=2
+|Office=House
+|Party=Democratic
+}}

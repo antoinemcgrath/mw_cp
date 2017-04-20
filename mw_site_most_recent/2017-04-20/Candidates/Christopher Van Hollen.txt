@@ -1,0 +1,56 @@
+{{Candidate
+|Firstname=Christopher
+|Lastname=Van Hollen
+|Nickname=Chris
+|Wiki1=https://en.wikipedia.org/wiki/Chris_Van_Hollen
+|State=Maryland
+|Office=Senate
+|Party=Democratic
+|Position=Challenger
+|HouseOfficialSite=https://vanhollen.house.gov/
+|CampaignSite=http://vanhollen.org/
+|FB1=https://www.facebook.com/chrisvanhollen/
+|TW1=https://twitter.com/ChrisVanHollen/
+|WikiDraftSum=As a member of the House, Chris Van Hollen introduced H.R. 1862, the Cap and Dvidend Act of 2009, legislation to auction carbon emissions and return revenues to the public. (1)  As a member of the House Sustainable Energy and Environment Coalition he said, “We must continue to build America’s clean energy future.” (2)  In 2015, he introduced legislation to require crude energy suppliers or processors to purchase carbon permits for CO2 they emit. (3)  In 2016, he became Co-Chair of the Bicameral Task Force on Climate Change of the U.S. House & Senate. Announcing his position, he said, “Combating climate change is a national security, environmental, and moral battle, and out of this great challenge comes great economic opportunity for the United States if we lead the charge”. (4)
+
+
+
+1. United States Government Publishing Office, page on HR1862 the Cap and Trade Dividend, https://www.gpo.gov/fdsys/pkg/BILLS-111hr1862ih/pdf/BILLS-111hr1862ih.pdf
+
+
+
+2. U.S. House Sustainable Energy and Environment Coalition Press Release Dec 13, 2012 https://seec-israel.house.gov/press-release/seec-welcomes-congressman-chris-van-hollen 
+
+
+
+3. U.S. Congress Legislative Webpage, H.R.1027 Healthy Climate and Family Security Act of 2015 https://www.congress.gov/bill/114th-congress/house-bill/1027 
+
+
+
+4. “New Co-Chair of Bicameral Task Force on Climate Change” Dec 9, 2014, House website press release https://vanhollen.house.gov/media-center/press-releases/van-hollen-to-serve-as-new-co-chair-of-bicameral-task-force-on-climate
+|MovedToWikipedia=Information <b>HAS NOT</b> been transferred to Wikipedia &#x2717;
+|Q1=As co-chair of the Bicameral Task Force on Climate Change,  in 2014 he said, “Combating climate change is a national security, environmental, and moral battle, and out of this great challenge comes great economic opportunity for the United States if we lead the charge”. Dec 9, 2014, House website press release https://vanhollen.house.gov/media-center/press-releases/van-hollen-to-serve-as-new-co-chair-of-bicameral-task-force-on-climate 
+
+
+
+In 2015 he said “As one of humanity’s greatest collective challenges, addressing climate change requires a global effort with strong leadership…The dangerous impacts of climate change disproportionately fall on the shoulders of vulnerable populations who are least empowered to prepare and act.” Van Hollen Statement on Pope Francis’ Encyclical on Climate Change Jun 18, 2015 Washington, https://vanhollen.house.gov/media-center/press-releases/van-hollen-statement-on-pope-francis-encyclical-on-climate-change
+|Q2=As a member of the House, Chris Van Hollen introduced H.R. 1862, the Cap and Dividend Act of 2009, legislation to price carbon emissions and return revenues to the public United States Government Publishing Office https://www.gpo.gov/fdsys/pkg/BILLS-111hr1862ih/pdf/BILLS-111hr1862ih.pdf 
+
+
+
+As a member of the House Sustainable Energy and Environment Coalition in 2012 he said, “We must continue to build America’s clean energy future” https://seec-israel.house.gov/press-release/seec-welcomes-congressman-chris-van-hollen  
+
+
+
+In 2015, he introduced H.R.1027, the Healthy Climate and Family Security Act to require energy producers to purchase carbon permits equivalent to the amount of CO2 that they sell. https://www.congress.gov/bill/114th-congress/house-bill/1027. 
+
+
+
+In 2015, he voted against HR 2042, The Ratepayer Protection Act, which would have prevented implementation of the Clean Power Plan. https://www.congress.gov/bill/114th-congress/house-bill/2042.
+|Q3=None found.
+|OtherSources=Responding to Pope Francis’ Encyclical on Climate Change, in 2015 he said, “As one of humanity’s greatest collective challenges, addressing climate change requires a global effort with strong leadership…The dangerous impacts of climate change disproportionately fall on the shoulders of vulnerable populations who are least empowered to prepare and act.” https://vanhollen.house.gov/media-center/press-releases/van-hollen-statement-on-pope-francis-encyclical-on-climate-change. 
+
+
+
+He uses the hashtag #ActOnClimate, started in support of President Obama’s Climate Action Plan by U.S. Representative Henry A. Waxman (Mar 2016 tweet, https://twitter.com/ChrisVanHollen/status/708064676425408512)
+}}
