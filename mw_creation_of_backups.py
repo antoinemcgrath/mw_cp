@@ -17,7 +17,7 @@ from glob import glob
 import subprocess
 
 gitPath = '/mnt/8TB/GITS/mw_cp/'
-DATE = datetime.datetime.now().strftime('%Y-%m-%d')
+DATE = datetime.datetime.now().strftime('%Y-%m-%d_%H:%M')
 base = '/mnt/8TB/GITS/mw_cp/mw_site_most_recent/'
 base_dir = '/mnt/8TB/GITS/mw_cp/mw_site_most_recent/'+DATE+"/"
 historical_dir = '/mnt/8TB/GITS/mw_cp/mw_site_backups/'
@@ -62,8 +62,11 @@ make_path_exist(historical_dir) # Create historical dir if it does not exist
 
 sub_dirs = glob(base+"*/")
 for sub_dir in sub_dirs:
-    #print(sub_dir)
-    #print(historical_dir)
+    print(sub_dir)
+    print(historical_dir)
+    #if os.path.isfile(historical_dir+DATE) == True:
+    #    print("Backup for this date already exists")
+             
     shutil.move(sub_dir, historical_dir)
     print("Moving " + sub_dir + "  to backups dir." )
     
