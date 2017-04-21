@@ -22,13 +22,6 @@ base = '/mnt/8TB/GITS/mw_cp/mw_site_most_recent/'
 base_dir = '/mnt/8TB/GITS/mw_cp/mw_site_most_recent/'+DATE+"/"
 historical_dir = '/mnt/8TB/GITS/mw_cp/mw_site_backups/'
 
-print("git add .")
-subprocess.call(["git", 'add', '.'], cwd=gitPath)
-print("git commit -m 'mw_pages backedup'")
-subprocess.call(["git", 'commit', '-m', '"pushed for change"'], cwd=gitPath)
-print("git push -u origin master")
-subprocess.call(["git", 'push', '-u', 'origin', 'master'], cwd=gitPath)
-
 
 #### Fetch access values (must be username+password for a MW with bot/admin permissions)
 with open(os.path.expanduser('~') + "/.invisible/mw.csv", 'r') as f:
@@ -87,3 +80,15 @@ for cat in cat_list:
         f = open(os.path.join(base_dir+cat,listpage.name + ".txt"), "w")
         f.write(text)
         f.close()
+        
+        
+#### Update git
+def update_git():
+     print("git add .")
+     subprocess.call(["git", 'add', '.'], cwd=gitPath)
+     print("git commit -m 'mw_pages backedup'")
+     subprocess.call(["git", 'commit', '-m', '"mw backup updated: mw_creation_of_backups.py"'], cwd=gitPath)
+     print("git push -u origin master")
+     subprocess.call(["git", 'push', '-u', 'origin', 'master'], cwd=gitPath)
+
+update_git()
