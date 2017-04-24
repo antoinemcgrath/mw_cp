@@ -37,7 +37,12 @@ ua = 'CCWPTool run by User:1A' #UserAgent bot note
 site = mwclient.Site(('http', 'www.climatepolitics.info'), path='/w/',)
 site.login(login_user, login_password)
 
-SpecifiedCategory = 'US_CA_Senate'
+Specified_A_Category = 'US_CA_Senate'
+Specified_B_Category = 'US_CA_Assembly'
+
+#http://www.climatecongress.info/wiki/Category:US_CA_Senate
+#http://www.climatecongress.info/wiki/Category:US_CA_Assembly
+
 
 #http://www.climatecongress.info/wiki/BotResource:usa_congress_votes
 #leg_list = "usa_congress_votes"
@@ -67,9 +72,7 @@ legislationtext = get_leg_item(leg_list) #print(legislationtext)
 ##This block fetches the page that will be updated
 #http://www.climatecongress.info/wiki/Category:Candidates
 #SpecifiedCategory = 'Candidates'
-#http://www.climatecongress.info/wiki/Category:US_CA_Senate
-#SpecifiedCategory = 'US_CA_Senate'
-#http://www.climatecongress.info/wiki/Category:US_CA_Assembly
+
 #state = 'ca'
 
 #openstates.bill_detail( 'ca', '20152016', 'SB 32')
@@ -80,8 +83,16 @@ legislationtext = get_leg_item(leg_list) #print(legislationtext)
 
 
 
-#def get_a_page(site, SpecifiedCategory): ##def get_a_page ### Results in text (maybe only one and not loop)
-for a_page in site.Categories[SpecifiedCategory]:
+#### Create a list of all the us_ca pages to be updated
+list=[]
+for a_page in site.Categories[Specified_A_Category]:
+    list.append(a_page)
+for a_page in site.Categories[Specified_B_Category]:
+    list.append(a_page)
+
+#### Update all those pages
+for a_page in list:
+    print(a_page)
     articlepage = site.Pages[a_page]  #articlepage = site.Pages["Michael_Thompson"] #articlepage = site.Pages["Bill_Dodd_(USA_CA)"] #articlepage = site.Pages['Cathleen_Galgiani_(USA_CA)']
 
     #articlepage = site.Pages['Bill_Dodd_(USA_CA)']
