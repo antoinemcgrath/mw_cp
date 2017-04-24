@@ -1,0 +1,26 @@
+{{Candidate
+|Firstname=Thomas
+|Lastname=Garrett
+|Bioguide_id=G000580
+|Gender=M
+|Nickname=Tom
+|Wiki1=https://en.wikipedia.org/wiki/Thomas_Garrett,_Jr.
+|State=Virginia
+|District=5
+|Office=House
+|Party=Republican
+|Position=Challenger
+|CampaignSite=https://www.tomgarrettforcongress.com/
+|FB2=https://www.facebook.com/TomGarrettForCongress
+|TW2=https://twitter.com/garrettforva
+|WikiDraftSum=In a 2016 debate, Tom Garrett said, "We know there’s climate change. There is debate as to whether it’s man-caused climate change. What we need to do is take a long hard look at both sides of the science, determine what amount of the climate change is man-caused, and then act appropriately after doing a cost-benefit analysis of what we give up and what we gain by that action” (1).
+
+
+1. "5th candidates straddle pipeline; talk climate change at forum", In News & Advance, by Alex Rohr, 2016-08-10. http://www.newsadvance.com/townnews/politics/th-candidates-straddle-pipeline-talk-climate-change-at-forum/article_7ded0f6e-3ea7-5444-9dbb-8fb31a239d24.html
+|MovedToWikipedia=Information <b>HAS NEVER</b> been transferred to Wikipedia &#x2717;
+|Q1=In a 2016 debate, Tom Garrett said, "We know there’s climate change. There is debate as to whether it’s man-caused climate change. What we need to do is take a long hard look at both sides of the science, determine what amount of the climate change is man-caused, and then act appropriately after doing a cost-benefit analysis of what we give up and what we gain by that action”.
+http://www.newsadvance.com/townnews/politics/th-candidates-straddle-pipeline-talk-climate-change-at-forum/article_7ded0f6e-3ea7-5444-9dbb-8fb31a239d24.html
+|Q2=None found.
+|Q3=None found.
+|OtherSources=None found.
+}}

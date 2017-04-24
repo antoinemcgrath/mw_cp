@@ -1,0 +1,34 @@
+{{Candidate
+|Firstname=Douglas
+|Lastname=Collins
+|State=Georgia
+|District=9
+|Office=House
+|Party=Republican
+|HiddenValues=Provided_by_ProPublica.org
+                 "id": "C001093",
+                 "thomas_id": "2121",
+                 "api_uri":"https://api.propublica.org/congress/v1/members/C001093.json",
+                 "first_name": "Doug",
+                 "middle_name": null,
+                 "last_name": "Collins",
+                 "party": "R",
+                 "twitter_account": "RepDougCollins",
+                 "facebook_account": "RepresentativeDougCollins",
+                 "facebook_id": "505646972800006",
+                 "google_entity_id": "kg:/m/04qywk",
+                 "url": "http://dougcollins.house.gov",
+                 "rss_url": "https://dougcollins.house.gov/rss/press-releases.xml",
+                 "domain": "dougcollins.house.gov",
+                 "dw_nominate": "",
+                 "ideal_point": "",
+                 "seniority": "4",
+                 "next_election": "2016",
+                 "total_votes": "1325",
+                 "missed_votes": "25",
+                 "total_present": "0",
+                 "state": "GA",
+                 "district": "9"
+                 ,"missed_votes_pct": "1.89",
+                 "votes_with_party_pct": "94.31"
+}}

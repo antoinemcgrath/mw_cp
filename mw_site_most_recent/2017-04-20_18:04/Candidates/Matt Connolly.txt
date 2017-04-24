@@ -1,0 +1,8 @@
+{{Candidate
+|Firstname=Matt
+|Lastname=Connolly
+|State=Pennsylvania
+|District=17
+|Office=House
+|Party=Republican
+}}

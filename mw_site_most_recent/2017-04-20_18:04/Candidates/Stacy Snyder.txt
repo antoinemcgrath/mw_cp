@@ -1,0 +1,8 @@
+{{Candidate
+|Firstname=Stacy
+|Lastname=Snyder
+|State=Tennessee
+|District=5
+|Office=House
+|Party=Republican
+}}

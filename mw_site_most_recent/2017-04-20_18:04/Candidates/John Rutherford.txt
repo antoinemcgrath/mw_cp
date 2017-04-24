@@ -1,0 +1,23 @@
+{{Candidate
+|Firstname=John
+|Lastname=Rutherford
+|Bioguide_id=R000609
+|Gender=M
+|Wiki1=https://en.wikipedia.org/wiki/John_Rutherford_(Florida_politician)
+|State=Florida
+|District=4
+|Office=House
+|Party=Republican
+|CampaignSite=http://votejohnrutherford.com/
+|FB2=https://www.facebook.com/JohnRutherfordFL/
+|TW2=https://twitter.com/JRutherfordFL
+|WikiDraftSum=In November 2016, John Rutherford said "Climate was changing before we had carbon emissions ... I need to be convinced how much of that is man and how much of it is just the global climate conditions," (1).  
+
+
+1. "Florida's 10 House freshmen a mixed bag on climate front", Hannah Hess, E&ENews, 2016-11-17. http://www.eenews.net/stories/1060045897
+|MovedToWikipedia=Information <b>HAS NEVER</b> been transferred to Wikipedia &#x2717;
+|Q1=In November 2016, he said "Climate was changing before we had carbon emissions ... I need to be convinced how much of that is man and how much of it is just the global climate conditions." http://www.eenews.net/stories/1060045897
+|Q2=None found.
+|Q3=None found.
+|OtherSources=None found.
+}}

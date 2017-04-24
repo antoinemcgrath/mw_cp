@@ -1,0 +1,8 @@
+{{Candidate
+|Firstname=George
+|Lastname=Athanasopoulos
+|State=Colorado
+|District=7
+|Office=House
+|Party=Republican
+}}

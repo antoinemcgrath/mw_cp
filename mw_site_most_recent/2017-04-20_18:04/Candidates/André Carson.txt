@@ -1,0 +1,50 @@
+{{Candidate
+|Firstname=André
+|Lastname=Carson
+|Bioguide_id=C001072
+|Gender=M
+|State=Indiana
+|District=7
+|Office=House
+|Party=Democratic
+|HiddenValues=Provided_by_ProPublica.org
+                 "id": "C001072",
+                 "thomas_id": "1889",
+                 "api_uri":"https://api.propublica.org/congress/v1/members/C001072.json",
+                 "first_name": "André",
+                 "middle_name": "",
+                 "last_name": "Carson",
+                 "party": "D",
+                 "twitter_account": "RepAndreCarson",
+                 "facebook_account": "CongressmanAndreCarson",
+                 "facebook_id": "123884330964019",
+                 "google_entity_id": "kg:/m/03qcvz1",
+                 "url": "http://carson.house.gov",
+                 "rss_url": "http://carson.house.gov/rss.xml",
+                 "domain": "carson.house.gov",
+                 "dw_nominate": "",
+                 "ideal_point": "",
+                 "seniority": "10",
+                 "next_election": "2016",
+                 "total_votes": "1325",
+                 "missed_votes": "20",
+                 "total_present": "0",
+                 "state": "IN",
+                 "district": "7"
+                 ,"missed_votes_pct": "1.51",
+                 "votes_with_party_pct": "95.79"
+
+|Q2=
+
+'''Automatically Generated Congressional Votes'''
+
+In 2009, as a member of the US House of Representatives, he voted for the American Clean Energy and Security Act HR 2454 (Waxman-Markey). https://www.congress.gov/bill/111th-congress/house-bill/2454 
+
+In 2011, he voted against limiting the EPA's ability to regulate greenhouse gas emissions. http://clerk.house.gov/evs/2011/roll249.xml 
+
+In 2013, he voted against making it harder for Congress to put a price on carbon by voting against a point of order opposing a carbon tax or a fee on carbon emissions. http://clerk.house.gov/evs/2013/roll445.xml 
+
+In 2014, he voted for a House amendment calling on Congress to recognize that man-made carbon pollution contributes to climate change and that climate change has a wide range of negative effects. http://clerk.house.gov/evs/2014/roll103.xml 
+
+In 2015, as a member of Congress, he supported HR 2042, The Ratepayer Protection Act, which would have prevented implementation of the Clean Power Plan. http://clerk.house.gov/evs/2015/roll384.xml 
+}}

@@ -1,0 +1,8 @@
+{{Candidate
+|Firstname=John
+|Lastname=Bouie
+|State=Mississippi
+|District=2
+|Office=House
+|Party=Republican
+}}

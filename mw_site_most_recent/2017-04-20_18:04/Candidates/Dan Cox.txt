@@ -1,0 +1,8 @@
+{{Candidate
+|Firstname=Dan
+|Lastname=Cox
+|State=Maryland
+|District=8
+|Office=House
+|Party=Republican
+}}

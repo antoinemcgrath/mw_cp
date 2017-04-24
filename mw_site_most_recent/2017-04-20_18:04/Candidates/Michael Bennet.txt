@@ -1,0 +1,35 @@
+{{Candidate
+|Firstname=Michael
+|Lastname=Bennet
+|Bioguide_id=B001267
+|Gender=M
+|Wiki1=https://en.wikipedia.org/wiki/Michael_Bennet
+|State=Colorado
+|Office=Senate
+|Party=Democratic
+|Position=Incumbent
+|SenateOfficialSite=https://www.bennet.senate.gov/
+|CampaignSite=http://bennetforcolorado.com/
+|FB1=https://www.facebook.com/senatorbennet
+|TW1=https://twitter.com/senbennetco
+|WikiDraftSum=On April 6, 2011, Michael Bennet voted against limiting the EPA’s ability to regulate greenhouse gas emissions. (1) On March 22, 2013 he voted not to make it harder to put a price on carbon by voting against a point of order opposing a carbon tax or a fee on carbon emissions. (The vote did not pass by 2/3). (2) In a July 29, 2014 statement on the Clean Power Plan, he said “Our state is already experiencing the negative effects of a changing climate. The constant threat of wildfire, prolonged drought that imperils our $40 billion agriculture industry, and our shortened winters (and ski seasons) and longer summers all demand action.” (3) On November 17, 2015 he voted in support of the Clean Power Plan. (4)
+
+
+1. U.S. Senate Roll Call Votes 112th Congress - 1st Session, Vote Number 54, 2011-04-06. http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?congress=112&session=1&vote=00054
+
+
+2. U.S. Senate Roll Call Votes 113th Congress - 1st Session, Vote Number 59, 2013-03-22.
+http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?congress=113&session=1&vote=00059
+
+
+3. “Bennet: Climate Change Already Affecting Colorado”, Press Release on Clean Power Plan, 2014-07-29. https://www.bennet.senate.gov/?p=release&id=1091
+
+
+4. U.S. Senate Roll Call Votes 114th Congress - 1st Session, Vote Number 307, 2015-11-17. http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?congress=114&session=1&vote=00307#top
+|Q1=In a series of roll call votes attached to debate about the Keystone XL pipeline on January 21, 2015, he voted for Amendment 87 by Sen. Hoeven that climate change is real and human activity contributes to climate change http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?congress=114&session=1&vote=00011, and for Amendment 58 by Sen. Schatz, that human activity "significantly" contributes to climate change http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?congress=114&session=1&vote=00012.
+|Q2=On April 6, 2011, he voted against limiting the EPA’s ability to regulate greenhouse gas emissions. http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?congress=112&session=1&vote=00054
+On March 22, 2013 he voted against making it harder to put a price on carbon by voting against a point of order opposing a carbon tax or a fee on carbon emissions. (The vote did not pass by 2/3.) http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?congress=113&session=1&vote=00059
+On November 17, 2015 he voted in support of the Clean Power Plan. http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?congress=114&session=1&vote=00307#top
+|Q3=In a July 29, 2014 statement on the Clean Power Plan, he said “Our state is already experiencing the negative effects of a changing climate. The constant threat of wildfire, prolonged drought that imperils our $40 billion agriculture industry, and our shortened winters (and ski seasons) and longer summers all demand action. Fortunately, Colorado is already well-positioned to meet these carbon reduction targets.” https://www.bennet.senate.gov/?p=release&id=1091
+|OtherSources=Campaign Issues Page http://bennetforcolorado.com/issue/energy-and-the-environment/
+}}

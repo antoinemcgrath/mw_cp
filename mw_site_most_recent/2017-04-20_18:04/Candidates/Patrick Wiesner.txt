@@ -1,0 +1,19 @@
+{{Candidate
+|Firstname=Patrick
+|Lastname=Wiesner
+|Wiki1=https://en.wikipedia.org/wiki/Patrick_Wiesner
+|State=Kansas
+|Office=Senate
+|Party=Democratic
+|CampaignSite=http://www.wiesnerforsenate.com/
+|FB2=https://www.facebook.com/wiesnersenate
+|WikiDraftSum=On his campaign website, Patrick Wiesner says, "I recognize global warming is happening because we use oil, natural gas, and coal for fuel." He says, "I’ll oppose putting cap and trade into law. Congress does not have the expertise required to accurately calculate the carbon capacity of the US atmosphere, allocate it to industries or companies, and then monitor trading the allocation...cap and trade will never work."
+
+
+1."Abundant Clean Energy" http://www.wiesnerforsenate.com/abundant-clean-energy/ Accessed 2016-09-19
+|MovedToWikipedia=Information <b>HAS NOT</b> been transferred to Wikipedia &#x2717;
+|Q1=On his campaign website, Patrick Wiesner says, "I recognize global warming is happening because we use oil, natural gas, and coal for fuel." http://www.wiesnerforsenate.com/abundant-clean-energy/ Accessed 2016-09-19
+|Q2=On his campaign website, Patrick Wiesner says, "I’ll oppose putting cap and trade into law. Congress does not have the expertise required to accurately calculate the carbon capacity of the US atmosphere, allocate it to industries or companies, and then monitor trading the allocation...cap and trade will never work." http://www.wiesnerforsenate.com/abundant-clean-energy/ Accessed 2016-09-19
+|Q3=None found.
+|OtherSources=None found.
+}}

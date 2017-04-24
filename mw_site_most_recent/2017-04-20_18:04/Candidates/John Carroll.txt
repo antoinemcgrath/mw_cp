@@ -1,0 +1,19 @@
+{{Candidate
+|Firstname=John
+|Lastname=Carroll
+|Wiki1=https://en.wikipedia.org/wiki/John_Carroll_(Hawaii_politician)
+|State=Hawaii
+|Office=Senate
+|Party=Republican
+|Position=Challenger
+|CampaignSite=http://www.carrollforhawaii.com/
+|FB2=https://www.facebook.com/carroll4senate/
+|WikiDraftSum=No documented expression of views by John Carroll found on whether climate change is real and caused by human activity. On his campaign website, Carroll states "We have an abundance of energy resources, from geothermal, to solar, wind and ocean energy...Carroll feels that Hawaii has an opportunity to compete for the exploding alternative energy, environmental monitoring, and biofuel markets." (1)
+
+
+1. Search Results for "Energy" in John Carroll for U.S. Senate. https://carroll4senate.wordpress.com/?s=energy Accessed 2016-09-12
+|Q1=None found.
+|Q2=On his campaign website, Carroll states "We have an abundance of energy resources, from geothermal, to solar, wind and ocean energy...Carroll feels that Hawaii has an opportunity to compete for the exploding alternative energy, environmental monitoring, and biofuel markets." https://carroll4senate.wordpress.com/?s=energy Accessed 2016-09-12
+|Q3=None found.
+|OtherSources=None found.
+}}

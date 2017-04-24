@@ -1,0 +1,20 @@
+{{Candidate
+|Firstname=Jack
+|Lastname=Martins
+|Wiki1=https://en.wikipedia.org/wiki/Jack_Martins
+|State=New York
+|District=3
+|Office=House
+|Party=Republican
+|Position=Challenger
+|SenateOfficialSite=https://www.nysenate.gov/senators/jack-m-martins
+|CampaignSite=https://martinsforcongress.com/
+|FB2=https://www.facebook.com/martinsforcongress
+|TW1=https://twitter.com/SenatorMartins
+|WikiDraftSum=No material found.
+|MovedToWikipedia=Information <b>HAS NEVER</b> been transferred to Wikipedia &#x2717;
+|Q1=None found.
+|Q2=None found.
+|Q3=None found.
+|OtherSources=None found.
+}}

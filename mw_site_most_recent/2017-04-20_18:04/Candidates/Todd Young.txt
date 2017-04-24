@@ -1,0 +1,32 @@
+{{Candidate
+|Firstname=Todd
+|Lastname=Young
+|Bioguide_id=Y000064
+|Gender=M
+|Wiki1=https://en.wikipedia.org/wiki/Todd_Young
+|State=Indiana
+|Office=Senate
+|Party=Republican
+|Position=Challenger
+|HouseOfficialSite=https://toddyoung.house.gov/
+|CampaignSite=https://toddyoung.org/
+|FB1=https://www.facebook.com/RepToddYoung
+|TW1=https://twitter.com/RepToddYoung
+|WikiDraftSum=In 2010, Todd Young stated that he was uncertain what was causing the observed heating of the planet, that it could be caused by sunspots or normal cycles of nature, and that “the science is not settled.” (1) In 2011, as a Representative, he voted to prevent the EPA from regulating greenhouse gases. (2) In 2014, he said that it is “not necessarily the case” that there is a scientific consensus on climate change. (3) 
+
+
+1. “Climate Change Doubt Is Tea Party Article of Faith” on New York Times, by John M. Broder, 2010-10-20. http://www.nytimes.com/2010/10/21/us/politics/21climate.html?_r=0
+
+
+2. “Final Vote Results for Roll Call 249” on Energy Tax Prevention Act of 2011, 2011-04-07. http://clerk.house.gov/evs/2011/roll249.xml
+
+
+3. “In their own words: Todd Young on climate change”, video clip on WLKY.com, 2014-10-08. http://www.wlky.com/politics/in-their-own-words/in-their-own-words-todd-young-on-climate-change/28991562
+|Q1=In 2010, Todd Young said he was uncertain what was causing the observed heating of the planet, that it could be caused by sunspots or normal cycles of nature, and that “the science is not settled”. http://www.nytimes.com/2010/10/21/us/politics/21climate.html?_r=0
+
+In 2014 he said it is “not necessarily the case” that there is a scientific consensus on climate change. http://www.wlky.com/politics/in-their-own-words/in-their-own-words-todd-young-on-climate-change/28991562
+|Q2=In 2011, as a House member, he voted to prevent the EPA from regulating greenhouse gases. http://clerk.house.gov/evs/2011/roll249.xml
+|Q3=None found.
+|OtherSources=Citizens of Monroe County planned to hold a protest at representative Todd Young’s office, but what was intended as a protest turned into a fifteen-minute meeting in the congressman’s office. They discuss climate change at 1:45. “I don’t deny. I would put myself in the agnostic category, with respect to the extent that human activity is responsible”.
+https://beta.prx.org/stories/101583
+}}

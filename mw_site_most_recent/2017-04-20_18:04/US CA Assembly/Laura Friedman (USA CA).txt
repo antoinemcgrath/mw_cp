@@ -1,0 +1,37 @@
+{{US CA Assembly
+|Firstname=Laura
+|Lastname=Friedman
+|Gender=Female
+|Start Edit Date=2017/01/25
+|End Edit Date=2017/02/09
+|Office=CA State Assemblymember
+|State=California
+|District=43
+|Party=Democratic
+|OfficialGovSite=https://a43.asmdc.org
+|AdditionalSite=http://www.votelaurafriedman.com/
+|Wiki1=https://en.wikipedia.org/wiki/Laura_Friedman
+|FB1=https://www.facebook.com/laura.friedman.547
+|TW2=https://twitter.com/laurafriedman43
+|WikiDraftSum=Laura Friedman emphasizes being an "environmental champion" in her campaign site, stating that she is "uncompromising in her commitment to halting climate change through mandating increased utilization and development of clean energy, and sustainable methods of transportation of people and goods," (1). 
+
+
+1. Environment - Vote Laura Friedman http://www.votelaurafriedman.com/environment Accessed 25 January 2017.
+|MovedToWikipedia=Information <b>HAS NEVER</b> been transferred to Wikipedia &#x2717;
+|Q1=No statements found.
+|Q2=Laura Friedman retweeted a WaPo article on Trump’s potential damage to the climate. https://twitter.com/CapitolAlert/status/814002736073179136. Other recent retweets show similar theme: New York Times article on states and cities taking the lead on climate action (https://twitter.com/mattspete/status/813517190137688064); Sacramento Bee story on Trump’s environmental impact on California (https://twitter.com/ryrivard/status/810554139214159873).
+
+
+
+'''Automatically Generated Legislative Actions'''
+
+<!--EndQ2-->
+|
+|Q3=From Laura Friedman's campaign website: “Laura Friedman is uncompromising in her commitment to halting climate change through mandating increased utilization and development of clean energy, and sustainable methods of transportation of people and goods. [...] Pedestrian and bicycle infrastructure, as well as public transportation, must be a priority. Enacting stronger vehicle emissions standards is one of the keys to reducing greenhouse gasses.”
+http://www.votelaurafriedman.com/environment Accessed January 25, 2017
+|OtherSources=As Laura Friedman is new to the assembly, she does not yet have a voting record on climate change related legislation. On Twitter, she regularly retweeted pro-climate articles, including a Washington Post article on Trump’s potential damage to the climate a New York Times article on states and cities taking the lead on climate action and a Sacramento Bee story on Trump’s environmental impact on California. .@laurafriedman43 Twitter Profile. https://twitter.com/laurafriedman43
+|Wing=Assembly
+|Level=US_State
+|Photo=http://assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/ad43_friedman_roster150_20161205.jpg
+|Leg_id=CAL000500
+}}

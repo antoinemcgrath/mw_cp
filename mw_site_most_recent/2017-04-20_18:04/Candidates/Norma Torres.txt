@@ -1,0 +1,16 @@
+{{Candidate
+|Firstname=Norma
+|Lastname=Torres
+|Bioguide_id=T000474
+|Gender=F
+|State=California
+|District=35
+|Office=House
+|Party=Democratic
+
+|Q2=
+
+'''Automatically Generated Congressional Votes'''
+
+In 2015, as a member of Congress she voted against HR 2042, The Ratepayer Protection Act, which would have prevented implementation of the Clean Power Plan. http://clerk.house.gov/evs/2015/roll384.xml 
+}}

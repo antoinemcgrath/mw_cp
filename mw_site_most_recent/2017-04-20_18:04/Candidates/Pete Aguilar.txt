@@ -1,0 +1,73 @@
+{{Candidate
+|Firstname=Pete
+|Lastname=Aguilar
+|Bioguide_id=A000371
+|Gender=M
+|Wiki1=https://en.wikipedia.org/wiki/Pete_Aguilar
+|State=California
+|District=31
+|Office=House
+|Party=Democratic
+|Position=Incumbent
+|HouseOfficialSite=http://aguilar.house.gov/
+|CampaignSite=http://www.peteaguilar.com/
+|FB1=https://www.facebook.com/reppeteaguilar
+|FB2=https://www.facebook.com/PeteAguilarforCongress/
+|TW1=https://twitter.com/RepPeteAguilar
+|TW2=https://twitter.com/aguilarpete
+|WikiDraftSum=In 2014, Pete Aguilar said "we need to address climate change. We need to have emissions targets, we need to take action at the federal level,” (1). In December 2015, he voted against HR 2042, a bill designed block implementation of the Clean Power Plan (2,3). In March 2016, he said "while climate change affects us all, this is particularly personal to our Inland Empire community," (4).
+
+
+1. http://www.sbsun.com/government-and-politics/20141020/31st-congressional-district-debate-pete-aguilar-paul-chabot-face-off-over-immigration-healthcare-education
+
+
+2. "Measure to block EPA Clean Power Plan passes House," in Utility Dive, Robert Walton, 2015-06-26. http://www.utilitydive.com/news/measure-to-block-epa-clean-power-plan-passes-house/401376/
+
+
+3. U.S. House of Representatives Roll Call Votes 114th Congress, Vote Number 384, 2015-06-24. http://clerk.house.gov/evs/2015/roll384.xml
+
+
+4. Combatting Climate Change will Create Inland Empire Jobs, Pete Aguilar and Ron Loveridge, Inland Empire Community News, 2016-03-09. http://iecn.com/combatting-climate-change-will-create-inland-empire-jobs/
+|MovedToWikipedia=Information <b>HAS NEVER</b> been transferred to Wikipedia &#x2717;
+|Q1=In 2014, he said "we need to address climate change. We need to have emissions targets, we need to take action at the federal level." http://www.sbsun.com/government-and-politics/20141020/31st-congressional-district-debate-pete-aguilar-paul-chabot-face-off-over-immigration-healthcare-education
+|Q2=In December 2015, he voted against HR 2042, a bill designed block implementation of the Clean Power Plan. http://www.utilitydive.com/news/measure-to-block-epa-clean-power-plan-passes-house/401376/
+https://rules.house.gov/bill/114/hr-2042
+|Q3=In March 2016, he said "While climate change affects us all, this is particularly personal to our Inland Empire community." http://iecn.com/combatting-climate-change-will-create-inland-empire-jobs/
+|OtherSources=In March 2016, he co-authored an op-ed entitled "Combatting Climate Change will Create Inland Empire Jobs." http://iecn.com/combatting-climate-change-will-create-inland-empire-jobs/
+|HiddenValues=Provided_by_ProPublica.org
+                 "id": "A000371",
+                 "thomas_id": "2229",
+                 "api_uri":"https://api.propublica.org/congress/v1/members/A000371.json",
+                 "first_name": "Pete",
+                 "middle_name": null,
+                 "last_name": "Aguilar",
+                 "party": "D",
+                 "twitter_account": "aguilarpete",
+                 "facebook_account": "",
+                 "facebook_id": "",
+                 "google_entity_id": "kg:/m/0jwv0xf",
+                 "url": "https://aguilar.house.gov",
+                 "rss_url": "https://aguilar.house.gov/rss.xml",
+                 "domain": "",
+                 "dw_nominate": "",
+                 "ideal_point": "",
+                 "seniority": "2",
+                 "next_election": "2016",
+                 "total_votes": "1325",
+                 "missed_votes": "47",
+                 "total_present": "0",
+                 "state": "CA",
+                 "district": "31"
+                 ,"missed_votes_pct": "3.55",
+                 "votes_with_party_pct": "90.45"
+|STW=<!--StartSTW-->'''Automatically captured tweets'''{{#widget:Tweet|id=794256025297653761}}
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">.@POTUS strategy w/ Canada to reduce methane emissions is an important step in our global commitment to combat climate change. #ActOnClimate</p><a href="https://twitter.com/RepPeteAguilar/status/707999892166336512/status/Thu Mar 10 18:41:42 +0000 2016</a></blockquote>
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">These bills will reduce pollution, combat harmful effects of climate change &amp; hold energy companies more accountable. http://t.co/Z02tFQg2yy</p><a href="https://twitter.com/RepPeteAguilar/status/630857981828145152/status/Mon Aug 10 21:47:18 +0000 2015</a></blockquote>
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">On #EarthDay, we are reminded that climate change is one of the biggest challenges of our generation. http://t.co/coUlqgJJmn</p><a href="https://twitter.com/RepPeteAguilar/status/590908295231176705/status/Wed Apr 22 16:01:30 +0000 2015</a></blockquote>
+<!--EndSTW-->
+
+
+
+
+
+}}

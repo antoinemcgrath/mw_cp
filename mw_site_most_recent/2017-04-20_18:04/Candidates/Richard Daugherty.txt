@@ -1,0 +1,23 @@
+{{Candidate
+|Firstname=Richard
+|Lastname=Daugherty
+|Nickname=Rick Daugherty
+|Wiki1=https://en.wikipedia.org/wiki/Rick_Daugherty
+|State=Pennsylvania
+|District=15
+|Office=House
+|Party=Democratic
+|Position=Challenger
+|CampaignSite=http://daughertyforcongress.com/
+|FB2=https://www.facebook.com/DaughertyforCongress/
+|TW2=https://twitter.com/Daugherty2016
+|WikiDraftSum=In November 2016, Rick Daugherty said "International trade has to include tariffs on products from nations that pollute excessively and do not adhere to our pollution control standards. We cannot hinder our manufacturing industries with additional pollution controls that then sends factories overseas to places that pollute ten times worse than us," (1). 
+
+
+1. "Charlie Dent vs. Rick Daugherty vs. Paul Rizzo: See where the candidates in the 15th Congressional District stand on the issues," in 8WGAL, 2016-11-03. http://www.wgal.com/article/charlie-dent-vs-rick-daugherty-vs-paul-rizzo-see-where-the-candidates-in-the-15th-congressional-district-stand-on-the-issues/7697777
+|MovedToWikipedia=Information <b>HAS NEVER</b> been transferred to Wikipedia &#x2717;
+|Q1=None found.
+|Q2=In November 2016, he said "international trade has to include tariffs on products from nations that pollute excessively and do not adhere to our pollution control standards. We cannot hinder our manufacturing industries with additional pollution controls that then sends factories overseas to places that pollute ten times worse than us." http://www.wgal.com/article/charlie-dent-vs-rick-daugherty-vs-paul-rizzo-see-where-the-candidates-in-the-15th-congressional-district-stand-on-the-issues/7697777
+|Q3=None found.
+|OtherSources=None found.
+}}

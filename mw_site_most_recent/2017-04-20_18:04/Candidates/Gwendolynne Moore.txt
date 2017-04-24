@@ -1,0 +1,8 @@
+{{Candidate
+|Firstname=Gwendolynne
+|Lastname=Moore
+|State=Wisconsin
+|District=4
+|Office=House
+|Party=Democratic
+}}

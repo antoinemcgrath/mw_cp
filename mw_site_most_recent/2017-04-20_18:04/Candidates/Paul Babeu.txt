@@ -1,0 +1,24 @@
+{{Candidate
+|Firstname=Paul
+|Lastname=Babeu
+|Wiki1=https://en.wikipedia.org/wiki/Paul_Babeu
+|State=Arizona
+|District=1
+|Office=House
+|Party=Republican
+|Position=Challenger
+|CampaignSite=http://www.sheriffpaul.com/
+|FB2=https://www.facebook.com/PaulBabeuAZ
+|TW2=https://twitter.com/PaulBabeuAZ
+|WikiDraftSum=In a Facebook post on November 30, 2015, during the Paris Climate Summit, Paul Babeu wrote, “Obama needs to focus on the REAL threats facing our nation, not the climate change rhetoric he’s trumpeting. This summit he’s attending is a distraction from the mounting national security and foreign policy issues that need to be addressed immediately” (1). On his campaign Issues page he states, “When elected, I will fight against Obama’s job killing ‘clean’ power plan” (2). 
+
+
+1. Facebook Post, Paul Babeu for Congress, 2015-11-30. https://www.facebook.com/PaulBabeuAZ/posts/963889930350884  
+
+
+2. “Energy”, Issues Page, Accessed 2016-09-22. http://www.sheriffpaul.com/issues/
+|Q1=In a Facebook post on November 30, 2015, during the Paris Climate Summit, Paul Babeu wrote, “Obama needs to focus on the REAL threats facing our nation, not the climate change rhetoric he’s trumpeting. This summit he’s attending is a distraction from the mounting national security and foreign policy issues that need to be addressed immediately”. https://www.facebook.com/PaulBabeuAZ/posts/963889930350884
+|Q2=On his campaign Issues page Babeu states, “When elected, I will fight against Obama’s job killing ‘clean’ power plan”. http://www.sheriffpaul.com/issues/
+|Q3=None found.
+|OtherSources=None found.
+}}

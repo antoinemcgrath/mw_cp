@@ -1,0 +1,30 @@
+{{Candidate
+|Firstname=Colleen
+|Lastname=Deacon
+|State=New York
+|District=24
+|Office=House
+|Party=Democratic
+|Position=Challenger
+|CampaignSite=https://colleendeacon.com/
+|FB2=https://www.facebook.com/colleendeaconforcongress
+|TW2=https://twitter.com/colleendeacon
+|WikiDraftSum=Colleen Deacon said “Scientists have reached a clear consensus. Our country’s dependence on fossil fuels and other dirty energy sources pollutes the air we breathe, disrupts our climate, and produces serious health risks, particularly for vulnerable citizens like children and seniors”. (1, 2) If elected, she says she will: “Push for major new investments in clean energy technology, which will not only reduce the pollution that causes climate change, but create new, good-paying jobs for our region” and “Encourage continued cooperation with the international community to address the harmful effects of climate change”. (1, 2)
+
+
+1. “Katko says his position on climate change evolving, recognizes human role” on WRVO.org, by Payne Horning, 2016-07-22. http://wrvo.org/post/katko-says-his-position-climate-change-evolving-recognizes-human-role#stream/0
+
+
+2. “Preserving Our Natural Resources & Addressing Climate Change”, Colleen Deacon for Congress.  https://colleendeacon.com/preserving-our-natural-resources-addressing-climate-change Accessed 2016-10-10.
+|MovedToWikipedia=Information <b>HAS NEVER</b> been transferred to Wikipedia &#x2717;
+|Q1=On her campaign website, Colleen Deacon states, “Scientists have reached a clear consensus. Our country’s dependence on fossil fuels and other dirty energy sources pollutes the air we breathe, disrupts our climate, and produces serious health risks, particularly for vulnerable citizens like children and seniors…We owe it to future generations to protect our natural lands and resources by transitioning away from the dirty energy sources and creating good-paying jobs in the process”.
+https://colleendeacon.com/preserving-our-natural-resources-addressing-climate-change
+
+News article referencing this quote/page: http://wrvo.org/post/katko-says-his-position-climate-change-evolving-recognizes-human-role#stream/0
+|Q2=On her campaign website, she states she will, “Push for major new investments in clean energy technology, which will not only reduce the pollution that causes climate change, but create new, good-paying jobs for our region. Advocate for new energy efficiency standards and additional incentives to support improvements. Encourage continued cooperation with the international community to address the harmful effects of climate change”.
+https://colleendeacon.com/preserving-our-natural-resources-addressing-climate-change
+
+News article referencing this quote/page: http://wrvo.org/post/katko-says-his-position-climate-change-evolving-recognizes-human-role#stream/0
+|Q3=None found.
+|OtherSources=None found.
+}}

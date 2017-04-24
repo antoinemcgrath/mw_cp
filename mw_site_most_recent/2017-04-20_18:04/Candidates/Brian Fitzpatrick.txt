@@ -1,0 +1,28 @@
+{{Candidate
+|Firstname=Brian
+|Lastname=Fitzpatrick
+|Bioguide_id=F000466
+|Gender=M
+|State=Pennsylvania
+|District=8
+|Office=House
+|Party=Republican
+|Position=Challenger
+|CampaignSite=http://www.brianfitzpatrick.com/
+|FB2=https://www.facebook.com/BrianFitzpatrickForCongress
+|TW2=https://twitter.com/brianfitzusa
+|WikiDraftSum=Brian Fitzpatrick has said that the evidence about climate change is “disputed” (1) but also that he would support “every measure possible” to curb carbon emissions (2).
+
+
+1. Republican Candidate Debate PA-08, 16-03-01. (Comments at 8:00)  https://www.youtube.com/watch?v=OSgnZyyI8r0
+
+
+
+2. “The Suburb That Could Flip the House”, in Politico Magazine, by Erick Trickey, 2016-07-21.  http://www.politico.com/magazine/story/2016/07/what-works-2016-campaign-trump-moderates-philadelphia-suburbs-214071
+|MovedToWikipedia=Information <b>HAS NEVER</b> been transferred to Wikipedia &#x2717;
+|Q1=In a March 2016, GOP debate he said, “I think what we can say about it is the evidence is disputed, I think that’s a fact; it is disputed evidence. So what do we do with disputed evidence? Should we take reasonable measures to protect the environment? Of course we should. Should we go overboard to the point where we’re shutting down businesses, strangling businesses with regulations so that, in order to comply with these regulations? They threaten their businesses, and I’ve spoken to many business owners that have told me as such, as far as the paperwork and the administrative burden and the cost for marginal, if any, environmental benefit? No. So I think it’s a question of being reasonable. We all care about our environment, we all love our planet, but we have to be smart about how we go about addressing it”. (Comments at 08:00)
+https://www.youtube.com/watch?v=OSgnZyyI8r0
+|Q2=None found.
+|Q3=None found.
+|OtherSources=None found.
+}}

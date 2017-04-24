@@ -1,0 +1,26 @@
+{{Candidate
+|Firstname=James
+|Lastname=Moeller
+|Nickname=Jim Moeller
+|Wiki1=https://en.wikipedia.org/wiki/Jim_Moeller
+|State=Washington
+|District=3
+|Office=House
+|Party=Democratic
+|Position=Challenger
+|CampaignSite=http://jimmoeller.org/
+|FB2=https://www.facebook.com/ElectJimMoeller
+|TW2=https://twitter.com/Jimmoeller
+|WikiDraftSum=On his campaign site, Jim Moeller states, "Climate change is real and it is a significant threat to our environment and livelihood. One of the main contributors to climate change and the degradation of our environment is the use of fossil fuels," (1). In 2016, he endorsed I-732, the Washington State Carbon Tax ballot initiative (2).
+
+
+1. Issues. http://jimmoeller.org/issues/#1466181618604-87e37c90-d3ac Accessed 2016-10-25
+
+
+2. People and Organizations Endorsing I-732. https://yeson732.org/endorsements-expanded/ Accessed 2016-10-25
+|MovedToWikipedia=Information <b>HAS NEVER</b> been transferred to Wikipedia &#x2717;
+|Q1=On his campaign site, he states, "Climate change is real and it is a significant threat to our environment and livelihood. One of the main contributors to climate change and the degradation of our environment is the use of fossil fuels." http://jimmoeller.org/issues/#1466181618604-87e37c90-d3ac
+|Q2=In 2016, he endorsed I-732, the Washington State Carbon Tax ballot initiative. https://yeson732.org/endorsements-expanded/
+|Q3=None found.
+|OtherSources=None found.
+}}

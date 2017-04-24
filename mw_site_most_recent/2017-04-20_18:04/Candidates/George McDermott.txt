@@ -1,0 +1,8 @@
+{{Candidate
+|Firstname=George
+|Lastname=McDermott
+|State=Maryland
+|District=4
+|Office=House
+|Party=Republican
+}}

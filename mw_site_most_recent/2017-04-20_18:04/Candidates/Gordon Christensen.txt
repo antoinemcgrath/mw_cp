@@ -1,0 +1,8 @@
+{{Candidate
+|Firstname=Gordon
+|Lastname=Christensen
+|State=Missouri
+|District=4
+|Office=House
+|Party=Democratic
+}}

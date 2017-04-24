@@ -1,0 +1,21 @@
+{{Candidate
+|Firstname=Justin
+|Lastname=Fareed
+|State=California
+|District=24
+|Office=House
+|Party=Republican
+|Position=Challenger
+|CampaignSite=http://www.justinfareed.com/
+|FB2=https://www.facebook.com/JustinForCongress
+|TW2=https://twitter.com/JustinFareed
+|WikiDraftSum=In May 2016, he said "with new technological advancements, I believe that we should and will move toward a more decarbonized future. However, until we perfect these new developments, we need to continue to reduce our dependence on foreign oil by using the natural resources available to us," (1).
+
+
+1. 24th Congressional District Candidate Q&A: Justin Fareed, Noozhawk, 2016-05-20.   https://www.noozhawk.com/noozhawk/print/24th_congressional_district_q_and_a_justin_fareed_20160520
+|MovedToWikipedia=Information <b>HAS NEVER</b> been transferred to Wikipedia &#x2717;
+|Q1=In May 2016, he said "with new technological advancements, I believe that we should and will move toward a more decarbonized future. However, until we perfect these new developments, we need to continue to reduce our dependence on foreign oil by using the natural resources available to us." https://www.noozhawk.com/noozhawk/print/24th_congressional_district_q_and_a_justin_fareed_20160520
+|Q2=None found.
+|Q3=None found.
+|OtherSources=None found.
+}}

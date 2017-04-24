@@ -1,0 +1,8 @@
+{{Candidate
+|Firstname=Ronald
+|Lastname=Kind
+|State=Wisconsin
+|District=3
+|Office=House
+|Party=Democratic
+}}

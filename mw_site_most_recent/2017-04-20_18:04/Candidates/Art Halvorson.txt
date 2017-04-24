@@ -1,0 +1,8 @@
+{{Candidate
+|Firstname=Art
+|Lastname=Halvorson
+|State=Pennsylvania
+|District=9
+|Office=House
+|Party=Democratic
+}}

@@ -1,0 +1,8 @@
+{{Candidate
+|Firstname=Frederick
+|Lastname=Bryson
+|State=North Carolina
+|District=11
+|Office=House
+|Party=Democratic
+}}

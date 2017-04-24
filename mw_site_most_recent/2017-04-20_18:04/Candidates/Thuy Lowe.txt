@@ -1,0 +1,8 @@
+{{Candidate
+|Firstname=Thuy
+|Lastname=Lowe
+|State=Florida
+|District=10
+|Office=House
+|Party=Republican
+}}

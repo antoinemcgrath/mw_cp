@@ -1,0 +1,8 @@
+{{Candidate
+|Firstname=Frank
+|Lastname=Spotorno
+|State=New York
+|District=14
+|Office=House
+|Party=Republican
+}}

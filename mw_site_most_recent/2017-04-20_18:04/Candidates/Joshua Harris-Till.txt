@@ -1,0 +1,8 @@
+{{Candidate
+|Firstname=Joshua
+|Lastname=Harris-Till
+|State=Oklahoma
+|District=2
+|Office=House
+|Party=Democratic
+}}

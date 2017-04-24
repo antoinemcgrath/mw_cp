@@ -1,0 +1,8 @@
+{{Candidate
+|Firstname=Joseph
+|Lastname=Swider
+|State=Louisiana
+|District=1
+|Office=House
+|Party=Democratic
+}}

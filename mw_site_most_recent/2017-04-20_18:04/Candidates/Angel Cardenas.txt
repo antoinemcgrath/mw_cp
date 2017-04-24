@@ -1,0 +1,8 @@
+{{Candidate
+|Firstname=Angel
+|Lastname=Cardenas
+|State=California
+|District=14
+|Office=House
+|Party=Republican
+}}

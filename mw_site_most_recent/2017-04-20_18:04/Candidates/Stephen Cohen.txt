@@ -1,0 +1,34 @@
+{{Candidate
+|Firstname=Stephen
+|Lastname=Cohen
+|State=Tennessee
+|District=9
+|Office=House
+|Party=Democratic
+|HiddenValues=Provided_by_ProPublica.org
+                 "id": "C001068",
+                 "thomas_id": "1878",
+                 "api_uri":"https://api.propublica.org/congress/v1/members/C001068.json",
+                 "first_name": "Steve",
+                 "middle_name": null,
+                 "last_name": "Cohen",
+                 "party": "D",
+                 "twitter_account": "RepCohen",
+                 "facebook_account": "CongressmanSteveCohen",
+                 "facebook_id": "111456965545421",
+                 "google_entity_id": "kg:/m/04lf9tk",
+                 "url": "http://cohen.house.gov",
+                 "rss_url": "https://cohen.house.gov/rss.xml",
+                 "domain": "cohen.house.gov",
+                 "dw_nominate": "",
+                 "ideal_point": "",
+                 "seniority": "10",
+                 "next_election": "2016",
+                 "total_votes": "1325",
+                 "missed_votes": "43",
+                 "total_present": "2",
+                 "state": "TN",
+                 "district": "9"
+                 ,"missed_votes_pct": "3.25",
+                 "votes_with_party_pct": "94.46"
+}}

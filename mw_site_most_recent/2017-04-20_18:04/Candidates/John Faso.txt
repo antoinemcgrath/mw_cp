@@ -1,0 +1,29 @@
+{{Candidate
+|Firstname=John
+|Lastname=Faso
+|Bioguide_id=F000464
+|Gender=M
+|Wiki1=https://en.wikipedia.org/wiki/John_Faso
+|State=New York
+|District=19
+|Office=House
+|Party=Republican
+|Position=Challenger
+|CampaignSite=https://johnfaso.com/
+|FB2=https://www.facebook.com/johnfasony/
+|TW2=https://twitter.com/johnfasony
+|WikiDraftSum=John Faso said, "While I accept that human activity is affecting the climate, I don’t buy the apocalyptic vision that some environmental organizations use as scare tactics. I believe in a measured approach. I agree that we have to continue to reduce emissions,  without damaging our economic vitality" (1).
+
+
+1. "Interview with John Faso", The Millbrook Independent, by Stephen Kaye, 2016-04-21. http://www.themillbrookindependent.com/content/interview-john-faso
+|MovedToWikipedia=Information <b>HAS NEVER</b> been transferred to Wikipedia &#x2717;
+|Q1=In a 2016 interview, John Faso said, "While I accept that human activity is affecting the climate, I don’t buy the apocalyptic vision that some environmental organizations use as scare tactics. I believe in a measured approach. I agree that we have to continue to reduce emissions,  without damaging our economic vitality".
+http://www.themillbrookindependent.com/content/interview-john-faso
+
+
+At a 2016 debate, John Faso agreed that human activity is contributing to climate change.
+http://www.poughkeepsiejournal.com/story/news/local/2016/10/04/john-faso-zephyr-teachout-edit-board/91535568/
+|Q2=None found.
+|Q3=None found.
+|OtherSources=None found.
+}}

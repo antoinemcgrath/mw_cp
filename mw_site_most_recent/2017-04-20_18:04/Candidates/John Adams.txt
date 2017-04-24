@@ -1,0 +1,8 @@
+{{Candidate
+|Firstname=John
+|Lastname=Adams
+|State=Ohio
+|District=3
+|Office=House
+|Party=Republican
+}}

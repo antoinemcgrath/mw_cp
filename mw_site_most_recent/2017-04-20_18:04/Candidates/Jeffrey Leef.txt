@@ -1,0 +1,8 @@
+{{Candidate
+|Firstname=Jeffrey
+|Lastname=Leef
+|State=Illinois
+|District=7
+|Office=House
+|Party=Republican
+}}

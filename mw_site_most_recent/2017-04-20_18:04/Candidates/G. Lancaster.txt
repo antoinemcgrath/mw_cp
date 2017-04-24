@@ -1,0 +1,8 @@
+{{Candidate
+|Firstname=G.
+|Lastname=Lancaster
+|State=California
+|District=19
+|Office=House
+|Party=Republican
+}}

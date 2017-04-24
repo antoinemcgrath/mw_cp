@@ -1,0 +1,8 @@
+{{Candidate
+|Firstname=Barry
+|Lastname=Welsh
+|State=Indiana
+|District=6
+|Office=House
+|Party=Democratic
+}}

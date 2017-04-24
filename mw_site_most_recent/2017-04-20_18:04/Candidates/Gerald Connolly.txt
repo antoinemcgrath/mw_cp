@@ -1,0 +1,50 @@
+{{Candidate
+|Firstname=Gerald
+|Lastname=Connolly
+|Bioguide_id=C001078
+|Gender=M
+|State=Virginia
+|District=11
+|Office=House
+|Party=Democratic
+|HiddenValues=Provided_by_ProPublica.org
+                 "id": "C001078",
+                 "thomas_id": "1959",
+                 "api_uri":"https://api.propublica.org/congress/v1/members/C001078.json",
+                 "first_name": "Gerald",
+                 "middle_name": "E.",
+                 "last_name": "Connolly",
+                 "party": "D",
+                 "twitter_account": "GerryConnolly",
+                 "facebook_account": "CongressmanGerryConnolly",
+                 "facebook_id": "177164035838",
+                 "google_entity_id": "kg:/m/04f40kn",
+                 "url": "http://connolly.house.gov",
+                 "rss_url": "https://connolly.house.gov/common/rss/index.cfm?rss=44",
+                 "domain": "connolly.house.gov",
+                 "dw_nominate": "",
+                 "ideal_point": "",
+                 "seniority": "8",
+                 "next_election": "2016",
+                 "total_votes": "1325",
+                 "missed_votes": "11",
+                 "total_present": "0",
+                 "state": "VA",
+                 "district": "11"
+                 ,"missed_votes_pct": "0.83",
+                 "votes_with_party_pct": "94.44"
+
+|Q2=
+
+'''Automatically Generated Congressional Votes'''
+
+In 2009, as a member of the US House of Representatives, he voted for the American Clean Energy and Security Act HR 2454 (Waxman-Markey). https://www.congress.gov/bill/111th-congress/house-bill/2454 
+
+In 2011, he voted against limiting the EPA's ability to regulate greenhouse gas emissions. http://clerk.house.gov/evs/2011/roll249.xml 
+
+In 2013, he voted against making it harder for Congress to put a price on carbon by voting against a point of order opposing a carbon tax or a fee on carbon emissions. http://clerk.house.gov/evs/2013/roll445.xml 
+
+In 2014, he voted for a House amendment calling on Congress to recognize that man-made carbon pollution contributes to climate change and that climate change has a wide range of negative effects. http://clerk.house.gov/evs/2014/roll103.xml 
+
+In 2015, as a member of Congress he voted against HR 2042, The Ratepayer Protection Act, which would have prevented implementation of the Clean Power Plan. http://clerk.house.gov/evs/2015/roll384.xml 
+}}

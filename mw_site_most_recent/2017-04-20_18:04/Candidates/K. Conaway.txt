@@ -1,0 +1,50 @@
+{{Candidate
+|Firstname=K.
+|Lastname=Conaway
+|Bioguide_id=C001062
+|Gender=M
+|State=Texas
+|District=11
+|Office=House
+|Party=Republican
+|HiddenValues=Provided_by_ProPublica.org
+                 "id": "C001062",
+                 "thomas_id": "1805",
+                 "api_uri":"https://api.propublica.org/congress/v1/members/C001062.json",
+                 "first_name": "K.",
+                 "middle_name": "Michael",
+                 "last_name": "Conaway",
+                 "party": "R",
+                 "twitter_account": "ConawayTX11",
+                 "facebook_account": "mike.conaway",
+                 "facebook_id": "203482063021985",
+                 "google_entity_id": "kg:/m/04cmt7",
+                 "url": "http://conaway.house.gov",
+                 "rss_url": "",
+                 "domain": "conaway.house.gov",
+                 "dw_nominate": "",
+                 "ideal_point": "",
+                 "seniority": "12",
+                 "next_election": "2016",
+                 "total_votes": "1325",
+                 "missed_votes": "0",
+                 "total_present": "0",
+                 "state": "TX",
+                 "district": "11"
+                 ,"missed_votes_pct": "0.00",
+                 "votes_with_party_pct": "96.23"
+
+|Q2=
+
+'''Automatically Generated Congressional Votes'''
+
+In 2009, as a member of the US House of Representatives, he voted against the American Clean Energy and Security Act HR 2454 (Waxman-Markey). https://www.congress.gov/bill/111th-congress/house-bill/2454 
+
+In 2011, he voted to limit the EPA's ability to regulate greenhouse gas emissions. http://clerk.house.gov/evs/2011/roll249.xml 
+
+In 2013, he voted to make it harder for Congress to put a price on carbon by voting for a point of order opposing a carbon tax or a fee on carbon emissions. http://clerk.house.gov/evs/2013/roll445.xml 
+
+In 2014, he voted against a House amendment calling on Congress to recognize that man-made carbon pollution contributes to climate change and that climate change has a wide range of negative effects. http://clerk.house.gov/evs/2014/roll103.xml 
+
+In 2015, as a member of Congress, he supported HR 2042, The Ratepayer Protection Act, which would have prevented implementation of the Clean Power Plan. http://clerk.house.gov/evs/2015/roll384.xml 
+}}

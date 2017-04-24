@@ -1,0 +1,8 @@
+{{Candidate
+|Firstname=Ben
+|Lastname=Lujan
+|State=New Mexico
+|District=3
+|Office=House
+|Party=Democratic
+}}

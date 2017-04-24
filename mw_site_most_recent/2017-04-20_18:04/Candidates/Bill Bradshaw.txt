@@ -1,0 +1,8 @@
+{{Candidate
+|Firstname=Bill
+|Lastname=Bradshaw
+|State=Texas
+|District=12
+|Office=House
+|Party=Democratic
+}}

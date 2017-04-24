@@ -1,0 +1,8 @@
+{{Candidate
+|Firstname=Tyler
+|Lastname=Fischella
+|State=California
+|District=35
+|Office=House
+|Party=Republican
+}}

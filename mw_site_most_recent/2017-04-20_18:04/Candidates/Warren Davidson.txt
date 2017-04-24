@@ -1,0 +1,14 @@
+{{Candidate
+|Firstname=Warren
+|Lastname=Davidson
+|Bioguide_id=D000626
+|Gender=M
+|State=Ohio
+|District=8
+|Office=House
+|Party=Republican
+
+|Q2=
+
+'''Automatically Generated Congressional Votes'''
+}}

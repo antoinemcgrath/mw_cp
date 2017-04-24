@@ -1,0 +1,8 @@
+{{Candidate
+|Firstname=Patrick
+|Lastname=Malloy
+|State=California
+|District=50
+|Office=House
+|Party=Democratic
+}}

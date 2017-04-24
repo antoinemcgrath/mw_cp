@@ -1,0 +1,75 @@
+{{Candidate
+|Firstname=Rod
+|Lastname=Blum
+|Bioguide_id=B001294
+|Gender=M
+|Wiki1=https://en.wikipedia.org/wiki/Rod_Blum
+|State=Iowa
+|District=1
+|Office=House
+|Party=Republican
+|Position=Incumbent
+|HouseOfficialSite=https://blum.house.gov/
+|CampaignSite=http://rodblum.com/
+|FB1=https://www.facebook.com/congressmanrodblum
+|TW2=https://twitter.com/RepRodBlum
+|WikiDraftSum=In a 2014 interview when asked about climate change, he said, "I’m skeptical...We go from that, to now global warming, and that’s been changed to climate change. I’m not a scientist, and I know most scientists’ paychecks come from the federal government, and so right away that makes me a bit skeptical.  Thirty  years ago we were going into a global cooling period.  That makes me skeptical" (1). In 2015, he voted against the Obama administration’s Clean Power Plan (2, 3, 4). (Hyperlink Clean Power Plan https://en.wikipedia.org/wiki/Clean_Power_Plan)
+
+
+1. "Candidate Profile: Rod Blum", On Iowa Public Radio, by Lindsey Moon and Katherine Perkins, 2014-05-29. http://iowapublicradio.org/post/candidate-profile-rod-blum#stream/0
+
+
+2. News Link: http://www.utilitydive.com/news/measure-to-block-epa-clean-power-plan-passes-house/401376/
+
+
+3. Bill Profile: https://www.congress.gov/bill/114th-congress/house-bill/2042
+
+
+4. Roll call: http://clerk.house.gov/evs/2015/roll384.xml
+|MovedToWikipedia=Information <b>HAS NEVER</b> been transferred to Wikipedia &#x2717;
+|Q1=In a 2014 interview when asked about climate change, he said, "I’m skeptical...We go from that, to now global warming, and that’s been changed to climate change. I’m not a scientist, and I know most scientists’ paychecks come from the federal government, and so right away that makes me a bit skeptical.  Thirty  years ago we were going into a global cooling period.  That makes me skeptical". 
+http://iowapublicradio.org/post/candidate-profile-rod-blum#stream/0
+|Q2=In 2015, he voted against the Obama administration’s Clean Power Plan.
+ 
+News Link: http://www.utilitydive.com/news/measure-to-block-epa-clean-power-plan-passes-house/401376/
+
+Bill Profile: https://www.congress.gov/bill/114th-congress/house-bill/2042
+Roll call: http://clerk.house.gov/evs/2015/roll384.xml
+|Q3=None found.
+|OtherSources=None found.
+|HiddenValues=Provided_by_ProPublica.org
+                 "id": "B001294",
+                 "thomas_id": "2241",
+                 "api_uri":"https://api.propublica.org/congress/v1/members/B001294.json",
+                 "first_name": "Rod",
+                 "middle_name": null,
+                 "last_name": "Blum",
+                 "party": "R",
+                 "twitter_account": "RepRodBlum",
+                 "facebook_account": "",
+                 "facebook_id": "",
+                 "google_entity_id": "kg:/m/0127p02j",
+                 "url": "https://blum.house.gov",
+                 "rss_url": "https://blum.house.gov/rss.xml",
+                 "domain": "",
+                 "dw_nominate": "",
+                 "ideal_point": "",
+                 "seniority": "2",
+                 "next_election": "2016",
+                 "total_votes": "1325",
+                 "missed_votes": "17",
+                 "total_present": "0",
+                 "state": "IA",
+                 "district": "1"
+                 ,"missed_votes_pct": "1.28",
+                 "votes_with_party_pct": "91.97"
+|STW=<!--StartSTW-->'''Automatically captured tweets'''{{#widget:Tweet|id=794256025297653761}}
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Thanks to Matt from Farley, IA for visiting to discuss ag issues and the business climate for @GROWMARK #IA01 https://t.co/3NkADZkI2n</p><a href="https://twitter.com/RepRodBlum/status/743108690585260032/status/Wed Jun 15 15:51:32 +0000 2016</a></blockquote>
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Good discussion on responsible stewardship of our environment today with Cedar Rapids climate advocacy group. #IA01 http://t.co/Fe6KCXSArn</p><a href="https://twitter.com/RepRodBlum/status/585924468922515457/status/Wed Apr 08 21:57:33 +0000 2015</a></blockquote>
+<!--EndSTW-->
+
+
+
+
+
+}}

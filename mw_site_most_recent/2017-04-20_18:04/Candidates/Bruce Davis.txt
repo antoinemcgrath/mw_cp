@@ -1,0 +1,25 @@
+{{Candidate
+|Firstname=Bruce
+|Lastname=Davis
+|State=North Carolina
+|District=13
+|Office=House
+|Party=Democratic
+|Position=Challenger
+|CampaignSite=http://www.bruce4nc.com/
+|FB2=https://www.facebook.com/BruceforNC
+|TW2=https://twitter.com/bruce4nc
+|WikiDraftSum=On his campaign site, Bruce Davis states, "climate Change is happening and the failure to acknowledge and respond to these changes will greatly hurt our society and the world we pass on to our children," (1). In 2016, he said "I do support the Paris Climate Accords and we can go further. We can lead the world in developing clean, alternative energy sources while creating quality paying jobs," (2). 
+
+
+1. Bruce Davis for North Carolina - Issues. http://www.bruce4nc.com/issues/ Accessed 2016-10-31.
+
+
+2. Vote411 Voter Guide: US HOUSE OF REPRESENTATIVES DISTRICT 13. http://onyourballot.vote411.org/race-detail.do?id=14259808
+|MovedToWikipedia=Information <b>HAS NEVER</b> been transferred to Wikipedia &#x2717;
+|Q1=On his campaign site, he states, "climate Change is happening and the failure to acknowledge and respond to these changes will greatly hurt our society and the world we pass on to our children." http://www.bruce4nc.com/issues/
+In 2016, he said "I do support the Paris Climate Accords and we can go further. We can lead the world in developing clean, alternative energy sources while creating quality paying jobs." http://onyourballot.vote411.org/race-detail.do?id=14259808
+|Q2=None found.
+|Q3=None found.
+|OtherSources=None found.
+}}

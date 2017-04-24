@@ -1,0 +1,8 @@
+{{Candidate
+|Firstname=Nathan
+|Lastname=Mathis
+|State=Alabama
+|District=2
+|Office=House
+|Party=Democratic
+}}

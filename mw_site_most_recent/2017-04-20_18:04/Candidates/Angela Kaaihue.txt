@@ -1,0 +1,8 @@
+{{Candidate
+|Firstname=Angela
+|Lastname=Kaaihue
+|State=Hawaii
+|District=2
+|Office=House
+|Party=Republican
+}}

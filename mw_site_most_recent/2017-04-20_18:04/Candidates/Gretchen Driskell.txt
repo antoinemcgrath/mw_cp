@@ -1,0 +1,23 @@
+{{Candidate
+|Firstname=Gretchen
+|Lastname=Driskell
+|Wiki1=https://en.wikipedia.org/wiki/Gretchen_Driskell
+|State=Michigan
+|District=7
+|Office=House
+|Party=Democratic
+|Position=Challenger
+|CampaignSite=http://votegretchen.com/
+|FB2=https://www.facebook.com/votegretchen
+|TW2=https://twitter.com/gdriskell
+|WikiDraftSum=Gretchen Driskell says she "understands the importance of moving toward a clean energy economy...to help mitigate global climate change" (1).
+
+
+1. "Environment", Campaign Issues, Gretchen Driskell for Congress, Accessed 2016-10-13. http://votegretchen.com/issues/
+|MovedToWikipedia=Information <b>HAS NEVER</b> been transferred to Wikipedia &#x2717;
+|Q1=According to her campaign website, Gretchen Driskell, "also understands the importance of moving toward a clean energy economy — not only to help mitigate global climate change and looming energy shortfalls, but also to create good-paying jobs right here in Michigan".
+http://votegretchen.com/issues/
+|Q2=None found.
+|Q3=None found.
+|OtherSources=None found.
+}}

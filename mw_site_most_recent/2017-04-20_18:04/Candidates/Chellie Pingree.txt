@@ -1,0 +1,66 @@
+{{Candidate
+|Firstname=Chellie
+|Lastname=Pingree
+|Bioguide_id=P000597
+|Gender=F
+|Wiki1=https://en.wikipedia.org/wiki/Chellie_Pingree
+|State=Maine
+|District=1
+|Office=House
+|Party=Democratic
+|Position=Incumbent
+|HouseOfficialSite=https://pingree.house.gov/
+|CampaignSite=http://www.chelliepingree.com/
+|FB1=https://www.facebook.com/ChelliePingree
+|FB2=https://www.facebook.com/PingreeForCongress/
+|TW1=https://twitter.com/chelliepingree
+|WikiDraftSum=In 2011, Chellie Pingree voted against HR910, a bill which would have amended the Clean Air Act to prohibit the EPA from regulating greenhouse gases or other contributing factors to climate change (1, 2). In 2013, she voted against making it harder for Congress to put a price on carbon by voting against a point of order opposing a carbon tax or a fee on carbon emissions (3). In 2014, she voted for a House amendment calling on Congress to recognize that man-made carbon pollution contributes to climate change and that climate change has a wide range of negative effects (4). In 2015, she voted against HR 2042, The Ratepayer Protection Act, which would have prevented implementation of the Clean Power Plan (5, 6). In an August 3, 2015 Press Release on the Clean Power Plan, she stated, “Maine communities are already dealing with the effects of climate change and carbon emissions, including rising sea levels, more extreme weather, and ocean acidification. By reducing these emissions at their greatest source—power plants—we can not only head off future impacts and protect public health, but drive toward utilizing clean energy sources.  With sources like offshore wind and tidal power already being developed in Maine, it would be a huge opportunity for the state’s economy and workforce” (7).  In a statement supporting the Paris Climate Talks, she said, “I especially appreciate President Obama’s leadership in taking steps to cut our greenhouse gas emissions while building our economy through clean energy. Whether it’s rising sea levels, ocean acidification, or declining fisheries, we’re already seeing the effects of climate change in Maine.  I hope that the conversations in Paris yield effective and comprehensive actions to head off even worse impacts here and around the world” (8). In a September 23, 2016 Facebook post, she wrote, “There's absolutely no denying that climate change is real, it's caused by human activity, and we must act now to stop its effects” (9).
+
+
+1. “Final Vote Results for Roll Call 249”, Energy Tax Prevention Act 2011, 2011-04-07.   http://clerk.house.gov/evs/2011/roll249.xml
+
+
+2. “H.R.910 - Energy Tax Prevention Act of 2011”, Energy Tax Prevention Act Summary.  https://www.congress.gov/bill/112th-congress/house-bill/910/
+
+
+3. “Final Vote Results for Roll Call 445”, Regulations From the Executive in Need of Scrutiny Act, 2013-08-02. http://clerk.house.gov/evs/2013/roll445.xml
+
+
+4. “Final Vote Results for Roll Call 103”, 2014-03-06. http://clerk.house.gov/evs/2014/roll103.xml
+
+
+5. “H.R. 2042 - Ratepayer Protection Act of 2015”, House of Representatives Committee on Rules. https://rules.house.gov/bill/114/hr-2042
+
+
+6. “Final Vote Results for Roll Call 384”, 2015-06-24. http://clerk.house.gov/evs/2015/roll384.xml
+
+
+7. “Statement on President’s Clean Power Plan”, 2015-08-03 Press Release. https://pingree.house.gov/media-center/press-releases/statement-president-s-clean-power-plan
+
+
+8. “Pingree applauds climate change talks in Paris”, 2015-12-01 Press Release. https://pingree.house.gov/media-center/press-releases/pingree-applauds-climate-change-talks-paris
+
+
+9. Pingree For Congress Facebook Post, 2016-09-23. https://www.facebook.com/PingreeForCongress/posts/10155117800544918
+|MovedToWikipedia=Information <b>HAS NEVER</b> been transferred to Wikipedia &#x2717;
+|Q1=In a January 16, 2015 Press  Release, she said, “It may not feel like global warming on a day like today, but this report makes it clear the planet is warming. It's another piece of evidence that climate change is real, it's happening now and we should be long past the point where politicians are debating whether it really exists. A coastal state like Maine is particularly vulnerable to the effects of warming ocean temperatures and rising sea levels. Our economy is dependent on our coastal resources and climate change threatens those resources”.
+https://pingree.house.gov/media-center/press-releases/new-record-temperatures-highlight-need-address-climate-change
+In a September 23, 2016 Facebook post, she wrote, “There's absolutely no denying that climate change is real, it's caused by human activity, and we must act now to stop its effects”.
+https://www.facebook.com/PingreeForCongress/posts/10155117800544918
+|Q2=In 2011, Chellie Pingree voted against HR910, a bill which would have amended the Clean Air Act to prohibit the EPA from regulating greenhouse gases or other contributing factors to climate change.
+http://clerk.house.gov/evs/2011/roll249.xml
+https://www.congress.gov/bill/112th-congress/house-bill/910/
+In 2013, she voted against making it harder for Congress to put a price on carbon by voting against a point of order opposing a carbon tax or a fee on carbon emissions.
+http://clerk.house.gov/evs/2013/roll445.xml
+In 2014, she voted for a House amendment calling on Congress to recognize that man-made carbon pollution contributes to climate change and that climate change has a wide range of negative effects.
+http://clerk.house.gov/evs/2014/roll103.xml
+In 2015, she voted against HR 2042, The Ratepayer Protection Act, which would have prevented implementation of the Clean Power Plan.
+http://clerk.house.gov/evs/2015/roll384.xml
+https://www.congress.gov/bill/114th-congress/house-bill/2042
+In a statement supporting the Paris Climate Talks, she said, “I especially appreciate President Obama’s leadership in taking steps to cut our greenhouse gas emissions while building our economy through clean energy. Whether it’s rising sea levels, ocean acidification, or declining fisheries, we’re already seeing the effects of climate change in Maine.  I hope that the conversations in Paris yield effective and comprehensive actions to head off even worse impacts here and around the world”.
+https://pingree.house.gov/media-center/press-releases/pingree-applauds-climate-change-talks-paris
+|Q3=In an August 3, 2015 Press Release on the Clean Power Plan, she stated, “Maine communities are already dealing with the effects of climate change and carbon emissions, including rising sea levels, more extreme weather, and ocean acidification. By reducing these emissions at their greatest source—power plants—we can not only head off future impacts and protect public health, but drive toward utilizing clean energy sources.  With sources like offshore wind and tidal power already being developed in Maine, it would be a huge opportunity for the state’s economy and workforce”.
+https://pingree.house.gov/media-center/press-releases/statement-president-s-clean-power-plan
+|OtherSources=Article covers where all ME congressional candidates stand on climate change.
+http://www.freepressonline.com/Content/Top-Scrolling-Area/Top-Scrolling-Area/Article/Where-the-Candidates-Stand-on-Climate-Change/126/724/48063
+}}

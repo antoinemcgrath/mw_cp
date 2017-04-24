@@ -1,0 +1,8 @@
+{{Candidate
+|Firstname=Douglas
+|Lastname=Smith
+|State=Michigan
+|District=3
+|Office=House
+|Party=Democratic
+}}

@@ -1,0 +1,35 @@
+{{Candidate
+|Firstname=Evan
+|Lastname=Bayh
+|Wiki1=https://en.wikipedia.org/wiki/Evan_Bayh
+|State=Indiana
+|Office=Senate
+|Party=Democratic
+|Position=Challenger
+|CampaignSite=http://evanbayhforindiana.com/
+|FB1=https://www.facebook.com/Evan-Bayh-7166803506/
+|FB2=https://www.facebook.com/evanbayh
+|TW1=https://twitter.com/senevanbayh
+|TW2=https://twitter.com/evanbayh
+|WikiDraftSum=In 2008, Evan Bayh voted for the Climate Security Act which would have reduced US greenhouse gas emissions. (1) In 2009, he said “I am deeply concerned about the threat posed by global climate change. The scientific consensus on this issue is unequivocal. Global warming is real and greenhouse gas emissions from human activity are causing it. Scientists and others warn that climate change threatens our nation’s security, and may imperil future generations’ opportunity for safe, healthy, and prosperous lives.” (2) In 2010, Bayh voted to prevent the EPA from regulating greenhouse gas pollution. (3) In a 2014 interview, Bayh said, “I care deeply about…how we're going to deal with the issue of climate change and CO2 emissions.” (4)
+
+
+1. U.S. Senate Roll Call Votes 110th Congress – 2nd Session, Vote Number 145, 2008-06-06. http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?congress=110&session=2&vote=00145
+
+
+2. “Evan Bayh (D-Ind.) [UPDATED]“, by Grist Staff, 2009-10-28. http://grist.org/article/2009-evan-bayh-on-climate-legislation/
+
+
+3. U.S. Senate Roll Call Votes 111th Congress – 2nd Session, Vote Number 184, 2010-06-10. http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?congress=111&session=2&vote=00184
+
+
+4. “Energy Policy: Former Sen. Bayh discusses market, technology factors contributing to nuclear energy's U.S. downswing”, E&ETV Transcript, 2014-05-07. http://www.eenews.net/tv/videos/1823/transcript
+|Q1=In 2009, Evan Bayh said, “I am deeply concerned about the threat posed by global climate change. The scientific consensus on this issue is unequivocal. Global warming is real and greenhouse gas emissions from human activity are causing it. Scientists and others warn that climate change threatens our nation’s security, and may imperil future generations’ opportunity for safe, healthy, and prosperous lives.” http://grist.org/article/2009-evan-bayh-on-climate-legislation/
+
+In a 2014 interview, he stated “I care deeply about…how we're going to deal with the issue of climate change and CO2 emissions”. http://www.eenews.net/tv/videos/1823/transcript
+|Q2=In 2008, Bayh voted for the Climate Security Act which would have reduced US greenhouse gas emissions. http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?congress=110&session=2&vote=00145
+
+In 2010, he voted to prevent the EPA from regulating greenhouse gas pollution. http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?congress=111&session=2&vote=00184
+|Q3=None found.
+|OtherSources=None found.
+}}

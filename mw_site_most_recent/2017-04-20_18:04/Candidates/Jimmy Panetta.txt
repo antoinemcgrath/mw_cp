@@ -1,0 +1,28 @@
+{{Candidate
+|Firstname=Jimmy
+|Lastname=Panetta
+|Bioguide_id=P000613
+|Gender=M
+|Wiki1=https://en.wikipedia.org/wiki/Jimmy_Panetta
+|State=California
+|District=20
+|Office=House
+|Party=Democratic
+|Position=Incumbent
+|CampaignSite=http://www.jimmypanettaforcongress.com/
+|FB2=https://www.facebook.com/JimmyPanettaForCongress/
+|TW2=https://twitter.com/JimmyPanetta
+|WikiDraftSum=On a candidate survey, Jimmy Panetta responded "yes" to the question "Do you believe that human activity is contributing to climate change?" (1). On his campaign website, he states, "He knows that the future of the Central Coast starts by addressing climate change and aggressively promoting a clean energy economy that creates reliable new jobs for generations to come." 
+
+
+1. "Jimmy Panetta's Issue Positions (Political Courage Test), Vote Smart. https://votesmart.org/candidate/political-courage-test/169078/jimmy-panetta/
+
+
+2. Issues. http://www.jimmypanettaforcongress.com/jimmypanettaforcongressissues Accessed 2016-12-23.
+|MovedToWikipedia=Information <b>HAS NEVER</b> been transferred to Wikipedia &#x2717;
+|Q1=On a candidate survey, he responded "yes" to the question "Do you believe that human activity is contributing to climate change?" https://votesmart.org/candidate/political-courage-test/169078/jimmy-panetta/
+On his campaign website, he states, "He knows that the future of the Central Coast starts by addressing climate change and aggressively promoting a clean energy economy that creates reliable new jobs for generations to come." http://www.jimmypanettaforcongress.com/jimmypanettaforcongressissues
+|Q2=None found.
+|Q3=None found.
+|OtherSources=None found.
+}}

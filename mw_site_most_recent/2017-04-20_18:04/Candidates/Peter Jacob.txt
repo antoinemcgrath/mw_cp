@@ -1,0 +1,8 @@
+{{Candidate
+|Firstname=Peter
+|Lastname=Jacob
+|State=New Jersey
+|District=7
+|Office=House
+|Party=Democratic
+}}

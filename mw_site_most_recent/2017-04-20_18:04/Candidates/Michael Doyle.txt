@@ -1,0 +1,20 @@
+{{Candidate
+|Firstname=Michael
+|Lastname=Doyle
+|Bioguide_id=D000482
+|Gender=M
+|Wiki1=https://en.wikipedia.org/wiki/Michael_F._Doyle
+|State=Pennsylvania
+|District=14
+|Office=House
+|Party=Democratic
+|WikiDraftSum=Congressman Michael Doyle is in favor of large federal investments for developing clean energy so as to reduce carbon emissions which he believes contributes to climate change. (1).
+
+1.https://doyle.house.gov/issue/energy
+|Q1=On his website Congressman Doyle states that he supports government investments for cleaner energy in order to reduce man made emissions of carbon dioxide and other pollutants that contribute to climate change. https://doyle.house.gov/issue/energy
+|Q2=Congressman Doyle has served on the Committee on Energy and Commerce and the subcommittee on Energy and Power. https://en.wikipedia.org/wiki/Michael_F._Doyle
+
+He and Chairman Henry Waxman and Chairman Ed Markey worked together to craft H.R. 2454 American Clean Energy and Security act which was a bill that aimed to reduce emissions by 80% by the year 2050. https://doyle.house.gov/issue/energy 
+
+In 2015, as a Congress member, he voted againstHR 2042, The Ratepayer Protection Act, which would have prevented implementation of the Clean Power Plan. http://clerk.house.gov/evs/2015/roll384.xml
+}}

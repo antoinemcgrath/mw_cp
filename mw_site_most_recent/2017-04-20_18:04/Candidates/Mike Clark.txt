@@ -1,0 +1,8 @@
+{{Candidate
+|Firstname=Mike
+|Lastname=Clark
+|State=Texas
+|District=31
+|Office=House
+|Party=Democratic
+}}

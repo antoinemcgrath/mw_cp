@@ -1,0 +1,25 @@
+{{Candidate
+|Firstname=Jack
+|Lastname=Bergman
+|Bioguide_id=B001301
+|Gender=M
+|Wiki1=https://en.wikipedia.org/wiki/Jack_Bergman
+|State=Michigan
+|District=1
+|Office=House
+|Party=Republican
+|Position=Challenger
+|CampaignSite=http://www.bergmanforcongress.com/
+|FB2=https://www.facebook.com/bergmanforcongress/
+|WikiDraftSum=Jack Bergman agrees with scientific experts that human activity is playing a role in the changing climate (1).
+
+
+1. "Line 5 a focus of candidates forum", on Petoskey News-Review, by Craig Currier, 2016-10-13. http://www.petoskeynews.com/featured-pnr/line-a-focus-of-candidates-forum/article_a297dbdd-c8cb-5e8d-9888-4e2fedce72bc.html
+|MovedToWikipedia=Information <b>HAS NEVER</b> been transferred to Wikipedia &#x2717;
+|Q1=In an October 2016 candidate forum, Jack Bergman said he agrees with scientific experts that human activity is playing a role in the changing climate. 
+
+http://www.petoskeynews.com/featured-pnr/line-a-focus-of-candidates-forum/article_a297dbdd-c8cb-5e8d-9888-4e2fedce72bc.html
+|Q2=None found.
+|Q3=None found.
+|OtherSources=None found.
+}}

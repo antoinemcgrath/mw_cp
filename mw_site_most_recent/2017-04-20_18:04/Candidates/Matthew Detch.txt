@@ -1,0 +1,8 @@
+{{Candidate
+|Firstname=Matthew
+|Lastname=Detch
+|State=West Virginia
+|District=3
+|Office=House
+|Party=Democratic
+}}

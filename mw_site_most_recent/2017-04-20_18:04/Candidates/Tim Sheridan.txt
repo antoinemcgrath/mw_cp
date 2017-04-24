@@ -1,0 +1,8 @@
+{{Candidate
+|Firstname=Tim
+|Lastname=Sheridan
+|State=California
+|District=42
+|Office=House
+|Party=Democratic
+}}

@@ -1,0 +1,20 @@
+{{Candidate
+|Firstname=Shaun
+|Lastname=Brown
+|State=Virginia
+|District=2
+|Office=House
+|Party=Democratic
+|Position=Challenger
+|CampaignSite=http://www.shaunbrownforcongress.org/
+|FB2=https://www.facebook.com/shaunbrownva/
+|TW2=https://twitter.com/ShaunBrownVA
+|WikiDraftSum=On her campaign site, Shaun Brown states, "global climate change is already here and it’s the single greatest threat facing our planet...for the health of the planet, the public and our economy, our nation must move to a clean energy future," (1).
+
+
+1. The Environment and Climate Change. http://www.shaunbrownforcongress.org/environment Accessed 2016-10-27.
+|Q1=On her campaign site, she states, "Global climate change is already here and it’s the single greatest threat facing our planet...for the health of the planet, the public and our economy, our nation must move to a clean energy future." http://www.shaunbrownforcongress.org/environment
+|Q2=None found.
+|Q3=On her campaign site, she states, "The people of the 2nd District are on the front line in the coming battle over climate change. Flooding has been a perennial problem for the area, one that will only grow worse — catastrophically so — if left unchecked." http://www.shaunbrownforcongress.org/environment
+|OtherSources=None found.
+}}

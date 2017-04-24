@@ -1,0 +1,8 @@
+{{Candidate
+|Firstname=Robert
+|Lastname=Bell
+|State=Louisiana
+|District=6
+|Office=House
+|Party=Republican
+}}

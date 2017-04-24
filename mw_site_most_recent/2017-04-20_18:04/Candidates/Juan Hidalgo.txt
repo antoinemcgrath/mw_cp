@@ -1,0 +1,8 @@
+{{Candidate
+|Firstname=Juan
+|Lastname=Hidalgo
+|State=California
+|District=51
+|Office=House
+|Party=Republican
+}}

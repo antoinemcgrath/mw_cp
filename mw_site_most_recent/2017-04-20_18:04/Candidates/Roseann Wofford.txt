@@ -1,0 +1,8 @@
+{{Candidate
+|Firstname=Roseann
+|Lastname=Wofford
+|State=Massachusetts
+|District=3
+|Office=House
+|Party=Republican
+}}

@@ -1,0 +1,80 @@
+{{Candidate
+|Firstname=Carlos
+|Lastname=Curbelo
+|Bioguide_id=C001107
+|Gender=M
+|Wiki1=https://en.wikipedia.org/wiki/Carlos_Curbelo_(politician)
+|State=Florida
+|District=26
+|Office=House
+|Party=Republican
+|Position=Incumbent
+|HouseOfficialSite=https://curbelo.house.gov/
+|CampaignSite=https://carloscurbelo.com/
+|FB1=https://www.facebook.com/RepCurbelo/
+|TW1=https://twitter.com/repcurbelo
+|TW2=https://twitter.com/carloslcurbelo
+|WikiDraftSum=On April 22, 2015, Carlos Curbelo said, “I share the President’s concerns about sea-level rise, and its effects on our drinking supplies, our economy, and our way of life. I am committed to finding common ground to mitigate the effects of climate change” (1). In 2015, as a Congressman, he voted against HR 2042, The Ratepayer Protection Act, which would have prevented implementation of the Clean Power Plan (2, 3). In response to conclusion of COP21, he said “Climate change is an issue of concern for current and future generations with potentially serious consequences for many parts of the world like South Florida if left unaddressed. I am pleased that so many nations were committed to the success of this critical dialogue, and I look forward to reviewing the proposal that has been negotiated” (4). In February 2016, with a Democratic Representative, also from Florida, he announced the formation of the Bipartisan Climate Solutions Caucus (5). In April 2016, he said, "The Bipartisan Climate Solutions Caucus is the first of its kind, and we anticipate the meeting held on Wednesday will feature a constructive dialogue that will lead to building consensus for responsible energy policies in the future. I am proud to take a leadership role for this historic event, and I am confident that this bi-partisan group of legislators will propose common sense solutions that Members of both parties will be able to support. From rising sea levels to ocean acidification, it is evident that South Florida is at the frontline of climate change. The clock is ticking and the time to act is now” (6). On his campaign’s Issues – Environment page, he states, “I have been a steadfast leader in the discussion of viable solutions that mitigate the effects of climate change without threatening economic productivity and growth. For the first time in Congressional history, I formed a bipartisan caucus to address the issues of rising sea levels, clean air, and alternative forms of energy with thought leaders from conservation groups and businesses… I am dedicated to being a positive voice on the issues of climate change and new energy solutions in Congress, even when I have to break from my party to do so. Our environment is too important to ignore and we must leave future generations with clean air and water” (7). 
+
+
+1. “Rep. Curbelo Welcomes President Obama to the Everglades”, 2015-04-22 Press Release, https://curbelo.house.gov/news/documentsingle.aspx?DocumentID=153
+
+
+2. “H.R. 2042 - Ratepayer Protection Act of 2015”, House of Representatives Committee on Rules. https://rules.house.gov/bill/114/hr-2042
+
+
+3. “Final Vote Results for Roll Call 380”, 2015-06-24. http://clerk.house.gov/evs/2015/roll380.xml
+
+
+4. “Rep. Curbelo Responds to COP21 Conference”, 2015-12-12 Press Release, https://curbelo.house.gov/news/documentsingle.aspx?DocumentID=658
+
+
+5. http://thehill.com/policy/energy-environment/268662-two-florida-members-form-bipartisan-climate-caucus
+
+
+6. “Curbelo & Deutch Host Historic Meeting of Bipartisan Climate Solutions Caucus Wednesday”, 2016-04-19 Press Release, https://curbelo.house.gov/news/documentsingle.aspx?DocumentID=895
+
+
+7. “Environment”, Campaign Issues Page, Accessed 2016-09-26. https://carloscurbelo.com/issues/environment/
+|MovedToWikipedia=Information <b>HAS NEVER</b> been transferred to Wikipedia &#x2717;
+|Q1=On April 22, 2015, Carlos Curbelo said, “I share the President’s concerns about sea-level rise, and its effects on our drinking supplies, our economy, and our way of life. I am committed to finding common ground to mitigate the effects of climate change”.
+https://curbelo.house.gov/news/documentsingle.aspx?DocumentID=153
+On his campaign’s Issues – Environment page, he states, “I have been a steadfast leader in the discussion of viable solutions that mitigate the effects of climate change without threatening economic productivity and growth. For the first time in Congressional history, I formed a bipartisan caucus to address the issues of rising sea levels, clean air, and alternative forms of energy with thought leaders from conservation groups and businesses… I am dedicated to being a positive voice on the issues of climate change and new energy solutions in Congress, even when I have to break from my party to do so. Our environment is too important to ignore and we must leave future generations with clean air and water”. https://carloscurbelo.com/issues/environment/
+|Q2=In 2015, as a Congressman, he voted against HR 2042, The Ratepayer Protection Act, which would have prevented implementation of the Clean Power Plan.
+http://clerk.house.gov/evs/2015/roll384.xml
+https://www.congress.gov/bill/114th-congress/house-bill/2042
+In February 2016, with a Democratic Representative, also from Florida, he announced the formation of the Bipartisan Climate Solutions Caucus.
+http://thehill.com/policy/energy-environment/268662-two-florida-members-form-bipartisan-climate-caucus
+In April 2016, he said, "The Bipartisan Climate Solutions Caucus is the first of its kind, and we anticipate the meeting held on Wednesday will feature a constructive dialogue that will lead to building consensus for responsible energy policies in the future. I am proud to take a leadership role for this historic event, and I am confident that this bi-partisan group of legislators will propose common sense solutions that Members of both parties will be able to support”.
+https://curbelo.house.gov/news/documentsingle.aspx?DocumentID=895
+|Q3=In response to conclusion of The Paris Climate Summit, on December 12th, 2015, he said “Climate change is an issue of concern for current and future generations with potentially serious consequences for many parts of the world like South Florida if left unaddressed. I am pleased that so many nations were committed to the success of this critical dialogue, and I look forward to reviewing the proposal that has been negotiated”. https://curbelo.house.gov/news/documentsingle.aspx?DocumentID=658
+In April 2016, he said, “From rising sea levels to ocean acidification, it is evident that South Florida is at the frontline of climate change. The clock is ticking and the time to act is now”.
+https://curbelo.house.gov/news/documentsingle.aspx?DocumentID=895
+|OtherSources=Additional statements on Energy & Environment - https://curbelo.house.gov/issues/issue/?IssueID=14902
+|HiddenValues=Provided_by_ProPublica.org
+                 "id": "C001107",
+                 "thomas_id": "2235",
+                 "api_uri":"https://api.propublica.org/congress/v1/members/C001107.json",
+                 "first_name": "Carlos",
+                 "middle_name": null,
+                 "last_name": "Curbelo",
+                 "party": "R",
+                 "twitter_account": "RepCurbelo",
+                 "facebook_account": "",
+                 "facebook_id": "",
+                 "google_entity_id": "kg:/m/0127nzmk",
+                 "url": "http://curbelo.house.gov",
+                 "rss_url": "",
+                 "domain": "curbelo.house.gov",
+                 "dw_nominate": "",
+                 "ideal_point": "",
+                 "seniority": "2",
+                 "next_election": "2016",
+                 "total_votes": "1325",
+                 "missed_votes": "32",
+                 "total_present": "0",
+                 "state": "FL",
+                 "district": "26"
+                 ,"missed_votes_pct": "2.42",
+                 "votes_with_party_pct": "81.52"
+}}

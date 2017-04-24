@@ -1,0 +1,19 @@
+{{Candidate
+|Firstname=Tom
+|Lastname=Nelson
+|Wiki1=https://en.wikipedia.org/wiki/Tom_Nelson_(politician)
+|State=Wisconsin
+|District=8
+|Office=House
+|Party=Democratic
+|Position=Challenger
+|CampaignSite=https://nelsonforwisconsin.com/
+|FB2=https://www.facebook.com/nelsonforwisconsin/
+|TW2=https://twitter.com/nelsonforWI
+|WikiDraftSum=On his campaign website, Tom Nelson states "Tom knows that climate change is real and it’s threatening our environment...he supports efforts to reduce carbon emissions by ending taxpayer subsidies for large oil companies" (1). 
+
+
+1. Tom Nelson for Wisconsin: Issues. https://nelsonforwisconsin.com/issues Accessed 2016-10-13.
+|Q1=On his campaign website, Tom Nelson states "Tom knows that climate change is real and it’s threatening our environment." https://nelsonforwisconsin.com/issues
+|Q2=He states on his campaign website, "he supports efforts to reduce carbon emissions by ending taxpayer subsidies for large oil companies." https://nelsonforwisconsin.com/issues
+}}

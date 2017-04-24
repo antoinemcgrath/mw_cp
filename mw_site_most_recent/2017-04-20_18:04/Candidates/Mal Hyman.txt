@@ -1,0 +1,8 @@
+{{Candidate
+|Firstname=Mal
+|Lastname=Hyman
+|State=South Carolina
+|District=7
+|Office=House
+|Party=Democratic
+}}

@@ -1,0 +1,48 @@
+{{Candidate
+|Firstname=Michael
+|Lastname=Burgess
+|Bioguide_id=B001248
+|Gender=M
+|State=Texas
+|District=26
+|Office=House
+|Party=Republican
+|HiddenValues=Provided_by_ProPublica.org
+                 "id": "B001248",
+                 "thomas_id": "1751",
+                 "api_uri":"https://api.propublica.org/congress/v1/members/B001248.json",
+                 "first_name": "Michael",
+                 "middle_name": "C.",
+                 "last_name": "Burgess",
+                 "party": "R",
+                 "twitter_account": "MichaelCBurgess",
+                 "facebook_account": "michaelcburgess",
+                 "facebook_id": "6916472567",
+                 "google_entity_id": "kg:/m/03tq8_",
+                 "url": "http://burgess.house.gov",
+                 "rss_url": "http://burgess.house.gov/news/rss.aspx",
+                 "domain": "burgess.house.gov",
+                 "dw_nominate": "",
+                 "ideal_point": "",
+                 "seniority": "14",
+                 "next_election": "2016",
+                 "total_votes": "1325",
+                 "missed_votes": "7",
+                 "total_present": "0",
+                 "state": "TX",
+                 "district": "26"
+                 ,"missed_votes_pct": "0.53",
+                 "votes_with_party_pct": "90.90"
+
+|Q2=
+
+'''Automatically Generated Congressional Votes'''
+
+In 2009, as a member of the US House of Representatives, he voted against the American Clean Energy and Security Act HR 2454 (Waxman-Markey). https://www.congress.gov/bill/111th-congress/house-bill/2454 
+
+In 2013, he voted to make it harder for Congress to put a price on carbon by voting for a point of order opposing a carbon tax or a fee on carbon emissions. http://clerk.house.gov/evs/2013/roll445.xml 
+
+In 2014, he voted against a House amendment calling on Congress to recognize that man-made carbon pollution contributes to climate change and that climate change has a wide range of negative effects. http://clerk.house.gov/evs/2014/roll103.xml 
+
+In 2015, as a member of Congress, he supported HR 2042, The Ratepayer Protection Act, which would have prevented implementation of the Clean Power Plan. http://clerk.house.gov/evs/2015/roll384.xml 
+}}

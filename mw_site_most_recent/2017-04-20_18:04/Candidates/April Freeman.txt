@@ -1,0 +1,8 @@
+{{Candidate
+|Firstname=April
+|Lastname=Freeman
+|State=Florida
+|District=17
+|Office=House
+|Party=Democratic
+}}

@@ -1,0 +1,45 @@
+{{Candidate
+|Firstname=Frank
+|Lastname=Guinta
+|Wiki1=https://en.wikipedia.org/wiki/Frank_Guinta
+|State=New Hampshire
+|District=1
+|Office=House
+|Party=Republican
+|Position=Incumbent
+|CampaignSite=http://www.teamguinta.com/
+|FB1=https://www.facebook.com/repfrankguinta
+|TW1=https://twitter.com/repfrankguinta
+|WikiDraftSum=Frank Guinta does not believe the theory of man-made climate change has been scientifically proven (1). In 2011, he voted to limit the EPA’s ability to regulate greenhouse gas emissions.(2). In 2015, he voted against the Obama administration’s Clean Power Plan (3, 4, 3). (Hyperlink Clean Power Plan https://en.wikipedia.org/wiki/Clean_Power_Plan)
+
+
+1. "NH 01; August 23; Exeter Clip of Guinta and Innis on Climate Change", Published 2014-09-18. https://www.youtube.com/watch?v=WGhHgz3g4kw&feature=youtu.be
+
+
+2. Roll Call: http://clerk.house.gov/evs/2011/roll249.xml
+
+
+3. News Link: http://www.utilitydive.com/news/measure-to-block-epa-clean-power-plan-passes-house/401376/
+
+
+4. Bill Profile: https://www.congress.gov/bill/114th-congress/house-bill/2042
+
+
+5. Roll call: http://clerk.house.gov/evs/2015/roll384.xml
+|MovedToWikipedia=Information <b>HAS NEVER</b> been transferred to Wikipedia &#x2717;
+|Q1=When asked, "Do you believe that the theory of man-made climate change has been scientifically proven?", Frank Guinta responded "No."
+https://www.youtube.com/watch?v=WGhHgz3g4kw&feature=youtu.be
+|Q2=In 2011, he voted to limit the EPA’s ability to regulate greenhouse gas emissions.
+
+Roll Call: http://clerk.house.gov/evs/2011/roll249.xml
+
+In 2015, he voted against the Obama administration’s Clean Power Plan.
+
+News Link: http://www.utilitydive.com/news/measure-to-block-epa-clean-power-plan-passes-house/401376/
+
+Bill Profile: https://www.congress.gov/bill/114th-congress/house-bill/2042
+
+Roll call: http://clerk.house.gov/evs/2015/roll384.xml
+|Q3=None found.
+|OtherSources=None found.
+}}

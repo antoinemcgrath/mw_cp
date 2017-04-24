@@ -1,0 +1,8 @@
+{{Candidate
+|Firstname=Richard
+|Lastname=Alarcón
+|State=California
+|District=29
+|Office=House
+|Party=Democratic
+}}

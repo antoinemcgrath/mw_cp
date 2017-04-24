@@ -1,0 +1,8 @@
+{{Candidate
+|Firstname=Nicholas
+|Lastname=Morse
+|State=Colorado
+|District=2
+|Office=House
+|Party=Republican
+}}

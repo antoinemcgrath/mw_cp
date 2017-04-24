@@ -1,0 +1,8 @@
+{{Candidate
+|Firstname=Rhue
+|Lastname=Reis
+|State=Rhode Island
+|District=2
+|Office=House
+|Party=Republican
+}}

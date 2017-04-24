@@ -1,0 +1,8 @@
+{{Candidate
+|Firstname=Carl
+|Lastname=Millard
+|State=North Carolina
+|District=10
+|Office=House
+|Party=Democratic
+}}

@@ -1,0 +1,16 @@
+{{Candidate
+|Firstname=Daniel
+|Lastname=Donovan
+|Bioguide_id=D000625
+|Gender=M
+|State=New York
+|District=11
+|Office=House
+|Party=Republican
+
+|Q2=
+
+'''Automatically Generated Congressional Votes'''
+
+In 2015, as a member of Congress, he supported HR 2042, The Ratepayer Protection Act, which would have prevented implementation of the Clean Power Plan. http://clerk.house.gov/evs/2015/roll384.xml 
+}}

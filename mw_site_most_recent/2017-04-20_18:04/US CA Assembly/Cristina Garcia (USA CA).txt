@@ -1,0 +1,107 @@
+{{US CA Assembly
+|Firstname=Cristina
+|Lastname=Garcia
+|Middlename=
+|Nickname=
+|Gender=
+|Office=CA State Assemblymember
+|State=California
+|Wing=Assembly
+|Level=US_State
+|District=58
+|Party=Democratic
+|OfficialGovSite=http://asmdc.org/members/a58
+|AdditionalSite=
+|Photo=http://assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/AD58-Garcia.jpg
+|Votesmart_id=
+|Leg_id=CAL000366
+
+
+|Q2=  
+
+
+
+
+
+
+
+
+
+
+
+
+
+'''Automatically Generated Legislative Actions'''
+
+
+'''[[2015-2016 SB32 (USA CA)|SB 32]] California Global Warming Solutions Act of 2006: emissions limit.'''
+
+Final legislative action 2016-08-24 passed yeas 25, nays 13. 
+:*Cristina voted yea (in favor of Do pass and be re-referred to the Committee on [Appropriations]).
+:*Cristina voted yea (in favor of SB 32 Pavley Senate Third Reading Amend By WILLIAMS Set #1).
+:*Cristina voted yea (in favor of SB 32 Pavley Senate Third Reading By RIDLEY-THOMAS).
+:*Cristina voted yea (in favor of SB 32 Pavley Motion to Reconsider).
+:*Cristina voted yea (in favor of Do pass as amended and be re-referred to the Committee on [Appropriations]).
+:*Cristina voted yea (in favor of SB 32 Pavley Senate Third Reading By GARCIA, E.).
+
+'''[[2015-2016 SB350 (USA CA)|SB 350]] Clean Energy and Pollution Reduction Act of 2015.'''
+
+Final legislative action 2015-09-11 passed yeas 26, nays 14. 
+:*Cristina voted yea (in favor of Do pass as amended and be re-referred to the Committee on [Natural Resources]).
+:*Cristina voted yea (in favor of Do pass as amended and be re-referred to the Committee on [Appropriations]).
+:*Cristina voted yea (in favor of SB 350 De León Senate Third Reading Amend By WILLIAMS Set #1).
+:*Cristina voted yea (in favor of Do pass as amended.).
+:*Cristina voted yea (in favor of SB 350 De León Senate Third Reading By ATKINS).
+
+'''[[2015-2016 SB380 (USA CA)|SB 380]] Natural gas storage: moratorium.'''
+
+Final legislative action 2016-05-02 passed yeas 37, nays 0. 
+:*Cristina voted yea (in favor of SB 380 Pavley Third Reading Urgency By WILK).
+
+'''[[2015-2016 SB1383 (USA CA)|SB 1383]] Short-lived climate pollutants: methane emissions: dairy and livestock: organic waste: landfills.'''
+
+Final legislative action 2016-08-31 passed yeas 25, nays 12. 
+:*Cristina voted yea (in favor of Do pass and be re-referred to the Committee on [Appropriations]).
+:*Cristina voted yea (in favor of Do pass as amended.).
+:*Cristina voted yea (in favor of SB 1383 Lara Senate Third Reading By THURMOND).
+
+'''[[2015-2016 AB197 (USA CA)|AB 197]] State Air Resources Board: greenhouse gases: regulations.'''
+
+Final legislative action 2016-08-24 passed yeas 45, nays 30. 
+:*Cristina voted yea (in favor of Do pass and be re-referred to the Committee on [Natural Resources]).
+:*Cristina voted yea (in favor of Do pass as amended and be re-referred to the Committee on [Appropriations]).
+:*Cristina voted yea (in favor of AB 197 GARCIA, E. Assembly Third Reading).
+:*Cristina voted yea (in favor of With recommendation: That Senate amendments be concurred in.).
+:*Cristina voted yea (in favor of AB 197 GARCIA, E. Concurrence in Senate Amendments).
+
+'''[[2015-2016 AB1550 (USA CA)|AB 1550]] Greenhouse gases: investment plan: disadvantaged communities.'''
+
+Final legislative action 2016-08-31 passed yeas 53, nays 22. 
+:*Cristina voted yea (in favor of Do pass as amended and be re-referred to the Committee on [Appropriations]).
+:*Cristina voted yea (in favor of AB 1550 GOMEZ Assembly Third Reading).
+:*Cristina voted yea (in favor of AB 1550 GOMEZ Concurrence in Senate Amendments).
+
+'''[[2015-2016 AB1110 (USA CA)|AB 1110]] Greenhouse gases emissions intensity reporting: retail electricity suppliers.'''
+
+Final legislative action 2016-08-31 passed yeas 54, nays 25. 
+:*Cristina voted yea (in favor of AB 1110 TING Consent Calendar Second Day ).
+:*Cristina voted yea (in favor of With recommendation: That Senate amendments be concurred in.).
+:*Cristina voted yea (in favor of AB 1110 TING Concurrence in Senate Amendments).
+
+'''[[2015-2016 AB2722 (USA CA)|AB 2722]] Transformative Climate Communities Program.'''
+
+Final legislative action 2016-08-31 passed yeas 49, nays 27. 
+:*Cristina voted yea (in favor of Do pass as amended and be re-referred to the Committee on [Appropriations]).
+:*Cristina voted yea (in favor of AB 2722 BURKE Assembly Third Reading).
+:*Cristina voted yea (in favor of AB 2722 BURKE Concurrence in Senate Amendments).
+
+'''[[2013-2014 SB1121 (USA CA)|SB 1121]] California Climate Technology and Infrastructure Financing Act.'''
+:*Cristina voted yea (in favor of Do pass as amended and be re-referred to the Committee on Appropriations.).
+<!--EndQ2-->
+|
+|
+|
+|
+|
+|
+}}

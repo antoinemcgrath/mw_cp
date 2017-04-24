@@ -1,0 +1,8 @@
+{{Candidate
+|Firstname=Ron
+|Lastname=Drake
+|State=Indiana
+|District=8
+|Office=House
+|Party=Democratic
+}}

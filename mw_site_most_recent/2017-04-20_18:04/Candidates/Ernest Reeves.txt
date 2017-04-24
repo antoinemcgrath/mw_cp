@@ -1,0 +1,8 @@
+{{Candidate
+|Firstname=Ernest
+|Lastname=Reeves
+|State=North Carolina
+|District=3
+|Office=House
+|Party=Democratic
+}}

@@ -1,0 +1,31 @@
+{{Candidate
+|Firstname=Cresent
+|Lastname=Hardy
+|Wiki1=https://en.wikipedia.org/wiki/Cresent_Hardy
+|State=Nevada
+|District=4
+|Office=House
+|Party=Republican
+|Position=Incumbent
+|HouseOfficialSite=https://hardy.house.gov/
+|CampaignSite=http://cresenthardyforcongress.com/
+|FB1=https://www.facebook.com/RepCresentHardy
+|FB2=https://www.facebook.com/cresenthardyforcongress
+|TW1=https://twitter.com/RepHardy
+|TW2=https://twitter.com/CresentHardy
+|WikiDraftSum=In 2015, Cresent Hardy voted against the Obama administration’s Clean Power Plan (1, 2). In 2011, he said "I believe that coal is fine. It's a clean burning source. It creates jobs. It's proven that they are 99.9 percent clean," (3). 
+
+
+1. "Measure to block EPA Clean Power Plan passes House," in Utility Dive, Robert Walton, 2015-06-26. http://www.utilitydive.com/news/measure-to-block-epa-clean-power-plan-passes-house/401376/
+
+
+2. U.S. House of Representatives Roll Call Votes 114th Congress, Vote Number 384, 2015-06-24. http://clerk.house.gov/evs/2015/roll384.xml
+
+
+3. Hardy (R) Discusses District 19 Candidacy-Video, Mesquite Citizen Journal, Barbara Ellestad, 2012-10-11. http://www.mesquitecitizen.com/viewnews.php?newsid=3013&id=3
+|Q1=None found.
+|Q2=In 2015, he voted against the Obama administration’s Clean Power Plan. http://www.utilitydive.com/news/measure-to-block-epa-clean-power-plan-passes-house/401376/ http://clerk.house.gov/evs/2015/roll384.xml
+In 2011, he said "I believe that coal is fine. It's a clean burning source. It creates jobs (at the Reid-Gardner coal-fired power plant near Moapa) and everywhere else. It's proven that they are 99.9 percent clean." http://www.mesquitecitizen.com/viewnews.php?newsid=3013&id=3
+|Q3=None found.
+|OtherSources=None found.
+}}

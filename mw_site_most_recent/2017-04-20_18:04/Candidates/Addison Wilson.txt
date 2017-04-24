@@ -1,0 +1,8 @@
+{{Candidate
+|Firstname=Addison
+|Lastname=Wilson
+|State=South Carolina
+|District=2
+|Office=House
+|Party=Republican
+}}

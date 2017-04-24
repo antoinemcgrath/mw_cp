@@ -1,0 +1,8 @@
+{{Candidate
+|Firstname=Jim
+|Lastname=Hagedorn
+|State=Minnesota
+|District=1
+|Office=House
+|Party=Republican
+}}

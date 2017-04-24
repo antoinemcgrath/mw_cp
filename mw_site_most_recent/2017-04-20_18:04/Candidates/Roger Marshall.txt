@@ -1,0 +1,24 @@
+{{Candidate
+|Firstname=Roger
+|Lastname=Marshall
+|Bioguide_id=M001198
+|Gender=M
+|Wiki1=https://en.wikipedia.org/wiki/Roger_Marshall_(politician)
+|State=Kansas
+|District=1
+|Office=House
+|Party=Republican
+|Position=Incumbent
+|CampaignSite=http://www.kansansformarshall.com/
+|FB2=https://www.facebook.com/DrRogerMarshall
+|TW2=https://twitter.com/rogermarshallMD
+|WikiDraftSum=In a candidate survey, Roger Marshall responded "disagree" to the question "Climate: Do you agree or disagree with governmental efforts to combat global warming?" adding " I understand that climate, conservation, energy, and national security are interwoven...I favor investing in renewable energy sources over placing more regulations on our businesses," (1).
+
+
+1. Voter Guide U.S. House, 1st District, The Voter Guide, http://c3.thevoterguide.org/v/wichita16/race-detail.do?id=14964502
+|MovedToWikipedia=Information <b>HAS NEVER</b> been transferred to Wikipedia &#x2717;
+|Q1=He responded "disagree" to the question "Climate: Do you agree or disagree with governmental efforts to combat global warming?" adding " I understand that climate, conservation, energy, and national security are interwoven...I favor investing in renewable energy sources over placing more regulations on our businesses." http://c3.thevoterguide.org/v/wichita16/race-detail.do?id=14964502
+|Q2=None found.
+|Q3=None found.
+|OtherSources=He defended the Pope when he spoke on climate change, saying "“I would never attack what the pope is saying...It’s very disrespectful to attack a person who is a world leader." http://www.hutchnews.com/news/local_state_news/pope-in-kansas-political-climate/article_26360f95-33d6-5899-9db5-13961e621e30.html
+}}

@@ -1,0 +1,8 @@
+{{Candidate
+|Firstname=James
+|Lastname=Veltmeyer
+|State=California
+|District=53
+|Office=House
+|Party=Republican
+}}

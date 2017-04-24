@@ -1,0 +1,39 @@
+{{Candidate
+|Firstname=David
+|Lastname=Valadao
+|Bioguide_id=V000129
+|Gender=M
+|Wiki1=https://en.wikipedia.org/wiki/David_Valadao
+|State=California
+|District=21
+|Office=House
+|Party=Republican
+|Position=Incumbent
+|HouseOfficialSite=http://valadao.house.gov/
+|CampaignSite=http://valadaoforcongress.com/
+|FB1=https://www.facebook.com/CongressmanDavidValadao
+|FB2=http://www.facebook.com/pages/David-Valadao-for-Congress/
+|TW1=https://twitter.com/repdavidvaladao
+|TW2=http://twitter.com/dgvaladao
+|WikiDraftSum=In 2015, David Valadao voted against the Obama administration’s Clean Power Plan (1, 2). In 2014, he voted against a House amendment calling on Congress to recognize that man-made carbon pollution contributes to climate change and that climate change has a wide range of negative effects (3). In February 2014, he said, "As farmers, farm workers and communities in the San Joaquin Valley suffer, this Administration has chosen handouts and a climate change lecture over real solutions," (4).
+
+
+1. "Measure to block EPA Clean Power Plan passes House," in Utility Dive, Robert Walton, 2015-06-26. http://www.utilitydive.com/news/measure-to-block-epa-clean-power-plan-passes-house/401376/
+
+
+
+2. U.S. House of Representatives Roll Call Votes 114th Congress, Vote Number 384, 2015-06-24. http://clerk.house.gov/evs/2015/roll384.xml
+
+
+
+3. U.S. House of Representatives Roll Call Votes 113th Congress, Vote Number 103, 2014-03-06 http://clerk.house.gov/evs/2014/roll103.xml
+
+
+4. Issues - Valadao for Congress. http://valadao.house.gov Access/news/documentsingle.aspx?DocumentID=370207 Accessed 2016-10-18
+|MovedToWikipedia=Information <b>HAS NEVER</b> been transferred to Wikipedia &#x2717;
+|Q1=None found.
+|Q2=In 2015, he voted against the Obama administration’s Clean Power Plan. https://www.congress.gov/bill/114th-congress/house-bill/2042 http://www.utilitydive.com/news/measure-to-block-epa-clean-power-plan-passes-house/401376/ 
+In 2014, he voted against a House amendment calling on Congress to recognize that man-made carbon pollution contributes to climate change and that climate change has a wide range of negative effects. http://clerk.house.gov/evs/2014/roll103.xml
+|Q3=In February 2014, he said, "As farmers, farm workers and communities in the San Joaquin Valley suffer, this Administration has chosen handouts and a climate change lecture over real solutions." http://valadao.house.gov/news/documentsingle.aspx?DocumentID=370207
+|OtherSources=None found.
+}}

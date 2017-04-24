@@ -1,0 +1,21 @@
+{{Candidate
+|Firstname=Vicente
+|Lastname=Gonzalez
+|Bioguide_id=G000581
+|Gender=M
+|Nickname=Vicente González
+|Wiki1=https://en.wikipedia.org/wiki/Vicente_Gonz%C3%A1lez_(politician)
+|State=Texas
+|District=15
+|Office=House
+|Party=Democratic
+|Position=Incumbent
+|CampaignSite=http://www.vicentegonzalez.com/
+|FB2=https://www.facebook.com/votevicente/
+|TW2=https://twitter.com/votevicente
+|MovedToWikipedia=Information <b>HAS NEVER</b> been transferred to Wikipedia &#x2717;
+|Q1=None found.
+|Q2=None found.
+|Q3=None found.
+|OtherSources=None found.
+}}

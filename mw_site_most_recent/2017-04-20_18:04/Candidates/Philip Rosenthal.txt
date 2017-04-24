@@ -1,0 +1,8 @@
+{{Candidate
+|Firstname=Philip
+|Lastname=Rosenthal
+|State=New York
+|District=10
+|Office=House
+|Party=Republican
+}}

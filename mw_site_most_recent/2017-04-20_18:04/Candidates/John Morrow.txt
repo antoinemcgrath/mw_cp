@@ -1,0 +1,8 @@
+{{Candidate
+|Firstname=John
+|Lastname=Morrow
+|State=Illinois
+|District=2
+|Office=House
+|Party=Republican
+}}

@@ -1,0 +1,8 @@
+{{Candidate
+|Firstname=Floyd
+|Lastname=Alberson
+|State=Tennessee
+|District=9
+|Office=House
+|Party=Republican
+}}

@@ -1,0 +1,8 @@
+{{Candidate
+|Firstname=Steven
+|Lastname=Specht
+|State=Florida
+|District=1
+|Office=House
+|Party=Democratic
+}}

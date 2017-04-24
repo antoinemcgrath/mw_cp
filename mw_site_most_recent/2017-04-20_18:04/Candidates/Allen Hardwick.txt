@@ -1,0 +1,8 @@
+{{Candidate
+|Firstname=Allen
+|Lastname=Hardwick
+|State=Michigan
+|District=5
+|Office=House
+|Party=Republican
+}}

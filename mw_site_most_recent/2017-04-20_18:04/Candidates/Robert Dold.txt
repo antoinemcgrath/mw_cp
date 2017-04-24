@@ -1,0 +1,51 @@
+{{Candidate
+|Firstname=Robert
+|Lastname=Dold
+|Nickname=Bob
+|Wiki1=https://en.wikipedia.org/wiki/Robert_Dold
+|Wiki2=https://en.wikipedia.org/wiki/Robert_Dold#Political_positions
+|State=Illinois
+|District=10
+|Office=House
+|Party=Republican
+|Position=Incumbent
+|HouseOfficialSite=https://dold.house.gov/
+|CampaignSite=http://doldforcongress.com/
+|FB2=https://www.facebook.com/doldforcongress
+|TW1=https://twitter.com/repdold
+|WikiDraftSum=In 2015, Robert Dodd supported HR 2042, The Ratepayer Protection Act, which would have prevented implementation of the Clean Power Plan (1, 2). In April 2016, he joined the new House Bipartisan Climate Solutions Caucus (3). In an April 25, 2016 blog post, he wrote, “Climate change is occurring and human contributions to this change are important to acknowledge and understand” (4). On his campaign’s Priorities page he states, “Furthermore, as scientific experts have developed a more comprehensive understanding of our planet’s changing climate, it has become clear that we must do more to protect our planet. While specific policy solutions may differ, we must work together to acknowledge the issue and find a sensible path forward… I was one of less than a dozen Republican cosponsors on a resolution acknowledging climate change and expressing a commitment to finding solutions to address this issue” (5).
+
+
+1. “H.R. 2042 – Ratepayer Protection Act of 2015”, House of Representatives Committee on Rules. https://rules.house.gov/bill/114/hr-2042
+
+
+2. “Final Vote Results for Roll Call 380”, 2015-06-24. http://clerk.house.gov/evs/2015/roll380.xml
+
+
+3. “Dold, Moulton Join Bipartisan Task Force on Climate Change Bipartisan Climate Solutions Caucus to Explore 21st Century Solutions to Climate Change”, Press Release, 2016-04-22. http://dold.house.gov/press-releases?ID=27CCBE38-953D-405C-90F6-12A17C2A8158
+
+
+4. “Ask Bob: Earth Day”, Blog Entry 2016-04-26, Bob Dold Official House Website. http://dold.house.gov/blog?ContentRecord_id=A89BB8AE-CADF-4BAC-8391-EB2EA6AF743F
+
+
+5. “Protecting the Environment”, Campaign Priorities Page, Accessed 2016-09-26. http://doldforcongress.com/priorities/
+|MovedToWikipedia=Information <b>HAS NOT</b> been transferred to Wikipedia &#x2717;
+|Q1=In an April 25, 2016 blog post explaining why he joined the new Bipartisan Climate Solutions Caucus, he wrote, “Climate change is occurring and human contributions to this change are important to acknowledge and understand”. http://dold.house.gov/blog?ContentRecord_id=A89BB8AE-CADF-4BAC-8391-EB2EA6AF743F
+
+On his campaign’s Priorities page he states, “Furthermore, as scientific experts have developed a more comprehensive understanding of our planet’s changing climate, it has become clear that we must do more to protect our planet. While specific policy solutions may differ, we must work together to acknowledge the issue and find a sensible path forward… I was one of less than a dozen Republican cosponsors on a resolution acknowledging climate change and expressing a commitment to finding solutions to address this issue”. http://doldforcongress.com/priorities/
+|Q2=In 2011, he voted for HR910, a bill which would have amended the Clean Air Act to prohibit the EPA from regulating greenhouse gases or other contributing factors to climate change.
+http://clerk.house.gov/evs/2011/roll249.xml
+https://www.congress.gov/bill/112th-congress/house-bill/910/
+
+In 2015, as a Congressman, he voted against HR 2042, The Ratepayer Protection Act, which would have prevented implementation of the Clean Power Plan.
+http://clerk.house.gov/evs/2015/roll384.xml
+https://www.congress.gov/bill/114th-congress/house-bill/2042
+
+In 2015, he co-sponsored a resolution that would have committed the House “to working constructively, using our tradition of American ingenuity, innovation, and exceptionalism, to create and support economically viable, and broadly supported private and public solutions to study and address the causes and effects of measured changes to our global and regional climates, including mitigation efforts and efforts to balance human activities that have been found to have an impact”. 
+http://dold.house.gov/press-releases?ContentRecord_id=53AD10C2-1207-4720-9884-315AD2E0966E
+|Q3=None found.
+|OtherSources=Press Release on Bipartisan Taskforce on Climate Change. 2016-04-22. http://dold.house.gov/press-releases?ContentRecord_id=27CCBE38-953D-405C-90F6-12A17C2A8158
+
+
+“GOP moderates to push to fight climate change”. Contains quotes used from other sources above. http://thehill.com/policy/energy-environment/253681-house-republicans-to-push-to-fight-climate-change
+}}

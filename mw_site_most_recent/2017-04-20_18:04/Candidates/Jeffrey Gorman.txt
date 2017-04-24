@@ -1,0 +1,8 @@
+{{Candidate
+|Firstname=Jeffrey
+|Lastname=Gorman
+|State=Michigan
+|District=13
+|Office=House
+|Party=Republican
+}}

@@ -1,0 +1,26 @@
+{{Candidate
+|Firstname=Val
+|Lastname=Demings
+|Bioguide_id=D000627
+|Gender=F
+|Wiki1=https://en.wikipedia.org/wiki/Val_Demings
+|State=Florida
+|District=10
+|Office=House
+|Party=Democratic
+|Position=Incumbent
+|CampaignSite=https://www.facebook.com/val.demings
+|FB2=https://www.facebook.com/val.demings
+|TW2=https://twitter.com/val_demings
+|WikiDraftSum=In August 2016, Val Demings said "Global warming is an obvious problem and we know that at least half of it is man­made. I will take a long, hard look at any cap & trade proposal to ensure that it not only has the effect of reducing CO2 efficiently but also has a minimal effect on the cost of energy," (1). In 2016, she stated support for funding the Green Climate Fund to help poor countries better mitigate and adapt to the impacts of climate change (2). 
+
+
+1. 2016 Congressional Candidate Questionnaire – Val Demings, West Orlando News, 23 August 2016. http://westorlandonews.com/2016-congressional-candidate-questionnaire-val-demings/
+
+1. Florida Conference of Catholic Bishops Candidate Questionnaire Project 0 Val Demings. http://flaccb.org/documents/2016/7/demings_val.pdf
+|MovedToWikipedia=Information <b>HAS NEVER</b> been transferred to Wikipedia &#x2717;
+|Q1=In August 2016, she said  "Global warming is an obvious problem and we know that at least half of it is man­made. I will take a long, hard look at any cap & trade proposal to ensure that it not only has the effect of reducing CO2 efficiently but also has a minimal effect on the cost of energy." http://westorlandonews.com/2016-congressional-candidate-questionnaire-val-demings/
+|Q2=In 2016, she stated support for funding the Green Climate Fund to help poor countries better mitigate and adapt to the impacts of climate change. http://flaccb.org/documents/2016/7/demings_val.pdf
+|Q3=None found.
+|OtherSources=None found.
+}}

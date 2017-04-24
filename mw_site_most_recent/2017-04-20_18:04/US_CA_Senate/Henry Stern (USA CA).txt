@@ -1,0 +1,34 @@
+{{US CA Senate
+|Firstname=Henry
+|Lastname=Stern
+|Office=CA State Senator
+|State=California
+|District=27
+|Party=Democratic
+|OfficialGovSite=http://sd27.senate.ca.gov/
+|Q2=
+
+
+
+
+
+
+
+
+
+
+
+'''Automatically Generated Legislative Actions'''
+
+<!--EndQ2-->
+|
+|
+|
+|
+|
+|
+|Wing=Senate
+|Level=US_State
+|Photo=http://senate.ca.gov/sites/senate.ca.gov/files/senator_photos/stern.jpg
+|Leg_id=CAL000509
+}}

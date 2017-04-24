@@ -1,0 +1,8 @@
+{{Candidate
+|Firstname=David
+|Lastname=Bruderly
+|State=Florida
+|District=4
+|Office=House
+|Party=Democratic
+}}

@@ -1,0 +1,44 @@
+{{Candidate
+|Firstname=Katherine
+|Lastname=Clark
+|Bioguide_id=C001101
+|Gender=F
+|State=Massachusetts
+|District=5
+|Office=House
+|Party=Democratic
+|HiddenValues=Provided_by_ProPublica.org
+                 "id": "C001101",
+                 "thomas_id": "2196",
+                 "api_uri":"https://api.propublica.org/congress/v1/members/C001101.json",
+                 "first_name": "Katherine",
+                 "middle_name": "",
+                 "last_name": "Clark",
+                 "party": "D",
+                 "twitter_account": "RepKClark",
+                 "facebook_account": "CongresswomanClark",
+                 "facebook_id": "",
+                 "google_entity_id": "kg:/m/0fpjc8b",
+                 "url": "https://katherineclark.house.gov",
+                 "rss_url": "",
+                 "domain": "katherineclark.house.gov",
+                 "dw_nominate": "",
+                 "ideal_point": "",
+                 "seniority": "4",
+                 "next_election": "2016",
+                 "total_votes": "1325",
+                 "missed_votes": "9",
+                 "total_present": "0",
+                 "state": "MA",
+                 "district": "5"
+                 ,"missed_votes_pct": "0.68",
+                 "votes_with_party_pct": "95.36"
+
+|Q2=
+
+'''Automatically Generated Congressional Votes'''
+
+In 2014, she voted for a House amendment calling on Congress to recognize that man-made carbon pollution contributes to climate change and that climate change has a wide range of negative effects. http://clerk.house.gov/evs/2014/roll103.xml 
+
+In 2015, as a member of Congress she voted against HR 2042, The Ratepayer Protection Act, which would have prevented implementation of the Clean Power Plan. http://clerk.house.gov/evs/2015/roll384.xml 
+}}

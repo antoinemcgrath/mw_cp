@@ -1,0 +1,8 @@
+{{Candidate
+|Firstname=Angela
+|Lastname=Pendley
+|State=Georgia
+|District=3
+|Office=House
+|Party=Democratic
+}}

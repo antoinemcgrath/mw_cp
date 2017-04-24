@@ -1,0 +1,39 @@
+{{Candidate
+|Firstname=Ryan
+|Lastname=Zinke
+|Bioguide_id=Z000018
+|Gender=M
+|Wiki1=https://en.wikipedia.org/wiki/Ryan_Zinke
+|State=Montana
+|District=At-large
+|Office=House
+|Party=Republican
+|Position=Incumbent
+|HouseOfficialSite=https://zinke.house.gov/
+|CampaignSite=http://www.ryanzinke.com/
+|FB1=https://www.facebook.com/CongressmanRyanZinke
+|TW2=https://twitter.com/RyanZinke
+|WikiDraftSum=In 2010 Ryan Zinke advocated for the passage of clean energy and climate legislation, but in 2014 he said he is a geologist and that he has seen no scientific evidence that fracking is environmentally dangerous or that climate change is changing the weather (1). In 2015, he voted against the Obama administration’s Clean Power Plan (2, 3, 4). (Hyperlink Clean Power Plan https://en.wikipedia.org/wiki/Clean_Power_Plan)
+
+
+1. "Zinke: Lewis wrong on energy" on Bozeman Daily Chronicle, by Troy Carter, 2014-06-18.  http://www.bozemandailychronicle.com/news/politics/article_9acaff66-f67b-11e3-8238-001a4bcf887a.html
+
+
+2. News Link: http://www.utilitydive.com/news/measure-to-block-epa-clean-power-plan-passes-house/401376/
+
+
+3. Bill Profile: https://www.congress.gov/bill/114th-congress/house-bill/2042
+
+
+4. Roll call: http://clerk.house.gov/evs/2015/roll384.xml
+|MovedToWikipedia=Information <b>HAS NEVER</b> been transferred to Wikipedia &#x2717;
+|Q1=In 2010 Ryan Zinke advocated for the passage of clean energy and climate legislation, but in 2014 he said he is a geologist and that he has seen no scientific evidence that fracking is environmentally dangerous or that climate change is changing the weather. He also said, “I’m a conservationist, but when there’s a volcano in the Philippines that erupts and produces more C02 than humans have produced in 200 years – is C02 really the problem?” (A U.S. Geological Survey fact sheet on volcanic carbon dioxide production cited peer-reviewed scientific studies that concluded human activities produce 35 billion metric tons per year, dwarfing the 0.26 billion metric tons produced by volcanoes).
+http://www.bozemandailychronicle.com/news/politics/article_9acaff66-f67b-11e3-8238-001a4bcf887a.html
+|Q2=In 2015, he voted against the Obama administration’s Clean Power Plan.
+
+News Link: http://www.utilitydive.com/news/measure-to-block-epa-clean-power-plan-passes-house/401376/
+
+Bill Profile: https://www.congress.gov/bill/114th-congress/house-bill/2042
+
+Roll call: http://clerk.house.gov/evs/2015/roll384.xml
+}}

@@ -1,0 +1,22 @@
+{{Candidate
+|Firstname=Mark
+|Lastname=Holbrook
+|State=Maine
+|District=1
+|Office=House
+|Party=Republican
+|Position=Challenger
+|CampaignSite=http://www.holbrook2016.net/
+|FB2=https://www.facebook.com/Holbrook2016/
+|TW2=https://twitter.com/markholbrook_me
+|WikiDraftSum=On his campaign website, Mark Holbrook states, “I am opposed to the politically motivated efforts of phony ‘greenies’ who seek to scare us and all countries into submission to more taxes and regulation for a fictional cause. ‘Global warming’ is a coercive, fanatical religion and I am a heretic. I am not a denier; there is nothing to deny…Global Warming is political, not environmental or scientific…Climate has and will always change” (1).
+
+
+1. “Climate Change (What happened to the ‘warming’ thing?)”, Mark Holbrook campaign website, Accessed 2016-09-29. http://www.holbrook2016.net/globalwarming.html
+|MovedToWikipedia=Information <b>HAS NEVER</b> been transferred to Wikipedia &#x2717;
+|Q1=On his campaign website, Mark Holbrook states, “I am opposed to the politically motivated efforts of phony ‘greenies’ who seek to scare us and all countries into submission to more taxes and regulation for a fictional cause. ‘Global warming’ is a coercive, fanatical religion and I am a heretic. I am not a denier; there is nothing to deny…Global Warming is political, not environmental or scientific…Climate has and will always change”.
+http://www.holbrook2016.net/globalwarming.html
+|Q2=None found.
+|Q3=None found.
+|OtherSources=None found.
+}}

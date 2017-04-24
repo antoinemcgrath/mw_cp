@@ -1,0 +1,18 @@
+{{Candidate
+|Firstname=Phil
+|Lastname=Oliva
+|State=New York
+|District=18
+|Office=House
+|Party=Republican
+|Position=Challenger
+|CampaignSite=http://www.philoliva.com/
+|FB2=https://www.facebook.com/Phil-Oliva-739514432820645/
+|TW2=https://twitter.com/phil_oliva
+|WikiDraftSum=None found.
+|MovedToWikipedia=Information <b>HAS NEVER</b> been transferred to Wikipedia &#x2717;
+|Q1=None found.
+|Q2=None found.
+|Q3=None found.
+|OtherSources=None found.
+}}

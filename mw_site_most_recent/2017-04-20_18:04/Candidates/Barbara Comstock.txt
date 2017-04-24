@@ -1,0 +1,72 @@
+{{Candidate
+|Firstname=Barbara
+|Lastname=Comstock
+|Bioguide_id=C001105
+|Gender=F
+|Wiki1=https://en.wikipedia.org/wiki/Barbara_Comstock
+|State=Virginia
+|District=10
+|Office=House
+|Party=Republican
+|Position=Incumbent
+|HouseOfficialSite=https://comstock.house.gov/
+|FB1=https://www.facebook.com/RepBarbaraComstock
+|TW1=https://twitter.com/repcomstock
+|TW2=https://twitter.com/BarbaraComstock
+|WikiDraftSum=In 2015, she voted against the Obama administration’s Clean Power Plan (1, 2, 3). 
+(Hyperlink Clean Power Plan https://en.wikipedia.org/wiki/Clean_Power_Plan)
+
+In an October 2016 debate, she stated support for an all-of-the-above energy policy and said "We do understand that the Earth is warming ... but we can't destroy our economy while we're at it" (4).
+
+
+1. News Link: http://www.utilitydive.com/news/measure-to-block-epa-clean-power-plan-passes-house/401376/
+
+
+2. Bill Profile: https://www.congress.gov/bill/114th-congress/house-bill/2042
+
+
+3. Roll call: http://clerk.house.gov/evs/2015/roll384.xml
+
+
+4. "Comstock and Bennett spar at Loudoun County debate" on Loudoun Times-Mirror, by Trevor Baratko, 2016-10-06. http://www.loudountimes.com/news/article/candidates_comstock_and_bennett_spar_at_loudoun_county_debate432
+|MovedToWikipedia=Information <b>HAS NEVER</b> been transferred to Wikipedia &#x2717;
+|Q1=In an October 2016 debate, Barbara Comstock stated support for an all-of-the-above energy policy and said "We do understand that the Earth is warming ... but we can't destroy our economy while we're at it".
+
+http://www.loudountimes.com/news/article/candidates_comstock_and_bennett_spar_at_loudoun_county_debate432
+|Q2=In 2015, she voted against the Obama administration’s Clean Power Plan (1, 2, 3). 
+(Hyperlink Clean Power Plan https://en.wikipedia.org/wiki/Clean_Power_Plan)
+
+News Link: http://www.utilitydive.com/news/measure-to-block-epa-clean-power-plan-passes-house/401376/
+
+Bill Profile: https://www.congress.gov/bill/114th-congress/house-bill/2042
+
+Roll call: http://clerk.house.gov/evs/2015/roll384.xml
+|Q3=None found.
+|OtherSources=None found.
+|HiddenValues=Provided_by_ProPublica.org
+                 "id": "C001105",
+                 "thomas_id": "2273",
+                 "api_uri":"https://api.propublica.org/congress/v1/members/C001105.json",
+                 "first_name": "Barbara",
+                 "middle_name": null,
+                 "last_name": "Comstock",
+                 "party": "R",
+                 "twitter_account": "RepComstock",
+                 "facebook_account": "",
+                 "facebook_id": "",
+                 "google_entity_id": "kg:/m/02890yr",
+                 "url": "https://comstock.house.gov",
+                 "rss_url": "https://comstock.house.gov/rss.xml",
+                 "domain": "",
+                 "dw_nominate": "",
+                 "ideal_point": "",
+                 "seniority": "2",
+                 "next_election": "2016",
+                 "total_votes": "1325",
+                 "missed_votes": "20",
+                 "total_present": "0",
+                 "state": "VA",
+                 "district": "10"
+                 ,"missed_votes_pct": "1.51",
+                 "votes_with_party_pct": "93.33"
+}}

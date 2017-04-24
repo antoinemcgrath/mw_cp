@@ -1,0 +1,22 @@
+{{Candidate
+|Firstname=John
+|Lastname=Kennedy
+|Bioguide_id=K000393
+|Gender=M
+|Wiki1=https://en.wikipedia.org/wiki/John_Neely_Kennedy
+|State=Louisiana
+|Office=Senate
+|Party=Republican
+|CampaignSite=http://www.johnkennedy.com/
+|FB2=https://www.facebook.com/JohnKennedyLouisiana
+|TW2=https://twitter.com/JohnKennedyLA
+|WikiDraftSum=In September 2016, John Kennedy was paraphrased as saying "he believes that global temperatures are rising but said the evidence does not clearly explain why". He also said "I support energy conservation, nuclear energy and encouraging technology to burn clean burning coal. I don’t support a cap and trade policy. I don’t support an energy tax. If it’s such a swell idea, let China go first," (1). 
+
+
+1. " Only one major U.S. Senate candidate in Louisiana thinks global warming is priority," in The Advocate, Tyler Bridges, 2016-09-12. http://www.theadvocate.com/baton_rouge/news/politics/elections/article_349f95d2-78e5-11e6-91b8-8f76fd380d99.html
+|MovedToWikipedia=Information <b>HAS NEVER</b> been transferred to Wikipedia &#x2717;
+|Q1=In September 2016, he was paraphrased as saying he believes that global temperatures are rising but said the evidence does not clearly explain why. http://www.theadvocate.com/baton_rouge/news/politics/elections/article_349f95d2-78e5-11e6-91b8-8f76fd380d99.html
+|Q2=In September 2016, he said "I support energy conservation, nuclear energy and encouraging technology to burn clean burning coal. I don’t support a cap and trade policy. I don’t support an energy tax. If it’s such a swell idea, let China go first.” http://www.theadvocate.com/baton_rouge/news/politics/elections/article_349f95d2-78e5-11e6-91b8-8f76fd380d99.html
+|Q3=None found.
+|OtherSources=None found.
+}}

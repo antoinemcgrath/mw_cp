@@ -1,0 +1,8 @@
+{{Candidate
+|Firstname=Kathleen
+|Lastname=Thomas
+|State=Texas
+|District=25
+|Office=House
+|Party=Democratic
+}}

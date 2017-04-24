@@ -1,0 +1,45 @@
+{{Candidate
+|Firstname=Lisa
+|Lastname=Murkowski
+|Bioguide_id=M001153
+|Gender=F
+|Wiki1=https://en.wikipedia.org/wiki/Lisa_Murkowski
+|State=Alaska
+|Office=Senate
+|Party=Republican
+|Position=Incumbent
+|SenateOfficialSite=http://murkowski.senate.gov/
+|CampaignSite=https://www.lisamurkowski.com/
+|FB1=https://www.facebook.com/SenLisaMurkowski
+|FB2=https://www.facebook.com/lisaforalaska/
+|TW1=https://twitter.com/lisamurkowski
+|TW2=https://twitter.com/LisaForSenate
+|WikiDraftSum=In 2006, Lisa Murkowski said, "I believe it is a reality that man is contributing to the current warming trend. Accordingly, it is appropriate, and quite frankly our responsibility, to take steps to curb the growth of greenhouse gases." (1) In November 2014, she said, "I come from a state where we see a warming. We're seeing it with increased water temperatures; we're seeing it with ice that is thinner; we're seeing it with migratory patterns that are changing. So, I look at this, and I say this is something that we must address." (2) In November 2015, she voted for a resolution of disapproval saying that the Clean Power Plan "shall have no force or effect." (3) In a series of roll call votes attached to debate about the Keystone XL Pipeline on January 21, 2015, she voted for the Amendment 87 by Sen. Hoeven that human activity is real and contributes to climate change, and against Amendment 58 by Sen. Schatz, that human activity "significantly" contributes to climate change. (4,5,6)
+
+
+1. Transcript of "Climate Change: An Alaskan Perspective." 2006-11-13 https://www.murkowski.senate.gov/press/speech/climate-change-an-alaskan-perspective
+
+
+2. "Murkowski: 'We must address' warming in Alaska," in the Hill, Laura Barron-Lopez, 2014-11-06. http://thehill.com/policy/energy-environment/223168-murkowski-we-must-address-warming-in-alaska
+
+
+3. U.S. Senate Roll Call Votes 114th Congress - 1st Session, Vote Number 307, 2015-11-17. http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?congress=114&session=1&vote=00307#top
+
+
+4. Leber, Rebecca (2015-01-21). "Republican Senators Finally Admit That Climate Change Is Not a Hoax". New Republic. Retrieved 2016-10-02. https://newrepublic.com/article/120825/senates-keystone-amendment-admits-climate-change-real
+
+
+5. U.S. Senate Role Call Votes 114th Congress -1st Session, Vote Number 11, 2015-01-21. http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?congress=114&session=1&vote=00011
+
+
+6. U.S. Senate Role Call Votes 114th Congress - 1st Session, Vote Number 12, 2015-01-21. http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?congress=114&session=1&vote=00012
+|MovedToWikipedia=Information <b>HAS NEVER</b> been transferred to Wikipedia &#x2717;
+|Q1=In 2006, she said, "I believe it is a reality that man is contributing to the current warming trend. Accordingly, it is appropriate, and quite frankly our responsibility, to take steps to curb the growth of greenhouse gases." https://www.murkowski.senate.gov/press/speech/climate-change-an-alaskan-perspective
+|Q2=In November 2015, she voted for a resolution of disapproval saying that the Clean Power Plan "shall have no force or effect." http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?congress=114&session=1&vote=00307#top
+
+In a series of roll call votes attached to debate about the Keystone XL Pipeline on January 21, 2015, she voted for the Amendment 87 by Sen. Hoeven that human activity is real and contributes to climate change, and against Amendment 58 by Sen. Schatz, that human activity "significantly" contributes to climate change. http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?congress=114&session=1&vote=00012 http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?congress=114&session=1&vote=00011
+
+In 2007, she co-sponsored the Renewable Energy, Fuel Reduction, and Economic Stabilization and Enhancement Act of 2007, saying "We have certainly seen firsthand the effects of a warming climate in recent years. It only makes sense that we take common sense steps now to improve fuel efficiency, to promote the development of a wider range of alternative energy technologies and to encourage Americans to buy more fuel efficient vehicles." https://www.murkowski.senate.gov/press/release/murkowski-introduces-legislation-aimed-at-reducing-manmade-impacts-on-climate-change https://www.congress.gov/bill/110th-congress/senate-bill/298/all-info#major-actions
+|Q3=In November 2014, she said "I come from a state where we see a warming. We're seeing it with increased water temperatures; we're seeing it with ice that is thinner; we're seeing it with migratory patterns that are changing. So, I look at this, and I say this is something that we must address." http://thehill.com/policy/energy-environment/223168-murkowski-we-must-address-warming-in-alaska
+|OtherSources=None found.
+}}

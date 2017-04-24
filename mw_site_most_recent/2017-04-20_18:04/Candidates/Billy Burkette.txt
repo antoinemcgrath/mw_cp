@@ -1,0 +1,8 @@
+{{Candidate
+|Firstname=Billy
+|Lastname=Burkette
+|State=Louisiana
+|District=5
+|Office=House
+|Party=Republican
+}}

@@ -1,0 +1,8 @@
+{{Candidate
+|Firstname=Jan
+|Lastname=Schneider
+|State=Florida
+|District=16
+|Office=House
+|Party=Democratic
+}}

@@ -1,0 +1,25 @@
+{{Candidate
+|Firstname=Jeff
+|Lastname=Stone
+|Wiki1=https://en.wikipedia.org/wiki/Jeff_Stone_(California_politician)
+|State=California
+|District=36
+|Office=House
+|Party=Republican
+|Position=Challenger
+|CampaignSite=http://www.votejeffstone.com/
+|FB2=https://www.facebook.com/JeffStoneCampaign
+|TW2=https://twitter.com/Stone4Senate
+|WikiDraftSum=In October 2016, Jeff Stone said "my opponent talks about intellectuals who say its man-made. There are also intellectual on the other side who say that we go through climactic changes on the Earth in millions and millions of years and go through warm and cold cycles," (1). As a state Senator, he opposed the California Climate Change Legislative Package (SB 350 and SB 32) (2).
+
+
+1. Ruiz and Stone debate economy and the environment, The Desert Sun, 2016-10-17. http://www.desertsun.com/videos/news/politics/elections/2016/10/17/92335398/ 5:05-6:15.
+
+
+2. Senator Stone Issues Statement on California Climate Change Legislative Package. 2015-06-03. http://stone.cssrc.us/content/senator-stone-issues-statement-california-climate-change-legislative-package
+|MovedToWikipedia=Information <b>HAS NEVER</b> been transferred to Wikipedia &#x2717;
+|Q1=In October 2016, Jeff Stone said "my opponent talks about intellectuals who say its man-made. There are also intellectual on the other side who say that we go through climactic changes on the Earth in millions and millions of years and go through warm and cold cycles." http://www.desertsun.com/videos/news/politics/elections/2016/10/17/92335398/
+|Q2=As a state Senator, he opposed the California Climate Change Legislative Package (SB 350 and SB 32). http://stone.cssrc.us/content/senator-stone-issues-statement-california-climate-change-legislative-package
+|Q3=None found.
+|OtherSources=None found.
+}}

@@ -1,0 +1,8 @@
+{{Candidate
+|Firstname=DuWayne
+|Lastname=Gregory
+|State=New York
+|District=2
+|Office=House
+|Party=Democratic
+}}

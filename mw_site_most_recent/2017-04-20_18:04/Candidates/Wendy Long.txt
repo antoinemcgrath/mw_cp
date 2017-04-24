@@ -1,0 +1,23 @@
+{{Candidate
+|Firstname=Wendy
+|Lastname=Long
+|Wiki1=https://en.wikipedia.org/wiki/Wendy_Long
+|State=New York
+|Office=Senate
+|Party=Republican
+|Position=Challenger
+|CampaignSite=https://wendylong.com/
+|FB2=https://www.facebook.com/WendyLong2016/
+|WikiDraftSum=Wendy Long was paraphrased and quoted by the Syracuse Media Group, which writes that she doesn’t see the need for any major action to combat climate change at a time that the issue has been “politicized and distorted". (1) 
+
+
+1.  Syracuse Media Group, Wendy Long, GOP Senate candidate, sees America 'slipping away' by Paul Riede October 22 2012, http://www.syracuse.com/news/index.ssf/2012/10/wendy_long_gop_senate_candidat.html
+|MovedToWikipedia=Information <b>HAS NOT</b> been transferred to Wikipedia &#x2717;
+|Q1=None found.
+|Q2=Wendy Long was paraphrased and quoted by the Syracuse Media Group, which writes that she doesn’t see the need for any major action to combat climate change at a time that the issue has been “politicized and distorted.” 
+Syracuse Media Group, Wendy Long, GOP Senate candidate, sees America 'slipping away' by Paul Riede October 22 2012, http://www.syracuse.com/news/index.ssf/2012/10/wendy_long_gop_senate_candidat.html
+|Q3=None found.
+|OtherSources=The Syracuse Media Group wrote that she doesn’t see the need for any major action to combat climate change at this time, quoting her saying that the issue has been “politicized and distorted.” (1) 
+
+1. Syracuse Media Group, Wendy Long, GOP Senate candidate, sees America 'slipping away' by Paul Riede October 22 2012, http://www.syracuse.com/news/index.ssf/2012/10/wendy_long_gop_senate_candidat.html
+}}

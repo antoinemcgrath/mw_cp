@@ -1,0 +1,8 @@
+{{Candidate
+|Firstname=Chase
+|Lastname=Iron Eyes
+|State=North Dakota
+|District=At-large
+|Office=House
+|Party=Democratic-NPL
+}}

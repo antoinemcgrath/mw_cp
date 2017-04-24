@@ -1,0 +1,25 @@
+{{Candidate
+|Firstname=Jim
+|Lastname=Barksdale
+|Wiki1=https://en.wikipedia.org/wiki/Jim_F._Barksdale
+|State=Georgia
+|Office=Senate
+|Party=Democratic
+|Position=Challenger
+|CampaignSite=https://jimbarksdale.com/
+|FB2=https://www.facebook.com/jimbarksdaleforsenate/
+|TW2=https://twitter.com/jimbarksdale
+|WikiDraftSum=On his Campaign’s Issues page, Jim Barksdale states, “Climate change is a reality and if left unchecked, rising ocean tides will harm Georgia’s Atlantic coast and threaten our state’s robust tourism and shipping industries. It is grossly irresponsible that so many elected leaders in the Washington crowd listen to special interests and their lobbyists to refute the scientific evidence of man-made climate change in exchange for campaign cash to fuel their reelection campaigns at the expense of the people” (1).
+
+
+1. “Seeking a Clean Energy Future” Campaign Issues Page, Accessed 9/15/16. https://jimbarksdale.com/issues/entry/seeking-a-clean-energy-future
+|MovedToWikipedia=Information <b>HAS</b> been transferred to Wikipedia &#10003;
+|Q1=Climate change is a reality and if left unchecked, rising ocean tides will harm Georgia’s Atlantic coast and threaten our state’s robust tourism and shipping industries.
+
+It is grossly irresponsible that so many elected leaders in the Washington crowd listen to special interests and their lobbyists to refute the scientific evidence of man-made climate change in exchange for campaign cash to fuel their reelection campaigns at the expense of the people.
+https://jimbarksdale.com/issues/entry/seeking-a-clean-energy-future Accessed 2016-09-15
+|Q2=None found.
+|Q3=Climate change is a reality and if left unchecked, rising ocean tides will harm Georgia’s Atlantic coast and threaten our state’s robust tourism and shipping industries.
+https://jimbarksdale.com/issues/entry/seeking-a-clean-energy-future Accessed 2016-09-15
+|OtherSources=None found.
+}}

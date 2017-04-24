@@ -1,0 +1,8 @@
+{{Candidate
+|Firstname=Michael
+|Lastname=Molesevich
+|State=Pennsylvania
+|District=10
+|Office=House
+|Party=Democratic
+}}

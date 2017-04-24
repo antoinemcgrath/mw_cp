@@ -1,0 +1,8 @@
+{{Candidate
+|Firstname=Robert
+|Lastname=Ardini
+|State=New York
+|District=12
+|Office=House
+|Party=Republican
+}}

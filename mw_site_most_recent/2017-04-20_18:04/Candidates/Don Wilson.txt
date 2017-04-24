@@ -1,0 +1,8 @@
+{{Candidate
+|Firstname=Don
+|Lastname=Wilson
+|State=Georgia
+|District=11
+|Office=House
+|Party=Democratic
+}}

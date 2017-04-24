@@ -1,0 +1,68 @@
+{{Candidate
+|Firstname=Loretta
+|Lastname=Sanchez
+|Wiki1=https://en.wikipedia.org/wiki/Loretta_Sanchez
+|State=California
+|Office=Senate
+|Party=Democratic
+|Gender=Female
+|Position=Challenger
+|HouseOfficialSite=https://lorettasanchez.house.gov/
+|CampaignSite=http://www.loretta.org/
+|FB1=https://www.facebook.com/LorettaSanchez
+|TW2=https://twitter.com/LorettaSanchez
+|WikiDraftSum=In 2011, as a Representative, Loretta Sanchez voted against HR910, a bill which would have amended the Clean Air Act to prohibit the EPA from regulating greenhouse gases or other contributing factors to climate change. (1, 2) In 2013, she voted against a point of order opposing a carbon tax or a fee on carbon emissions. (3) In 2014, she voted for a House amendment calling on Congress to recognize that man-made carbon pollution contributes to climate change and that climate change has a wide range of negative effects. (4, 5) In 2015, she voted against HR 2042, The Ratepayer Protection Act, which would have prevented implementation of the Clean Power Plan. (6, 7) In an April 22, 2016 Facebook post, she wrote, “Stewardship of our precious Earth is an inherited and shared responsibility. The signing of the Paris Climate Change Agreement solidifies a strong belief that curbing climate change is a priority for our global agenda. I hope this will build momentum for further concrete and sustainable joint efforts to halt global warming in its tracks. This commitment towards a cohesive global reduction of carbon emissions is crucial to preserve our planet for future generations. Our work towards reducing global temperatures will not stop with the signing of this agreement.” (8)
+
+
+1. “Final Vote Results for Roll Call 249”, Energy Tax Prevention Act 2011, 2011-04-07.  http://clerk.house.gov/evs/2011/roll249.xml
+
+
+2. “H.R.910 - Energy Tax Prevention Act of 2011”, Energy Tax Prevention Act Summary. https://www.congress.gov/bill/112th-congress/house-bill/910/
+
+
+3. “Final Vote Results for Roll Call 445”, Regulations From the Executive in Need of Scrutiny Act, 2013-08-02. http://clerk.house.gov/evs/2013/roll445.xml
+
+
+4. “Final Vote Results for Roll Call 103”, 2016-03-06. http://clerk.house.gov/evs/2014/roll103.xml
+
+
+
+5. “24 House Republicans Just Voted To Deny The Reality Of Climate Change”, ThinkProgress, 2014-01-28. https://thinkprogress.org/24-house-republicans-just-voted-to-deny-the-reality-of-climate-change-e3f66d07f897#.5ha4jdq7i
+
+
+6. “H.R. 2042 - Ratepayer Protection Act of 2015”, House of Representatives Committee on Rules. https://rules.house.gov/bill/114/hr-2042
+
+
+7. “Final Vote Results for Roll Call 380”, 2015-06-24. http://clerk.house.gov/evs/2015/roll380.xml
+
+
+8. Loretta Sanchez Facebook Post on the Paris Climate Change Agreement, 2016-04-22. https://www.facebook.com/LorettaSanchez/posts/10154086325721168
+|Q1=In an April 22, 2016 Facebook post, she wrote, “Stewardship of our precious Earth is an inherited and shared responsibility. The signing of the Paris Climate Change Agreement solidifies a strong belief that curbing climate change is a priority for our global agenda.
+
+I hope this will build momentum for further concrete and sustainable joint efforts to halt global warming in its tracks. This commitment towards a cohesive global reduction of carbon emissions is crucial to preserve our planet for future generations.
+
+Our work towards reducing global temperatures will not stop with the signing of this agreement. Investments in clean, renewable energy are crucial to enable us to meet the goals established by the Paris Climate Change Agreement. I will continue to support policies which support the use of these technologies and aid the United States in becoming a flagship in clean energy use”. https://www.facebook.com/LorettaSanchez/posts/10154086325721168
+|Q2=In 2011, she voted against HR910, a bill which would have amended the Clean Air Act to prohibit the EPA from regulating greenhouse gases or other contributing factors to climate change. 
+
+http://clerk.house.gov/evs/2011/roll249.xml
+
+https://www.congress.gov/bill/112th-congress/house-bill/910/
+
+In 2013, she voted against a point of order opposing a carbon tax or a fee on carbon emissions.
+
+http://clerk.house.gov/evs/2013/roll445.xml
+
+In 2014, she voted for a House amendment calling on Congress to recognize that man-made carbon pollution contributes to climate change and that climate change has a wide range of negative effects. 
+
+http://clerk.house.gov/evs/2014/roll103.xml
+
+https://thinkprogress.org/24-house-republicans-just-voted-to-deny-the-reality-of-climate-change-e3f66d07f897#.5ha4jdq7i
+
+In 2015, as a Congressman she voted against HR 2042, The Ratepayer Protection Act, which would have prevented implementation of the Clean Power Plan.
+
+https://rules.house.gov/bill/114/hr-2042
+
+http://clerk.house.gov/evs/2015/roll380.xml
+|Q3=None found.
+|OtherSources=None found.
+}}

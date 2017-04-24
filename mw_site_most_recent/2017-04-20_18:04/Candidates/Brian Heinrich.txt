@@ -1,0 +1,8 @@
+{{Candidate
+|Firstname=Brian
+|Lastname=Heinrich
+|State=Oregon
+|District=1
+|Office=House
+|Party=Republican
+}}

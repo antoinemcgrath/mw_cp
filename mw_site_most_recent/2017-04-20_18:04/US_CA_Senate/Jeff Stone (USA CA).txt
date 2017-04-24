@@ -1,0 +1,93 @@
+{{US CA Senate
+|Firstname=Jeff
+|Lastname=Stone
+|Middlename=
+|Nickname=
+|Gender=
+|Office=CA State Senator
+|State=California
+|Wing=Senate
+|Level=US_State
+|District=28
+|Party=Republican
+|OfficialGovSite=http://senate.ca.gov/sd28
+|AdditionalSite=
+|Photo=http://senate.ca.gov/sites/senate.ca.gov/files/senator_photos/jeff-stone.jpg
+|Votesmart_id=
+|Leg_id=CAL000486
+
+
+|Q2=  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+'''Automatically Generated Legislative Actions'''
+
+
+'''[[2015-2016 SB32 (USA CA)|SB 32]] California Global Warming Solutions Act of 2006: emissions limit.'''
+
+Final legislative action 2016-08-24 passed yeas 25, nays 13. 
+:*Jeff voted nay (against 3rd Reading ).
+:*Jeff voted nay (against Unfinished Business (Supplemental File 1) SB32 Pavley Concurrence).
+
+'''[[2015-2016 SB350 (USA CA)|SB 350]] Clean Energy and Pollution Reduction Act of 2015.'''
+
+Final legislative action 2015-09-11 passed yeas 26, nays 14. 
+:*Jeff voted nay (against 3rd Reading SB350 De León).
+:*Jeff voted nay (against Unfinished Business (Supplemental File 6) SB350 De León Concurrence).
+
+'''[[2015-2016 SB1383 (USA CA)|SB 1383]] Short-lived climate pollutants: methane emissions: dairy and livestock: organic waste: landfills.'''
+
+Final legislative action 2016-08-31 passed yeas 25, nays 12. 
+:*Jeff voted nay (against 3rd Reading ).
+:*Jeff voted nay (against W/O REF. TO FILE ).
+
+'''[[2015-2016 AB197 (USA CA)|AB 197]] State Air Resources Board: greenhouse gases: regulations.'''
+
+Final legislative action 2016-08-24 passed yeas 45, nays 30. 
+:*Jeff voted nay (against 2nd Reading AB197 Eduardo Garcia By Pavley).
+
+'''[[2015-2016 AB1550 (USA CA)|AB 1550]] Greenhouse gases: investment plan: disadvantaged communities.'''
+
+Final legislative action 2016-08-31 passed yeas 53, nays 22. 
+:*Jeff voted nay (against 3rd Reading (Supplemental File 1) AB1550 Gomez By De León).
+
+'''[[2015-2016 AB1110 (USA CA)|AB 1110]] Greenhouse gases emissions intensity reporting: retail electricity suppliers.'''
+
+Final legislative action 2016-08-31 passed yeas 54, nays 25. 
+:*Jeff voted nay (against 3rd Reading AB1110 Ting By Wolk).
+
+'''[[2015-2016 AB2722 (USA CA)|AB 2722]] Transformative Climate Communities Program.'''
+
+Final legislative action 2016-08-31 passed yeas 49, nays 27. 
+:*Jeff voted nay (against 3rd Reading (Supplemental File 1) AB2722 Burke By Lara).
+<!--EndQ2-->
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+}}

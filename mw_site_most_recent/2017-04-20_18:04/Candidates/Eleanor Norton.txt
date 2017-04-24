@@ -1,0 +1,14 @@
+{{Candidate
+|Firstname=Eleanor
+|Lastname=Norton
+|Bioguide_id=N000147
+|Gender=F
+|State=District of Columbia
+|District=At-large
+|Office=House
+|Party=Democratic
+
+|Q2=
+
+'''Automatically Generated Congressional Votes'''
+}}

@@ -1,0 +1,8 @@
+{{Candidate
+|Firstname=Alejandro
+|Lastname=Vega
+|State=New York
+|District=15
+|Office=House
+|Party=Republican
+}}

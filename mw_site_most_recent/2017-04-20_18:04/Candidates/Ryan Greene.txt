@@ -1,0 +1,8 @@
+{{Candidate
+|Firstname=Ryan
+|Lastname=Greene
+|State=Wyoming
+|District=At-large
+|Office=House
+|Party=Democratic
+}}

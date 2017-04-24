@@ -1,0 +1,8 @@
+{{Candidate
+|Firstname=Paula
+|Lastname=Hawks
+|State=South Dakota
+|District=At-large
+|Office=House
+|Party=Democratic
+}}

@@ -1,0 +1,28 @@
+{{Candidate
+|Firstname=Monica
+|Lastname=Vernon
+|Wiki1=https://en.wikipedia.org/wiki/Monica_Vernon
+|State=Iowa
+|District=1
+|Office=House
+|Party=Democratic
+|Position=Challenger
+|CampaignSite=http://monicavernonforcongress.com/
+|FB2=https://www.facebook.com/monicavernoniowa
+|TW2=https://twitter.com/MonicaVernon
+|WikiDraftSum=Monica Vernon said, "Climate change is real. NASA and Scientists agree – climate change worsens extreme weather. Left unaddressed, floods, droughts, super storms, and other natural disasters will continue to worsen – to the extreme — causing devastating economic and environmental consequences for our community...We need a renewed interest in alternative energy, to help preserve our planet and reduce America’s dependence on foreign oil" (1).
+
+
+1. "Tackle Climate Change with a Common Sense Approach", http://monicavernonforcongress.com/issues/
+|MovedToWikipedia=Information <b>HAS NEVER</b> been transferred to Wikipedia &#x2717;
+|Q1=On her campaign Issues page, she says, "Climate change is real. NASA and Scientists agree – climate change worsens extreme weather. Left unaddressed, floods, droughts, super storms, and other natural disasters will continue to worsen – to the extreme — causing devastating economic and environmental consequences for our community.
+
+We must approach climate change with a common sense, scientific approach – to prepare now and mobilize for change for the long-term. We have an opportunity to harness the research and development arms of American industry to develop, invest and build more renewable energy sources, more fuel efficient cars, and new technologies.
+
+We need a renewed interest in alternative energy, to help preserve our planet and reduce America’s dependence on foreign oil".
+http://monicavernonforcongress.com/issues/
+|Q2=On her LinkedIn page she says "I'm running on my track record of taking action on climate change, for access to education and housing and for development of jobs and our economy".
+https://www.linkedin.com/in/monica-vernon-31922ba
+|Q3=None found.
+|OtherSources=None found.
+}}

@@ -1,0 +1,8 @@
+{{Candidate
+|Firstname=H.
+|Lastname=Dew
+|State=North Carolina
+|District=1
+|Office=House
+|Party=Republican
+}}

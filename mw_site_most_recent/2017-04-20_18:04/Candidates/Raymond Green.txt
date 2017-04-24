@@ -1,0 +1,8 @@
+{{Candidate
+|Firstname=Raymond
+|Lastname=Green
+|State=Texas
+|District=29
+|Office=House
+|Party=Democratic
+}}

@@ -1,0 +1,8 @@
+{{Candidate
+|Firstname=Scott
+|Lastname=Wharton
+|State=Ohio
+|District=15
+|Office=House
+|Party=Democratic
+}}

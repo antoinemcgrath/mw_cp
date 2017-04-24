@@ -1,0 +1,25 @@
+{{Candidate
+|Firstname=David
+|Lastname=Kustoff
+|Bioguide_id=K000392
+|Gender=M
+|Nickname=David Frank Kustoff
+|Wiki1=https://en.wikipedia.org/wiki/David_Kustoff
+|State=Tennessee
+|District=8
+|Office=House
+|Party=Republican
+|Position=Incumbent
+|CampaignSite=http://www.kustoffforcongress.com/
+|FB2=https://www.facebook.com/KustoffForCongress/
+|TW2=https://twitter.com/DavidKustoff
+|WikiDraftSum=In a candidate survey, David Kustoff answered "strongly agree" to the statement "current regulations on domestic oil exploration and drilling are more restrictive than are necessary," and "strongly disagree" to the statement "Governments should pay to develop wind and solar energy solutions until they are economically feasible," (1).
+
+
+1. ivoterguide U.S. Red., Dist. 8. https://ivoterguide.com/Candidate.aspx?RaceK=2988&ElecK=510&PrimaryPartyK=-&CanK=30331
+|MovedToWikipedia=Information <b>HAS NEVER</b> been transferred to Wikipedia &#x2717;
+|Q1=None found.
+|Q2=In a candidate survey, he answered "strongly agree" to the statement "Current regulations on domestic oil exploration and drilling are more restrictive than are necessary," and "strongly disagree" to the statement "Governments should pay to develop wind and solar energy solutions until they are economically feasible." https://ivoterguide.com/Candidate.aspx?RaceK=2988&ElecK=510&PrimaryPartyK=-&CanK=30331
+|Q3=None found.
+|OtherSources=None found.
+}}

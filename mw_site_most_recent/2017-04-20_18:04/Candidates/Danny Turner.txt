@@ -1,0 +1,8 @@
+{{Candidate
+|Firstname=Danny
+|Lastname=Turner
+|State=California
+|District=15
+|Office=House
+|Party=Republican
+}}

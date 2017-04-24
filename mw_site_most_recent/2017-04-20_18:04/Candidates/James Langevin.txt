@@ -1,0 +1,24 @@
+{{Candidate
+|Firstname=James
+|Lastname=Langevin
+|Bioguide_id=L000559
+|Gender=M
+|State=Rhode Island
+|District=2
+|Office=House
+|Party=Democratic
+
+|Q2=
+
+'''Automatically Generated Congressional Votes'''
+
+In 2009, as a member of the US House of Representatives, he voted for the American Clean Energy and Security Act HR 2454 (Waxman-Markey). https://www.congress.gov/bill/111th-congress/house-bill/2454 
+
+In 2011, he voted against limiting the EPA's ability to regulate greenhouse gas emissions. http://clerk.house.gov/evs/2011/roll249.xml 
+
+In 2013, he voted against making it harder for Congress to put a price on carbon by voting against a point of order opposing a carbon tax or a fee on carbon emissions. http://clerk.house.gov/evs/2013/roll445.xml 
+
+In 2014, he voted for a House amendment calling on Congress to recognize that man-made carbon pollution contributes to climate change and that climate change has a wide range of negative effects. http://clerk.house.gov/evs/2014/roll103.xml 
+
+In 2015, as a member of Congress he voted against HR 2042, The Ratepayer Protection Act, which would have prevented implementation of the Clean Power Plan. http://clerk.house.gov/evs/2015/roll384.xml 
+}}

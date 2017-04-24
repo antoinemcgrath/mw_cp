@@ -1,0 +1,8 @@
+{{Candidate
+|Firstname=Powell
+|Lastname=Glidewell
+|State=North Carolina
+|District=6
+|Office=House
+|Party=Democratic
+}}

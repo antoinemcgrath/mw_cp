@@ -1,0 +1,51 @@
+{{Candidate
+|Firstname=Mark
+|Lastname=Kirk
+|Wiki1=https://en.wikipedia.org/wiki/Mark_Kirk
+|State=Illinois
+|Office=Senate
+|Party=Republican
+|Position=Incumbent
+|SenateOfficialSite=http://kirk.senate.gov/
+|CampaignSite=https://kirkforsenate.com/
+|FB1=https://en-gb.facebook.com/KirkForSenate
+|FB2=https://www.facebook.com/SenatorKirk
+|TW1=https://twitter.com/SenatorKirk
+|TW2=https://twitter.com/MarkKirk
+|WikiDraftSum=In 2015, Mark Kirk said to the Chicago Tribune that “climate change is real and human beings definitely play a rol” (1) As a Congressman, in 2009 he voted for the American Clean Energy and Security Act H.R.2454 (Waxman-Markey (2, 3) In a series of roll call votes attached to debate about the Keystone XL Pipeline on January 21, 2015, he voted for the Amendment 87 by Sen. Hoeven that human activity is real and contributes to climate change (4), and for Amendment 58 by Sen. Schatz, that human activity "significantly" contributes to climate chang (5) In January 2016, he co-authored the Merkley-Kirk amendment to fund the Green Climate Fund, a part of the United Nations international climate agreement (6)
+
+
+1. “Sen. Kirk clarifies view on climate change,” in Chicago Tribune, Katherine Skiba, 2015-01-08. http://www.chicagotribune.com/news/local/politics/ct-mark-kirk-climate-change-met-20150108-story.html
+
+
+2. “American Clean Energy and Security Act”, in Wikipedia. https://en.wikipedia.org/wiki/American_Clean_Energy_and_Security_Act 
+
+
+3. https://www.congress.gov/bill/111th-congress/house-bill/2454
+
+
+4. U.S. Senate Role Call Votes 114th Congress -1st Session, Vote Number 11, 2015-01-21. http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?congress=114&session=1&vote=00011
+
+
+5. U.S. Senate Role Call Votes 114th Congress - 1st Session, Vote Number 12, 2015-01-21. http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?congress=114&session=1&vote=00012
+
+
+6. “Bipartisan Merkley-Kirk Climate Amendment Passes Senate Committee,” 2016-06-29. https://www.merkley.senate.gov/news/press-releases/bipartisan-merkley-kirk-climate-amendment-passes-senate-committee-
+|Q1=Senator Kirk said in January 2015 that “climate change is real and human beings definitely play a role.” http://www.chicagotribune.com/news/local/politics/ct-mark-kirk-climate-change-met-20150108-story.html
+
+In June 2016, he said, “Climate change is real and it will continue to take a serious toll on economies across the globe.” https://www.merkley.senate.gov/news/press-releases/bipartisan-merkley-kirk-climate-amendment-passes-senate-committee-
+|Q2=In 2009, as a Congressman, he voted for the American Clean Energy and Security Act, H.R.2454 (Waxman-Markey) https://www.congress.gov/bill/111th-congress/house-bill/2454
+
+In a series of roll call votes attached to debate about the Keystone XL Pipeline on January 21, 2015, he voted for the Amendment 87 by Sen. Hoeven that human activity is real and contributes to climate change, and for Amendment 58 by Sen. Schatz, that human activity "significantly" contributes to climate change.
+
+http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?congress=114&session=1&vote=00012
+
+http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?congress=114&session=1&vote=00011
+
+In January 2016, he co-authored the Merkley-Kirk amendment to fund the Green Climate Fund, a part of the United Nations international climate agreement. https://www.merkley.senate.gov/news/press-releases/bipartisan-merkley-kirk-climate-amendment-passes-senate-committee-
+|Q3=None found.
+|OtherSources=Media have described his climate change positions as shifting early in his first term as Senator.
+http://www.huffingtonpost.com/2009/07/30/mark-kirk-backpedals-on-c_n_245793.html
+
+http://www.chicagobusiness.com/article/20150112/BLOGS02/150119976/mark-kirk-in-damage-control-amid-surprise-battle-with-greens
+}}

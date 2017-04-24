@@ -1,0 +1,34 @@
+{{Candidate
+|Firstname=Jaime
+|Lastname=Herrera Beutler
+|Bioguide_id=H001056
+|Gender=F
+|Wiki1=https://en.wikipedia.org/wiki/Jaime_Herrera_Beutler
+|State=Washington
+|District=3
+|Office=House
+|Party=Republican
+|Position=Incumbent
+|HouseOfficialSite=http://herrerabeutler.house.gov/
+|CampaignSite=http://www.votejaime.com/
+|FB1=https://www.facebook.com/herrerabeutler
+|FB2=http://www.facebook.com/pages/Jaime-Herrera/206613968946
+|TW1=https://twitter.com/herrerabeutler
+|TW2=http://twitter.com/JaimeLHerrera
+|WikiDraftSum=On her Congressional site, Jaime Herrera Beutler states, "Arbitrary 'clean energy' mandates, and backdoor attempts at cap-and-trade taxes on families and businesses are not in the best interest of our recovering economy," (1). In December 2015, she voted for HR 2042, a bill designed block implementation of the Clean Power Plan (2,3).
+
+
+1. Environment and Natural Resources. http://herrerabeutler.house.gov/issues/issue/?IssueID=32911 Accessed 2016-10-25.
+
+
+2. "Measure to block EPA Clean Power Plan passes House," in Utility Dive, Robert Walton, 2015-06-26. http://www.utilitydive.com/news/measure-to-block-epa-clean-power-plan-passes-house/401376/
+
+
+3. U.S. House of Representatives Roll Call Votes 114th Congress, Vote Number 384, 2015-06-24. http://clerk.house.gov/evs/2015/roll384.xml
+|MovedToWikipedia=Information <b>HAS NEVER</b> been transferred to Wikipedia &#x2717;
+|Q1=None found.
+|Q2=On her Congressional site, she states, "'Arbitrary “clean energy' mandates, and backdoor attempts at cap-and-trade taxes on families and businesses are not in the best interest of our recovering economy." http://herrerabeutler.house.gov/issues/issue/?IssueID=32911
+In December 2015, she voted for HR 2042, a bill designed block implementation of the Clean Power Plan. http://www.utilitydive.com/news/measure-to-block-epa-clean-power-plan-passes-house/401376/ https://rules.house.gov/bill/114/hr-2042
+|Q3=None found.
+|OtherSources=None found.
+}}

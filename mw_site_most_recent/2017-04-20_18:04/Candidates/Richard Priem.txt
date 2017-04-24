@@ -1,0 +1,8 @@
+{{Candidate
+|Firstname=Richard
+|Lastname=Priem
+|State=New Mexico
+|District=1
+|Office=House
+|Party=Republican
+}}

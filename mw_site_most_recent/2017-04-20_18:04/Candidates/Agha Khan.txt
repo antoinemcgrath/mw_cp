@@ -1,0 +1,8 @@
+{{Candidate
+|Firstname=Agha
+|Lastname=Khan
+|State=New Jersey
+|District=8
+|Office=House
+|Party=Republican
+}}

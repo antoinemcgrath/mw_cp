@@ -1,0 +1,8 @@
+{{Candidate
+|Firstname=Erin
+|Lastname=McClelland
+|State=Pennsylvania
+|District=12
+|Office=House
+|Party=Democratic
+}}

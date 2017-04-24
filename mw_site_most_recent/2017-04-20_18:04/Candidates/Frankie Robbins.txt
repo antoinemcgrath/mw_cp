@@ -1,0 +1,8 @@
+{{Candidate
+|Firstname=Frankie
+|Lastname=Robbins
+|State=Oklahoma
+|District=3
+|Office=House
+|Party=Democratic
+}}

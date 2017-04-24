@@ -1,0 +1,8 @@
+{{Candidate
+|Firstname=Peter
+|Lastname=Clemens
+|State=Utah
+|District=1
+|Office=House
+|Party=Democratic
+}}

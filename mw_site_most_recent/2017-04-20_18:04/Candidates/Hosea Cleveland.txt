@@ -1,0 +1,8 @@
+{{Candidate
+|Firstname=Hosea
+|Lastname=Cleveland
+|State=South Carolina
+|District=3
+|Office=House
+|Party=Democratic
+}}

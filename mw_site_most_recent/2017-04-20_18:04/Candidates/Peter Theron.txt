@@ -1,0 +1,8 @@
+{{Candidate
+|Firstname=Peter
+|Lastname=Theron
+|State=Wisconsin
+|District=2
+|Office=House
+|Party=Republican
+}}

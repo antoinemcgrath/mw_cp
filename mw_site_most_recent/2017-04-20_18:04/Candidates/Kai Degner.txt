@@ -1,0 +1,8 @@
+{{Candidate
+|Firstname=Kai
+|Lastname=Degner
+|State=Virginia
+|District=6
+|Office=House
+|Party=Democratic
+}}

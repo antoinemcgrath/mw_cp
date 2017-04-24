@@ -1,0 +1,8 @@
+{{Candidate
+|Firstname=William
+|Lastname=Smith
+|State=Ohio
+|District=2
+|Office=House
+|Party=Democratic
+}}
