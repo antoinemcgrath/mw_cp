@@ -1,0 +1,50 @@
+{{US CA Assembly
+|Firstname=Kevin
+|Lastname=Kiley
+|Gender=Male
+|Start Edit Date=2017/01/26
+|End Edit Date=2017/02/06
+|Office=CA State Assemblymember
+|State=California
+|District=6
+|Party=Republican
+|OfficialGovSite=https://ad06.asmrc.org/
+|AdditionalSite=http://www.kileyforassembly.com/
+|Wiki1=https://en.wikipedia.org/wiki/Kevin_Kiley_(politician)
+|FB1=https://www.facebook.com/assemblymankiley/
+|TW2=http://twitter.com/KevinKileyCA
+|WikiDraftSum=No documented position or voting record on climate change found.
+|MovedToWikipedia=Information <b>HAS NEVER</b> been transferred to Wikipedia &#x2717;
+|Q2='''''<pre style="color: blue">This legislator is new.  As 2017-18 session information is created, it will be appear on this page.</pre>'''''
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+'''Automatically Generated Legislative Actions'''
+
+
+'''[[2017-2018 AB618 (USA CA)|AB 618]] Local Agency Public Construction Act: job order contracting: community college districts.'''
+:*Kevin voted nay (against Do pass and be re-referred to the Committee on [Appropriations]).
+<!--EndQ2-->
+|
+|
+|OtherSources=First time assemblyman Kevin Kiley replaces fellow Republican Beth Gaines who did not seek reelection because of term limits (1).
+ 
+
+(1) Dan Smith. "Kevin Kiley announces for Beth Gaines’ Assembly seat." The Sacramento Bee. June 5, 2015. http://www.sacbee.com/news/politics-government/capitol-alert/article23229204.html
+|Wing=Assembly
+|Level=US_State
+|Photo=http://assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/kiley.jpg
+|Leg_id=CAL000520
+}}

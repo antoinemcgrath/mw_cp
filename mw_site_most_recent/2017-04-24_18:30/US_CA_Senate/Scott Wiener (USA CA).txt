@@ -1,0 +1,43 @@
+{{US CA Senate
+|Firstname=Scott
+|Lastname=Wiener
+|Office=CA State Senator
+|State=California
+|District=11
+|Party=Democratic
+|OfficialGovSite=http://sd11.senate.ca.gov
+|Wiki1=https://en.wikipedia.org/wiki/Scott_Wiener
+|FB1=https://www.facebook.com/ScottWiener2/
+|TW1=https://twitter.com/scott_wiener
+|Q2=
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+'''Automatically Generated Legislative Actions'''
+
+<!--EndQ2-->
+|
+|
+|
+|
+|
+|
+|
+|
+|Wing=Senate
+|Level=US_State
+|Photo=http://senate.ca.gov/sites/senate.ca.gov/files/senator_photos/wiener.jpg
+|Leg_id=CAL000512
+}}

@@ -1,0 +1,40 @@
+{{US CA Senate
+|Firstname=Scott
+|Lastname=Wilk
+|Office=CA State Senator
+|State=California
+|District=21
+|Party=Republican
+|OfficialGovSite=http://senate.ca.gov/sd21
+|Q2=
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+'''Automatically Generated Legislative Actions'''
+
+<!--EndQ2-->
+|
+|
+|
+|
+|
+|
+|
+|
+|Wing=Senate
+|Level=US_State
+|Photo=http://senate.ca.gov/sites/senate.ca.gov/files/senator_photos/wilk.jpg
+|Leg_id=CAL000505
+}}

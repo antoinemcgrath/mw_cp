@@ -1,0 +1,33 @@
+{{US CA Assembly
+|Firstname=Anna
+|Lastname=Caballero
+|Gender=Female
+|Start Edit Date=2017/01/25
+|End Edit Date=2017/02/08
+|Office=CA State Assemblymember
+|State=California
+|District=30
+|Party=Democratic
+|OfficialGovSite=https://a30.asmdc.org/
+|AdditionalSite=http://www.annaforassembly.com/
+|Wiki1=https://en.wikipedia.org/wiki/Anna_Caballero
+|FB1=https://www.facebook.com/annaforassembly/
+|TW2=https://twitter.com/AnnaForAssembly
+|WikiDraftSum=No documented position or voting record on climate change found.
+|MovedToWikipedia=Information <b>HAS NEVER</b> been transferred to Wikipedia &#x2717;
+|Q1=None found.
+|Q2=
+
+
+
+'''Automatically Generated Legislative Actions'''
+
+<!--EndQ2-->
+|
+|
+|Q3=None found.
+|Wing=Assembly
+|Level=US_State
+|Photo=http://assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/ad30_caballero_roster150_20161205.jpg
+|Leg_id=CAL000504
+}}
