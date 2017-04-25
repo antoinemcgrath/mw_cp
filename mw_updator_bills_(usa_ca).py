@@ -69,7 +69,7 @@ def bd_motion_votes_loop(vote):
     bd_motion_votes_text = "|bd_motion_votes_text=\n\n\n"
     for x in vote['votes']:
 #        if "'committee'" in x and (x['committee']):
-#            print(x['committee'])
+        #print(x['committee'])
 #n_voters = x['committee']
 #n_voters = (n_voters)
 #n_vots = []
