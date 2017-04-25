@@ -12,8 +12,8 @@
 |JSON page=https://openstates.org/api/v1/bills/ca/20172018/AB 378/
 |Official name=Greenhouse gases, criteria air pollutants, and toxic air contaminants.
 |Official description=
-|Authors=Eduardo Garcia, Cristina Garcia, Holden
-|Coauthors=Kalra, Mark Stone, Ting, Jones-Sawyer, Friedman, Bloom, Eggman, Reyes, Thurmond, McCarty, Bonta, Gomez
+|Authors=Holden, Eduardo Garcia, Cristina Garcia
+|Coauthors=Ting, Gomez, Bloom, McCarty, Reyes, Kalra, Friedman, Bonta, Jones-Sawyer, Mark Stone, Thurmond, Eggman
 |bd_final_actions_text=
 
 

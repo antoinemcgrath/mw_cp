@@ -17,7 +17,7 @@
 |Official name=California Global Warming Solutions Act of 2006: emissions limit.
 |Official description=
 |Authors=Pavley
-|Coauthors=Mitchell, Wieckowski, Wolk, Block, Leno, Hancock, Jackson, McGuire, Beall, Liu, De León, Monning, Hill, Allen
+|Coauthors=Mitchell, Wieckowski, Jackson, Leno, Hill, Beall, Wolk, Allen, Hancock, De León, Liu, Monning, Block, McGuire
 |bd_final_actions_text=
 
 

@@ -10,7 +10,7 @@
 |JSON page=https://openstates.org/api/v1/bills/ca/20172018/AB 618/
 |Official name=Local Agency Public Construction Act: job order contracting: community college districts.
 |Official description=
-|Authors=O'Donnell, Low, Gomez
+|Authors=O'Donnell, Gomez, Low
 |Coauthors=
 |bd_final_actions_text=
 

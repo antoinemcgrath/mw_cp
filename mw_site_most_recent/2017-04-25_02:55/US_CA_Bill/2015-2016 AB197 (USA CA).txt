@@ -14,7 +14,7 @@
 |JSON page=https://openstates.org/api/v1/bills/ca/20152016/AB 197/
 |Official name=State Air Resources Board: greenhouse gases: regulations.
 |Official description=
-|Authors=Eduardo Garcia, Gomez
+|Authors=Gomez, Eduardo Garcia
 |Coauthors=Rendon
 |bd_final_actions_text=
 

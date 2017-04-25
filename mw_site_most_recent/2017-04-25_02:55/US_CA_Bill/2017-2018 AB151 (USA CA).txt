@@ -10,8 +10,8 @@
 |JSON page=https://openstates.org/api/v1/bills/ca/20172018/AB 151/
 |Official name=California Global Warming Solutions Act of 2006: market-based compliance mechanisms: scoping plan: report.
 |Official description=
-|Authors=Burke, Cooper
-|Coauthors=Gipson, Low, Rubio, Grayson
+|Authors=Cooper, Burke
+|Coauthors=Gipson, Rubio, Grayson, Low
 |bd_final_actions_text=
 
 

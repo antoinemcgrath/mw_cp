@@ -10,8 +10,8 @@
 |JSON page=https://openstates.org/api/v1/bills/ca/20172018/AB 398/
 |Official name=Air pollution.
 |Official description=
-|Authors=Gomez, Burke, Eduardo Garcia, Maienschein, Eggman
-|Coauthors=Salas, Chu
+|Authors=Burke, Eggman, Maienschein, Gomez, Eduardo Garcia
+|Coauthors=Chu, Salas
 |bd_final_actions_text=
 
 

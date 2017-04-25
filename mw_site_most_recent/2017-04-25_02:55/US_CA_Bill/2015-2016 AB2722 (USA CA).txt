@@ -15,7 +15,7 @@
 |JSON page=https://openstates.org/api/v1/bills/ca/20152016/AB 2722/
 |Official name=Transformative Climate Communities Program.
 |Official description=
-|Authors=Burke, Arambula, Rodriguez
+|Authors=Rodriguez, Arambula, Burke
 |Coauthors=
 |bd_final_actions_text=
 

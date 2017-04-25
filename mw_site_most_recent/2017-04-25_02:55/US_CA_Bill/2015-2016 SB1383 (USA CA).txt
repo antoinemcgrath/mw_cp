@@ -12,7 +12,7 @@
 |Official name=Short-lived climate pollutants: methane emissions: dairy and livestock: organic waste: landfills.
 |Official description=
 |Authors=Lara
-|Coauthors=Hill, Hancock, Allen
+|Coauthors=Hill, Allen, Hancock
 |bd_final_actions_text=
 
 

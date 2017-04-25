@@ -10,7 +10,7 @@
 |JSON page=https://openstates.org/api/v1/bills/ca/20172018/AB 262/
 |Official name=Public contracts: lowest responsible bidder: eligible materials.
 |Official description=
-|Authors=Bonta, Eggman
+|Authors=Eggman, Bonta
 |Coauthors=Steinorth, Chiu
 |bd_final_actions_text=
 
