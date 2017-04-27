@@ -1,0 +1,54 @@
+{{US CA Assembly
+|Firstname=Joaquin
+|Lastname=Arambula
+|Middlename=
+|Nickname=
+|Gender=
+|Office=CA State Assemblymember
+|State=California
+|Wing=Assembly
+|Level=US_State
+|District=31
+|Party=Democratic
+|OfficialGovSite=http://asmdc.org/members/a31/
+|AdditionalSite=
+|Photo=http://assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/ad31_2.jpg
+|Votesmart_id=
+|Leg_id=CAL000507
+
+|Q2=  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+'''Automatically Generated Legislative Actions'''
+
+
+'''[[2017-2018 AB618 (USA CA)|AB 618]] Local Agency Public Construction Act: job order contracting: community college districts.'''
+:*Joaquin voted yea (in favor of Do pass and be re-referred to the Committee on [Appropriations]).
+<!--EndQ2-->
+|
+|
+|
+|
+|
+|
+|
+|
+|
+}}

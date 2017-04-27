@@ -1,0 +1,31 @@
+{{US CA Bill
+|Crowdsourced name=GHG
+|Crowdsourced description=AB378 is nicknamed GHG because it was introduced by Assembly Members Cristina Garcia, Holden, and Eduardo Garcia
+|Instance of=Bill
+|Session=2017-2018
+|Bill=AB 378
+|Gov=USA CA
+|Branch=Legislative
+|OpenStateVoteID=CAB00020598
+|Bill page=http://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=201720180AB378
+|Vote page=http://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=201720180AB378
+|JSON page=https://openstates.org/api/v1/bills/ca/20172018/AB 378/
+|Official name=Greenhouse gases, criteria air pollutants, and toxic air contaminants.
+|Official description=
+|Authors=Eduardo Garcia, Holden, Cristina Garcia
+|Coauthors=Gomez, Thurmond, Eggman, Jones-Sawyer, Bloom, Ting, Reyes, Bonta, McCarty, Kalra, Friedman, Mark Stone
+|bd_final_actions_text=
+
+
+<div style="background-color: #ddf5eb; border-style: dotted;">
+
+</div>
+
+
+<!--End_bd_final_actions-->
+|bd_motion_votes_text=
+
+
+
+<!--End_bd_motion_votes-->
+}}

@@ -1,0 +1,98 @@
+{{US CA Assembly
+|Firstname=Mike
+|Lastname=Gipson
+|Middlename=
+|Nickname=
+|Gender=
+|Office=CA State Assemblymember
+|State=California
+|Wing=Assembly
+|Level=US_State
+|District=64
+|Party=Democratic
+|OfficialGovSite=http://asmdc.org/members/a64
+|AdditionalSite=
+|Photo=http://assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/AD64_Gipson_Portrait150_20141201.jpg
+|Votesmart_id=
+|Leg_id=CAL000473
+
+
+|Q2=  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+'''Automatically Generated Legislative Actions'''
+
+
+'''[[2017-2018 AB151 (USA CA)|AB 151]] California Global Warming Solutions Act of 2006: market-based compliance mechanisms: scoping plan: report.'''
+
+Mike was a cosponsor of AB 151.
+
+'''[[2015-2016 SB32 (USA CA)|SB 32]] California Global Warming Solutions Act of 2006: emissions limit.'''
+
+Final legislative action 2016-08-24 passed yeas 25, nays 13. 
+:*Mike voted yea (in favor of SB 32 Pavley Senate Third Reading Amend By WILLIAMS Set #1).
+:*Mike voted yea (in favor of SB 32 Pavley Motion to Reconsider).
+:*Mike voted yea (in favor of SB 32 Pavley Senate Third Reading Amend By GARCIA, E. Set #1).
+:*Mike voted yea (in favor of SB 32 Pavley Senate Third Reading By GARCIA, E.).
+
+'''[[2015-2016 SB350 (USA CA)|SB 350]] Clean Energy and Pollution Reduction Act of 2015.'''
+
+Final legislative action 2015-09-11 passed yeas 26, nays 14. 
+:*Mike voted yea (in favor of SB 350 De León Senate Third Reading By ATKINS).
+
+'''[[2015-2016 SB1383 (USA CA)|SB 1383]] Short-lived climate pollutants: methane emissions: dairy and livestock: organic waste: landfills.'''
+
+Final legislative action 2016-08-31 passed yeas 25, nays 12. 
+:*Mike voted yea (in favor of SB 1383 Lara Senate Third Reading Amend By THURMOND Set #1).
+
+'''[[2015-2016 AB197 (USA CA)|AB 197]] State Air Resources Board: greenhouse gases: regulations.'''
+
+Final legislative action 2016-08-24 passed yeas 45, nays 30. 
+:*Mike voted yea (in favor of AB 197 GARCIA, E. Assembly Third Reading).
+
+'''[[2015-2016 AB1550 (USA CA)|AB 1550]] Greenhouse gases: investment plan: disadvantaged communities.'''
+
+Final legislative action 2016-08-31 passed yeas 53, nays 22. 
+:*Mike voted yea (in favor of AB 1550 GOMEZ Assembly Third Reading).
+:*Mike voted yea (in favor of AB 1550 GOMEZ Concurrence in Senate Amendments).
+
+'''[[2015-2016 AB1110 (USA CA)|AB 1110]] Greenhouse gases emissions intensity reporting: retail electricity suppliers.'''
+
+Final legislative action 2016-08-31 passed yeas 54, nays 25. 
+:*Mike voted yea (in favor of Do pass. To Consent Calendar.).
+:*Mike voted yea (in favor of AB 1110 TING Consent Calendar Second Day ).
+:*Mike voted yea (in favor of AB 1110 TING Concurrence in Senate Amendments).
+
+'''[[2015-2016 AB2722 (USA CA)|AB 2722]] Transformative Climate Communities Program.'''
+
+Final legislative action 2016-08-31 passed yeas 49, nays 27. 
+:*Mike voted yea (in favor of AB 2722 BURKE Assembly Third Reading).
+:*Mike voted yea (in favor of AB 2722 BURKE Concurrence in Senate Amendments).
+<!--EndQ2-->
+|
+|
+|
+|
+|
+|
+|
+|
+|
+}}

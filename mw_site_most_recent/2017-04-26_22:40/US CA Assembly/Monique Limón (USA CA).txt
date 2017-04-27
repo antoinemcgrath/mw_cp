@@ -1,0 +1,45 @@
+{{US CA Assembly
+|Firstname=Monique
+|Lastname=Limón
+|Gender=Female
+|Start Edit Date=2017/01/25
+|End Edit Date=2017/02/09
+|Office=CA State Assemblymember
+|State=California
+|District=37
+|Party=Democratic
+|OfficialGovSite=https://a37.asmdc.org/
+|AdditionalSite=https://limonforassembly.com/
+|Wiki1=https://en.wikipedia.org/wiki/Monique_Lim%C3%B3n
+|FB1=https://www.facebook.com/S.Monique.Limon
+|TW2=https://twitter.com/SMoniqueLimon
+|WikiDraftSum=S. Monique Limón’s campaign website states that "stronger action on climate change is one of my top priorities when elected to State Assembly," (1).
+
+
+1. Limon for Assembly Campaign website - Issues https://limonforassembly.com/issues/environment/  Accessed 9 January 2017.
+|Q1=S. Monique Limón’s campaign website states that “stronger action on climate change is one of my top priorities when elected to State Assembly.” https://limonforassembly.com/issues/environment/ Campaign website, issues page. Accessed January 9, 2017.
+|Q2=
+
+
+
+
+
+
+
+'''Automatically Generated Legislative Actions'''
+
+
+'''[[2017-2018 AB398 (USA CA)|AB 398]] Air pollution.'''
+:*Monique voted yea (in favor of Do pass as amended and be re-referred to the Committee on [Appropriations]).
+<!--EndQ2-->
+|
+|
+|
+|
+|Q3=None found.
+|OtherSources=None found.
+|Wing=Assembly
+|Level=US_State
+|Photo=http://assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/ad37.jpg
+|Leg_id=CAL000513
+}}

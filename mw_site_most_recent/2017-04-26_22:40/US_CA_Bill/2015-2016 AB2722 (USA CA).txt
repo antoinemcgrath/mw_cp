@@ -1,0 +1,86 @@
+{{US CA Bill
+|Crowdsourced name=Transformative Climate Communities Program
+|Crowdsourced description=AB 2722 requires that the California Strategic Growth Council set up a competitive process to award monies to neighborhood-scale projects that will reduce greenhouse gas emissions and provide local, environmental, economic, and health benefits to disadvantaged communities.
+|Crowdsourced detailed description=Would create the Transformative Climate Communities Program, to be administered by the Strategic Growth Council. The bill would require the council to award competitive grants to specified eligible entities for the development and implementation of neighborhood-level transformative climate community plans that include greenhouse gas emissions reduction projects that provide local economic, environmental, and health benefits to disadvantaged communities, as defined. The bill would require the council to develop guidelines and selection criteria for the implementation of the program
+|Suggested 'Yea' template text=In September 2016, -NAME- voted for SB 2722: Transformative Climate Communities Program which would award monies to neighborhood-scale projects that will reduce greenhouse gas emissions and provide local, environmental, economic, and health benefits.
+|Suggested 'Nay' template text=In September 2016, -NAME- voted against SB 2722: Transformative Climate Communities Program which would award monies to neighborhood-scale projects that will reduce greenhouse gas emissions and provide local, environmental, economic, and health benefits.
+|Instance of=Bill
+|Session=2015-2016
+|Bill=AB 2722
+|Gov=USA CA
+|Branch=Legislative
+|OpenStateVoteID=CAB00019092
+|Bill page=http://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=201520160AB2722
+|Vote page=http://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=201520160AB2722
+|JSON page=https://openstates.org/api/v1/bills/ca/20152016/AB 2722/
+|Official name=Transformative Climate Communities Program.
+|Official description=
+|Authors=Arambula, Burke, Rodriguez
+|Coauthors=
+|bd_final_actions_text=
+
+
+<div style="background-color: #ddf5eb; border-style: dotted;">
+
+::*Final passing Senate vote: 2016-08-31
+
+::*Final passing Assembly vote: 2016-06-02
+
+::*Signed by Governor: 2016-09-14
+
+</div>
+
+
+<!--End_bd_final_actions-->
+|bd_motion_votes_text=
+
+
+
+
+'''On 2016-04-18 the Assembly passed the motion 'Do pass as amended and be re-referred to the Committee on [Appropriations]' in a vote of Yea 6 to Nay 3.'''
+
+*Voting 'Yea' there were 6 members: ''Wood,  Cristina Garcia,  Mark Stone,  Gomez,  McCarty,  Williams''
+
+*Voting 'Nay' there were 3 members: ''Harper,  Jones,  Hadley''
+
+'''On 2016-05-27 the Assembly passed the motion 'Do pass as amended.' in a vote of Yea 14 to Nay 6.'''
+
+*Voting 'Yea' there were 14 members: ''Gonzalez,  Holden,  Santiago,  Eggman,  Bonta,  Quirk,  Daly,  Wood,  Bonilla,  Calderon,  Eduardo Garcia,  Bloom,  Weber,  Roger Hernández''
+
+*Voting 'Nay' there were 6 members: ''Jones,  Wagner,  Gallagher,  Bigelow,  Obernolte,  Chang''
+
+'''On 2016-06-02 the Assembly passed the motion 'AB 2722 BURKE Assembly Third Reading' in a vote of Yea 51 to Nay 26.'''
+
+*Voting 'Yea' there were 51 members: ''Gonzalez,  Gipson,  Cooper,  Mullin,  Levine,  Thurmond,  Ridley-Thomas,  Ting,  Weber,  Jones-Sawyer,  Bonilla,  Chu,  Frazier,  Burke,  Roger Hernández,  Holden,  Brown,  Santiago,  Williams,  Gomez,  Alejo,  Medina,  Arambula,  Campos,  Dababneh,  Mark Stone,  Bloom,  Lopez,  Atkins,  Gray,  Nazarian,  Cooley,  Bonta,  Dodd,  Rendon,  Irwin,  Gatto,  Salas,  McCarty,  Cristina Garcia,  Eduardo Garcia,  "O'Donnell", Rodriguez,  Linder,  Quirk,  Chiu,  Wood,  Calderon,  Chau,  Eggman,  Low''
+
+*Voting 'Nay' there were 26 members: ''Mathis,  Harper,  Mayes,  Chávez,  Patterson,  Lackey,  Olsen,  Kim,  Gallagher,  Maienschein,  Travis Allen,  Jones,  Dahle,  Brough,  Grove,  Baker,  Melendez,  Wilk,  Achadjian,  Obernolte,  Chang,  Steinorth,  Wagner,  Waldron,  Beth Gaines,  Bigelow''
+
+'''On 2016-06-29 the Senate passed the motion 'Do pass as amended, but first amend, and re-refer to the Committee on [Appropriations]' in a vote of Yea 5 to Nay 2.'''
+
+*Voting 'Yea' there were 5 members: ''Leno,  Pavley,  Jackson,  Hill,  Wieckowski''
+
+*Voting 'Nay' there were 2 members: ''Bates,  Gaines''
+
+'''On 2016-08-08 the Senate passed the motion 'Placed on suspense file' in a vote of Yea 7 to Nay 0.'''
+
+*Voting 'Yea' there were 7 members: ''Nielsen,  Bates,  McGuire,  Mendoza,  Lara,  Beall,  Hill''
+
+'''On 2016-08-11 the Senate passed the motion 'Do pass as amended' in a vote of Yea 5 to Nay 2.'''
+
+*Voting 'Yea' there were 5 members: ''McGuire,  Lara,  Mendoza,  Beall,  Hill''
+
+*Voting 'Nay' there were 2 members: ''Bates,  Nielsen''
+
+'''On 2016-08-31 the Senate passed the motion '3rd Reading (Supplemental File 1) AB2722 Burke By Lara' in a vote of Yea 25 to Nay 12.'''
+
+*Voting 'Yea' there were 25 members: ''Jackson,  De León,  Mendoza,  Hertzberg,  Liu,  Lara,  Hueso,  Wieckowski,  Pavley,  Pan,  Hernandez,  Leno,  Glazer,  Monning,  Hall,  McGuire,  Hancock,  Roth,  Wolk,  Mitchell,  Block,  Leyva,  Beall,  Allen,  Hill''
+
+*Voting 'Nay' there were 12 members: ''Huff,  Stone,  Vidak,  Fuller,  Nielsen,  Morrell,  Moorlach,  Berryhill,  Nguyen,  Anderson,  Gaines,  Bates''
+
+'''On 2016-09-01 the Assembly passed the motion 'AB 2722 BURKE Concurrence in Senate Amendments' in a vote of Yea 49 to Nay 27.'''
+
+*Voting 'Yea' there were 49 members: ''Gonzalez,  Cooper,  Mullin,  Levine,  Thurmond,  Ridley-Thomas,  Ting,  Jones-Sawyer,  Bonilla,  Chu,  Alejo,  Gipson,  Holden,  Brown,  Santiago,  Williams,  Quirk,  McCarty,  Wood,  Medina,  Arambula,  Campos,  Burke,  Mark Stone,  Daly,  Lopez,  Dababneh,  Atkins,  Nazarian,  Cooley,  Bonta,  Dodd,  Rendon,  Irwin,  Gatto,  Salas,  Weber,  Gordon,  Cristina Garcia,  Gomez,  "O'Donnell", Rodriguez,  Bloom,  Chiu,  Linder,  Calderon,  Chau,  Eduardo Garcia,  Low''
+
+*Voting 'Nay' there were 27 members: ''Mathis,  Harper,  Hadley,  Mayes,  Chávez,  Patterson,  Lackey,  Olsen,  Kim,  Gallagher,  Maienschein,  Travis Allen,  Jones,  Dahle,  Brough,  Grove,  Baker,  Melendez,  Wilk,  Achadjian,  Obernolte,  Chang,  Steinorth,  Wagner,  Waldron,  Beth Gaines,  Bigelow''
+<!--End_bd_motion_votes-->
+}}
