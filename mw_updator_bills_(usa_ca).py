@@ -13,6 +13,8 @@ import datetime
 from mwclient import Site #import mwclient
 import os
 
+sub_category_current = "2017-2018"
+
 #### Access your MW with bot/admin approved permissions
 with open(os.path.expanduser('~') + "/.invisible/mw.csv", 'r') as f:
     e = f.read()
@@ -207,7 +209,7 @@ for a_page in site.Categories[SpecifiedCategory]:
          new_c = page_start
          new_c += custom
          new_c += ("|Instance of=Bill")
-         new_c += ("\n|Session=" + str(session[:4])+"-"+session[4:])
+         new_c += ("\n|Session=" + str(session[:4])+"-"+str(session[4:]))
          new_c += ("\n|Bill=" + str(bill))
          new_c += ("\n|Gov=USA CA")
          new_c += ("\n|Branch=Legislative")
@@ -236,8 +238,13 @@ for a_page in site.Categories[SpecifiedCategory]:
          bd_motion_votes_text = bd_motion_votes_loop(vote)
          bd_motion_votes_text += "\n<!--End_bd_motion_votes-->"
          new_c += ("\n" +(bd_motion_votes_text))
-
-         page_end = "\n}}"
+         
+         
+         if sub_category_current == str(session[:4])+"-"+str(session[4:]):
+             page_end = "[[Category:US_CA_Bill_Current]]"
+         else:
+             page_end = "[[Category:US_CA_Bill_Historical]]"
+         page_end += "\n}}"
          new_c += page_end
 
          newtext = new_c
