@@ -2,6 +2,8 @@
 # python3 /Users/macbook/Documents/GITS/mediawiki/mw_usa_ca_bill_updater.py
 # http://mwclient.readthedocs.io/en/latest/user/index.html
 # add bill info to wiki bot page
+# openstates.org/api/v1/bills/ca/20152016/AB 1550/
+# cat ~/.sunlight.key
 import mwclient
 from mwclient import Site
 import re
@@ -12,6 +14,8 @@ import csv
 import datetime
 from mwclient import Site #import mwclient
 import os
+from time import sleep
+
 
 sub_category_current = "2017-2018"
 
@@ -171,8 +175,18 @@ def get_vote_roles(vote):
 for a_page in site.Categories[SpecifiedCategory]:
     articlepage = site.Pages[a_page]
     profiletext = articlepage.text()
+    #val = str(articlepage.name.encode('utf-8'))
     val = str(articlepage.name.encode('utf-8'))
+
     # Skip pcategory pages that are not bills themselves (example US_CA_Bill which is an index page)
+    print(val)
+    print(val.find('<Page object'))
+    if val.find('<Page object') > 0:
+        val = val.replace("<Page object 'b'","").replace("'' for <Site object '('http', 'www.climatepolitics.info')/w/'>>","")
+        print (val)
+    else:
+        print(val)
+        pass
     if val.find('Bill') > 0:
         pass
     else:
@@ -198,10 +212,12 @@ for a_page in site.Categories[SpecifiedCategory]:
          state = str(val[3][:-2]).lower()
          session = str(val[0])[2:6]+str(val[0])[7:]
          bill = str(val[1])[:2]+" "+str(val[1])[2:]
-
-         # print (state + session + bill)
+         print("Forming API query akin to URL query: openstates.org/api/v1/bills/ca/20152016/AB 1550/")
+         delay = (1.72)
+         sleep(delay)
+         print (state + session + bill)
          # Input is expected to be formatted as ca20152016AB 197
-         vote = openstates.bill_detail( state, session, bill)
+         vote = openstates.bill_detail(state, session, bill)
          #print (bill)
          #print (vote['sponsors'])
          #    for x in vote:
@@ -238,8 +254,8 @@ for a_page in site.Categories[SpecifiedCategory]:
          bd_motion_votes_text = bd_motion_votes_loop(vote)
          bd_motion_votes_text += "\n<!--End_bd_motion_votes-->"
          new_c += ("\n" +(bd_motion_votes_text))
-         
-         
+
+
          if sub_category_current == str(session[:4])+"-"+str(session[4:]):
              page_end = "[[Category:US_CA_Bill_Current]]"
          else:
