@@ -1,1 +1,0 @@
-b'{{Candidate\n|Firstname=William\n|Lastname=Burke\n|State=Massachusetts\n|District=8\n|Office=House\n|Party=Republican\n}}'

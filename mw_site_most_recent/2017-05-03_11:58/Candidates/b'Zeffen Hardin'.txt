@@ -1,1 +1,0 @@
-b'{{Candidate\n|Firstname=Zeffen\n|Lastname=Hardin\n|State=Texas\n|District=28\n|Office=House\n|Party=Republican\n}}'

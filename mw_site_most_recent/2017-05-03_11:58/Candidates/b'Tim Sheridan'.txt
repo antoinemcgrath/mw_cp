@@ -1,1 +1,0 @@
-b'{{Candidate\n|Firstname=Tim\n|Lastname=Sheridan\n|State=California\n|District=42\n|Office=House\n|Party=Democratic\n}}'

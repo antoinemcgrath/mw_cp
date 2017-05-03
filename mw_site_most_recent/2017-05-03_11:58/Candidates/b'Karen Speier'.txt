@@ -1,1 +1,0 @@
-b'{{Candidate\n|Firstname=Karen\n|Lastname=Speier\n|State=California\n|District=14\n|Office=House\n|Party=Democratic\n}}'

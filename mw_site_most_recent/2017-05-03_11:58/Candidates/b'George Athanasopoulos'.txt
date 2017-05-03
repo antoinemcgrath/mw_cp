@@ -1,1 +1,0 @@
-b'{{Candidate\n|Firstname=George\n|Lastname=Athanasopoulos\n|State=Colorado\n|District=7\n|Office=House\n|Party=Republican\n}}'

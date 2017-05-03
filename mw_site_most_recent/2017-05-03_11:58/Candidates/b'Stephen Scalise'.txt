@@ -1,1 +1,0 @@
-b'{{Candidate\n|Firstname=Stephen\n|Lastname=Scalise\n|State=Louisiana\n|District=1\n|Office=House\n|Party=Republican\n}}'

@@ -1,1 +1,0 @@
-b'{{Candidate\n|Firstname=Alejandro\n|Lastname=Vega\n|State=New York\n|District=15\n|Office=House\n|Party=Republican\n}}'

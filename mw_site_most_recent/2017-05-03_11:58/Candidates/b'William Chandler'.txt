@@ -1,1 +1,0 @@
-b'{{Candidate\n|Firstname=William\n|Lastname=Chandler\n|State=Tennessee\n|District=7\n|Office=House\n|Party=Democratic\n}}'

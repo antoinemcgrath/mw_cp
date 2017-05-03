@@ -1,1 +1,0 @@
-b'{{Candidate\n|Firstname=Ben\n|Lastname=Lujan\n|State=New Mexico\n|District=3\n|Office=House\n|Party=Democratic\n}}'

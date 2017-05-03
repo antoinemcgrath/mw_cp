@@ -1,1 +1,0 @@
-b'{{Candidate\n|Firstname=Joshua\n|Lastname=Brannon\n|State=North Carolina\n|District=5\n|Office=House\n|Party=Democratic\n}}'

@@ -1,1 +1,0 @@
-b'{{Candidate\n|Firstname=Billy\n|Lastname=Burkette\n|State=Louisiana\n|District=5\n|Office=House\n|Party=Republican\n}}'

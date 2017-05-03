@@ -86,22 +86,23 @@ for cat in cat_list:
     for a_page in site.Categories[cat]:
         listpage = site.Pages[a_page]
         print ((listpage.name).encode("utf-8"))
-        text = listpage.text()
-        f = open(os.path.join(base_dir+cat,str((listpage.name).encode("utf-8").strip()) + ".txt"), "w")
-#e.decode('utf-8')
+#        text = listpage.text()
+#        f = open(os.path.join(base_dir+cat,str((listpage.name).encode("utf-8").strip()) + ".txt"), "w")
          # text = text.encode('ascii', 'ignore')
          # text = text.replace(u"\u2018", "'").replace(u"\u2019", "'").replace(u"\u201d", '"')
          # text = strip_accents(text)
-        text = text.replace("\n\n\n\n", "\n\n\n")
-        text = text.encode("utf-8").strip()
-        print(text)
+#        text = text.replace("\n\n\n\n", "\n\n\n")
+#        text = text.encode("utf-8").strip()
+#        print(text)
        # f.write(text.decode('utf-8'))        
-        f.write(str(text))
-        f.close()
+#        f.write(str(text))
+#        f.close()
         
         
 #### Update git
 def update_git():
+     print("git pull")
+     subprocess.call(["git", 'pull'], cwd=gitPath)
      print("git add .")
      subprocess.call(["git", 'add', '.'], cwd=gitPath)
      print("git commit -m 'mw_pages backedup'")

@@ -1,1 +1,0 @@
-b'{{Candidate\n|Firstname=Peter\n|Lastname=DiCianni\n|State=Illinois\n|District=8\n|Office=House\n|Party=Republican\n}}'

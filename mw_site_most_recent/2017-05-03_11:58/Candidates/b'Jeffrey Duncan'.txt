@@ -1,1 +1,0 @@
-b'{{Candidate\n|Firstname=Jeffrey\n|Lastname=Duncan\n|State=South Carolina\n|District=3\n|Office=House\n|Party=Republican\n}}'

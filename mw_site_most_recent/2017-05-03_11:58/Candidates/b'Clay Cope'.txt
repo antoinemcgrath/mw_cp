@@ -1,1 +1,0 @@
-b'{{Candidate\n|Firstname=Clay\n|Lastname=Cope\n|State=Connecticut\n|District=5\n|Office=House\n|Party=Republican\n}}'

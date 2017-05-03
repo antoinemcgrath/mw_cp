@@ -1,1 +1,0 @@
-b'{{Candidate\n|Firstname=Allan\n|Lastname=Romaguera\n|State=New York\n|District=7\n|Office=House\n|Party=Republican\n}}'

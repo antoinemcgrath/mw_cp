@@ -1,1 +1,0 @@
-b'{{Candidate\n|Firstname=Joseph\n|Lastname=Pakootas\n|State=Washington\n|District=5\n|Office=House\n|Party=Democratic\n}}'

@@ -1,1 +1,0 @@
-b'{{Candidate\n|Firstname=Jermaine\n|Lastname=Sampson\n|State=Louisiana\n|District=6\n|Office=House\n|Party=Democratic\n}}'

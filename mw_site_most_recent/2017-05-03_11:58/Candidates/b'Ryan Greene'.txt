@@ -1,1 +1,0 @@
-b'{{Candidate\n|Firstname=Ryan\n|Lastname=Greene\n|State=Wyoming\n|District=At-large\n|Office=House\n|Party=Democratic\n}}'

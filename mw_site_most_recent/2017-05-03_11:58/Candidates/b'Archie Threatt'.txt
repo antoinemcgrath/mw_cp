@@ -1,1 +1,0 @@
-b'{{Candidate\n|Firstname=Archie\n|Lastname=Threatt\n|State=North Carolina\n|District=12\n|Office=House\n|Party=Republican\n}}'
