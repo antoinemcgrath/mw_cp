@@ -1,0 +1,1 @@
+b'{{Candidate\n|Firstname=Andrea\n|Lastname=McGee\n|State=Florida\n|District=22\n|Office=House\n|Party=Republican\n}}'

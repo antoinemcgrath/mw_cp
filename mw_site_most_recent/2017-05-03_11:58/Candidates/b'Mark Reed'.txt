@@ -1,0 +1,1 @@
+b'{{Candidate\n|Firstname=Mark\n|Lastname=Reed\n|State=California\n|District=30\n|Office=House\n|Party=Republican\n}}'

@@ -1,0 +1,1 @@
+b'{{Candidate\n|Firstname=Andrew\n|Lastname=Harris\n|State=Maryland\n|District=1\n|Office=House\n|Party=Republican\n}}'

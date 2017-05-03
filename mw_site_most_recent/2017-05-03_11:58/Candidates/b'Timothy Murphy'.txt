@@ -1,0 +1,1 @@
+b'{{Candidate\n|Firstname=Timothy\n|Lastname=Murphy\n|State=Pennsylvania\n|District=18\n|Office=House\n|Party=Republican\n}}'

@@ -1,0 +1,1 @@
+b'{{Candidate\n|Firstname=Amanda\n|Lastname=Howland\n|State=Illinois\n|District=6\n|Office=House\n|Party=Democratic\n}}'

@@ -1,0 +1,1 @@
+b'{{Candidate\n|Firstname=Susan\n|Lastname=Narvaiz\n|State=Texas\n|District=35\n|Office=House\n|Party=Republican\n}}'

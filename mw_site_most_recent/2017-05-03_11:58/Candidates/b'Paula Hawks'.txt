@@ -1,0 +1,1 @@
+b'{{Candidate\n|Firstname=Paula\n|Lastname=Hawks\n|State=South Dakota\n|District=At-large\n|Office=House\n|Party=Democratic\n}}'

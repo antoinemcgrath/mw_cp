@@ -1,0 +1,1 @@
+b'{{Candidate\n|Firstname=Suzanne\n|Lastname=Savary\n|State=California\n|District=48\n|Office=House\n|Party=Democratic\n}}'

@@ -1,0 +1,1 @@
+b'{{Candidate\n|Firstname=Raul\n|Lastname=Grijalva\n|State=Arizona\n|District=3\n|Office=House\n|Party=Democratic\n}}'

@@ -1,0 +1,1 @@
+b'{{Candidate\n|Firstname=Monte\n|Lastname=Mitchell\n|State=Texas\n|District=33\n|Office=House\n|Party=Republican\n}}'

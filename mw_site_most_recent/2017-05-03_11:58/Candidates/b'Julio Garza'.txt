@@ -1,0 +1,1 @@
+b'{{Candidate\n|Firstname=Julio\n|Lastname=Garza\n|State=Texas\n|District=29\n|Office=House\n|Party=Republican\n}}'

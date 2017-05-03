@@ -1,0 +1,1 @@
+b'{{Candidate\n|Firstname=Ron\n|Lastname=Drake\n|State=Indiana\n|District=8\n|Office=House\n|Party=Democratic\n}}'

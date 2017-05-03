@@ -1,0 +1,1 @@
+b'{{Candidate\n|Firstname=Isadore\n|Lastname=Hall\n|State=California\n|District=44\n|Office=House\n|Party=Democratic\n}}'

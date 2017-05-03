@@ -1,0 +1,1 @@
+b'{{Candidate\n|Firstname=Kenneth\n|Lastname=Wright\n|State=California\n|District=33\n|Office=House\n|Party=Republican\n}}'

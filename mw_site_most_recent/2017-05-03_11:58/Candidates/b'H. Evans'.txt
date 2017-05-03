@@ -1,0 +1,1 @@
+b'{{Candidate\n|Firstname=H.\n|Lastname=Evans\n|State=Nevada\n|District=2\n|Office=House\n|Party=Democratic\n}}'

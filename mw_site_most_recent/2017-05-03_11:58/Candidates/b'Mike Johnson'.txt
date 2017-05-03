@@ -1,0 +1,1 @@
+b"{{Candidate\n|Firstname=Mike\n|Lastname=Johnson\n|Bioguide_id=J000299\n|Gender=M\n|State=Louisiana\n|District=4\n|Office=House\n|Party=Republican\n\n|Q2=\n\n'''Automatically Generated Congressional Votes'''\n}}"

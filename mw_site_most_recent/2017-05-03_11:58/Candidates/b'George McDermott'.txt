@@ -1,0 +1,1 @@
+b'{{Candidate\n|Firstname=George\n|Lastname=McDermott\n|State=Maryland\n|District=4\n|Office=House\n|Party=Republican\n}}'

@@ -1,0 +1,1 @@
+b'{{Candidate\n|Firstname=Carl\n|Lastname=Millard\n|State=North Carolina\n|District=10\n|Office=House\n|Party=Democratic\n}}'

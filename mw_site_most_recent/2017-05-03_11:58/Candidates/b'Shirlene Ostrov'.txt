@@ -1,0 +1,1 @@
+b'{{Candidate\n|Firstname=Shirlene\n|Lastname=Ostrov\n|State=Hawaii\n|District=1\n|Office=House\n|Party=Republican\n}}'

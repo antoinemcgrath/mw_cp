@@ -1,0 +1,1 @@
+b'{{Candidate\n|Firstname=Omar\n|Lastname=Navarro\n|State=California\n|District=43\n|Office=House\n|Party=Republican\n}}'

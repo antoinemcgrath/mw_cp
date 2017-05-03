@@ -1,0 +1,1 @@
+b'{{Candidate\n|Firstname=Dave\n|Lastname=Hughes\n|State=Minnesota\n|District=7\n|Office=House\n|Party=Republican\n}}'

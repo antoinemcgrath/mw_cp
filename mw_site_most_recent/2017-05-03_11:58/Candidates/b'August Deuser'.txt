@@ -1,0 +1,1 @@
+b'{{Candidate\n|Firstname=August\n|Lastname=Deuser\n|State=Illinois\n|District=1\n|Office=House\n|Party=Republican\n}}'

@@ -1,0 +1,1 @@
+b'{{Candidate\n|Firstname=Wayne\n|Lastname=Liebnitzky\n|State=Florida\n|District=9\n|Office=House\n|Party=Republican\n}}'

@@ -1,0 +1,1 @@
+b'{{Candidate\n|Firstname=Daria\n|Lastname=Novak\n|State=Connecticut\n|District=2\n|Office=House\n|Party=Republican\n}}'

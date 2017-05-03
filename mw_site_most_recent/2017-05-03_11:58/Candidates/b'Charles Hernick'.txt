@@ -1,0 +1,1 @@
+b'{{Candidate\n|Firstname=Charles\n|Lastname=Hernick\n|State=Virginia\n|District=8\n|Office=House\n|Party=Republican\n}}'

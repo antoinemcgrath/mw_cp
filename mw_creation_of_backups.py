@@ -1,3 +1,4 @@
+
 #!/usr/bin/python3
 #MediaWiki
 #Dir: /mnt/8TB/GITS/mw_cp/
@@ -15,6 +16,7 @@ import shutil
 from mwclient import Site #import mwclient
 from glob import glob
 import subprocess
+#import unicodedata
 
 gitPath = '/mnt/8TB/GITS/mw_cp/'
 DATE = datetime.datetime.now().strftime('%Y-%m-%d_%H:%M')
@@ -37,6 +39,9 @@ ua = 'CCWPTool run by User:1A' #UserAgent bot note
 site = mwclient.Site(('http', 'www.climatepolitics.info'), path='/w/',)
 site.login(login_user, login_password)
 
+#### Replace special characters 
+def strip_accents(text):
+        return ''.join(c for c in unicodedata.normalize('NFKD', text) if unicodedata.category(c) != 'Mn')
 
 #### Get list of categories to act on (#Uses http://www.climatecongress.info/wiki/BotResource:cats)
 def get_cats_list():
@@ -69,6 +74,8 @@ for sub_dir in sub_dirs:
              
     shutil.move(sub_dir, historical_dir)
     print("Moving " + sub_dir + "  to backups dir." )
+
+
     
 make_path_exist(base_dir) # Create today's backup dir if it does not exist
 #### For each Category make a list of pages
@@ -78,11 +85,18 @@ for cat in cat_list:
 #### For each page write contents to a .txt file
     for a_page in site.Categories[cat]:
         listpage = site.Pages[a_page]
-        #print (listpage.name)
+        print ((listpage.name).encode("utf-8"))
         text = listpage.text()
-        f = open(os.path.join(base_dir+cat,listpage.name + ".txt"), "w")
-        text = text.encode('ascii', 'ignore')
-        f.write(text)        
+        f = open(os.path.join(base_dir+cat,str((listpage.name).encode("utf-8").strip()) + ".txt"), "w")
+#e.decode('utf-8')
+         # text = text.encode('ascii', 'ignore')
+         # text = text.replace(u"\u2018", "'").replace(u"\u2019", "'").replace(u"\u201d", '"')
+         # text = strip_accents(text)
+        text = text.replace("\n\n\n\n", "\n\n\n")
+        text = text.encode("utf-8").strip()
+        print(text)
+       # f.write(text.decode('utf-8'))        
+        f.write(str(text))
         f.close()
         
         

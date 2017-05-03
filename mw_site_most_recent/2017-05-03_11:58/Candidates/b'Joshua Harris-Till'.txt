@@ -1,0 +1,1 @@
+b'{{Candidate\n|Firstname=Joshua\n|Lastname=Harris-Till\n|State=Oklahoma\n|District=2\n|Office=House\n|Party=Democratic\n}}'

@@ -1,0 +1,1 @@
+b'{{Candidate\n|Firstname=Misty\n|Lastname=Plowright\n|State=Colorado\n|District=5\n|Office=House\n|Party=Democratic\n}}'

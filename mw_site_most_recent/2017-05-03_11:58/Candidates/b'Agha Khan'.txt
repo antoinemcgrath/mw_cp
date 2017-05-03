@@ -1,0 +1,1 @@
+b'{{Candidate\n|Firstname=Agha\n|Lastname=Khan\n|State=New Jersey\n|District=8\n|Office=House\n|Party=Republican\n}}'
