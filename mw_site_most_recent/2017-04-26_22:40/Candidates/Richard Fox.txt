@@ -1,8 +1,0 @@
-{{Candidate
-|Firstname=Richard
-|Lastname=Fox
-|State=California
-|District=18
-|Office=House
-|Party=Republican
-}}

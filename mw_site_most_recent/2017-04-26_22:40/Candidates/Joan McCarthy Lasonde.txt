@@ -1,8 +1,0 @@
-{{Candidate
-|Firstname=Joan
-|Lastname=McCarthy Lasonde
-|State=Illinois
-|District=9
-|Office=House
-|Party=Republican
-}}

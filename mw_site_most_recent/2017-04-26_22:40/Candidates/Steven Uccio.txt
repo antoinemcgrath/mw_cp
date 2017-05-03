@@ -1,8 +1,0 @@
-{{Candidate
-|Firstname=Steven
-|Lastname=Uccio
-|State=New Jersey
-|District=12
-|Office=House
-|Party=Republican
-}}

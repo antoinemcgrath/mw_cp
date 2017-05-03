@@ -1,8 +1,0 @@
-{{Candidate
-|Firstname=Jiangxiu
-|Lastname=Googe
-|State=North Carolina
-|District=4
-|Office=House
-|Party=Republican
-}}

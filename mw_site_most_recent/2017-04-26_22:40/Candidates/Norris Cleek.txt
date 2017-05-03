@@ -1,8 +1,0 @@
-{{Candidate
-|Firstname=Norris
-|Lastname=Cleek
-|State=California
-|District=3
-|Office=House
-|Party=Republican
-}}

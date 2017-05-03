@@ -1,8 +1,0 @@
-{{Candidate
-|Firstname=Bob
-|Lastname=Patterson
-|State=New Jersey
-|District=1
-|Office=House
-|Party=Republican
-}}

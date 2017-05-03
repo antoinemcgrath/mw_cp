@@ -1,8 +1,0 @@
-{{Candidate
-|Firstname=Patrick
-|Lastname=Harlan
-|State=Illinois
-|District=17
-|Office=House
-|Party=Republican
-}}

@@ -1,8 +1,0 @@
-{{Candidate
-|Firstname=Andrea
-|Lastname=McGee
-|State=Florida
-|District=22
-|Office=House
-|Party=Republican
-}}

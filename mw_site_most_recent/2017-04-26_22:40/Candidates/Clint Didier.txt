@@ -1,8 +1,0 @@
-{{Candidate
-|Firstname=Clint
-|Lastname=Didier
-|State=Washington
-|District=4
-|Office=House
-|Party=Republican
-}}

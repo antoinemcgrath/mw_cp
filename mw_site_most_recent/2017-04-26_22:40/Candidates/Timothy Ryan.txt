@@ -1,8 +1,0 @@
-{{Candidate
-|Firstname=Timothy
-|Lastname=Ryan
-|State=Ohio
-|District=13
-|Office=House
-|Party=Democratic
-}}

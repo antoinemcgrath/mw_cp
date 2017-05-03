@@ -1,8 +1,0 @@
-{{Candidate
-|Firstname=Gloreatha
-|Lastname=Smith
-|State=Florida
-|District=5
-|Office=House
-|Party=Republican
-}}

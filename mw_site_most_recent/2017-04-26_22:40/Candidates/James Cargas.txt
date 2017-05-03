@@ -1,8 +1,0 @@
-{{Candidate
-|Firstname=James
-|Lastname=Cargas
-|State=Texas
-|District=7
-|Office=House
-|Party=Democratic
-}}

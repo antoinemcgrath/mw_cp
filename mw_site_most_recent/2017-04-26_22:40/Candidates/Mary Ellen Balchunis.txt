@@ -1,8 +1,0 @@
-{{Candidate
-|Firstname=Mary Ellen
-|Lastname=Balchunis
-|State=Pennsylvania
-|District=7
-|Office=House
-|Party=Democratic
-}}

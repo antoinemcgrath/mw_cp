@@ -1,8 +1,0 @@
-{{Candidate
-|Firstname=William
-|Lastname=McCullough
-|State=Florida
-|District=6
-|Office=House
-|Party=Democratic
-}}

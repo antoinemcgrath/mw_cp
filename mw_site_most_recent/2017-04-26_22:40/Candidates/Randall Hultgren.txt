@@ -1,8 +1,0 @@
-{{Candidate
-|Firstname=Randall
-|Lastname=Hultgren
-|State=Illinois
-|District=14
-|Office=House
-|Party=Republican
-}}

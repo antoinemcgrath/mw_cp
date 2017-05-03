@@ -1,8 +1,0 @@
-{{Candidate
-|Firstname=Isadore
-|Lastname=Hall
-|State=California
-|District=44
-|Office=House
-|Party=Democratic
-}}

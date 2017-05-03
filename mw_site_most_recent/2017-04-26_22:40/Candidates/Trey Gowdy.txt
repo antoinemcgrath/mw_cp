@@ -1,9 +1,0 @@
-{{Candidate
-|Firstname=Trey
-|Nickname=Harold
-|Lastname=Gowdy
-|State=South Carolina
-|District=4
-|Office=House
-|Party=Republican
-}}

@@ -1,8 +1,0 @@
-{{Candidate
-|Firstname=Suzanne
-|Lastname=Caro
-|State=California
-|District=13
-|Office=House
-|Party=Republican
-}}

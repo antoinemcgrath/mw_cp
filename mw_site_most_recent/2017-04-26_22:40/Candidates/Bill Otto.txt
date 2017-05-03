@@ -1,8 +1,0 @@
-{{Candidate
-|Firstname=Bill
-|Lastname=Otto
-|State=Missouri
-|District=2
-|Office=House
-|Party=Democratic
-}}

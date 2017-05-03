@@ -1,8 +1,0 @@
-{{Candidate
-|Firstname=Dave
-|Lastname=Hughes
-|State=Minnesota
-|District=7
-|Office=House
-|Party=Republican
-}}

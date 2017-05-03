@@ -1,8 +1,0 @@
-{{Candidate
-|Firstname=Richard
-|Lastname=Larsen
-|State=Washington
-|District=2
-|Office=House
-|Party=Democratic
-}}

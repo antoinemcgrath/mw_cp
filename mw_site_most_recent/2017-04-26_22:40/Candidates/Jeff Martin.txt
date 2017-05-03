@@ -1,8 +1,0 @@
-{{Candidate
-|Firstname=Jeff
-|Lastname=Martin
-|State=Texas
-|District=9
-|Office=House
-|Party=Republican
-}}

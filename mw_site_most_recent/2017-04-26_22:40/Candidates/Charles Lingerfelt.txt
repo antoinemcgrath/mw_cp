@@ -1,8 +1,0 @@
-{{Candidate
-|Firstname=Charles
-|Lastname=Lingerfelt
-|State=Texas
-|District=30
-|Office=House
-|Party=Republican
-}}

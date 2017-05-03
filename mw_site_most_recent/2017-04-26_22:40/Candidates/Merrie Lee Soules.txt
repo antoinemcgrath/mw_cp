@@ -1,8 +1,0 @@
-{{Candidate
-|Firstname=Merrie Lee
-|Lastname=Soules
-|State=New Mexico
-|District=2
-|Office=House
-|Party=Democratic
-}}

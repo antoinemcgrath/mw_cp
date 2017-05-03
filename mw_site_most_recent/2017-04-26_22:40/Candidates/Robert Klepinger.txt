@@ -1,8 +1,0 @@
-{{Candidate
-|Firstname=Robert
-|Lastname=Klepinger
-|State=Ohio
-|District=10
-|Office=House
-|Party=Democratic
-}}

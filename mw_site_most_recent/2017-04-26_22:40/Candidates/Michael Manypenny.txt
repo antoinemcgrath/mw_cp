@@ -1,8 +1,0 @@
-{{Candidate
-|Firstname=Michael
-|Lastname=Manypenny
-|State=West Virginia
-|District=1
-|Office=House
-|Party=Democratic
-}}

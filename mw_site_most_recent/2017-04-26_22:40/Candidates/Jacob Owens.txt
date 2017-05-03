@@ -1,8 +1,0 @@
-{{Candidate
-|Firstname=Jacob
-|Lastname=Owens
-|State=Mississippi
-|District=1
-|Office=House
-|Party=Democratic
-}}

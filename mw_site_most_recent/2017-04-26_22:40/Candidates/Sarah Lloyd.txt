@@ -1,8 +1,0 @@
-{{Candidate
-|Firstname=Sarah
-|Lastname=Lloyd
-|State=Wisconsin
-|District=6
-|Office=House
-|Party=Democratic
-}}

@@ -1,8 +1,0 @@
-{{Candidate
-|Firstname=David
-|Lastname=Pinckney
-|State=New Jersey
-|District=10
-|Office=House
-|Party=Republican
-}}

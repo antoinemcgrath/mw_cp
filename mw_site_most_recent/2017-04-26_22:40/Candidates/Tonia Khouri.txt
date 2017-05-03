@@ -1,8 +1,0 @@
-{{Candidate
-|Firstname=Tonia
-|Lastname=Khouri
-|State=Illinois
-|District=11
-|Office=House
-|Party=Republican
-}}

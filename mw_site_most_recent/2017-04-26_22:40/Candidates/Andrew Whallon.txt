@@ -1,8 +1,0 @@
-{{Candidate
-|Firstname=Andrew
-|Lastname=Whallon
-|State=California
-|District=47
-|Office=House
-|Party=Republican
-}}

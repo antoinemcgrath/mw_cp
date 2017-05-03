@@ -1,8 +1,0 @@
-{{Candidate
-|Firstname=Eileen
-|Lastname=Bedell
-|State=Virginia
-|District=7
-|Office=House
-|Party=Democratic
-}}

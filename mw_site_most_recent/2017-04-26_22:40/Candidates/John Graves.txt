@@ -1,8 +1,0 @@
-{{Candidate
-|Firstname=John
-|Lastname=Graves
-|State=Georgia
-|District=14
-|Office=House
-|Party=Republican
-}}

@@ -1,8 +1,0 @@
-{{Candidate
-|Firstname=Frank
-|Lastname=Sensenbrenner
-|State=Wisconsin
-|District=5
-|Office=House
-|Party=Republican
-}}

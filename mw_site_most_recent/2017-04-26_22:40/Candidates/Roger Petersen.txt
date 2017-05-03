@@ -1,8 +1,0 @@
-{{Candidate
-|Firstname=Roger
-|Lastname=Petersen
-|State=California
-|District=11
-|Office=House
-|Party=Republican
-}}

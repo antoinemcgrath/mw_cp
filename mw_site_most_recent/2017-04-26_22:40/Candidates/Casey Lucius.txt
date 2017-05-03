@@ -1,8 +1,0 @@
-{{Candidate
-|Firstname=Casey
-|Lastname=Lucius
-|State=California
-|District=20
-|Office=House
-|Party=Republican
-}}

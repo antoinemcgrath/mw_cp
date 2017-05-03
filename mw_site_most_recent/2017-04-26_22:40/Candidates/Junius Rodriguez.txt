@@ -1,8 +1,0 @@
-{{Candidate
-|Firstname=Junius
-|Lastname=Rodriguez
-|State=Illinois
-|District=18
-|Office=House
-|Party=Democratic
-}}

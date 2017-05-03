@@ -1,8 +1,0 @@
-{{Candidate
-|Firstname=Stuart
-|Lastname=Starr
-|State=Tennessee
-|District=2
-|Office=House
-|Party=Democratic
-}}

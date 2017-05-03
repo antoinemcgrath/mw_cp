@@ -1,8 +1,0 @@
-{{Candidate
-|Firstname=Nancy
-|Lastname=Kemper
-|State=Kentucky
-|District=6
-|Office=House
-|Party=Democratic
-}}

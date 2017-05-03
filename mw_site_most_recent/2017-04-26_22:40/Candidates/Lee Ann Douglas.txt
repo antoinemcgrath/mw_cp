@@ -1,8 +1,0 @@
-{{Candidate
-|Firstname=Lee Ann
-|Lastname=Douglas
-|State=Louisiana
-|District=1
-|Office=House
-|Party=Democratic
-}}

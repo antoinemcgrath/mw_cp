@@ -1,8 +1,0 @@
-{{Candidate
-|Firstname=Doug
-|Lastname=Basler
-|State=Washington
-|District=9
-|Office=House
-|Party=Republican
-}}

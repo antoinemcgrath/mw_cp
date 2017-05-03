@@ -1,8 +1,0 @@
-{{Candidate
-|Firstname=Brent
-|Lastname=Sonnek-Schmelz
-|State=New Jersey
-|District=6
-|Office=House
-|Party=Republican
-}}

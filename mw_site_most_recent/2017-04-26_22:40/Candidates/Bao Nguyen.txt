@@ -1,8 +1,0 @@
-{{Candidate
-|Firstname=Bao
-|Lastname=Nguyen
-|State=California
-|District=46
-|Office=House
-|Party=Democratic
-}}

@@ -1,8 +1,0 @@
-{{Candidate
-|Firstname=Melody
-|Lastname=Shekari
-|State=Tennessee
-|District=3
-|Office=House
-|Party=Democratic
-}}

@@ -1,8 +1,0 @@
-{{Candidate
-|Firstname=Greg
-|Lastname=Ellison
-|State=Louisiana
-|District=3
-|Office=House
-|Party=Republican
-}}

@@ -1,8 +1,0 @@
-{{Candidate
-|Firstname=Karen
-|Lastname=Speier
-|State=California
-|District=14
-|Office=House
-|Party=Democratic
-}}

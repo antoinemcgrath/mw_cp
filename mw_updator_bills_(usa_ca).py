@@ -171,12 +171,23 @@ def get_vote_roles(vote):
 for a_page in site.Categories[SpecifiedCategory]:
     articlepage = site.Pages[a_page]
     profiletext = articlepage.text()
+    print(str(articlepage.name))
     val = str(articlepage.name.encode('utf-8'))
-    # Skip pcategory pages that are not bills themselves (example US_CA_Bill which is an index page)
-    if val.find('Bill') > 0:
+    print(val)
+    if val.find('Bill') > 0:    # Skip pcategory pages that are not bills themselves (example US_CA_Bill which is an index page)
+        print("Skipping what appears to be an index or other non bill profile page within the bill category")
+        articlepage = ""
+        print("Reset articlepage")
         pass
     else:
-         print("Working on: " + val[2:] )
+         val = val.replace('b"<Pag','').replace("e object '","").replace("' for <Site object '('http', 'www.climatepolitics.info')/w/;","").replace("' for <Sit('http', 'www.climatepolitics.info')/w/'","").replace('>>"','')
+
+
+         #print("Working on: " + val[0:] )
+         print("Working on: " + val[1:] )
+         #print("Working on: " + val[2:] )
+         #print("Working on: " + val[3:] )
+         val = val[1:]
          #Get Custom values
          ends = [match.start() for match in re.finditer(re.escape("|"), profiletext)]
          moreends = [match.start() for match in re.finditer(re.escape("}"), profiletext)]
@@ -196,12 +207,17 @@ for a_page in site.Categories[SpecifiedCategory]:
          #print(val)
          val = val.split(" ")
          state = str(val[3][:-2]).lower()
-         session = str(val[0])[2:6]+str(val[0])[7:]
+         print(state)
+         #session = str(val[0])[2:6]+str(val[0])[7:]
+         #print(session)
+         session = str(val[0])[1:5]+str(val[0])[6:]
+         print(session)
          bill = str(val[1])[:2]+" "+str(val[1])[2:]
+         print(bill)
 
-         # print (state + session + bill)
+         print (state + session + bill)
          # Input is expected to be formatted as ca20152016AB 197
-         vote = openstates.bill_detail( state, session, bill)
+         vote = openstates.bill_detail(state, session, bill)
          #print (bill)
          #print (vote['sponsors'])
          #    for x in vote:
@@ -249,4 +265,13 @@ for a_page in site.Categories[SpecifiedCategory]:
 
          newtext = new_c
          #print (new_c)
-         articlepage.save(newtext, 'Bill Updated (bill bot v01)')
+         
+         print(articlepage)
+
+         try:  #Due to some page objects being returned within page objects for an unknown reeason
+             (a_page).save(newtext, 'Bill Updated (bill bot v01)')
+             articlepage = ""
+             pass
+             #print("Reset articlepage")
+         except AttributeError:
+             print("Exception: a_page doesn't exist")

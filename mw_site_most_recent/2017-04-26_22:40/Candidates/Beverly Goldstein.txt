@@ -1,8 +1,0 @@
-{{Candidate
-|Firstname=Beverly
-|Lastname=Goldstein
-|State=Ohio
-|District=11
-|Office=House
-|Party=Republican
-}}

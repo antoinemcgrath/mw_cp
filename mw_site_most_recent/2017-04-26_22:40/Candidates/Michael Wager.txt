@@ -1,8 +1,0 @@
-{{Candidate
-|Firstname=Michael
-|Lastname=Wager
-|State=Ohio
-|District=14
-|Office=House
-|Party=Democratic
-}}

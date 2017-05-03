@@ -1,8 +1,0 @@
-{{Candidate
-|Firstname=Michael
-|Lastname=Cole
-|State=Texas
-|District=14
-|Office=House
-|Party=Democratic
-}}

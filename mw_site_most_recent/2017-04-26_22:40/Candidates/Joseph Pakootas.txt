@@ -1,8 +1,0 @@
-{{Candidate
-|Firstname=Joseph
-|Lastname=Pakootas
-|State=Washington
-|District=5
-|Office=House
-|Party=Democratic
-}}

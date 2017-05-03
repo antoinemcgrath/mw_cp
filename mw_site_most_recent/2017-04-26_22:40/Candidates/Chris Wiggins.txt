@@ -1,8 +1,0 @@
-{{Candidate
-|Firstname=Chris
-|Lastname=Wiggins
-|State=California
-|District=37
-|Office=House
-|Party=Democratic
-}}

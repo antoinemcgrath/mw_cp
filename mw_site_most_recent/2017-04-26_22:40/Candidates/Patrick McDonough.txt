@@ -1,8 +1,0 @@
-{{Candidate
-|Firstname=Patrick
-|Lastname=McDonough
-|State=Maryland
-|District=2
-|Office=House
-|Party=Republican
-}}

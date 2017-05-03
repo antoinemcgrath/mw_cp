@@ -1,8 +1,0 @@
-{{Candidate
-|Firstname=Samuel
-|Lastname=Graves
-|State=Missouri
-|District=6
-|Office=House
-|Party=Republican
-}}

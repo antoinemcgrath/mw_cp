@@ -1,8 +1,0 @@
-{{Candidate
-|Firstname=Robert
-|Lastname=Sutherland
-|State=Washington
-|District=1
-|Office=House
-|Party=Republican
-}}

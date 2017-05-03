@@ -1,8 +1,0 @@
-{{Candidate
-|Firstname=Michael
-|Lastname=Marsicano
-|State=Pennsylvania
-|District=11
-|Office=House
-|Party=Democratic
-}}

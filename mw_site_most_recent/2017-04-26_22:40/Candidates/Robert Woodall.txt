@@ -1,8 +1,0 @@
-{{Candidate
-|Firstname=Robert
-|Lastname=Woodall
-|State=Georgia
-|District=7
-|Office=House
-|Party=Republican
-}}

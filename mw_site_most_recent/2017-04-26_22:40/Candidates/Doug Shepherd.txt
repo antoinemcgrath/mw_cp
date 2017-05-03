@@ -1,8 +1,0 @@
-{{Candidate
-|Firstname=Doug
-|Lastname=Shepherd
-|State=California
-|District=41
-|Office=House
-|Party=Republican
-}}

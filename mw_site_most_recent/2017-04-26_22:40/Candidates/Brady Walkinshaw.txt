@@ -1,8 +1,0 @@
-{{Candidate
-|Firstname=Brady
-|Lastname=Walkinshaw
-|State=Washington
-|District=7
-|Office=House
-|Party=Democratic
-}}

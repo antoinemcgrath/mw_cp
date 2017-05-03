@@ -1,8 +1,0 @@
-{{Candidate
-|Firstname=Dennis
-|Lastname=Murphy
-|State=Michigan
-|District=2
-|Office=House
-|Party=Democratic
-}}

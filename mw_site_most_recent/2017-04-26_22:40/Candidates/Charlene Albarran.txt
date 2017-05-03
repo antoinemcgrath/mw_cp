@@ -1,8 +1,0 @@
-{{Candidate
-|Firstname=Charlene
-|Lastname=Albarran
-|State=Utah
-|District=2
-|Office=House
-|Party=Democratic
-}}

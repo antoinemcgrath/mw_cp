@@ -1,8 +1,0 @@
-{{Candidate
-|Firstname=Kenneth
-|Lastname=McGurn
-|State=Florida
-|District=3
-|Office=House
-|Party=Democratic
-}}

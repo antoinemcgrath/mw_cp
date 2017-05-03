@@ -1,8 +1,0 @@
-{{Candidate
-|Firstname=Paul
-|Lastname=Spain
-|State=Florida
-|District=21
-|Office=House
-|Party=Republican
-}}

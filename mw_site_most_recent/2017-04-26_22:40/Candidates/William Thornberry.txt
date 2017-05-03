@@ -1,8 +1,0 @@
-{{Candidate
-|Firstname=William
-|Lastname=Thornberry
-|State=Texas
-|District=13
-|Office=House
-|Party=Republican
-}}

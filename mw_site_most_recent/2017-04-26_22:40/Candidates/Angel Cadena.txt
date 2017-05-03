@@ -1,8 +1,0 @@
-{{Candidate
-|Firstname=Angel
-|Lastname=Cadena
-|State=Connecticut
-|District=3
-|Office=House
-|Party=Republican
-}}

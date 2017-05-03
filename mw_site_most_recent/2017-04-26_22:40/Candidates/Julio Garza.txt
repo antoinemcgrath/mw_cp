@@ -1,8 +1,0 @@
-{{Candidate
-|Firstname=Julio
-|Lastname=Garza
-|State=Texas
-|District=29
-|Office=House
-|Party=Republican
-}}

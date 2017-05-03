@@ -1,8 +1,0 @@
-{{Candidate
-|Firstname=Michael
-|Lastname=Honda
-|State=California
-|District=17
-|Office=House
-|Party=Democratic
-}}

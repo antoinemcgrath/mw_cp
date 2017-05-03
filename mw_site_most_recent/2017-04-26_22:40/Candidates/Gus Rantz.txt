@@ -1,8 +1,0 @@
-{{Candidate
-|Firstname=Gus
-|Lastname=Rantz
-|State=Louisiana
-|District=3
-|Office=House
-|Party=Republican
-}}

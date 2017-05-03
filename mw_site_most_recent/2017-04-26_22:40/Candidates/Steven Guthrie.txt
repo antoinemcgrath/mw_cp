@@ -1,8 +1,0 @@
-{{Candidate
-|Firstname=Steven
-|Lastname=Guthrie
-|State=Kentucky
-|District=2
-|Office=House
-|Party=Republican
-}}

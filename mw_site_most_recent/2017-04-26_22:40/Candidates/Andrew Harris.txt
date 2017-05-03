@@ -1,8 +1,0 @@
-{{Candidate
-|Firstname=Andrew
-|Lastname=Harris
-|State=Maryland
-|District=1
-|Office=House
-|Party=Republican
-}}

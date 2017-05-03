@@ -1,8 +1,0 @@
-{{Candidate
-|Firstname=Hector
-|Lastname=Castillo
-|State=New Jersey
-|District=9
-|Office=House
-|Party=Republican
-}}

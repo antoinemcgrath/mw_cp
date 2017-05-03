@@ -1,8 +1,0 @@
-{{Candidate
-|Firstname=Derek
-|Lastname=Kitts
-|State=Virginia
-|District=9
-|Office=House
-|Party=Democratic
-}}

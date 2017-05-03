@@ -1,8 +1,0 @@
-{{Candidate
-|Firstname=Rita
-|Lastname=Ramirez
-|State=California
-|District=8
-|Office=House
-|Party=Democratic
-}}

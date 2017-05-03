@@ -1,8 +1,0 @@
-{{Candidate
-|Firstname=Mark
-|Lastname=Reed
-|State=California
-|District=30
-|Office=House
-|Party=Republican
-}}

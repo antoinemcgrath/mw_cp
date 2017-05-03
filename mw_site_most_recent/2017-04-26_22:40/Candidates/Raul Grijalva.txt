@@ -1,8 +1,0 @@
-{{Candidate
-|Firstname=Raul
-|Lastname=Grijalva
-|State=Arizona
-|District=3
-|Office=House
-|Party=Democratic
-}}

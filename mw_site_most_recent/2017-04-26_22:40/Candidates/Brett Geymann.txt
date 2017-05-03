@@ -1,8 +1,0 @@
-{{Candidate
-|Firstname=Brett
-|Lastname=Geymann
-|State=Louisiana
-|District=3
-|Office=House
-|Party=Republican
-}}

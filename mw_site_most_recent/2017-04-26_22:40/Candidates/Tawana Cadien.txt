@@ -1,8 +1,0 @@
-{{Candidate
-|Firstname=Tawana
-|Lastname=Cadien
-|State=Texas
-|District=10
-|Office=House
-|Party=Democratic
-}}

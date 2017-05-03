@@ -1,8 +1,0 @@
-{{Candidate
-|Firstname=Gregory
-|Lastname=Duke
-|State=Georgia
-|District=2
-|Office=House
-|Party=Republican
-}}

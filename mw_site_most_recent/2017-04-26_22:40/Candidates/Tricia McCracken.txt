@@ -1,8 +1,0 @@
-{{Candidate
-|Firstname=Tricia
-|Lastname=McCracken
-|State=Georgia
-|District=12
-|Office=House
-|Party=Democratic
-}}

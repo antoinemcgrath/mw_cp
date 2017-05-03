@@ -1,8 +1,0 @@
-{{Candidate
-|Firstname=David
-|Lastname=Koller
-|State=Florida
-|District=11
-|Office=House
-|Party=Democratic
-}}

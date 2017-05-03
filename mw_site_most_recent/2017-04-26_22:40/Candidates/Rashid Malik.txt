@@ -1,8 +1,0 @@
-{{Candidate
-|Firstname=Rashid
-|Lastname=Malik
-|State=Georgia
-|District=7
-|Office=House
-|Party=Democratic
-}}

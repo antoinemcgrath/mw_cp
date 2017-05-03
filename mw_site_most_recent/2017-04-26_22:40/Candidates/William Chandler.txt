@@ -1,8 +1,0 @@
-{{Candidate
-|Firstname=William
-|Lastname=Chandler
-|State=Tennessee
-|District=7
-|Office=House
-|Party=Democratic
-}}

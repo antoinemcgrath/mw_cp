@@ -1,8 +1,0 @@
-{{Candidate
-|Firstname=Harold
-|Lastname=Taub
-|State=Rhode Island
-|District=1
-|Office=House
-|Party=Republican
-}}

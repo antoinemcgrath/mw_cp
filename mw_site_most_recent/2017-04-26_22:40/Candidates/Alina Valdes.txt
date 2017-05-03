@@ -1,8 +1,0 @@
-{{Candidate
-|Firstname=Alina
-|Lastname=Valdes
-|State=Florida
-|District=25
-|Office=House
-|Party=Democratic
-}}

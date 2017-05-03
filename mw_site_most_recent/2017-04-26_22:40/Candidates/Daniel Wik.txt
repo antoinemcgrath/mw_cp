@@ -1,8 +1,0 @@
-{{Candidate
-|Firstname=Daniel
-|Lastname=Wik
-|State=Nebraska
-|District=1
-|Office=House
-|Party=Democratic
-}}

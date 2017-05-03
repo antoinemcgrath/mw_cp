@@ -1,8 +1,0 @@
-{{Candidate
-|Firstname=Christopher
-|Lastname=Morse
-|State=Michigan
-|District=9
-|Office=House
-|Party=Republican
-}}

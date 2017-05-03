@@ -1,8 +1,0 @@
-{{Candidate
-|Firstname=Timothy
-|Lastname=Murphy
-|State=Pennsylvania
-|District=18
-|Office=House
-|Party=Republican
-}}

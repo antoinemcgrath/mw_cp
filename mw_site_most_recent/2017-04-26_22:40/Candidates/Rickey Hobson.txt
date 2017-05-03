@@ -1,8 +1,0 @@
-{{Candidate
-|Firstname=Rickey
-|Lastname=Hobson
-|State=Tennessee
-|District=8
-|Office=House
-|Party=Democratic
-}}

@@ -1,8 +1,0 @@
-{{Candidate
-|Firstname=Robert
-|Lastname=Neeld
-|State=Florida
-|District=19
-|Office=House
-|Party=Democratic
-}}

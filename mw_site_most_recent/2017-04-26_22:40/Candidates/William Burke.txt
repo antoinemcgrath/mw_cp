@@ -1,8 +1,0 @@
-{{Candidate
-|Firstname=William
-|Lastname=Burke
-|State=Massachusetts
-|District=8
-|Office=House
-|Party=Republican
-}}

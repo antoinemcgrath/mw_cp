@@ -1,8 +1,0 @@
-{{Candidate
-|Firstname=Michael
-|Lastname=Rogers
-|State=Alabama
-|District=3
-|Office=House
-|Party=Republican
-}}

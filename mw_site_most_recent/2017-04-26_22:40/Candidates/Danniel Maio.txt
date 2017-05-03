@@ -1,8 +1,0 @@
-{{Candidate
-|Firstname=Danniel
-|Lastname=Maio
-|State=New York
-|District=6
-|Office=House
-|Party=Republican
-}}

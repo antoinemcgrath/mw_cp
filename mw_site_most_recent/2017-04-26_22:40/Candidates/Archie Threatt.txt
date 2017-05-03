@@ -1,8 +1,0 @@
-{{Candidate
-|Firstname=Archie
-|Lastname=Threatt
-|State=North Carolina
-|District=12
-|Office=House
-|Party=Republican
-}}

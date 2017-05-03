@@ -1,8 +1,0 @@
-{{Candidate
-|Firstname=Adam
-|Lastname=Bell
-|State=Texas
-|District=3
-|Office=House
-|Party=Democratic
-}}

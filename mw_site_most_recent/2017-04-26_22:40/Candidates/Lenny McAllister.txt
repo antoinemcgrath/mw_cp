@@ -1,8 +1,0 @@
-{{Candidate
-|Firstname=Lenny
-|Lastname=McAllister
-|State=Pennsylvania
-|District=14
-|Office=House
-|Party=Republican
-}}

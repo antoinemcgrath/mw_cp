@@ -1,8 +1,0 @@
-{{Candidate
-|Firstname=David
-|Lastname=Blackwell
-|State=Missouri
-|District=6
-|Office=House
-|Party=Democratic
-}}

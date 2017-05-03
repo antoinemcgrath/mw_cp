@@ -1,8 +1,0 @@
-{{Candidate
-|Firstname=Daria
-|Lastname=Novak
-|State=Connecticut
-|District=2
-|Office=House
-|Party=Republican
-}}

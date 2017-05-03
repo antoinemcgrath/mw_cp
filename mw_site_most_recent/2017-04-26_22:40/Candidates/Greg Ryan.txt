@@ -1,8 +1,0 @@
-{{Candidate
-|Firstname=Greg
-|Lastname=Ryan
-|State=Minnesota
-|District=4
-|Office=House
-|Party=Republican
-}}

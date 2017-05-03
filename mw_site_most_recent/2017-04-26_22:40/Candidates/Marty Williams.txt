@@ -1,8 +1,0 @@
-{{Candidate
-|Firstname=Marty
-|Lastname=Williams
-|State=Virginia
-|District=3
-|Office=House
-|Party=Republican
-}}

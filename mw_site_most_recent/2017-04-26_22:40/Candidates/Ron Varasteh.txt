@@ -1,8 +1,0 @@
-{{Candidate
-|Firstname=Ron
-|Lastname=Varasteh
-|State=California
-|District=45
-|Office=House
-|Party=Democratic
-}}

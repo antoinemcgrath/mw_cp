@@ -1,8 +1,0 @@
-{{Candidate
-|Firstname=Laura
-|Lastname=Sterling
-|State=South Carolina
-|District=6
-|Office=House
-|Party=Republican
-}}

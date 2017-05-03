@@ -1,8 +1,0 @@
-{{Candidate
-|Firstname=Mark
-|Lastname=Wicklund
-|State=Illinois
-|District=13
-|Office=House
-|Party=Democratic
-}}

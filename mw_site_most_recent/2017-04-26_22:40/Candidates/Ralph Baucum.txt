@@ -1,8 +1,0 @@
-{{Candidate
-|Firstname=Ralph
-|Lastname=Baucum
-|State=Louisiana
-|District=4
-|Office=House
-|Party=Republican
-}}

@@ -1,8 +1,0 @@
-{{Candidate
-|Firstname=Roger
-|Lastname=Hernandez
-|State=California
-|District=32
-|Office=House
-|Party=Democratic
-}}

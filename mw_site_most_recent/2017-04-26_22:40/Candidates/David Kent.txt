@@ -1,8 +1,0 @@
-{{Candidate
-|Firstname=David
-|Lastname=Kent
-|State=Tennessee
-|District=6
-|Office=House
-|Party=Democratic
-}}

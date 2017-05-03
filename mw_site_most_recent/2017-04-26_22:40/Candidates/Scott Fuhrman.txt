@@ -1,8 +1,0 @@
-{{Candidate
-|Firstname=Scott
-|Lastname=Fuhrman
-|State=Florida
-|District=27
-|Office=House
-|Party=Democratic
-}}

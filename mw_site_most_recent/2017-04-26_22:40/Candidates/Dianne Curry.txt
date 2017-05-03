@@ -1,8 +1,0 @@
-{{Candidate
-|Firstname=Dianne
-|Lastname=Curry
-|State=Arkansas
-|District=2
-|Office=House
-|Party=Democratic
-}}

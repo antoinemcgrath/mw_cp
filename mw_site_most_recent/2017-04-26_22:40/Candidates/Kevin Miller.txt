@@ -1,8 +1,0 @@
-{{Candidate
-|Firstname=Kevin
-|Lastname=Miller
-|State=Missouri
-|District=3
-|Office=House
-|Party=Democratic
-}}

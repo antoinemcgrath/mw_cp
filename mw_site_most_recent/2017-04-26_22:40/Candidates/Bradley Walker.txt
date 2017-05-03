@@ -1,8 +1,0 @@
-{{Candidate
-|Firstname=Bradley
-|Lastname=Walker
-|State=North Carolina
-|District=6
-|Office=House
-|Party=Republican
-}}

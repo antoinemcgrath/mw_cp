@@ -1,8 +1,0 @@
-{{Candidate
-|Firstname=Mary
-|Lastname=Hoeft
-|State=Wisconsin
-|District=7
-|Office=House
-|Party=Democratic
-}}

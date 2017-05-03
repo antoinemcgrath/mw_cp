@@ -1,8 +1,0 @@
-{{Candidate
-|Firstname=Richard
-|Lastname=Morckel
-|State=Ohio
-|District=13
-|Office=House
-|Party=Republican
-}}

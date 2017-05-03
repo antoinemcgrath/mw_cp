@@ -1,8 +1,0 @@
-{{Candidate
-|Firstname=Charles
-|Lastname=Hernick
-|State=Virginia
-|District=8
-|Office=House
-|Party=Republican
-}}

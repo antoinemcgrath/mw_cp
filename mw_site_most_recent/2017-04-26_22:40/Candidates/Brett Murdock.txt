@@ -1,8 +1,0 @@
-{{Candidate
-|Firstname=Brett
-|Lastname=Murdock
-|State=California
-|District=39
-|Office=House
-|Party=Democratic
-}}

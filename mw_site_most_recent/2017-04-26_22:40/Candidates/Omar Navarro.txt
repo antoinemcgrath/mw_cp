@@ -1,8 +1,0 @@
-{{Candidate
-|Firstname=Omar
-|Lastname=Navarro
-|State=California
-|District=43
-|Office=House
-|Party=Republican
-}}

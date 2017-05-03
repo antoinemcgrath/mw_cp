@@ -1,8 +1,0 @@
-{{Candidate
-|Firstname=Dennis
-|Lastname=Quinn
-|State=Mississippi
-|District=3
-|Office=House
-|Party=Democratic
-}}

@@ -1,8 +1,0 @@
-{{Candidate
-|Firstname=J.
-|Lastname=Casteen
-|State=North Carolina
-|District=7
-|Office=House
-|Party=Democratic
-}}

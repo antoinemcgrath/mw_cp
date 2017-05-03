@@ -1,8 +1,0 @@
-{{Candidate
-|Firstname=Stewart
-|Lastname=Mills
-|State=Minnesota
-|District=8
-|Office=House
-|Party=Republican
-}}

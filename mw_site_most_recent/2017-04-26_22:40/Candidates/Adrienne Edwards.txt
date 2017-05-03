@@ -1,8 +1,0 @@
-{{Candidate
-|Firstname=Adrienne
-|Lastname=Edwards
-|State=California
-|District=34
-|Office=House
-|Party=Democratic
-}}

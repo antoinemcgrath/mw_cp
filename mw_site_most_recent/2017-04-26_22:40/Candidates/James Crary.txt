@@ -1,8 +1,0 @@
-{{Candidate
-|Firstname=James
-|Lastname=Crary
-|State=Oregon
-|District=2
-|Office=House
-|Party=Democratic
-}}

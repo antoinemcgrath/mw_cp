@@ -1,8 +1,0 @@
-{{Candidate
-|Firstname=William
-|Lastname=Matta
-|State=Texas
-|District=17
-|Office=House
-|Party=Democratic
-}}

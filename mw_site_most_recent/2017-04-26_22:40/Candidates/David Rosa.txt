@@ -1,8 +1,0 @@
-{{Candidate
-|Firstname=David
-|Lastname=Rosa
-|State=Massachusetts
-|District=4
-|Office=House
-|Party=Republican
-}}

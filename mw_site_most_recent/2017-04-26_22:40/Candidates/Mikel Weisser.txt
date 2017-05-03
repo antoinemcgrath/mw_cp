@@ -1,8 +1,0 @@
-{{Candidate
-|Firstname=Mikel
-|Lastname=Weisser
-|State=Arizona
-|District=4
-|Office=House
-|Party=Democratic
-}}

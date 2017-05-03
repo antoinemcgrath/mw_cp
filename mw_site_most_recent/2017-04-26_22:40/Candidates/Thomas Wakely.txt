@@ -1,8 +1,0 @@
-{{Candidate
-|Firstname=Thomas
-|Lastname=Wakely
-|State=Texas
-|District=21
-|Office=House
-|Party=Democratic
-}}

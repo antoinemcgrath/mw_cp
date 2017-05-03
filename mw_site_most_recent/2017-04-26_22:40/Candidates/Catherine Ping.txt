@@ -1,8 +1,0 @@
-{{Candidate
-|Firstname=Catherine
-|Lastname=Ping
-|State=Indiana
-|District=7
-|Office=House
-|Party=Republican
-}}

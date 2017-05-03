@@ -1,8 +1,0 @@
-{{Candidate
-|Firstname=James
-|Lastname=Jones
-|State=Pennsylvania
-|District=2
-|Office=House
-|Party=Republican
-}}

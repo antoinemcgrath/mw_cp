@@ -1,8 +1,0 @@
-{{Candidate
-|Firstname=David
-|Lastname=Snyder
-|State=Minnesota
-|District=6
-|Office=House
-|Party=Democratic/Farmer/Labor
-}}

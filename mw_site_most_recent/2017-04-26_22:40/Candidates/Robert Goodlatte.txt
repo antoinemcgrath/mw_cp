@@ -1,8 +1,0 @@
-{{Candidate
-|Firstname=Robert
-|Lastname=Goodlatte
-|State=Virginia
-|District=6
-|Office=House
-|Party=Republican
-}}

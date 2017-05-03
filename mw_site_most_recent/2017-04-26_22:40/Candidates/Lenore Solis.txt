@@ -1,8 +1,0 @@
-{{Candidate
-|Firstname=Lenore
-|Lastname=Solis
-|State=California
-|District=28
-|Office=House
-|Party=Republican
-}}

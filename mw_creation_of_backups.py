@@ -81,7 +81,8 @@ for cat in cat_list:
         #print (listpage.name)
         text = listpage.text()
         f = open(os.path.join(base_dir+cat,listpage.name + ".txt"), "w")
-        f.write(text)
+        text = text.encode('ascii', 'ignore')
+        f.write(text)        
         f.close()
         
         

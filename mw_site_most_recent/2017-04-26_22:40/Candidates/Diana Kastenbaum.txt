@@ -1,8 +1,0 @@
-{{Candidate
-|Firstname=Diana
-|Lastname=Kastenbaum
-|State=New York
-|District=27
-|Office=House
-|Party=Democratic
-}}

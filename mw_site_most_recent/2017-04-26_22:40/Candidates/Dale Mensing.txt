@@ -1,8 +1,0 @@
-{{Candidate
-|Firstname=Dale
-|Lastname=Mensing
-|State=California
-|District=2
-|Office=House
-|Party=Republican
-}}

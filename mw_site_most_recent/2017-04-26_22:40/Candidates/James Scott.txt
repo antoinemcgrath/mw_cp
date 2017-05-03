@@ -1,8 +1,0 @@
-{{Candidate
-|Firstname=James
-|Lastname=Scott
-|State=Georgia
-|District=8
-|Office=House
-|Party=Republican
-}}

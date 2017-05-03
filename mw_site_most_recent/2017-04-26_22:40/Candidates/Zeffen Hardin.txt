@@ -1,8 +1,0 @@
-{{Candidate
-|Firstname=Zeffen
-|Lastname=Hardin
-|State=Texas
-|District=28
-|Office=House
-|Party=Republican
-}}

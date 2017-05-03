@@ -1,8 +1,0 @@
-{{Candidate
-|Firstname=Francis
-|Lastname=Vitollo
-|State=New York
-|District=20
-|Office=House
-|Party=Republican
-}}

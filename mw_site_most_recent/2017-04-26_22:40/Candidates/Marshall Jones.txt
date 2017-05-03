@@ -1,8 +1,0 @@
-{{Candidate
-|Firstname=Marshall
-|Lastname=Jones
-|State=Louisiana
-|District=4
-|Office=House
-|Party=Democratic
-}}

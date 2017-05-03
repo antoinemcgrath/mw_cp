@@ -1,8 +1,0 @@
-{{Candidate
-|Firstname=Allen
-|Lastname=Messer
-|State=Indiana
-|District=6
-|Office=House
-|Party=Republican
-}}

@@ -1,8 +1,0 @@
-{{Candidate
-|Firstname=Jennifer
-|Lastname=Martinez
-|State=Idaho
-|District=2
-|Office=House
-|Party=Democratic
-}}

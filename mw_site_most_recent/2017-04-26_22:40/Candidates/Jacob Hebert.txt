@@ -1,8 +1,0 @@
-{{Candidate
-|Firstname=Jacob
-|Lastname=Hebert
-|State=Louisiana
-|District=3
-|Office=House
-|Party=Democratic
-}}

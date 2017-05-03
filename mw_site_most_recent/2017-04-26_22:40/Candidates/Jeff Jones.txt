@@ -1,8 +1,0 @@
-{{Candidate
-|Firstname=Jeff
-|Lastname=Jones
-|State=Michigan
-|District=12
-|Office=House
-|Party=Republican
-}}

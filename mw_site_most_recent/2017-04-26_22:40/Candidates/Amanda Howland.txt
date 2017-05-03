@@ -1,8 +1,0 @@
-{{Candidate
-|Firstname=Amanda
-|Lastname=Howland
-|State=Illinois
-|District=6
-|Office=House
-|Party=Democratic
-}}

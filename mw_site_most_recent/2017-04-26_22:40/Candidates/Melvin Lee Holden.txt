@@ -1,8 +1,0 @@
-{{Candidate
-|Firstname=Melvin Lee
-|Lastname=Holden
-|State=Louisiana
-|District=2
-|Office=House
-|Party=Democratic
-}}
