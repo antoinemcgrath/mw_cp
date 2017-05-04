@@ -1,0 +1,1 @@
+b'{{Candidate\n|Firstname=Joan\n|Lastname=McCarthy Lasonde\n|State=Illinois\n|District=9\n|Office=House\n|Party=Republican\n}}'

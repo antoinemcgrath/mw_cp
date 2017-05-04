@@ -1,0 +1,1 @@
+b'{{Candidate\n|Firstname=Shirley\n|Lastname=McKellar\n|State=Texas\n|District=1\n|Office=House\n|Party=Democratic\n}}'

@@ -1,0 +1,1 @@
+b'{{Candidate\n|Firstname=Christopher\n|Lastname=Morse\n|State=Michigan\n|District=9\n|Office=House\n|Party=Republican\n}}'

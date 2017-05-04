@@ -1,0 +1,1 @@
+b'{{Candidate\n|Firstname=Charles\n|Lastname=Baricevic\n|Nickname=CJ\n|State=Illinois\n|District=12\n|Office=House\n|Party=Democratic\n|Position=Challenger\n|CampaignSite=http://www.cjforcongress.com/\n|FB1=https://www.facebook.com/cjforcongress\n|TW2=https://twitter.com/cjforcongress16\n|Q1=None found.\n|Q2=None found.\n|Q3=None found.\n|OtherSources=None found.\n}}'

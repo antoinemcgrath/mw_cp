@@ -1,0 +1,1 @@
+b'{{Candidate\n|Firstname=Angela\n|Lastname=Kaaihue\n|State=Hawaii\n|District=2\n|Office=House\n|Party=Republican\n}}'

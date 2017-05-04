@@ -1,0 +1,1 @@
+b'{{Candidate\n|Firstname=Khary\n|Lastname=Penebaker\n|State=Wisconsin\n|District=5\n|Office=House\n|Party=Democratic\n}}'

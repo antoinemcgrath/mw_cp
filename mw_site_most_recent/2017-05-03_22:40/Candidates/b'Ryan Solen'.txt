@@ -1,0 +1,1 @@
+b'{{Candidate\n|Firstname=Ryan\n|Lastname=Solen\n|State=Wisconsin\n|District=1\n|Office=House\n|Party=Democratic\n}}'

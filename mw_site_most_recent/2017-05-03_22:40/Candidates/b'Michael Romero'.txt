@@ -1,0 +1,1 @@
+b'{{Candidate\n|Firstname=Michael\n|Lastname=Romero\n|State=New Mexico\n|District=3\n|Office=House\n|Party=Republican\n}}'

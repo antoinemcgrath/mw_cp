@@ -1,0 +1,1 @@
+b'{{Candidate\n|Firstname=Matthew\n|Lastname=Corey\n|State=Connecticut\n|District=1\n|Office=House\n|Party=Republican\n}}'

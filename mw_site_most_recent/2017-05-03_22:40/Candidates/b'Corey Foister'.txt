@@ -1,0 +1,1 @@
+b'{{Candidate\n|Firstname=Corey\n|Lastname=Foister\n|State=Ohio\n|District=8\n|Office=House\n|Party=Democratic\n}}'

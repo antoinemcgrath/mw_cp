@@ -1,0 +1,1 @@
+b'{{Candidate\n|Firstname=Bao\n|Lastname=Nguyen\n|State=California\n|District=46\n|Office=House\n|Party=Democratic\n}}'

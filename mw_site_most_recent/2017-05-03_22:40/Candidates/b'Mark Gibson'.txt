@@ -1,0 +1,1 @@
+b'{{Candidate\n|Firstname=Mark\n|Lastname=Gibson\n|State=Texas\n|District=22\n|Office=House\n|Party=Democratic\n}}'

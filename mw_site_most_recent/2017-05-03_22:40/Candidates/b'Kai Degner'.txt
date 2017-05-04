@@ -1,0 +1,1 @@
+b'{{Candidate\n|Firstname=Kai\n|Lastname=Degner\n|State=Virginia\n|District=6\n|Office=House\n|Party=Democratic\n}}'

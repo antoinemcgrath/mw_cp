@@ -1,0 +1,1 @@
+b'{{Candidate\n|Firstname=Daniel\n|Lastname=Wik\n|State=Nebraska\n|District=1\n|Office=House\n|Party=Democratic\n}}'
