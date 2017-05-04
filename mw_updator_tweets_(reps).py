@@ -170,7 +170,7 @@ for cat in cat_list:
         listpage = site.Pages[a_page]
        # print (listpage.name)
         text = listpage.text()
-
+        text = text.replace("\n\n\n", "\n\n").replace("\n|\n|\n", "\n|\n")
         #(?i)^ means case insensitive
         handles = []
         reg_exp = '(?i)^.*twitter.com/'
