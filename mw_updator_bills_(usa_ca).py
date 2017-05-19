@@ -175,7 +175,6 @@ def get_vote_roles(vote):
 for a_page in site.Categories[SpecifiedCategory]:
     articlepage = site.Pages[a_page]
     profiletext = articlepage.text()
-<<<<<<< HEAD
     print(str(articlepage.name))
     val = str(articlepage.name.encode('utf-8'))
     print(val)
@@ -183,7 +182,6 @@ for a_page in site.Categories[SpecifiedCategory]:
         print("Skipping what appears to be an index or other non bill profile page within the bill category")
         articlepage = ""
         print("Reset articlepage")
-=======
     #val = str(articlepage.name.encode('utf-8'))
     val = str(articlepage.name.encode('utf-8'))
 
@@ -197,7 +195,6 @@ for a_page in site.Categories[SpecifiedCategory]:
         print(val)
         pass
     if val.find('Bill') > 0:
->>>>>>> e3fa445ca1e39a485410a12aada80fe02c5bc42b
         pass
     else:
          val = val.replace('b"<Pag','').replace("e object '","").replace("' for <Site object '('http', 'www.climatepolitics.info')/w/;","").replace("' for <Sit('http', 'www.climatepolitics.info')/w/'","").replace('>>"','')
@@ -233,14 +230,11 @@ for a_page in site.Categories[SpecifiedCategory]:
          session = str(val[0])[1:5]+str(val[0])[6:]
          print(session)
          bill = str(val[1])[:2]+" "+str(val[1])[2:]
-<<<<<<< HEAD
          print(bill)
 
-=======
          print("Forming API query akin to URL query: openstates.org/api/v1/bills/ca/20152016/AB 1550/")
          delay = (1.72)
          sleep(delay)
->>>>>>> e3fa445ca1e39a485410a12aada80fe02c5bc42b
          print (state + session + bill)
          # Input is expected to be formatted as ca20152016AB 197
          vote = openstates.bill_detail(state, session, bill)
@@ -290,8 +284,17 @@ for a_page in site.Categories[SpecifiedCategory]:
          new_c += page_end
 
          newtext = new_c
+
+         #Drop any accidental extra spacing
+         old_A = "\n\n\n"
+         new_A = "\n\n"
+         old_B = "\n|\n|\n|"
+         new_B = "\n|\n|"
+         newtext = newtext.replace(old_A,new_A).replace(old_B,new_B)
+         newtext = newtext.replace(old_A,new_A).replace(old_B,new_B)
+         newtext = newtext.replace(old_A,new_A).replace(old_B,new_B)
          #print (new_c)
-         
+
          print(articlepage)
 
          try:  #Due to some page objects being returned within page objects for an unknown reeason

@@ -248,6 +248,14 @@ for a_page in site.Categories[SpecifiedCategory]:
             #print (q2autoinsertion)
             newtext = start+"\n\n|Q2="+q2autoinsertion+end
             #newtext = start+q2autoinsertion+end
+            old_A = "\n\n\n"
+            new_A = "\n\n"
+            old_B = "\n|\n|\n|"
+            new_B = "\n|\n|"
+            newtext = newtext.replace(old_A,new_A).replace(old_B,new_B)
+            newtext = newtext.replace(old_A,new_A).replace(old_B,new_B)
+            newtext = newtext.replace(old_A,new_A).replace(old_B,new_B)
+
             a_page.save(newtext, 'Votes Updated (vote bot v01)')
             print("Updated legislation summary of: " + str(a_page.name.encode('utf-8')))
             #print("Updated " + a_page.name + " with: " + q2autoinsertion)

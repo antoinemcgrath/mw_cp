@@ -170,7 +170,6 @@ for cat in cat_list:
         listpage = site.Pages[a_page]
        # print (listpage.name)
         text = listpage.text()
-        text = text.replace("\n\n\n", "\n\n").replace("\n|\n|\n", "\n|\n")
         #(?i)^ means case insensitive
         handles = []
         reg_exp = '(?i)^.*twitter.com/'
@@ -212,20 +211,29 @@ for cat in cat_list:
                 #STW_lines_regex = '\|STW=<!--StartSTW-->.*<!--EndSTW-->'
                 STW_lines_regex = '\|STW=<!--StartSTW-->.*(?s)<!--EndSTW-->'
                 if re.search("<!--StartSTW-->", text) == None:
-                    print("SHOULD INSERT NEW TWEET SECTION")
-                    insert_here =  text.rfind("}}")    ####rfind finds in reverse
-                    newtext = text[:insert_here] + STW_insert + text[insert_here:]
+                     print("SHOULD INSERT NEW TWEET SECTION")
+                     insert_here =  text.rfind("}}")    ####rfind finds in reverse
+                     newtext = text[:insert_here] + STW_insert + text[insert_here:]
                 else:
-                    print("SHOULD EDIT EXISTING TWEET SECTION")
-                    #print(STW_lines_regex)
-                    #print(STW_insert)
-                    #print(text)
+                     print("SHOULD EDIT EXISTING TWEET SECTION")
+                     #print(STW_lines_regex)
+                     #print(STW_insert)
+                     #print(text)
                     #print ("We found that the page had tweets already and will replace them")
-                    newtext = re.sub(STW_lines_regex, STW_insert, text)
-                    #print()
-                    #print()
-                    #print(newtext)
+                     newtext = re.sub(STW_lines_regex, STW_insert, text)
+                     #print()
+                     #print()
+                     #print(newtext)
                # print(newtext)
+
+                #Drop any accidental extra spacing
+                old_A = "\n\n\n"
+                new_A = "\n\n"
+                old_B = "\n|\n|\n|"
+                new_B = "\n|\n|"
+                newtext = newtext.replace(old_A,new_A).replace(old_B,new_B)
+                newtext = newtext.replace(old_A,new_A).replace(old_B,new_B)
+                newtext = newtext.replace(old_A,new_A).replace(old_B,new_B)
                 a_page.save(newtext, edit_note)
                 print("UPDATED!")
 

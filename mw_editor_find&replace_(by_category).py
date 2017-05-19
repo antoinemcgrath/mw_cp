@@ -25,12 +25,14 @@ ua = 'CCWPTool run by User:1A' #UserAgent bot note
 site = mwclient.Site(('http', 'www.climatepolitics.info'), path='/w/',)
 site.login(login_user, login_password)
 
-SpecifiedCategory="US_CA_Assembly"
+SpecifiedCategory="US_CA_Bill"
 
 
-old_A = "===This legislator is new to their position.  As 2017-18 session information is added, it will be appear on this page shortly.==="
-new_A = "'''''<pre" + ' style="color: blue">This legislator is new.  As 2017-18 session information is created, it will be appear on this page.' + "</pre>'''''"
+old_A = "\n\n\n"
+new_A = "\n\n"
 
+old_B = "\n|\n|\n|"
+new_B = "\n|\n|"
 
 for a_page in site.Categories[SpecifiedCategory]:
     articlepage = site.Pages[a_page]
@@ -40,7 +42,15 @@ for a_page in site.Categories[SpecifiedCategory]:
     #articlepage = site.Pages[articlepage]
     profiletext = articlepage.text()
     print("Updated: " + str(articlepage.name.encode('utf-8')))
-    newtext = (profiletext).replace(old_A,new_A)
+    newtext = (profiletext).replace(old_A,new_A).replace(old_B,new_B)
+    newtext = newtext.replace(old_A,new_A).replace(old_B,new_B)
+    newtext = newtext.replace(old_A,new_A).replace(old_B,new_B)
+    newtext = newtext.replace(old_A,new_A).replace(old_B,new_B)
+    newtext = newtext.replace(old_A,new_A).replace(old_B,new_B)
+    newtext = newtext.replace(old_A,new_A).replace(old_B,new_B)
+
+
+
     #print(newtext.encode('utf-8'))
     articlepage.save(newtext, 'Set colo & formatting of: This legislator is new to their position.... (find&replace bot v01)')
     print("UPDATED!")
