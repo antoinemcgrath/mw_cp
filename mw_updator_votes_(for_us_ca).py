@@ -354,6 +354,14 @@ for a_page in list:
     #print(end_section)
     q2_insert = create_q2_insert(profiletext,caleg_text)
     newtext = start_section+q2_insert+end_section
+
+    old_A = "\n\n\n"
+    new_A = "\n\n"
+    old_B = "\n|\n|\n|"
+    new_B = "\n|\n|"
+    newtext = newtext.replace(old_A,new_A).replace(old_B,new_B)
+    newtext = newtext.replace(old_A,new_A).replace(old_B,new_B)
+    newtext = newtext.replace(old_A,new_A).replace(old_B,new_B)
     articlepage.save(newtext, 'Votes Updated (vote bot v02)')
 #    print("UPDATED!")
 
