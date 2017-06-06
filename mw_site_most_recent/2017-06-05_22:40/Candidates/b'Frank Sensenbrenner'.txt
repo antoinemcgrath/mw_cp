@@ -1,0 +1,1 @@
+b'{{Candidate\n|Firstname=Frank\n|TW1=https://twitter.com/JimPressOffice\n|Lastname=Sensenbrenner\n|State=Wisconsin\n|District=5\n|Office=House\n|Party=Republican\n}}'

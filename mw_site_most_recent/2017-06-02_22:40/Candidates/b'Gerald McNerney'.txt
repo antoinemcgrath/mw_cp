@@ -1,1 +1,0 @@
-b'{{Candidate\n|Firstname=Gerald\n|Lastname=McNerney\n|State=California\n|District=9\n|Office=House\n|Party=Democratic\n}}'

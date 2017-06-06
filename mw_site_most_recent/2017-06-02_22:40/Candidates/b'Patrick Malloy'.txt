@@ -1,1 +1,0 @@
-b'{{Candidate\n|Firstname=Patrick\n|Lastname=Malloy\n|State=California\n|District=50\n|Office=House\n|Party=Democratic\n}}'

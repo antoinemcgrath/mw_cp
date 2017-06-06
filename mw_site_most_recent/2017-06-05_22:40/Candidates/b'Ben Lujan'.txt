@@ -1,0 +1,1 @@
+b'{{Candidate\n|Firstname=Ben\n|TW1=https://twitter.com/repbenraylujan\n|Lastname=Lujan\n|State=New Mexico\n|District=3\n|Office=House\n|Party=Democratic\n}}'

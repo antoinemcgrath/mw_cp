@@ -1,0 +1,1 @@
+b'{{Candidate\n|Firstname=Samuel\n|TW1=https://twitter.com/SamsPressShop\n|Lastname=Johnson\n|State=Texas\n|District=3\n|Office=House\n|Party=Republican\n}}'

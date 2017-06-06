@@ -1,0 +1,1 @@
+b"{{Candidate\n|Firstname=Trent\n|TW1=https://twitter.com/RepTrentKelly\n|Lastname=Kelly\n|Bioguide_id=K000388\n|Gender=M\n|State=Mississippi\n|District=1\n|Office=House\n|Party=Republican|Q2=\n\n'''Automatically Generated Congressional Votes'''\n}}"

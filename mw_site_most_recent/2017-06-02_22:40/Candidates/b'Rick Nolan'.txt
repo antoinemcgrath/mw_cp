@@ -1,1 +1,0 @@
-b'{{Candidate\n|Firstname=Rick\n|Lastname=Nolan\n|State=Minnesota\n|District=8\n|Office=House\n|Party=Democratic/Farmer/Labor\n}}'

@@ -1,0 +1,1 @@
+b'{{Candidate\n|Firstname=Nicholas\n|TW1=https://twitter.com/MaryNicholsCA\n|Lastname=Morse\n|State=Colorado\n|District=2\n|Office=House\n|Party=Republican\n}}'

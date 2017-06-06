@@ -1,0 +1,1 @@
+b'{{Candidate\n|Firstname=Jim\n|TW1=https://twitter.com/RepTimWalz\n|TW2=https://twitter.com/Tim_Walz\n|Lastname=Walz\n|State=Illinois\n|District=14\n|Office=House\n|Party=Democratic\n}}'

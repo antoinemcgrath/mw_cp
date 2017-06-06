@@ -1,0 +1,1 @@
+b'{{Candidate\n|Firstname=Roger\n|TW1=https://twitter.com/VoteRogerDodger\n|TW2=https://twitter.com/Roger_Hernandez\n|Lastname=Hernandez\n|State=California\n|District=32\n|Office=House\n|Party=Democratic\n}}'
