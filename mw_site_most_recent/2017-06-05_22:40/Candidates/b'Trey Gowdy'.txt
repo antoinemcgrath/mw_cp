@@ -1,1 +1,0 @@
-b'{{Candidate\n|Firstname=Trey\n|Nickname=Harold\n|TW1=https://twitter.com/TGowdySC\n|Lastname=Gowdy\n|State=South Carolina\n|District=4\n|Office=House\n|Party=Republican\n}}'

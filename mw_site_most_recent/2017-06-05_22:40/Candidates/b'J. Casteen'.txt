@@ -1,1 +1,0 @@
-b'{{Candidate\n|Firstname=J.\n|Lastname=Casteen\n|State=North Carolina\n|District=7\n|Office=House\n|Party=Democratic\n}}'

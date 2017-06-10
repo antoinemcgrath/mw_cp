@@ -1,1 +1,0 @@
-b'{{Candidate\n|Firstname=Raul\n|TW1=https://twitter.com/RepRaulGrijalva\n|Lastname=Grijalva\n|State=Arizona\n|District=3\n|Office=House\n|Party=Democratic\n}}'

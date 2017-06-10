@@ -1,1 +1,0 @@
-b'{{Candidate\n|Firstname=Daniel\n|Lastname=Giroux\n|State=Kansas\n|District=4\n|Office=House\n|Party=Democratic\n}}'

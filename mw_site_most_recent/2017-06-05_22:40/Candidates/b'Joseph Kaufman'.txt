@@ -1,1 +1,0 @@
-b'{{Candidate\n|Firstname=Joseph\n|Lastname=Kaufman\n|State=Florida\n|District=23\n|Office=House\n|Party=Republican\n}}'

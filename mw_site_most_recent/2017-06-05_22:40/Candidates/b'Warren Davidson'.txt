@@ -1,1 +1,0 @@
-b"{{Candidate\n|Firstname=Warren\n|Lastname=Davidson\n|Bioguide_id=D000626\n|Gender=M\n|State=Ohio\n|District=8\n|Office=House\n|Party=Republican\n\n|Q2=\n\n'''Automatically Generated Congressional Votes'''\n}}"

@@ -1,1 +1,0 @@
-b'{{Candidate\n|Firstname=Richard\n|Lastname=Alarc\xc3\xb3n\n|State=California\n|District=29\n|Office=House\n|Party=Democratic\n}}'

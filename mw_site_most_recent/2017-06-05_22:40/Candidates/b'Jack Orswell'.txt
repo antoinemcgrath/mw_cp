@@ -1,1 +1,0 @@
-b'{{Candidate\n|Firstname=Jack\n|Lastname=Orswell\n|State=California\n|District=27\n|Office=House\n|Party=Republican\n}}'

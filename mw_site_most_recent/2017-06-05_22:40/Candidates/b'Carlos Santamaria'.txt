@@ -1,1 +1,0 @@
-b'{{Candidate\n|Firstname=Carlos\n|Lastname=Santamaria\n|State=California\n|District=5\n|Office=House\n|Party=Republican\n}}'

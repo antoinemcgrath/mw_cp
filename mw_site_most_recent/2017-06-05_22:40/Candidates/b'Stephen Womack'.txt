@@ -1,1 +1,0 @@
-b'{{Candidate\n|Firstname=Stephen\n|TW1=https://twitter.com/rep_stevewomack\n|Lastname=Womack\n|State=Arkansas\n|District=3\n|Office=House\n|Party=Republican\n}}'

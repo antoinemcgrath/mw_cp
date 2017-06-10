@@ -1,1 +1,0 @@
-b'{{Candidate\n|Firstname=Melvin Lee\n|Lastname=Holden\n|State=Louisiana\n|District=2\n|Office=House\n|Party=Democratic\n}}'

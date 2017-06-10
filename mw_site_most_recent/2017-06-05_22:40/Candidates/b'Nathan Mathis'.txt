@@ -1,1 +1,0 @@
-b'{{Candidate\n|Firstname=Nathan\n|Lastname=Mathis\n|State=Alabama\n|District=2\n|Office=House\n|Party=Democratic\n}}'

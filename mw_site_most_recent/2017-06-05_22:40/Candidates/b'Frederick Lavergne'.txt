@@ -1,1 +1,0 @@
-b'{{Candidate\n|Firstname=Frederick\n|Lastname=Lavergne\n|State=New Jersey\n|District=3\n|Office=House\n|Party=Democratic\n}}'

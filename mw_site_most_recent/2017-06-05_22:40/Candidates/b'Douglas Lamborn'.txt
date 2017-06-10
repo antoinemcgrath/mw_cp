@@ -1,1 +1,0 @@
-b'{{Candidate\n|Firstname=Douglas\n|TW1=https://twitter.com/RepDLamborn\n|Lastname=Lamborn\n|State=Colorado\n|District=5\n|Office=House\n|Party=Republican\n}}'

@@ -1,1 +1,0 @@
-b"{{Candidate\n|Firstname=Eleanor\n|TW1=https://twitter.com/EleanorNorton\n|Lastname=Norton\n|Bioguide_id=N000147\n|Gender=F\n|State=District of Columbia\n|District=At-large\n|Office=House\n|Party=Democratic\n\n|Q2=\n\n'''Automatically Generated Congressional Votes'''\n}}"

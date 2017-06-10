@@ -1,1 +1,0 @@
-b'{{Candidate\n|Firstname=Marc\n|Lastname=Hennemann\n|State=Washington\n|District=2\n|Office=House\n|Party=Republican\n}}'

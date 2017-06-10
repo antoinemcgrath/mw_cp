@@ -1,1 +1,0 @@
-b'{{Candidate\n|Firstname=Nicola\n|TW1=https://twitter.com/nikiinthehouse\n|Lastname=Tsongas\n|State=Massachusetts\n|District=3\n|Office=House\n|Party=Democratic\n}}'

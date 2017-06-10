@@ -1,1 +1,0 @@
-b'{{Candidate\n|Firstname=DuWayne\n|Lastname=Gregory\n|State=New York\n|District=2\n|Office=House\n|Party=Democratic\n}}'

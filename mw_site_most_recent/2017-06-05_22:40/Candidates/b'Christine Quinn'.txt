@@ -1,1 +1,0 @@
-b'{{Candidate\n|Firstname=Christine\n|Lastname=Quinn\n|State=Florida\n|District=14\n|Office=House\n|Party=Republican\n}}'

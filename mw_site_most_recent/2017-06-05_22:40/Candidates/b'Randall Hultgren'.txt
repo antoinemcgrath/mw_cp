@@ -1,1 +1,0 @@
-b'{{Candidate\n|Firstname=Randall\n|TW1=https://twitter.com/RepHultgren\n|Lastname=Hultgren\n|State=Illinois\n|District=14\n|Office=House\n|Party=Republican\n}}'

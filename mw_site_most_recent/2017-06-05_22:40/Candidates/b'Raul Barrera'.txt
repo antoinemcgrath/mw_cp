@@ -1,1 +1,0 @@
-b'{{Candidate\n|Firstname=Raul\n|Lastname=Barrera\n|State=Texas\n|District=27\n|Office=House\n|Party=Democratic\n}}'

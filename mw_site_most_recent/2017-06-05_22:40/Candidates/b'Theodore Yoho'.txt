@@ -1,1 +1,0 @@
-b'{{Candidate\n|Firstname=Theodore\n|TW1=https://twitter.com/RepTedYoho\n|Lastname=Yoho\n|State=Florida\n|District=3\n|Office=House\n|Party=Republican\n}}'

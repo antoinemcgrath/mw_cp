@@ -1,1 +1,0 @@
-b'{{Candidate\n|Firstname=Eve\n|Lastname=Nu\xc3\xb1ez\n|State=Arizona\n|District=7\n|Office=House\n|Party=Republican\n}}'

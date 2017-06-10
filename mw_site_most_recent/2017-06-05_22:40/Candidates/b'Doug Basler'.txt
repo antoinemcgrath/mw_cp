@@ -1,1 +1,0 @@
-b'{{Candidate\n|Firstname=Doug\n|Lastname=Basler\n|State=Washington\n|District=9\n|Office=House\n|Party=Republican\n}}'

@@ -1,1 +1,0 @@
-b'{{Candidate\n|Firstname=Jim\n|Lastname=Lawrence\n|State=New Hampshire\n|District=2\n|Office=House\n|Party=Republican\n}}'

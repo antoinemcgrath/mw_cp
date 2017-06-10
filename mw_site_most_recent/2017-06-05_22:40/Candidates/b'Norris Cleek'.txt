@@ -1,1 +1,0 @@
-b'{{Candidate\n|Firstname=Norris\n|Lastname=Cleek\n|State=California\n|District=3\n|Office=House\n|Party=Republican\n}}'

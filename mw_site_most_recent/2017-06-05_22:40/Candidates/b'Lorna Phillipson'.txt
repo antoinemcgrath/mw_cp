@@ -1,1 +1,0 @@
-b'{{Candidate\n|Firstname=Lorna\n|Lastname=Phillipson\n|State=New Jersey\n|District=4\n|Office=House\n|Party=Democratic\n}}'

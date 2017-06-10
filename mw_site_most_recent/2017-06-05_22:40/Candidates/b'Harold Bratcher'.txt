@@ -1,1 +1,0 @@
-b'{{Candidate\n|Firstname=Harold\n|Lastname=Bratcher\n|State=Kentucky\n|District=3\n|Office=House\n|Party=Republican\n}}'

@@ -1,1 +1,0 @@
-b'{{Candidate\n|Firstname=Stephen\n|Lastname=Tryon\n|State=Utah\n|District=3\n|Office=House\n|Party=Democratic\n}}'

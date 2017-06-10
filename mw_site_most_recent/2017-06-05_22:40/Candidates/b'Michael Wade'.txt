@@ -1,1 +1,0 @@
-b'{{Candidate\n|Firstname=Michael\n|Lastname=Wade\n|Nickname=Mike\n|State=Virginia\n|District=4\n|Office=House\n|Party=Republican\n|Position=Challenger\n|CampaignSite=http://www.mikewadeforcongress.com/\n|FB2=https://www.facebook.com/MikeWadeVA/\n|Q1=None found.\n|Q2=None found.\n|Q3=None found.\n|OtherSources=None found.\n}}'

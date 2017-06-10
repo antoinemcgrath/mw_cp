@@ -1,1 +1,0 @@
-b'{{Candidate\n|Firstname=Rashid\n|Lastname=Malik\n|State=Georgia\n|District=7\n|Office=House\n|Party=Democratic\n}}'

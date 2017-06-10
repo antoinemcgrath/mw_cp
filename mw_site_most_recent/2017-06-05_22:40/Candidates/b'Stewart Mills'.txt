@@ -1,1 +1,0 @@
-b'{{Candidate\n|Firstname=Stewart\n|Lastname=Mills\n|State=Minnesota\n|District=8\n|Office=House\n|Party=Republican\n}}'

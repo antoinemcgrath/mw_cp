@@ -1,1 +1,0 @@
-b'{{Candidate\n|Firstname=Frederick\n|Lastname=Bryson\n|State=North Carolina\n|District=11\n|Office=House\n|Party=Democratic\n}}'

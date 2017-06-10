@@ -1,1 +1,0 @@
-b'{{Candidate\n|Firstname=Andrew\n|Lastname=Whallon\n|State=California\n|District=47\n|Office=House\n|Party=Republican\n}}'

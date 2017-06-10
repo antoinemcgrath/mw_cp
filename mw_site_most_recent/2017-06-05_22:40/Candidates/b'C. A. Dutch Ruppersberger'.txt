@@ -1,1 +1,0 @@
-b'{{Candidate\n|Firstname=C. A. Dutch\n|TW1=https://twitter.com/Call_Me_Dutch\n|Lastname=Ruppersberger\n|State=Maryland\n|District=2\n|Office=House\n|Party=Democratic\n}}'

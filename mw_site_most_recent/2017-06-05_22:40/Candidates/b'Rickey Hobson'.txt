@@ -1,1 +1,0 @@
-b'{{Candidate\n|Firstname=Rickey\n|Lastname=Hobson\n|State=Tennessee\n|District=8\n|Office=House\n|Party=Democratic\n}}'
