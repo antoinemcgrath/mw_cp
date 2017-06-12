@@ -199,7 +199,7 @@ for cat in cat_list:
             handle = re.sub(reg_exp, "", tw_name)
             handles.append(handle)
         if "|TW3=" in text:
-            text.index("|TW3=")
+            tw3_strt = text.index("|TW3=")
             linelength = text[tw3_strt:].index("\n")
             tw_name = text[tw3_strt+5:tw3_strt+linelength]
             handle = re.sub(reg_exp, "", tw_name)
@@ -226,12 +226,12 @@ for cat in cat_list:
                      #print(STW_lines_regex)
                      #print(STW_insert)
                      #print(text)
-                    #print ("We found that the page had tweets already and will replace them")
+                     #print ("We found that the page had tweets already and will replace them")
                      newtext = re.sub(STW_lines_regex, STW_insert, text)
                      #print()
                      #print()
                      #print(newtext)
-               # print(newtext)
+               #print(newtext)
 
                 #Drop any accidental extra spacing
                 old_A = "\n\n\n"
@@ -248,9 +248,12 @@ for cat in cat_list:
             pass
 
 
+<<<<<<< HEAD
 
 print ("Total climate tweets in wiki: " + str(total_climate_tweets))
+=======
+>>>>>>> 75c9e266ef478455829a714eb7fa8c9aca78f5c2
 print ("Profiles scanned: " + str(profiles_scanned))
 print ("Profiles with handles: " + str(profiles_with_handles))
-#print ("Total number of twitter handles: " + str(total_handles))
-#print ("Total number of climate tweets: " + str(total_climate_tweets))
+print ("Total number of twitter handles: " + str(total_handles))
+print ("Total number of climate tweets: " + str(total_climate_tweets))
