@@ -31,7 +31,7 @@ insert_end = "<!--EndSTW-->\n"
 with open(os.path.expanduser('~') + "/.invisible/mw.csv", 'r') as f:
     e = f.read()
     keys = e.split(',')
-    print(keys)
+    #print(keys)
     login_user = keys[0]  #consumer_key
     login_password = keys[1]  #consumer_secret
 
@@ -194,37 +194,37 @@ for cat in cat_list:
             handle = re.sub(reg_exp, "", tw_name)
             handles.append(handle)
         if "|TW3=" in text:
-            text.index("|TW3=")
+            tw3_strt = text.index("|TW3=")
             linelength = text[tw3_strt:].index("\n")
             tw_name = text[tw3_strt+5:tw3_strt+linelength]
             handle = re.sub(reg_exp, "", tw_name)
             handles.append(handle)
 
         if handles != []:
-            print (handles)
+            #print (handles)
             profiles_with_handles += 1
             STW_insert = get_STW_insert(handles, total_handles)
 
             if len(STW_insert) > 110: # Normal (no change) is 109
-                print(len(STW_insert))
+                #print(len(STW_insert))
                 #STW_lines_regex = '(?s) \|STW=<!--StartSTW-->.*<!--EndSTW-->'
                 #STW_lines_regex = '\|STW=<!--StartSTW-->.*<!--EndSTW-->'
                 STW_lines_regex = '\|STW=<!--StartSTW-->.*(?s)<!--EndSTW-->'
                 if re.search("<!--StartSTW-->", text) == None:
-                     print("SHOULD INSERT NEW TWEET SECTION")
+                     #print("SHOULD INSERT NEW TWEET SECTION")
                      insert_here =  text.rfind("}}")    ####rfind finds in reverse
                      newtext = text[:insert_here] + STW_insert + text[insert_here:]
                 else:
-                     print("SHOULD EDIT EXISTING TWEET SECTION")
+                     #print("SHOULD EDIT EXISTING TWEET SECTION")
                      #print(STW_lines_regex)
                      #print(STW_insert)
                      #print(text)
-                    #print ("We found that the page had tweets already and will replace them")
+                     #print ("We found that the page had tweets already and will replace them")
                      newtext = re.sub(STW_lines_regex, STW_insert, text)
                      #print()
                      #print()
                      #print(newtext)
-               # print(newtext)
+               #print(newtext)
 
                 #Drop any accidental extra spacing
                 old_A = "\n\n\n"
@@ -235,15 +235,13 @@ for cat in cat_list:
                 newtext = newtext.replace(old_A,new_A).replace(old_B,new_B)
                 newtext = newtext.replace(old_A,new_A).replace(old_B,new_B)
                 a_page.save(newtext, edit_note)
-                print("UPDATED!")
+                #print("UPDATED!")
 
         else:
             pass
 
 
-
-
 print ("Profiles scanned: " + str(profiles_scanned))
 print ("Profiles with handles: " + str(profiles_with_handles))
-#print ("Total number of twitter handles: " + str(total_handles))
-#print ("Total number of climate tweets: " + str(total_climate_tweets))
+print ("Total number of twitter handles: " + str(total_handles))
+print ("Total number of climate tweets: " + str(total_climate_tweets))
