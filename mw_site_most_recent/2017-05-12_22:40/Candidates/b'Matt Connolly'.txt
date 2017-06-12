@@ -1,1 +1,0 @@
-b'{{Candidate\n|Firstname=Matt\n|Lastname=Connolly\n|State=Pennsylvania\n|District=17\n|Office=House\n|Party=Republican\n}}'

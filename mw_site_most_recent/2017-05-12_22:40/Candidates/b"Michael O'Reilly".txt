@@ -1,1 +1,0 @@
-b"{{Candidate\n|Firstname=Michael\n|Lastname=O'Reilly\n|State=New York\n|District=5\n|Office=House\n|Party=Republican\n}}"

@@ -1,1 +1,0 @@
-b'{{Candidate\n|Firstname=Brady\n|Lastname=Walkinshaw\n|State=Washington\n|District=7\n|Office=House\n|Party=Democratic\n}}'

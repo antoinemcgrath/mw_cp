@@ -1,1 +1,0 @@
-b'{{Candidate\n|Firstname=Dimitri\n|Lastname=Cherny\n|State=South Carolina\n|District=1\n|Office=House\n|Party=Democratic\n}}'

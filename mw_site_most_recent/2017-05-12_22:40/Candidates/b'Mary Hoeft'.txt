@@ -1,1 +1,0 @@
-b'{{Candidate\n|Firstname=Mary\n|Lastname=Hoeft\n|State=Wisconsin\n|District=7\n|Office=House\n|Party=Democratic\n}}'

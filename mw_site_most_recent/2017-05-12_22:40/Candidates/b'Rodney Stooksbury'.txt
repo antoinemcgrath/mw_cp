@@ -1,1 +1,0 @@
-b'{{Candidate\n|Firstname=Rodney\n|Lastname=Stooksbury\n|State=Georgia\n|District=6\n|Office=House\n|Party=Democratic\n}}'

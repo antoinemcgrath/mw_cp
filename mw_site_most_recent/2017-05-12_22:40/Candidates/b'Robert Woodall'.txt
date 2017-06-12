@@ -1,1 +1,0 @@
-b'{{Candidate\n|Firstname=Robert\n|Lastname=Woodall\n|State=Georgia\n|District=7\n|Office=House\n|Party=Republican\n}}'

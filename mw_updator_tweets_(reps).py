@@ -102,9 +102,13 @@ def get_tweets_from_handle(handle, total_climate_tweets, insert_body):
     keywords_re = re.compile(r'climate|carbon|globalwarming|global warming|renewable', re.IGNORECASE)
     results = db.politicians.find({"user.screen_name": handle, "text": keywords_re})
     handles_climate_tweets += results.count()
-    total_climate_tweets += handles_climate_tweets
+    #total_climate_tweets += handles_climate_tweets
     if handles_climate_tweets > 0:
         print("Twitter handle " + handle + " has " + str(handles_climate_tweets) + " 'climate' tweets.")
+        #print(handles_climate_tweets)
+        #print(total_climate_tweets)
+        total_climate_tweets += handles_climate_tweets
+        #print(total_climate_tweets)
     else:
         pass
     for obj in results:
@@ -116,7 +120,7 @@ def get_tweets_from_handle(handle, total_climate_tweets, insert_body):
         #print ("Date    " + str(obj["created_at"]))
     return (total_climate_tweets, insert_body)
 
-def get_STW_insert(handles,total_handles):
+def get_STW_insert(handles, total_handles, total_climate_tweets):
     STW_insert = ""
     insert_body = ""
     insert_start = "|STW=<!--StartSTW-->'''Automatically captured tweets'''{{#widget:Tweet|id=794256025297653761}}\n"
@@ -125,9 +129,10 @@ def get_STW_insert(handles,total_handles):
     for handle in handles:
         #print (handle)
         total_handles += 1
-        total_climate_tweets = 0
+        #total_climate_tweets = 0
         tweets_from_handle = get_tweets_from_handle(handle,total_climate_tweets, insert_body)
         insert_body = tweets_from_handle[1]
+        total_climate_tweets = tweets_from_handle[0]
        # print ("The current count of climate tweets is " + str(tweets_from_handle[0]))
     #print(insert_body)
     #print(type(insert_body))
@@ -160,7 +165,7 @@ def get_STW_insert(handles,total_handles):
 
     #print(str(type(insert_body)) + "is the type of the object insert_body")
     #print(str(type(STW_insert)) + "is the type of the object STW_insert")
-    return (STW_insert)
+    return (STW_insert, total_climate_tweets)
 
 #### For each Category make a list of pages
 for cat in cat_list:
@@ -203,8 +208,10 @@ for cat in cat_list:
         if handles != []:
             #print (handles)
             profiles_with_handles += 1
-            STW_insert = get_STW_insert(handles, total_handles)
-
+            STW_return = get_STW_insert(handles, total_handles, total_climate_tweets)
+            STW_insert = STW_return[0] 
+            total_climate_tweets = STW_return[1]    
+           # print (total_climate_tweets) 
             if len(STW_insert) > 110: # Normal (no change) is 109
                 #print(len(STW_insert))
                 #STW_lines_regex = '(?s) \|STW=<!--StartSTW-->.*<!--EndSTW-->'
@@ -241,6 +248,11 @@ for cat in cat_list:
             pass
 
 
+<<<<<<< HEAD
+=======
+
+print ("Total climate tweets in wiki: " + str(total_climate_tweets))
+>>>>>>> 12968d005ef8155c1bdc86d1d9dc351c1bdd296b
 print ("Profiles scanned: " + str(profiles_scanned))
 print ("Profiles with handles: " + str(profiles_with_handles))
 print ("Total number of twitter handles: " + str(total_handles))

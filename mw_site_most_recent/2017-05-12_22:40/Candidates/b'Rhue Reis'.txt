@@ -1,1 +1,0 @@
-b'{{Candidate\n|Firstname=Rhue\n|Lastname=Reis\n|State=Rhode Island\n|District=2\n|Office=House\n|Party=Republican\n}}'

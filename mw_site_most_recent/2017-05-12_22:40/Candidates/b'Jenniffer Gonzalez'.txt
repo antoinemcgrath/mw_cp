@@ -1,1 +1,0 @@
-b'{{Candidate\n|Firstname=Jenniffer\n|Lastname=Gonzalez Colon\n|Nickname=Jenniffer Gonzalez\n|Wiki1=https://en.wikipedia.org/wiki/Jenniffer_Gonz%C3%A1lez\n|State=Puerto Rico\n|District=1\n|Office=House\n|Party=New Progressive Party - Republican\n|Position=Incumbent\n|FB2=https://www.facebook.com/JGOPR51\n|TW2=https://twitter.com/Jenniffer2012\n}}'

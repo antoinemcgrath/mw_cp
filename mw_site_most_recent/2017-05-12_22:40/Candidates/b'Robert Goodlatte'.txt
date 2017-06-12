@@ -1,1 +1,0 @@
-b'{{Candidate\n|Firstname=Robert\n|Lastname=Goodlatte\n|State=Virginia\n|District=6\n|Office=House\n|Party=Republican\n}}'

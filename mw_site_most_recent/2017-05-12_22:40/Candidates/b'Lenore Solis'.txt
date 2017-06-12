@@ -1,1 +1,0 @@
-b'{{Candidate\n|Firstname=Lenore\n|Lastname=Solis\n|State=California\n|District=28\n|Office=House\n|Party=Republican\n}}'

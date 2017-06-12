@@ -1,1 +1,0 @@
-b'{{Candidate\n|Firstname=Dennis\n|Lastname=Murphy\n|State=Michigan\n|District=2\n|Office=House\n|Party=Democratic\n}}'

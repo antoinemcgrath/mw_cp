@@ -1,1 +1,0 @@
-b'{{Candidate\n|Firstname=Erin\n|Lastname=McClelland\n|State=Pennsylvania\n|District=12\n|Office=House\n|Party=Democratic\n}}'

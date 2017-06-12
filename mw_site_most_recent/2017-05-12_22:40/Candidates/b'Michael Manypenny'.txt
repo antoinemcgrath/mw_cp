@@ -1,1 +1,0 @@
-b'{{Candidate\n|Firstname=Michael\n|Lastname=Manypenny\n|State=West Virginia\n|District=1\n|Office=House\n|Party=Democratic\n}}'

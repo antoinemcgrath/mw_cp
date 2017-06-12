@@ -1,1 +1,0 @@
-b'{{Candidate\n|Firstname=Mikel\n|Lastname=Weisser\n|State=Arizona\n|District=4\n|Office=House\n|Party=Democratic\n}}'

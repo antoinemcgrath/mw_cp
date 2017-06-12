@@ -1,1 +1,0 @@
-b'{{Candidate\n|Firstname=Louie\n|Lastname=Campos\n|State=California\n|District=22\n|Office=House\n|Party=Democratic\n}}'

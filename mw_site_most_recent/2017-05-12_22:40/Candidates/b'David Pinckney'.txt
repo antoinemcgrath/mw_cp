@@ -1,1 +1,0 @@
-b'{{Candidate\n|Firstname=David\n|Lastname=Pinckney\n|State=New Jersey\n|District=10\n|Office=House\n|Party=Republican\n}}'

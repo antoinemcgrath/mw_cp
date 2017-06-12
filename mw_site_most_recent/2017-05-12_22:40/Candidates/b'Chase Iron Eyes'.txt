@@ -1,1 +1,0 @@
-b'{{Candidate\n|Firstname=Chase\n|Lastname=Iron Eyes\n|State=North Dakota\n|District=At-large\n|Office=House\n|Party=Democratic-NPL\n}}'

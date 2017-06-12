@@ -1,1 +1,0 @@
-b"{{Candidate\n|Firstname=Clay\n|Lastname=Higgins\n|Bioguide_id=H001077\n|Gender=M\n|State=Louisiana\n|District=3\n|Office=House\n|Party=Republican\n\n|Q2=\n\n'''Automatically Generated Congressional Votes'''\n}}"

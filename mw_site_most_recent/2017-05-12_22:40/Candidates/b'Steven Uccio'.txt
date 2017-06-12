@@ -1,1 +1,0 @@
-b'{{Candidate\n|Firstname=Steven\n|Lastname=Uccio\n|State=New Jersey\n|District=12\n|Office=House\n|Party=Republican\n}}'

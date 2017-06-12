@@ -1,1 +1,0 @@
-b'{{Candidate\n|Firstname=Beverly\n|Lastname=Goldstein\n|State=Ohio\n|District=11\n|Office=House\n|Party=Republican\n}}'

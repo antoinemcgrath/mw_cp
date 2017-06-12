@@ -1,1 +1,0 @@
-b'{{Candidate\n|Firstname=Thomas\n|Lastname=Mills\n|State=North Carolina\n|District=8\n|Office=House\n|Party=Democratic\n}}'
