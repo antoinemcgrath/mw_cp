@@ -264,6 +264,9 @@ for a_page in list:
 
                 if str(cs['no_votes']).find(caleg_id) != -1:
                     legislation_action = legislation_action+1
+
+                if str(cs['other_votes']).find(caleg_id) != -1:
+                    legislation_action = legislation_action+1
                     #    legislation_action = legislation_action-1
                     #print ("Leg action " + str(bill))
 
@@ -297,6 +300,9 @@ for a_page in list:
                     #print("Role added")
                 for y in vote['actions']:
                     if (y['type']) == ['amendment:passed']:
+                        #if y['+other_votes']:
+                            #q2_abill_insert += ("\n\nFinal legislative action " + (str(datetime.datetime.strptime(str(y['date']), '%Y-%m-%d %H:%M:%S').date())) + " passed yeas " + str(y['+yes_votes']).replace("'", "").replace("[", "").replace("]", "") + ", nays " + str(y['+no_votes']).replace("'", "").replace("[", "").replace("]", "") + " other " + str(y['+other_votes']).replace("'", "").replace("[", "").replace("]", "")  +". "  )
+                        #else:
                         q2_abill_insert += ("\n\nFinal legislative action " + (str(datetime.datetime.strptime(str(y['date']), '%Y-%m-%d %H:%M:%S').date())) + " passed yeas " + str(y['+yes_votes']).replace("'", "").replace("[", "").replace("]", "") + ", nays " + str(y['+no_votes']).replace("'", "").replace("[", "").replace("]", "") +". "  )
                         #print("yes")
                     ##if (y['type']) == ['governor:signed']:
@@ -322,6 +328,8 @@ for a_page in list:
                             #q2_abill_insert += ("\n:**On " + str(str(datetime.datetime.strptime(str(x['date']), '%Y-%m-%d %H:%M:%S').date())) + " " + firstname + " voted yea, in favor of the action: " + str(x['motion']))
                         if str(x['no_votes']).find(caleg_id) > 1:
                             q2_abill_insert += ("\n:*" + firstname + " voted nay (against " + str(x['motion']) + ")." )
+                        if str(x['other_votes']).find(caleg_id) > 1:
+                            q2_abill_insert += ("\n:*" + firstname + " did not vote (abstain/not present on " + str(x['motion']) + ")." )
 
         if q2_abill_insert.endswith( '<!--EndQ2-->\n|' ):
             return (q2_abill_insert)
@@ -364,173 +372,3 @@ for a_page in list:
     newtext = newtext.replace(old_A,new_A).replace(old_B,new_B)
     articlepage.save(newtext, 'Votes Updated (vote bot v02)')
 #    print("UPDATED!")
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    '''
-    for y in x['actions']:
-            if (y['type']) == ['amendment:passed']:
-                print (y)
-
-    vote = openstates.bill_detail( state, session, bill)
-    openstates.committee_detail('CAC000751')
-
-    https://openstates.org/api/v1/committees/CAC000751/
-    #https://openstates.org/api/v1/legislators/?state=ca&committee=CAC000774
-    #https://openstates.org/ca/committees/CAC000774/
-
-    https://openstates.org/api/v1/committees/CAC000751/
-
-            print ( y['date'] + " " +  y['action'] )
-
-    ("Committee: " + x["committee"] + "\n\n Nay/Yea count: " + x[no_count] + "/" + x[yes_count] + " Passed: " + x[passed])
-    "motion": "Do pass as amended and be re-referred to the Committee on [Appropriations]",
-    "chamber": "lower",
-    '''
-
-
-
-
-
-    #a_page.save(newtext, 'Votes Updated (vote bot v01)')
-    #print("Updated Q2 auto-summary of: " + str(articlepage.name.encode('utf-8')))
-
-
-
-    #profiletext = articlepage.text()
-    #['Cathleen_Galgiani_(USA_CA)'].save(newtext, 'Votes Updated (vote bot v01)')
-    #print("Updated Q2 auto-summary of: " + str(articlepage.name.encode('utf-8')))
-
-
-    '''
-    def get_a_page(site, SpecifiedCategory): ##def get_a_page ### Results in text (maybe only one and not loop)
-        for a_page in site.Categories[SpecifiedCategory]:
-            listpage = site.Pages[a_page]  #listpage = site.Pages["Michael_Thompson"] #listpage = site.Pages["Bill_Dodd_(USA_CA)"] #listpage = site.Pages['Cathleen_Galgiani_(USA_CA)']
-            profiletext = listpage.text()
-    '''
-
-
-
-    '''
-    ###To Create a new page listing all the candidates category pages.
-    import mwclient
-    site = mwclient.Site(('https', 'en.wikipedia.org'))
-    site.login('username', 'password')
-    listpage = site.Pages['User:Antoine/categoryCandidatespages']
-    text = listpage.text()
-    for page in site.Categories['Candidate']:
-        text += "* [[:" + page.name + "]]\n"
-    listpage.save(text, summary='Creating list from [[Category:Candidate]]')
-
-
-    print (firstname + " voted " + vote['bill_id'] + " " + vote['title']+"\n"+"Official site: " + "https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id="+session+"0"+bill.replace(" ", "") + "\n" + "Alternative Title(s): " + str(vote['alternate_titles'])+"\n" )
-    #"Summary: " + str(vote['summary'].encode("utf8")))
-
-
-
-    upper_var['title']
-    lower_var['title']
-
-    upper_var['motion']
-    lower_var['motion']
-
-
-    lower_var = vote['votes'][0]
-    for x in vote['votes']:
-        if x['chamber'] == 'lower':
-
-    for x in vote['votes']:
-        if x['chamber'] == 'lower':
-            print("Assembly motion: " + x['motion'])
-            if str(x).find(caleg_id):
-                if str(x['yes_votes']).find(caleg_id):
-                    print (firstname + " voted yes in favor of the motion "+ x['motion'])
-                    pass
-                elif str(x['no_votes']).find(caleg_id):
-                    print (firstname + " voted no in against the motion "+ x['motion'])
-                    pass
-                elif str(x['other_votes']).find(caleg_id):
-                    print (firstname + " voted other in regards to the motion "+ x['motion'])
-                    pass
-
-    print (bill + ": " + vote['title'])
-    #print (bill + ": " + vote['title'] + vote['summary'])
-
-    for x in vote['votes']:
-        if x['chamber'] == 'lower':
-            if str(x).find(caleg_id):
-                if str(x['yes_votes']).find(caleg_id):
-                    print (str(datetime.datetime.strptime(str(x['date']), '%Y-%m-%d %H:%M:%S').date()) + " In relation to " +bill+ ", " + firstname + " voted yea, in favor of the action: "+ x['motion'])
-                    pass
-                elif str(x['no_votes']).find(caleg_id):
-                    print (str(datetime.datetime.strptime(str(x['date']), '%Y-%m-%d %H:%M:%S').date()) + " In relation to " +bill+ ", " + firstname + " voted nay, against the action: "+ x['motion'])
-                    pass
-                elif str(x['other_votes']).find(caleg_id):
-                    print (str(datetime.datetime.strptime(str(x['date']), '%Y-%m-%d %H:%M:%S').date()) + " In relation to " +bill+ ", " + firstname + " voted other in regards to the action: "+ x['motion'])
-                    pass
-                #print("Senate motion: " + x['motion'])
-
-
-
-
-
-    q2_abill_insert = (bill + ": " + vote['title'])
-    q2insert += '\n'
-    for x in vote['votes']:
-      if str(x).find(caleg_id):
-          if str(x).find(caleg_id) > 1:
-              q2_abill_insert += (str(datetime.datetime.strptime(str(x['date']), '%Y-%m-%d %H:%M:%S').date()) + " In relation to " +bill+ ", " + firstname + " voted yea, in favor of the action: "+ x['motion'])
-              q2_abill_insert += '\n'
-              pass
-          if str(x['no_votes']).find(caleg_id) > 1:
-              q2_abill_insert += (str(datetime.datetime.strptime(str(x['date']), '%Y-%m-%d %H:%M:%S').date()) + " In relation to " +bill+ ", " + firstname + " voted nay, against the action: "+ x['motion'])
-              q2_abill_insert += '\n'
-              pass
-          if str(x['other_votes']).find(caleg_id) > 1:
-              q2_abill_insert += (str(datetime.datetime.strptime(str(x['date']), '%Y-%m-%d %H:%M:%S').date()) + " In relation to " +bill+ ", " + firstname + " voted other in regards to the action: "+ x['motion'])
-              q2_abill_insert += '\n'
-              pass
-
-
-
-          #print("Senate motion: " + x['motion'])
-
-    if str(x['yes_votes']).find(caleg_id) == 2:
-
-
-    datetime.datetime.strptime((x['date']), '%Y-%m-%d %H:%M:%S').date()
-    (x['date']).datetime.strptime((x['date']), '%Y-%m-%d %H:%M:%S').date()
-            print("Assembly motion: " + x['motion'])
-            print("Assembly motion: " + x['motion'])
-
-
-
-        if x['leg_id'] == caleg_id:
-            print (x)
-            if lower_var['date'] < x['date']:
-                lower_var = x
-
-
-    yes_votes no_votes other_votes
-
-    vote['votes'][x]['motion']
-    vote['votes'][4]['yes_votes']
-    '''

@@ -82,7 +82,7 @@ def get_atweet_embed(obj):
     m_date = str(obj["created_at"]) #Formated as Month date, Year example:February 2, 2017
     o_ = '</a></blockquote>\n'
     #atweet = a_ + b_atweet_text + c_ + d_atweet_url + e_ + f_ + g_name + h_ + i_atweet_user + j_ + k_ + l_ + k_atweetid + l_ + m_date + o_
-    atweet = a_ + b_atweet_text + f_ + j_ + k_ + l_ + k_atweetid + l_ + m_date + o_
+    atweet = a_ + b_atweet_text + f_ + j_ + k_ + l_ + k_atweetid + l_ + " " + m_date + o_
     return(atweet)
 
 
@@ -209,9 +209,9 @@ for cat in cat_list:
             #print (handles)
             profiles_with_handles += 1
             STW_return = get_STW_insert(handles, total_handles, total_climate_tweets)
-            STW_insert = STW_return[0] 
-            total_climate_tweets = STW_return[1]    
-           # print (total_climate_tweets) 
+            STW_insert = STW_return[0]
+            total_climate_tweets = STW_return[1]
+           # print (total_climate_tweets)
             if len(STW_insert) > 110: # Normal (no change) is 109
                 #print(len(STW_insert))
                 #STW_lines_regex = '(?s) \|STW=<!--StartSTW-->.*<!--EndSTW-->'

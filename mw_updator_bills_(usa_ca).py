@@ -94,12 +94,21 @@ def bd_motion_votes_loop(vote):
         n_vots = []
         for nv in n_voters:
             n_vots.append(nv['name'])
+
         yes = x['yes_count']         #Get yes votes
         y_voters = x['yes_votes']
         y_voters = (y_voters)
         y_vots = []
         for yv in y_voters:
             y_vots.append(yv['name'])
+
+        other = x['other_count']         #Get other votes
+        o_voters = x['other_votes']
+        o_voters = (o_voters)
+        o_vots = []
+        for ov in o_voters:
+            o_vots.append(ov['name'])
+
         bd_motion_votes_text += ("\n\n'''On " + str(motion_date)  + " the " + chamber + " " + result + " the motion '" + motion + "' in a vote of Yea " + str(yes) + " to Nay " + str(no) + ".'''")
         if yes > 0:
             bd_motion_votes_text += ("\n\n*Voting 'Yea' there were " + str(yes) + " members: ")
@@ -107,6 +116,10 @@ def bd_motion_votes_loop(vote):
         if no > 0:
             bd_motion_votes_text += ("\n\n*Voting 'Nay' there were " + str(no) + " members: ")
             bd_motion_votes_text += ("'" + (str(n_vots)).replace(" '", " ").replace("',", ", ")[1:-1]+"'")
+        if other > 0:
+            bd_motion_votes_text += ("\n\n*Not voting there were " + str(other) + " members: ")
+            bd_motion_votes_text += ("'" + (str(o_vots)).replace(" '", " ").replace("',", ", ")[1:-1]+"'")
+
     return (bd_motion_votes_text)
 
 
