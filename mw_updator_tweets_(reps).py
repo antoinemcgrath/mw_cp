@@ -248,11 +248,8 @@ for cat in cat_list:
             pass
 
 
-<<<<<<< HEAD
-=======
 
 print ("Total climate tweets in wiki: " + str(total_climate_tweets))
->>>>>>> 12968d005ef8155c1bdc86d1d9dc351c1bdd296b
 print ("Profiles scanned: " + str(profiles_scanned))
 print ("Profiles with handles: " + str(profiles_with_handles))
 print ("Total number of twitter handles: " + str(total_handles))
