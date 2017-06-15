@@ -1,0 +1,1 @@
+b'{{Candidate\n|Firstname=Greg\n|Lastname=Ellison\n|State=Louisiana\n|District=3\n|Office=House\n|Party=Republican\n}}'

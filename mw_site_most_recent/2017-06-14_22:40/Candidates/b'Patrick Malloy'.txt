@@ -1,0 +1,1 @@
+b'{{Candidate\n|Firstname=Patrick\n|TW1=https://twitter.com/RepSeanMaloney\n|Lastname=Malloy\n|State=California\n|District=50\n|Office=House\n|Party=Democratic\n}}'

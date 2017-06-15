@@ -1,0 +1,1 @@
+b'{{Candidate\n|Firstname=Stephen\n|TW1=https://twitter.com/SteveScalise\n|Lastname=Scalise\n|State=Louisiana\n|District=1\n|Office=House\n|Party=Republican\n}}'

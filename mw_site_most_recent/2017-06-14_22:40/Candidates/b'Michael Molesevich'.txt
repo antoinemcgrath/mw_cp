@@ -1,0 +1,1 @@
+b'{{Candidate\n|Firstname=Michael\n|Lastname=Molesevich\n|State=Pennsylvania\n|District=10\n|Office=House\n|Party=Democratic\n}}'

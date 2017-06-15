@@ -1,0 +1,1 @@
+b'{{Candidate\n|Firstname=Eric\n|Lastname=Mauck\n|State=Texas\n|District=26\n|Office=House\n|Party=Democratic\n}}'

@@ -1,0 +1,1 @@
+b'{{Candidate\n|Firstname=Victor\n|Lastname=Armendariz\n|State=Georgia\n|District=4\n|Office=House\n|Party=Republican\n}}'

@@ -1,0 +1,1 @@
+b'{{Candidate\n|Firstname=Chris\n|Lastname=Wiggins\n|State=California\n|District=37\n|Office=House\n|Party=Democratic\n}}'

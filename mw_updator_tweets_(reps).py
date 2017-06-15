@@ -100,11 +100,12 @@ def get_atweet_embed(obj):
 def get_tweets_from_handle(handle, total_climate_tweets, insert_body):
     handles_climate_tweets = 0
     keywords_re = re.compile(r'climate|carbon|globalwarming|global warming|renewable', re.IGNORECASE)
+    total_tws = str(db.politicians.find({"user.screen_name": handle}).count())
     results = db.politicians.find({"user.screen_name": handle, "text": keywords_re})
     handles_climate_tweets += results.count()
     #total_climate_tweets += handles_climate_tweets
     if handles_climate_tweets > 0:
-        print("Twitter handle " + handle + " has " + str(handles_climate_tweets) + " 'climate' tweets.")
+        print("Twitter handle " + handle + " has " + total_tws + " tweets and " + str(handles_climate_tweets) + " 'climate' tweets.")
         #print(handles_climate_tweets)
         #print(total_climate_tweets)
         total_climate_tweets += handles_climate_tweets
@@ -173,7 +174,7 @@ for cat in cat_list:
     for a_page in site.Categories[cat]:
         profiles_scanned += 1
         listpage = site.Pages[a_page]
-       # print (listpage.name)
+        print (listpage.name)
         text = listpage.text()
         #(?i)^ means case insensitive
         handles = []

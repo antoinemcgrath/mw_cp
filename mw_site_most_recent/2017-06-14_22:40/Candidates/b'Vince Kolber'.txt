@@ -1,0 +1,1 @@
+b'{{Candidate\n|Firstname=Vince\n|Lastname=Kolber\n|State=Illinois\n|District=5\n|Office=House\n|Party=Republican\n}}'

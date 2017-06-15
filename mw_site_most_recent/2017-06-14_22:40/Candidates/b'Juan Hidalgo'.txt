@@ -1,0 +1,1 @@
+b'{{Candidate\n|Firstname=Juan\n|Lastname=Hidalgo\n|State=California\n|District=51\n|Office=House\n|Party=Republican\n}}'

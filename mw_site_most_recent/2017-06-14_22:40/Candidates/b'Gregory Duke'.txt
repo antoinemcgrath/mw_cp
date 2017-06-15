@@ -1,0 +1,1 @@
+b'{{Candidate\n|Firstname=Gregory\n|Lastname=Duke\n|State=Georgia\n|District=2\n|Office=House\n|Party=Republican\n}}'

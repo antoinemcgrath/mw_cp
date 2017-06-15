@@ -1,0 +1,1 @@
+b'{{Candidate\n|Firstname=John\n|Lastname=Morrow\n|State=Illinois\n|District=2\n|Office=House\n|Party=Republican\n}}'

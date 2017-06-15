@@ -1,0 +1,1 @@
+b'{{Candidate\n|Firstname=Ron\n|Lastname=Varasteh\n|State=California\n|District=45\n|Office=House\n|Party=Democratic\n}}'

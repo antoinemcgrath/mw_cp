@@ -1,0 +1,1 @@
+b'{{Candidate\n|Firstname=Danil\n|Lastname=Faust\n|State=Louisiana\n|District=1\n|Office=House\n|Party=Democratic\n}}'

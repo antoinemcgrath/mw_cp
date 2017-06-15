@@ -1,0 +1,1 @@
+b'{{Candidate\n|Firstname=Michael\n|Lastname=Wager\n|State=Ohio\n|District=14\n|Office=House\n|Party=Democratic\n}}'

@@ -1,0 +1,1 @@
+b'{{Candidate\n|Firstname=Tonia\n|Lastname=Khouri\n|State=Illinois\n|District=11\n|Office=House\n|Party=Republican\n}}'

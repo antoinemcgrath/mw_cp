@@ -1,0 +1,1 @@
+b'{{Candidate\n|Firstname=Angel\n|Lastname=Cardenas\n|State=California\n|District=14\n|Office=House\n|Party=Republican\n}}'

@@ -1,0 +1,1 @@
+b'{{Candidate\n|Firstname=Philip\n|Lastname=Rosenthal\n|State=New York\n|District=10\n|Office=House\n|Party=Republican\n}}'

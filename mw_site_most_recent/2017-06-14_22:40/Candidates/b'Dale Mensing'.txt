@@ -1,0 +1,1 @@
+b'{{Candidate\n|Firstname=Dale\n|Lastname=Mensing\n|State=California\n|District=2\n|Office=House\n|Party=Republican\n}}'

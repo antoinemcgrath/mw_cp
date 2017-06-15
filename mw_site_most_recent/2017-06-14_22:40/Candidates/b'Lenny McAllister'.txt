@@ -1,0 +1,1 @@
+b'{{Candidate\n|Firstname=Lenny\n|Lastname=McAllister\n|State=Pennsylvania\n|District=14\n|Office=House\n|Party=Republican\n}}'

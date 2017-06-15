@@ -1,0 +1,1 @@
+b'{{Candidate\n|Firstname=Laura\n|Lastname=Sterling\n|State=South Carolina\n|District=6\n|Office=House\n|Party=Republican\n}}'

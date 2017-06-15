@@ -1,0 +1,1 @@
+b'{{Candidate\n|Firstname=Peter\n|TW1=https://twitter.com/PeteSessions\n|Lastname=Sessions\n|State=Texas\n|District=32\n|Office=House\n|Party=Republican\n}}'

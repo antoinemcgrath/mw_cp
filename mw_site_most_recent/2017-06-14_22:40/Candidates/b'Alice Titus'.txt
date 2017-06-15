@@ -1,0 +1,1 @@
+b'{{Candidate\n|Firstname=Alice\n|Lastname=Titus\n|State=Nevada\n|District=1\n|Office=House\n|Party=Democratic\n}}'

@@ -1,0 +1,1 @@
+b'{{Candidate\n|Firstname=Kenneth\n|Lastname=McGurn\n|State=Florida\n|District=3\n|Office=House\n|Party=Democratic\n}}'

@@ -1,0 +1,1 @@
+b'{{Candidate\n|Firstname=Peter\n|Lastname=Clemens\n|State=Utah\n|District=1\n|Office=House\n|Party=Democratic\n}}'

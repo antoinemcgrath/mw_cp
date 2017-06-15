@@ -1,0 +1,1 @@
+b'{{Candidate\n|Firstname=Harold\n|Lastname=Gowdy\n|State=South Carolina\n|District=4\n|Office=House\n|Party=Republican\n}}'

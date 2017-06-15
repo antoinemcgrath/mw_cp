@@ -1,0 +1,1 @@
+b'{{Candidate\n|Firstname=Matthew\n|Lastname=Detch\n|State=West Virginia\n|District=3\n|Office=House\n|Party=Democratic\n}}'

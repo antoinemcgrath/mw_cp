@@ -1,0 +1,1 @@
+b'{{Candidate\n|Firstname=Mark\n|Lastname=Alliegro\n|State=Massachusetts\n|District=9\n|Office=House\n|Party=Republican\n}}'

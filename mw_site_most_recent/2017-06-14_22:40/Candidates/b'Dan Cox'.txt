@@ -1,0 +1,1 @@
+b'{{Candidate\n|Firstname=Dan\n|Lastname=Cox\n|State=Maryland\n|District=8\n|Office=House\n|Party=Republican\n}}'

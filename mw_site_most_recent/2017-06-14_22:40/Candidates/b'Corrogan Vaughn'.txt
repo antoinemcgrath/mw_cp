@@ -1,0 +1,1 @@
+b'{{Candidate\n|Firstname=Corrogan\n|Lastname=Vaughn\n|State=Maryland\n|District=7\n|Office=House\n|Party=Republican\n}}'

@@ -1,0 +1,1 @@
+b'{{Candidate\n|Firstname=Ruby\n|Lastname=Woolridge\n|State=Texas\n|District=6\n|Office=House\n|Party=Democratic\n}}'

@@ -1,0 +1,1 @@
+b'{{Candidate\n|Firstname=Charles\n|Lastname=Lingerfelt\n|State=Texas\n|District=30\n|Office=House\n|Party=Republican\n}}'

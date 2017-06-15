@@ -1,0 +1,1 @@
+b'{{Candidate\n|Firstname=Mary Ellen\n|Lastname=Balchunis\n|State=Pennsylvania\n|District=7\n|Office=House\n|Party=Democratic\n}}'

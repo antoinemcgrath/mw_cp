@@ -1,0 +1,1 @@
+b'{{Candidate\n|Firstname=Jacob\n|Lastname=Hebert\n|State=Louisiana\n|District=3\n|Office=House\n|Party=Democratic\n}}'

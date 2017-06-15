@@ -1,0 +1,1 @@
+b'{{Candidate\n|Firstname=Jeffrey\n|TW1=https://twitter.com/RepJeffDuncan\n|Lastname=Duncan\n|State=South Carolina\n|District=3\n|Office=House\n|Party=Republican\n}}'
