@@ -99,9 +99,24 @@ def get_atweet_embed(obj):
 
 def get_tweets_from_handle(handle, total_climate_tweets, insert_body):
     handles_climate_tweets = 0
+
     keywords_re = re.compile(r'climate|carbon|globalwarming|global warming|renewable', re.IGNORECASE)
-    total_tws = str(db.politicians.find({"user.screen_name": handle}).count())
     results = db.politicians.find({"user.screen_name": handle, "text": keywords_re})
+    #print (type(results))
+    #print (results)
+    #false_positives = db.politicians.find({"user.screen_name": handle, "text": keywords_no})
+    #print (type(false_positives))
+    #print (false_positives)
+
+    #print ("action")
+
+    #good_tweets = results - false_positives
+    #print (type(good_tweets))
+    #print(good_tweets)
+    #print("done")
+    #print("done")
+
+    total_tws = str(db.politicians.find({"user.screen_name": handle}).count())
     handles_climate_tweets += results.count()
     #total_climate_tweets += handles_climate_tweets
     if handles_climate_tweets > 0:
@@ -113,9 +128,18 @@ def get_tweets_from_handle(handle, total_climate_tweets, insert_body):
     else:
         pass
     for obj in results:
-        #print (obj)
-        atweet = get_atweet_embed(obj)
-        insert_body += atweet
+        #print (type(obj))
+        #print (obj["text"])
+        #print (type(obj["text"]))
+        keywords_no = re.compile(r'business climate|biz climate|jobs climate|political climate', re.IGNORECASE)
+        if re.search(keywords_no, obj["text"]):
+            print("passsssssing: " + (obj["text"]))
+            pass
+
+        else:
+            print ("match: " + (obj["text"]))
+            atweet = get_atweet_embed(obj)
+            insert_body += atweet
         #print(atweet)
         #print ("Text    " + str(obj["text"]))
         #print ("Date    " + str(obj["created_at"]))
