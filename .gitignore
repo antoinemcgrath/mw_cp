@@ -54,3 +54,4 @@ mw_site_backups/
 
 #Specific files to ignore
 deletelist.txt
+python_log.log

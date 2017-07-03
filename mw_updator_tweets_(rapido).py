@@ -4,7 +4,7 @@
 #Output: /mnt/8TB/GITS/mw_cp/mw_site_backups/
 #Execution schedule is Wednesdays at 1:30AM  ##crontab -e
 ##30 1 * * 3 /usr/bin/python3 /mnt/8TB/GITS/mw_cp/mw_creation_of_site_backups.py
-
+import pylogger
 import mwclient
 import re
 import os
