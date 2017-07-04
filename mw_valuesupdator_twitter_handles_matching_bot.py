@@ -23,9 +23,12 @@ from pymongo import MongoClient
 import mwclient
 from mwclient import Site #import mwclient
 
-
 #Setup Twitter
-twitterKEYfile = os.path.expanduser('~') + "/.invisible/twitter01.csv" #ck
+#twitterKEYfile = os.path.expanduser('~') + "/.invisible/twitter01.csv" #
+twitterKEYfile = os.path.expanduser('~') + "/.invisible/twitter02.csv" #AGreenDCBike
+#twitterKEYfile = os.path.expanduser('~') + "/.invisible/twitter03.csv" #
+#twitterKEYfile = os.path.expanduser('~') + "/.invisible/twitter05.csv" #
+
 def get_twitter_keys(twitterKEYfile):
     #print("Loop3")
     with open(twitterKEYfile, 'r') as f:
