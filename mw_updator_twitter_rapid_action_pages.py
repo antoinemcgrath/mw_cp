@@ -123,8 +123,15 @@ for cat in cat_list:
         handle = "RepMikeQuigley"
         #handles_climate_tweets = 0
         #total_tws = str(db.politicians.find({"user.screen_name": handle}).count())
-        results = db.politicians.find({"user.screen_name": users_re, "text": keywords_re})
+
+        var start = new Date(2017, 6, 1);
+        var end = new Date(2017, 7, 5);
+        #db.posts.find({created_on: {$gte: start, $lt: end}});
+
+
+        ##results = db.politicians.find({"user.screen_name": users_re, "text": keywords_re})
         #results = db.politicians.find({"user.screen_name": handle, "text": "climate"})
+        results = db.politicians.find({'time': {'$gte': start, '$lt': end}, "user.screen_name": handle, "text": "climate"})
         ##results = db.politicians.find({"user.screen_name": handle, "text": keywords_re})
         countresults = results.count()
         print(countresults)
