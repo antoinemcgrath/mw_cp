@@ -141,11 +141,11 @@ for cat in cat_list:
         #results = db.politicians.find({ 'created_at': { '$gte': thirty_days_ago}})
         ##results = db.politicians.find({'created_at': {'$gte': start, '$lt': end}, "user.screen_name": handle, "text": keywords_re})
         ###results = db.politicians.find({"user.screen_name": handle, "text": keywords_re})
-        #countresults = results.count()
+        countresult = result.count()
         #print(countresults)
         ##handles_climate_tweets += results.count()
-        if countresults > 0:
-            print("Handles in category " + str(cat) + " have " + str(countresults) + " tweets.")
+        if countresult > 0:
+            print("Handles in category " + str(cat) + " have " + str(countresult) + " tweets.")
         else:
             pass
         for obj in results:
@@ -156,7 +156,7 @@ for cat in cat_list:
             #print ("Text    " + str(obj["text"]))
             print ("Tweet ID    " + str(obj["id_str"]) + "   Date    " + str(obj["created_at"]) )
             pass
-        
+
 '''
 
 for hash in hashes:
