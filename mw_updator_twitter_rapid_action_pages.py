@@ -133,7 +133,7 @@ for cat in cat_list:
         print(thirty_days_ago)
         ##results = db.politicians.find({"user.screen_name": users_re, "text": keywords_re})
         #results = db.politicians.find({"user.screen_name": handle, "text": "climate"})
-        results = db.politicians.find({ 'created_at': { '$gte': thirty_days_ago}, "text": keywords_re})
+        results = db.politicians.find({ 'created_at': { '$gte': thirty_days_ago}})
         #results = db.politicians.find({'created_at': {'$gte': start, '$lt': end}, "user.screen_name": handle, "text": keywords_re})
         ##results = db.politicians.find({"user.screen_name": handle, "text": keywords_re})
         countresults = results.count()
