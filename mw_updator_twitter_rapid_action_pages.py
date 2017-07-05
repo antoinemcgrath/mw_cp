@@ -123,9 +123,9 @@ for cat in cat_list:
         handle = "RepMikeQuigley"
         #handles_climate_tweets = 0
         #total_tws = str(db.politicians.find({"user.screen_name": handle}).count())
-        #results = db.politicians.find({"user.screen_name": users_re, "text": keywords_re})
+        results = db.politicians.find({"user.screen_name": users_re, "text": keywords_re})
         #results = db.politicians.find({"user.screen_name": handle, "text": "climate"})
-        results = db.politicians.find({"user.screen_name": handle, "text": keywords_re})
+        ##results = db.politicians.find({"user.screen_name": handle, "text": keywords_re})
         countresults = results.count()
         print(countresults)
         #handles_climate_tweets += results.count()
@@ -140,9 +140,8 @@ for cat in cat_list:
             #insert_body += atweet
             #print(atweet)
             #print ("Text    " + str(obj["text"]))
-            print ("Text    " + str(obj["id_str"]))
-            print ("Date    " + str(obj["created_at"]))
-
+            print ("Text    " + str(obj["id_str"]) + "   Date    " + str(obj["created_at"]) )
+            pass
 
 '''
 
