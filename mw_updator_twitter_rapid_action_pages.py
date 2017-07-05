@@ -139,7 +139,8 @@ for cat in cat_list:
             #atweet = get_atweet_embed(obj)
             #insert_body += atweet
             #print(atweet)
-            print ("Text    " + str(obj["text"]))
+            #print ("Text    " + str(obj["text"]))
+            print ("Text    " + str(obj["id_str"]))
             print ("Date    " + str(obj["created_at"]))
 
 
