@@ -156,7 +156,7 @@ for cat in cat_list:
             #print ("Text    " + str(obj["text"]))
             print ("Tweet ID    " + str(obj["id_str"]) + "   Date    " + str(obj["created_at"]) )
             pass
-        '''
+        
 '''
 
 for hash in hashes:
