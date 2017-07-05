@@ -132,7 +132,7 @@ for cat in cat_list:
         from bson.objectid import ObjectId
         gen_time = datetime.datetime(2017, 6, 5)
         dummy_id = ObjectId.from_datetime(gen_time)
-        result = db.politicians.find({"_id": {"$gte": dummy_id}})
+        result = db.politicians.find({"_id": {"$gte": dummy_id}, "text": keywords_re})
         print(result.count())
         '''
         thirty_days_ago = datetime.datetime.utcnow() - datetime.timedelta(days=90)
