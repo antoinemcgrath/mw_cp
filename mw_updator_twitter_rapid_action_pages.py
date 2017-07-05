@@ -132,20 +132,18 @@ for cat in cat_list:
         from bson.objectid import ObjectId
         gen_time = datetime.datetime(2017, 6, 5)
         dummy_id = ObjectId.from_datetime(gen_time)
-        result = db.politicians.find({"_id": {"$gte": dummy_id}, "user.screen_name": users_re, "text": keywords_re})
-        print(result.count())
-        '''
-        thirty_days_ago = datetime.datetime.utcnow() - datetime.timedelta(days=90)
-        print(thirty_days_ago)
-        ##results = db.politicians.find({"user.screen_name": users_re, "text": keywords_re})
-        #results = db.politicians.find({"user.screen_name": handle, "text": "climate"})
-        results = db.politicians.find({ 'created_at': { '$gte': thirty_days_ago}})
-        #results = db.politicians.find({'created_at': {'$gte': start, '$lt': end}, "user.screen_name": handle, "text": keywords_re})
-        ##results = db.politicians.find({"user.screen_name": handle, "text": keywords_re})
-        countresults = results.count()
-        print(countresults)
-        #handles_climate_tweets += results.count()
-
+        print(dummy_id)
+        result = db.politicians.find({"_id": {"$gt": dummy_id}, "user.screen_name": users_re, "text": keywords_re})
+        #thirty_days_ago = datetime.datetime.utcnow() - datetime.timedelta(days=90)
+        #print(thirty_days_ago)
+        ###results = db.politicians.find({"user.screen_name": users_re, "text": keywords_re})
+        ##results = db.politicians.find({"user.screen_name": handle, "text": "climate"})
+        #results = db.politicians.find({ 'created_at': { '$gte': thirty_days_ago}})
+        ##results = db.politicians.find({'created_at': {'$gte': start, '$lt': end}, "user.screen_name": handle, "text": keywords_re})
+        ###results = db.politicians.find({"user.screen_name": handle, "text": keywords_re})
+        #countresults = results.count()
+        #print(countresults)
+        ##handles_climate_tweets += results.count()
         if countresults > 0:
             print("Handles in category " + str(cat) + " have " + str(countresults) + " tweets.")
         else:
@@ -156,7 +154,7 @@ for cat in cat_list:
             #insert_body += atweet
             #print(atweet)
             #print ("Text    " + str(obj["text"]))
-            print ("Text    " + str(obj["id_str"]) + "   Date    " + str(obj["created_at"]) )
+            print ("Tweet ID    " + str(obj["id_str"]) + "   Date    " + str(obj["created_at"]) )
             pass
         '''
 '''
