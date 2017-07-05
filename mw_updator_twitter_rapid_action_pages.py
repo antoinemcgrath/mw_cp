@@ -126,13 +126,14 @@ for cat in cat_list:
 
         start = datetime(2017, 2, 1, 18, 33, 46, 266943)
         end = datetime.now()
+        print(start)
         print(end)
         #db.posts.find({created_on: {$gte: start, $lt: end}});
 
 
         ##results = db.politicians.find({"user.screen_name": users_re, "text": keywords_re})
         #results = db.politicians.find({"user.screen_name": handle, "text": "climate"})
-        results = db.politicians.find({'time': {'$gte': start, '$lt': end}, "user.screen_name": handle, "text": keywords_re})
+        results = db.politicians.find({'created_at': {'$gte': start, '$lt': end}, "user.screen_name": handle, "text": keywords_re})
         ##results = db.politicians.find({"user.screen_name": handle, "text": keywords_re})
         countresults = results.count()
         print(countresults)
