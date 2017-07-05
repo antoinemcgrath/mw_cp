@@ -15,10 +15,9 @@ import os
 import os.path
 import ast
 import errno
-from datetime import datetime
+import datetime, pymongo
 #from dateutil.parser import *
 from mwclient import Site #import mwclient
-
 from pymongo import MongoClient
 connection = c = MongoClient()
 # The MongoDB connection info. This assumes your database name is Political and your collection name is tweets.
@@ -130,10 +129,12 @@ for cat in cat_list:
         print(end)
         #db.posts.find({created_on: {$gte: start, $lt: end}});
 
+        thirty_days_ago = datetime.datetime.utcnow() - datetime.timedelta(days=30)
 
         ##results = db.politicians.find({"user.screen_name": users_re, "text": keywords_re})
         #results = db.politicians.find({"user.screen_name": handle, "text": "climate"})
-        results = db.politicians.find({'created_at': {'$gte': start, '$lt': end}, "user.screen_name": handle, "text": keywords_re})
+        results = db.politicians.find({ 'created_at': { '$gte': thirty_days_ago}, "text": keywords_re})
+        #results = db.politicians.find({'created_at': {'$gte': start, '$lt': end}, "user.screen_name": handle, "text": keywords_re})
         ##results = db.politicians.find({"user.screen_name": handle, "text": keywords_re})
         countresults = results.count()
         print(countresults)
