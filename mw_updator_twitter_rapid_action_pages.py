@@ -133,7 +133,7 @@ for cat in cat_list:
         gen_time = datetime.datetime(2017, 2, 4)
         dummy_id = ObjectId.from_datetime(gen_time)
         result = db.politicians.find({"_id": {"$gte": dummy_id}})
-        print(results.count())
+        print(result.count())
         '''
         thirty_days_ago = datetime.datetime.utcnow() - datetime.timedelta(days=90)
         print(thirty_days_ago)
