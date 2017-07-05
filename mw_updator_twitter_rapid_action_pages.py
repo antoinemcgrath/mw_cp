@@ -23,7 +23,9 @@ connection = c = MongoClient()
 # The MongoDB connection info. This assumes your database name is Political and your collection name is tweets.
 #connection = Connection('localhost', 27017)
 db = connection.Twitter
-db.politicians.create_index( "id", unique=True, dropDups=True )
+db.politicians.create_index("id", unique=True, dropDups=True )
+db.politicians.create_index("user.screen_name")
+db.politicians.create_index("text")
 collection = db.politicians
 
 
@@ -117,45 +119,47 @@ for cat in cat_list:
         a_botpage = site.Pages[hashpagename]
         hashtexts = a_botpage.text()
         hashes = ast.literal_eval(hashtexts)
-        keywords_re = re.compile('|'.join(hashes), re.IGNORECASE)
-
-        handle = "RepMikeQuigley"
-        #handles_climate_tweets = 0
-        #total_tws = str(db.politicians.find({"user.screen_name": handle}).count())
-
-        #start = datetime(2017, 2, 1, 18, 33, 46, 266943)
-        #end = datetime.now()
-        #print(start)
-        #print(end)
-        #db.posts.find({created_on: {$gte: start, $lt: end}});
-
-        from bson.objectid import ObjectId
-        gen_time = datetime.datetime(2017, 6, 5)
-        dummy_id = ObjectId.from_datetime(gen_time)
-        print(dummy_id)
-        result = db.politicians.find({"_id": {"$gt": dummy_id}, "user.screen_name": users_re, "text": keywords_re})
-        #thirty_days_ago = datetime.datetime.utcnow() - datetime.timedelta(days=90)
-        #print(thirty_days_ago)
-        ###results = db.politicians.find({"user.screen_name": users_re, "text": keywords_re})
-        ##results = db.politicians.find({"user.screen_name": handle, "text": "climate"})
-        #results = db.politicians.find({ 'created_at': { '$gte': thirty_days_ago}})
-        ##results = db.politicians.find({'created_at': {'$gte': start, '$lt': end}, "user.screen_name": handle, "text": keywords_re})
-        ###results = db.politicians.find({"user.screen_name": handle, "text": keywords_re})
-        countresult = result.count()
-        #print(countresults)
-        ##handles_climate_tweets += results.count()
-        if countresult > 0:
-            print("Handles in category " + str(cat) + " have " + str(countresult) + " tweets.")
+        if len(hashes) < 2:
+            pass
         else:
-            pass
-        for obj in result:
-            #print (obj)
-            #atweet = get_atweet_embed(obj)
-            #insert_body += atweet
-            #print(atweet)
-            #print ("Text    " + str(obj["text"]))
-            print ("Tweet ID    " + str(obj["id_str"]) + "   Date    " + str(obj["created_at"]) )
-            pass
+            keywords_re = re.compile('|'.join(hashes), re.IGNORECASE)
+            handle = "RepMikeQuigley"
+            #handles_climate_tweets = 0
+            #total_tws = str(db.politicians.find({"user.screen_name": handle}).count())
+
+            #start = datetime(2017, 2, 1, 18, 33, 46, 266943)
+            #end = datetime.now()
+            #print(start)
+            #print(end)
+            #db.posts.find({created_on: {$gte: start, $lt: end}});
+
+            from bson.objectid import ObjectId
+            gen_time = datetime.datetime(2017, 6, 5)
+            dummy_id = ObjectId.from_datetime(gen_time)
+            print(dummy_id)         #59349f000000000000000000   #467280209323241472
+            result = db.politicians.find({"_id": {"$gt": dummy_id}, "user.screen_name": users_re, "text": keywords_re})
+            #thirty_days_ago = datetime.datetime.utcnow() - datetime.timedelta(days=90)
+            #print(thirty_days_ago)
+            ###results = db.politicians.find({"user.screen_name": users_re, "text": keywords_re})
+            ##results = db.politicians.find({"user.screen_name": handle, "text": "climate"})
+            #results = db.politicians.find({ 'created_at': { '$gte': thirty_days_ago}})
+            ##results = db.politicians.find({'created_at': {'$gte': start, '$lt': end}, "user.screen_name": handle, "text": keywords_re})
+            ###results = db.politicians.find({"user.screen_name": handle, "text": keywords_re})
+            countresult = result.count()
+            #print(countresults)
+            ##handles_climate_tweets += results.count()
+            if countresult > 0:
+                print("Handles in category " + str(cat) + " have " + str(countresult) + " tweets.")
+            else:
+                pass
+            for obj in result:
+                #print (obj)
+                #atweet = get_atweet_embed(obj)
+                #insert_body += atweet
+                #print(atweet)
+                #print ("Text    " + str(obj["text"]))
+                print ("Tweet ID    " + str(obj["id_str"]) + "   Date    " + str(obj["created_at"]) )
+                pass
 
 '''
 
