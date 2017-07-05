@@ -131,7 +131,7 @@ for cat in cat_list:
         #handles_climate_tweets += results.count()
 
         if countresults > 0:
-            print("Handles in category " + cat + " have " + countresults + " tweets.)
+            print("Handles in category " + cat + " have " + countresults + " tweets.")
         else:
             pass
         for obj in results:
