@@ -148,7 +148,7 @@ for cat in cat_list:
             print("Handles in category " + str(cat) + " have " + str(countresult) + " tweets.")
         else:
             pass
-        for obj in results:
+        for obj in result:
             #print (obj)
             #atweet = get_atweet_embed(obj)
             #insert_body += atweet
