@@ -119,7 +119,7 @@ for cat in cat_list:
         a_botpage = site.Pages[hashpagename]
         hashtexts = a_botpage.text()
         hashes = ast.literal_eval(hashtexts)
-        if len(hashes) < 2:
+        if len(tw_list) < 2:
             pass
         else:
             keywords_re = re.compile('|'.join(hashes), re.IGNORECASE)
