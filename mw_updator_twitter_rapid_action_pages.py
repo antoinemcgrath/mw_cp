@@ -130,7 +130,7 @@ for cat in cat_list:
         #db.posts.find({created_on: {$gte: start, $lt: end}});
 
         from bson.objectid import ObjectId
-        gen_time = datetime.datetime(2017, 2, 4)
+        gen_time = datetime.datetime(2017, 6, 5)
         dummy_id = ObjectId.from_datetime(gen_time)
         result = db.politicians.find({"_id": {"$gte": dummy_id}})
         print(result.count())
