@@ -123,14 +123,14 @@ for cat in cat_list:
         #handles_climate_tweets = 0
         #total_tws = str(db.politicians.find({"user.screen_name": handle}).count())
 
-        start = datetime(2017, 2, 1, 18, 33, 46, 266943)
-        end = datetime.now()
-        print(start)
-        print(end)
+        #start = datetime(2017, 2, 1, 18, 33, 46, 266943)
+        #end = datetime.now()
+        #print(start)
+        #print(end)
         #db.posts.find({created_on: {$gte: start, $lt: end}});
 
         thirty_days_ago = datetime.datetime.utcnow() - datetime.timedelta(days=30)
-
+        print(thirty_days_ago)
         ##results = db.politicians.find({"user.screen_name": users_re, "text": keywords_re})
         #results = db.politicians.find({"user.screen_name": handle, "text": "climate"})
         results = db.politicians.find({ 'created_at': { '$gte': thirty_days_ago}, "text": keywords_re})
