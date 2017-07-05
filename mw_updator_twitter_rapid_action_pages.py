@@ -126,8 +126,22 @@ for cat in cat_list:
         #results = db.politicians.find({"user.screen_name": users_re, "text": keywords_re})
         #results = db.politicians.find({"user.screen_name": handle, "text": "climate"})
         results = db.politicians.find({"user.screen_name": handle, "text": keywords_re})
-        print(results.count())
+        countresults = results.count()
+        print(countresults)
         #handles_climate_tweets += results.count()
+
+        if countresults > 0:
+            print("Handles in category " + cat + " have " + countresults + " tweets.)
+        else:
+            pass
+        for obj in results:
+            #print (obj)
+            #atweet = get_atweet_embed(obj)
+            #insert_body += atweet
+            #print(atweet)
+            print ("Text    " + str(obj["text"]))
+            print ("Date    " + str(obj["created_at"]))
+
 
 '''
 
