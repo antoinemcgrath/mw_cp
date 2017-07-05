@@ -129,7 +129,7 @@ for cat in cat_list:
         #print(end)
         #db.posts.find({created_on: {$gte: start, $lt: end}});
 
-        thirty_days_ago = datetime.datetime.utcnow() - datetime.timedelta(days=30)
+        thirty_days_ago = datetime.datetime.utcnow() - datetime.timedelta(days=90)
         print(thirty_days_ago)
         ##results = db.politicians.find({"user.screen_name": users_re, "text": keywords_re})
         #results = db.politicians.find({"user.screen_name": handle, "text": "climate"})
