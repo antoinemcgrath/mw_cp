@@ -124,7 +124,7 @@ for cat in cat_list:
         #handles_climate_tweets = 0
         #total_tws = str(db.politicians.find({"user.screen_name": handle}).count())
 
-        start = datetime.(2017, 6, 1, 18, 33, 46, 266943);
+        start = datetime(2017, 6, 1, 18, 33, 46, 266943)
         end = datetime.now();
         #db.posts.find({created_on: {$gte: start, $lt: end}});
 
