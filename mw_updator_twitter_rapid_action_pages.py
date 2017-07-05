@@ -121,6 +121,8 @@ for cat in cat_list:
         hashes = ast.literal_eval(hashtexts)
         if len(tw_list) < 2:
             pass
+        elif len(hashes) < 2:
+            pass
         else:
             keywords_re = re.compile('|'.join(hashes), re.IGNORECASE)
             handle = "RepMikeQuigley"
