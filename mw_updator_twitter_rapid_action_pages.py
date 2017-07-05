@@ -15,8 +15,8 @@ import os
 import os.path
 import ast
 import errno
-import datetime
-from dateutil.parser import *
+from datetime import datetime
+#from dateutil.parser import *
 from mwclient import Site #import mwclient
 
 from pymongo import MongoClient
@@ -125,7 +125,7 @@ for cat in cat_list:
         #total_tws = str(db.politicians.find({"user.screen_name": handle}).count())
 
         start = datetime(2017, 6, 1, 18, 33, 46, 266943)
-        end = datetime.now();
+        end = datetime.now()
         #db.posts.find({created_on: {$gte: start, $lt: end}});
 
 
