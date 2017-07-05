@@ -129,6 +129,12 @@ for cat in cat_list:
         #print(end)
         #db.posts.find({created_on: {$gte: start, $lt: end}});
 
+        from bson.objectid import ObjectId
+        gen_time = datetime.datetime(2017, 2, 4)
+        dummy_id = ObjectId.from_datetime(gen_time)
+        result = db.politicians.find({"_id": {"$gte": dummy_id}})
+        print(results.count())
+        '''
         thirty_days_ago = datetime.datetime.utcnow() - datetime.timedelta(days=90)
         print(thirty_days_ago)
         ##results = db.politicians.find({"user.screen_name": users_re, "text": keywords_re})
@@ -152,7 +158,7 @@ for cat in cat_list:
             #print ("Text    " + str(obj["text"]))
             print ("Text    " + str(obj["id_str"]) + "   Date    " + str(obj["created_at"]) )
             pass
-
+        '''
 '''
 
 for hash in hashes:
