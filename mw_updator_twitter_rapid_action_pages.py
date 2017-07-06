@@ -126,7 +126,7 @@ for cat in cat_list:
             pass
         else:
             keywords_re = re.compile('|'.join(hashes), re.IGNORECASE)
-            handle = "RepMikeQuigley"
+            handle = "RepMikeQuigley" #Test value
             #handles_climate_tweets = 0
             #total_tws = str(db.politicians.find({"user.screen_name": handle}).count())
 
@@ -139,9 +139,9 @@ for cat in cat_list:
             from bson.objectid import ObjectId
             gen_time = datetime.datetime(2017, 6, 20)
             dummy_id = ObjectId.from_datetime(gen_time)
-            print(dummy_id)         #59349f000000000000000000   #467280209323241472
-            result = db.politicians.find({"_id": {"$gt": dummy_id}, "user.screen_name": users_re, "text": keywords_re}).sort("created_at")
-
+            print(dummy_id)      #Test value   #59349f000000000000000000   #467280209323241472
+            #result = db.politicians.find({"_id": {"$gt": dummy_id}, "user.screen_name": users_re, "text": keywords_re}).sort("created_at")
+            result = db.politicians.find({"user.screen_name": users_re, "text": keywords_re}).sort("created_at")
             #thirty_days_ago = datetime.datetime.utcnow() - datetime.timedelta(days=90)
             #print(thirty_days_ago)
             ###results = db.politicians.find({"user.screen_name": users_re, "text": keywords_re})
