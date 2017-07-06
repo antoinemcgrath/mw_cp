@@ -253,7 +253,7 @@ for cat in cat_list:
             newtext = newtext.replace(old_A,new_A).replace(old_B,new_B)
             newtext = newtext.replace(old_A,new_A).replace(old_B,new_B)
             newtext = newtext.replace(old_A,new_A).replace(old_B,new_B)
-            a_page.save(newtext, edit_note)
+            action_page.save(newtext, edit_note)
 '''
 
 for hash in hashes:
