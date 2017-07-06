@@ -171,13 +171,13 @@ for cat in cat_list:
             #print(end)
             #db.posts.find({created_on: {$gte: start, $lt: end}});
 
-            #from bson.objectid import ObjectId
-            #gen_time = datetime.datetime(2017, 6, 20)
-            #dummy_id = ObjectId.from_datetime(gen_time)
-            #print(dummy_id)      #Test value   #59349f000000000000000000   #467280209323241472
-            #result = db.politicians.find({"_id": {"$gt": dummy_id}, "user.screen_name": users_re, "text": keywords_re}).sort("created_at")
+            from bson.objectid import ObjectId
+            gen_time = datetime.datetime(2017, 6, 20)
+            dummy_id = ObjectId.from_datetime(gen_time)
+            print(dummy_id)      #Test value   #59349f000000000000000000   #467280209323241472
+            result = db.politicians.find({"_id": {"$gt": dummy_id}, "user.screen_name": users_re, "text": keywords_re})
             ##result = db.politicians.find({ "created_at": { "$gt": "Mon Feb 06 22:12:51 +0000 2017" }, "user.screen_name": users_re, "text": keywords_re})
-            result = db.politicians.find({ "created_at": { "$gt": "Mon Jul 03 02:37:16 +0000 2017" }, "user.screen_name": handle, "text": keywords_re})
+           ## result = db.politicians.find({ "created_at": { "$gt": ("Mon Jul 03 02:37:16 +0000 2017") }, "user.screen_name": handle, "text": keywords_re})
             #result = db.politicians.find({ "created_at": { "$gt": "Mon Jul 03 02:37:16 +0000 2017" }, "user.screen_name": users_re, "text": keywords_re})
             ##result = db.politicians.find({"user.screen_name": users_re, "text": keywords_re}).sort("created_at")
             #thirty_days_ago = datetime.datetime.utcnow() - datetime.timedelta(days=90)
