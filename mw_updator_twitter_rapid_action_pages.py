@@ -74,7 +74,7 @@ cat_list = get_cats_list()
 # Relevant hashes to cat # http://www.climatepolitics.info/wiki/BotResource:US_CA_Hashes
 ## Category users list # http://www.climatecongress.info/wiki/US_CA_Senate_info
 
-#http://www.climatepolitics.info/wiki/US_CA_Senate_recent_activities
+#http://www.climatepolitics.info/wiki/US_CA_Senate_Recent_Actions
 
 # Get cat.
 # Addend _Recent_Actions  : cat +
@@ -94,6 +94,28 @@ def get_pages_loop(cat):
     else:
         pass
 
+def get_atweet_embed(obj):
+    a_ = '<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">'
+    b_atweet_text = str(obj["text"])
+    #c_ = ' <a href="'
+    #d_atweet_url = "pass"#str(obj["url"])
+    #e_ = '">'
+    f_  = '</p>'  #&mdash; '
+    #g_name = str(obj["user"]["name"])
+    #h_ = ' (@'
+    i_atweet_user = str(obj["user"]["name"])
+    #j_ = ')
+    j_ ='<a href="https://twitter.com/'
+    k_ = str(obj["user"]["screen_name"])
+    l_ = '/status/'
+    k_atweetid = str(obj["id_str"])
+    #l_ = '">"'
+    m_date = str(obj["created_at"]) #Formated as Month date, Year example:February 2, 2017
+    o_ = '</a></blockquote>\n'
+    #atweet = a_ + b_atweet_text + c_ + d_atweet_url + e_ + f_ + g_name + h_ + i_atweet_user + j_ + k_ + l_ + k_atweetid + l_ + m_date + o_
+    atweet = a_ + b_atweet_text + f_ + j_ + k_ + l_ + k_atweetid + l_ + " " + m_date + o_
+    return(atweet)
+
 
 for cat in cat_list:
     returns = get_pages_loop(cat)
@@ -112,6 +134,10 @@ for cat in cat_list:
         #filter tweets
         #post to url
 
+        action_page = site.Pages[action_page]
+        a_pagetexts = action_page.text()
+
+
         a_tw_list_id_page = site.Pages[catinfo]
         tw_listtexts = a_tw_list_id_page.text()
         tw_list = ast.literal_eval(tw_listtexts)
@@ -125,6 +151,8 @@ for cat in cat_list:
         elif len(hashes) < 2:
             pass
         else:
+            STW_insert = ""
+            insert_body = ""
             keywords_re = re.compile('|'.join(hashes), re.IGNORECASE)
             handle = "RepMikeQuigley" #Test value
             #handles_climate_tweets = 0
@@ -136,11 +164,11 @@ for cat in cat_list:
             #print(end)
             #db.posts.find({created_on: {$gte: start, $lt: end}});
 
-            from bson.objectid import ObjectId
-            gen_time = datetime.datetime(2017, 6, 20)
-            dummy_id = ObjectId.from_datetime(gen_time)
-            print(dummy_id)      #Test value   #59349f000000000000000000   #467280209323241472
-            #result = db.politicians.find({"_id": {"$gt": dummy_id}, "user.screen_name": users_re, "text": keywords_re}).sort("created_at")
+            ##from bson.objectid import ObjectId
+            ##gen_time = datetime.datetime(2017, 6, 20)
+            ##dummy_id = ObjectId.from_datetime(gen_time)
+            ##print(dummy_id)      #Test value   #59349f000000000000000000   #467280209323241472
+            ##result = db.politicians.find({"_id": {"$gt": dummy_id}, "user.screen_name": users_re, "text": keywords_re}).sort("created_at")
             result = db.politicians.find({"user.screen_name": users_re, "text": keywords_re}).sort("created_at")
             #thirty_days_ago = datetime.datetime.utcnow() - datetime.timedelta(days=90)
             #print(thirty_days_ago)
@@ -152,6 +180,7 @@ for cat in cat_list:
             countresult = result.count()
             #print(countresults)
             ##handles_climate_tweets += results.count()
+
             if countresult > 0:
                 print("Handles in category " + str(cat) + " have " + str(countresult) + " tweets.")
             else:
@@ -162,9 +191,68 @@ for cat in cat_list:
                 #insert_body += atweet
                 #print(atweet)
                 #print ("Text    " + str(obj["text"]))
-                print ("Tweet ID    " + str(obj["id_str"]) + "   Date    " + str(obj["created_at"]) )
-                pass
+                ##print ("Tweet ID    " + str(obj["id_str"]) + "   Date    " + str(obj["created_at"]) )
+                get_atweet_embed(obj)
+                insert_body += atweet
+            #return (total_climate_tweets, insert_body)
 
+
+            insert_start = "|STW=<!--StartSTW-->'''Automatically captured tweets'''{{#widget:Tweet|id=794256025297653761}}\n"
+            insert_end = "<!--EndSTW-->"
+            STW_insert += insert_start
+            #### The following section takes insert_body (the new string of tweets to be embedded) and changes the order
+            #### The order is changed by replacing irregularities, creating a list, prefacing each item in the list with a parsed date from a later portion of the item, reorder the list and then removing the preface and exporting back to a string
+            #### new tweet(s) = newt(s)
+            ib = insert_body.replace("</blockquote> ","</blockquote>")
+            junk = re.split("(<blockquote class|<impossible123)", ib)
+            junk = junk[1:]
+            list_embed = [i1 + i2 for i1, i2 in zip(junk[0::2], junk[1::2])]
+            sorted_tweets = ""
+            newts = []
+            for tweet in list_embed:
+                #print(tweet[-44:-18])#Aug 10 21:47:18 +0000 2015 = MMM dd HH:mm:ss Z yyyy
+                #print(str(parse(tweet[-44:-18])))
+                newt = (str(parse(tweet[-44:-18]))) + (tweet)
+                #print(newt)
+                newts.append(newt)
+            newts.sort(reverse=True)
+            for sorted_tweet in newts:
+                sorted_tweets += sorted_tweet[25:]
+            #print(sorted_tweets)
+            #print(type(sorted_tweets))
+
+            STW_insert += sorted_tweets
+
+            STW_insert += insert_end
+            #print(STW_insert)
+            #print(len(STW_insert))
+            #print(str(type(insert_body)) + "is the type of the object insert_body")
+            #print(str(type(STW_insert)) + "is the type of the object STW_insert")
+            ##return (STW_insert, total_climate_tweets)
+
+
+
+            STW_lines_regex = '\|STW=<!--StartSTW-->.*(?s)<!--EndSTW-->'
+            if re.search("<!--StartSTW-->", a_pagetexts) == None:
+                #print("SHOULD INSERT NEW TWEET SECTION")
+                insert_here =  a_pagetexts.rfind("}}")    ####rfind finds in reverse
+                newtext = a_pagetexts[:insert_here] + STW_insert + a_pagetexts[insert_here:]
+            else:
+                #print("SHOULD EDIT EXISTING TWEET SECTION")
+                #print(STW_lines_regex)
+                #print(STW_insert)
+                #print(text)
+                #print ("We found that the page had tweets already and will replace them")
+                newtext = re.sub(STW_lines_regex, STW_insert, a_pagetexts)
+                ##Remove excess lines
+            old_A = "\n\n\n"
+            new_A = "\n\n"
+            old_B = "\n|\n|\n|"
+            new_B = "\n|\n|"
+            newtext = newtext.replace(old_A,new_A).replace(old_B,new_B)
+            newtext = newtext.replace(old_A,new_A).replace(old_B,new_B)
+            newtext = newtext.replace(old_A,new_A).replace(old_B,new_B)
+            a_page.save(newtext, edit_note)
 '''
 
 for hash in hashes:
