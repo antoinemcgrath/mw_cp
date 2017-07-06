@@ -94,6 +94,7 @@ def get_pages_loop(cat):
     else:
         pass
 
+
 def get_atweet_embed(obj):
     a_ = '<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">'
     b_atweet_text = str(obj["text"])
@@ -192,7 +193,7 @@ for cat in cat_list:
                 #print(atweet)
                 #print ("Text    " + str(obj["text"]))
                 ##print ("Tweet ID    " + str(obj["id_str"]) + "   Date    " + str(obj["created_at"]) )
-                get_atweet_embed(obj)
+                atweet = get_atweet_embed(obj)
                 insert_body += atweet
             #return (total_climate_tweets, insert_body)
 
