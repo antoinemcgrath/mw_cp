@@ -17,11 +17,15 @@ import ast
 import errno
 import datetime, pymongo
 from dateutil.parser import *
+import time
 
 #from dateutil.parser import *
 from mwclient import Site #import mwclient
 from pymongo import MongoClient
 connection = c = MongoClient()
+
+start_timer = time.time()
+
 # The MongoDB connection info. This assumes your database name is Political and your collection name is tweets.
 #connection = Connection('localhost', 27017)
 db = connection.Twitter
@@ -171,7 +175,8 @@ for cat in cat_list:
             gen_time = datetime.datetime(2017, 6, 20)
             dummy_id = ObjectId.from_datetime(gen_time)
             print(dummy_id)      #Test value   #59349f000000000000000000   #467280209323241472
-            result = db.politicians.find({"_id": {"$gt": dummy_id}, "user.screen_name": users_re, "text": keywords_re}).sort("created_at")
+            #result = db.politicians.find({"_id": {"$gt": dummy_id}, "user.screen_name": users_re, "text": keywords_re}).sort("created_at")
+            result = db.politicians.find({ "created_at": { "$gt": "Mon Feb 06 22:12:51 +0000 2017" }, "user.screen_name": users_re, "text": keywords_re})
             ##result = db.politicians.find({"user.screen_name": users_re, "text": keywords_re}).sort("created_at")
             #thirty_days_ago = datetime.datetime.utcnow() - datetime.timedelta(days=90)
             #print(thirty_days_ago)
@@ -256,24 +261,9 @@ for cat in cat_list:
             newtext = newtext.replace(old_A,new_A).replace(old_B,new_B)
             newtext = newtext.replace(old_A,new_A).replace(old_B,new_B)
             action_page.save(newtext, edit_note)
-'''
 
-for hash in hashes:
 
-    #print(texts)
-    texts = texts.split("\n")
-    for line in texts:
-        bill = (line.split(","))[2]
-        bill_hashes.append(bill)
-        bill_hashes.append(bill.replace(" ","_"))
-        bill_hashes.append(bill.replace(" ","-"))
-        bill_hashes.append(bill.replace(" ",""))
-    hashes.extend(bill_hashes)
-    hashes.extend(standard_hashes)
-    print(hashes)
-
-    cat_hashes_url = bot_page + "_Hashes"
-    cat_hashes_page = site.Pages[cat_hashes_url]
-    cat_hashes_page.save(str(hashes), edit_note)
-    print("Updated hash list: www.climatepolitics.info/wiki/" + cat_hashes_url)
-'''
+end_timer = time.time()
+total_t = end_timer - start_timer
+#print(total_t)
+print("Mins: " + str((total_t)/60))
