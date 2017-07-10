@@ -179,7 +179,7 @@ for cat in cat_list:
             #dummy_id = ObjectId.from_datetime(gen_time)
             #print(dummy_id)      #Test value   #59349f000000000000000000   #467280209323241472
 
-            dummy_id = ObjectId("5962515fd595ac35ed7fac68")
+            dummy_id = ("5962515fd595ac35ed7fac68")
             result = db.politicians.find({"_id": {"$gt": dummy_id}, "user.screen_name": users_re, "text": keywords_re})
             ####gen_time = int(datetime.datetime.strptime("Mon Jul 03 02:37:16 +0000 2017",'%a %b %d %H:%M:%S +0000 %Y').strftime("%s"))
             ####result = db.politicians.find({ "created_at_UNIXtime": { "$gt": gen_time }, "user.screen_name": users_re, "text": keywords_re})
