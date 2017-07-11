@@ -161,27 +161,34 @@ for cat in cat_list:
             STW_insert = ""
             insert_body = ""
             keywords_re = re.compile('|'.join(hashes), re.IGNORECASE)
-            handle = "RepMikeQuigley" #Test value
             #handles_climate_tweets = 0
             #total_tws = str(db.politicians.find({"user.screen_name": handle}).count())
 
-            #start = datetime(2017, 2, 1, 18, 33, 46, 266943)
-            #end = datetime.now()
+            handle = "RepMikeQuigley" #Test value
+            from datetime import datetime
+            start = datetime(2017, 7, 1, 18, 33, 46, 266943)
+            end = datetime.now()
             #print(start)
             #print(end)
             #db.posts.find({created_on: {$gte: start, $lt: end}});
+            #tweets_iterator = coll.find({'created_at': {'$gt': date1}}, {"text": 1, "user.screen_name": 1, 'created_at': 1})
+            ####tweets_iterator = db.politicians.find({'created_at': {'$gt': start}}, {"text": keywords_re, "user.screen_name": handle, 'created_at': 1})
+
+#query= { "date": { "$lt": new Date().getTime() - 30 * 24 * 60 * 60 * 1000 } }
+#results = db.politicians.find(query)
+#db.politicians.find(query)
 
             #from bson.objectid import ObjectId
-            import pytz
-            import datetime
+            ####import pytz
+            ####import datetime
             #gen_time = datetime.datetime.strptime("Wed Mar 01 02:25:45 +0000 2017",'%a %b %d %H:%M:%S +0000 %Y').replace(tzinfo=pytz.UTC)
             #gen_time = datetime.datetime("Mon Feb 06 22:12:51 +0000 2017")
             #dummy_id = ObjectId.from_datetime(gen_time)
             #print(dummy_id)      #Test value   #59349f000000000000000000   #467280209323241472
-
-            dummy_id = ("5961df49d595ac5c7c77983f") 
-            #dummy_id = ("5962515fd595ac35ed7fac68")
-            result = db.politicians.find({"_id": {"$gt": dummy_id}, "user.screen_name": users_re, "text": keywords_re})
+            results = db.politicians.find({'created_at': {'$gte': start, '$lt': end}, "user.screen_name": handle, "text": keywords_re})
+            ##dummy_id = "5961df49d595ac5c7c77983f"
+            ##dummy_id = "5962515fd595ac35ed7fac68"
+            ##result = db.politicians.find({"_id": {"$gt": dummy_id}, "user.screen_name": users_re, "text": keywords_re})
             ####gen_time = int(datetime.datetime.strptime("Mon Jul 03 02:37:16 +0000 2017",'%a %b %d %H:%M:%S +0000 %Y').strftime("%s"))
             ####result = db.politicians.find({ "created_at_UNIXtime": { "$gt": gen_time }, "user.screen_name": users_re, "text": keywords_re})
 
@@ -193,7 +200,6 @@ for cat in cat_list:
             ###results = db.politicians.find({"user.screen_name": users_re, "text": keywords_re})
             ##results = db.politicians.find({"user.screen_name": handle, "text": "climate"})
             #results = db.politicians.find({ 'created_at': { '$gte': thirty_days_ago}})
-            ##results = db.politicians.find({'created_at': {'$gte': start, '$lt': end}, "user.screen_name": handle, "text": keywords_re})
             ###results = db.politicians.find({"user.screen_name": handle, "text": keywords_re})
 
             #int(datetime.datetime.now().strftime("%s")) * 1000
