@@ -120,7 +120,7 @@ def get_pages_loop(cat):
     if cat.startswith("US_"):
         #print (cat[0:5])
         hashpagename= "BotResource:" + (cat[0:5]) + "_Hashes"
-        action_page = (cat[0:5]) + "Legislature_Latest_Actions"
+        action_page = (cat[0:5]) + "_Legislature_Latest_Actions"
         catpage = site.Pages[hashpagename]
         cats = catpage.text()
         return_list = cats.split("\n")
