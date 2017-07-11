@@ -1,5 +1,14 @@
 #!/usr/bin/python3
 #MediaWiki
+## Inputs
+# http://www.climatecongress.info/wiki/BotResource:cats
+## Directs to
+# http://www.climatecongress.info/wiki/US_CA_Legislature_info
+# http://www.climatecongress.info/wiki/US_CA_Assembly_info
+# http://www.climatecongress.info/wiki/US_CA_Senate_info
+## Outputs
+# http://www.climatecongress.info/wiki/US_CA_Legislature_Latest_Actions
+
 #Dir: /mnt/8TB/GITS/mw_cp/
 #Output: /mnt/8TB/GITS/mw_cp/mw_site_backups/
 #Execution schedule is Wednesdays at 1:30AM  ##crontab -e
@@ -45,7 +54,7 @@ insert_end = "<!--EndSTW-->\n"
 
 
 ####v01
-edit_note = 'Updates each rapid action page (mw_updator_twitter_rapid_action_pages.py bot v01)'
+edit_note = 'Updates each rapid action page (mw_updator_twitter_rapid_action_pages.py bot v02)'
 
 #### Fetch access values (must be username+password for a MW with bot/admin permissions)
 with open(os.path.expanduser('~') + "/.invisible/mw.csv", 'r') as f:
@@ -89,12 +98,29 @@ cat_list = get_cats_list()
 # Get hashes of interest  : BotResource:US_CA_Hashes
 # Get twitter list
 
+
+'''
 def get_pages_loop(cat):
     action_page = cat + "_Recent_Actions"
     tw_list_id = cat.lower().replace("_","-").replace(" ","-")
     if cat.startswith("US_"):
         #print (cat[0:5])
         hashpagename="BotResource:" + (cat[0:5]) + "_Hashes"
+        catpage = site.Pages[hashpagename]
+        cats = catpage.text()
+        return_list = cats.split("\n")
+        return (cat,action_page,tw_list_id,hashpagename)
+    else:
+        pass
+'''
+
+def get_pages_loop(cat):
+    action_page = cat + "_Latest_Actions"
+    tw_list_id = cat.lower().replace("_","-").replace(" ","-")
+    if cat.startswith("US_"):
+        #print (cat[0:5])
+        hashpagename= "BotResource:" + (cat[0:5]) + "_Hashes"
+        action_page = (cat[0:5]) + "Legislature_Latest_Actions"
         catpage = site.Pages[hashpagename]
         cats = catpage.text()
         return_list = cats.split("\n")
@@ -172,8 +198,8 @@ for cat in cat_list:
             end = int(time.time()) #datetime.datetime.now()
             #handle = "RepMikeQuigley" #Test value
             #db.politicians.find({'created_at_UNIXtime': {'$gte': start, '$lt': end}, "user.screen_name": handle}).count()
-            
-            
+
+
             ####from bson.objectid import ObjectId
             ####import pytz
             ####import datetime
@@ -185,7 +211,7 @@ for cat in cat_list:
             ###print(dummy_id)      #Test value   #59349f000000000000000000   #467280209323241472
             result = db.politicians.find({'created_at_UNIXtime': {'$gte': start, '$lt': end}, "user.screen_name": users_re, "text": keywords_re})
             #db.politicians.find({'created_at_UNIXtime': {'$gte': start, '$lt': end}, "user.screen_name": handle, "text": keywords_re})
-            
+
 
             countresult = result.count()
             #print(countresults)
