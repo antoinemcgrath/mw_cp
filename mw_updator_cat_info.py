@@ -1,9 +1,14 @@
 #!/usr/bin/python3
-#MediaWiki
+#### Summary: Handles updator
+# Searches each category for new twitter handles
+# Updates (category)_info page on MediaWiki
+# ex. http://www.climatepolitics.info/wiki/US_CA_Assembly_info
+# Updates twitter lists 
+# ex. https://twitter.com/AGreenDCBike/lists/us-ca-assembly
 #Dir: /mnt/8TB/GITS/mw_cp/
-#Execution schedule is Mon&Thrs at 2:30AM  ##crontab -e
-##30 2 * * 1 /usr/bin/python3 /mnt/8TB/GITS/mw_cp/mw_updator_cat_info.py
-##30 2 * * 4 /usr/bin/python3 /mnt/8TB/GITS/mw_cp/mw_updator_cat_info.py
+#Execution schedule is every day at 2:30AM  ##crontab -e
+##30 2 * * * /usr/bin/python3 /mnt/8TB/GITS/mw_cp/mw_updator_cat_info.py
+
 
 import logging
 #logging.basicConfig(filename='python_debug.log',level=logging.DEBUG) #Stores all runs

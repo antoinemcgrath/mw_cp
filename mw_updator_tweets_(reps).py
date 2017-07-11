@@ -86,20 +86,11 @@ def get_atweet_embed(obj):
     return(atweet)
 
 
-#atweet = get_atweet_embed(obj)
-
-
-######## DB queries
-#### Works in terminal
-#db.politicians.findOne()
-#db.politicians.count({'id': {'$exists': true}},{})
-#db.politicians.find({'user': {'$exists': true}},{"id": 1, "text": 1, "user.screen_name": 1, "created_at": 1, "_id":0})
-#### Working test in py
-#collection.count({"user.screen_name": handle})
 
 def get_tweets_from_handle(handle, total_climate_tweets, insert_body):
     handles_climate_tweets = 0
     keywords_re = re.compile(r'climate|carbon|globalwarming|global warming|renewable', re.IGNORECASE)
+    falsepositives_re = re.compile(r'climate of politics|business climate|political climate', re.IGNORECASE)
     total_tws = str(db.politicians.find({"user.screen_name": handle}).count())
     results = db.politicians.find({"user.screen_name": handle, "text": keywords_re})
     handles_climate_tweets += results.count()
@@ -115,7 +106,13 @@ def get_tweets_from_handle(handle, total_climate_tweets, insert_body):
     for obj in results:
         #print (obj)
         atweet = get_atweet_embed(obj)
-        insert_body += atweet
+        
+        for match in re.finditer(falsepositives_re, str(obj["text"]) ):
+            total_climate_tweets = total_climate_tweets - 1
+            handles_climate_tweets = handles_climate_tweets - 1 
+            pass
+        else:
+            insert_body += atweet
         #print(atweet)
         #print ("Text    " + str(obj["text"]))
         #print ("Date    " + str(obj["created_at"]))
@@ -174,7 +171,7 @@ for cat in cat_list:
     for a_page in site.Categories[cat]:
         profiles_scanned += 1
         listpage = site.Pages[a_page]
-        print (listpage.name)
+        #print (listpage.name)
         text = listpage.text()
         #(?i)^ means case insensitive
         handles = []
