@@ -182,9 +182,10 @@ for cat in cat_list:
         tw_listtexts = a_tw_list_id_page.text()
         tw_list = ast.literal_eval(tw_listtexts)
         users_re = re.compile('|'.join(tw_list), re.IGNORECASE)
-
+        print(hashpagename)
         a_botpage = site.Pages[hashpagename]
         hashtexts = a_botpage.text()
+        print(hashtexts)
         hashes = ast.literal_eval(hashtexts)
         if len(tw_list) < 2:
             pass
