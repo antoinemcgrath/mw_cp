@@ -164,6 +164,10 @@ for cat in cat_list:
         tw_list_id = returns[2]
         hashpagename = returns[3]
         catinfo = cat + "_info"
+        if cat.startswith("US_"):
+            #print (cat[0:5])
+            catinfo = (cat[0:5]) + "_info"
+            
         #get hash list
         #get recent tweets
         #filter tweets
