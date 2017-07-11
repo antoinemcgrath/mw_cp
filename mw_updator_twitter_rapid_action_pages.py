@@ -23,6 +23,8 @@ import time
 from mwclient import Site #import mwclient
 from pymongo import MongoClient
 connection = c = MongoClient()
+from time import sleep
+sleep(30)
 
 start_timer = time.time()
 
@@ -34,7 +36,7 @@ db.politicians.create_index("user.screen_name")
 db.politicians.create_index("text")
 db.politicians.create_index("created_at")
 collection = db.politicians
-
+sleep(1)
 
 
 
