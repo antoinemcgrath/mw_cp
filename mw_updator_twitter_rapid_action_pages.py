@@ -239,7 +239,7 @@ for cat in cat_list:
             #return (total_climate_tweets, insert_body)
 
 
-            insert_start = "|STW=<!--StartSTW-->'''Tweets & Retweets by members of the " +str(returns[0]) + "'''{{#widget:Tweet|id=794256025297653761}}\nSome tweets may "
+            insert_start = "|STW=<!--StartSTW-->'''Tweets & Retweets by members of the " +str(returns[0]) + "'''{{#widget:Tweet|id=794256025297653761}}\n "
             insert_end = "<!--EndSTW-->"
             STW_insert += insert_start
             #### The following section takes insert_body (the new string of tweets to be embedded) and changes the order
