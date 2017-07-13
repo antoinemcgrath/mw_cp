@@ -101,7 +101,7 @@ cat_list = get_cats_list()
 
 '''
 def get_pages_loop(cat):
-    action_page = cat + "_Latest_Tweets"
+    action_page = cat + "_Legislature_Latest_Tweets"
     tw_list_id = cat.lower().replace("_","-").replace(" ","-")
     if cat.startswith("US_"):
         #print (cat[0:5])
