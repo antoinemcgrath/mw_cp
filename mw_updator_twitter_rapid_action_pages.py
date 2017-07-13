@@ -115,13 +115,13 @@ def get_pages_loop(cat):
 '''
 
 def get_pages_loop(cat):
-    action_page = cat + "_Latest_Tweets"
+    action_page = cat + "_Latest_Climate_Tweets"
     tw_list_id = cat.lower().replace("_","-").replace(" ","-")
     if cat.startswith("US_"):
         cat = (cat[0:5])
         tw_list_id = cat.lower().replace("_","-").replace(" ","-")
         hashpagename= "BotResource:" + (cat) + "_Hashes"
-        action_page = (cat) + "_Legislature_Latest_Tweets"
+        action_page = (cat) + "_Legislature_Latest_Climate_Tweets"
         catpage = site.Pages[hashpagename]
         cats = catpage.text()
         return_list = cats.split("\n")
