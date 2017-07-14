@@ -295,7 +295,7 @@ for a_page in site.Categories[SpecifiedCategory]:
          newtext = newtext.replace(old_A,new_A).replace(old_B,new_B)
          newtext = newtext.replace(old_A,new_A).replace(old_B,new_B)
          newtext = newtext.replace(old_A,new_A).replace(old_B,new_B)
-         print (newtext)
+         #print (newtext)
 
          #print(articlepage)
 
