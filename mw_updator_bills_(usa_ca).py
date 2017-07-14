@@ -35,7 +35,7 @@ SpecifiedCategory="US_CA_Bill"
 catsig = "_(USA_CA)"
 new_bill_text = "{{US CA Bill}}"
 leg_list = "usa_ca_votes" ### Results in http://www.climatepolitics.info/wiki/BotResource:usa_ca_votes
-
+print(leg_list)
 
 def get_leg_item(leg_list): ### legislationtext = get_leg_item(leg_list) ###Returns a list of legislation
     legislationpage = "BotResource:"+leg_list ##This block fetches the legislation of interest
@@ -58,8 +58,9 @@ def get_leg_item(leg_list): ### legislationtext = get_leg_item(leg_list) ###Retu
             site.pages[bill_page].save(new_bill_text, 'New bill page created (bill updator bot v01)')
             print(bill_page)
         else:
-            print("Bill page exists: " + "www.climatepolitics.info/wiki/" + str(bill_page))
+            #print("Bill page exists: " + "www.climatepolitics.info/wiki/" + str(bill_page))
             #print(site.pages[legislation].text())
+            pass
 
 
 
@@ -188,31 +189,28 @@ def get_vote_roles(vote):
 for a_page in site.Categories[SpecifiedCategory]:
     articlepage = site.Pages[a_page]
     profiletext = articlepage.text()
-    print(str(articlepage.name))
+    #print(str(articlepage.name))
     val = str(articlepage.name.encode('utf-8'))
-    print(val)
+    #print(val)
     if val.find('Bill') > 0:    # Skip pcategory pages that are not bills themselves (example US_CA_Bill which is an index page)
         print("Skipping what appears to be an index or other non bill profile page within the bill category")
         articlepage = ""
         print("Reset articlepage")
     #val = str(articlepage.name.encode('utf-8'))
     val = str(articlepage.name.encode('utf-8'))
-
     # Skip pcategory pages that are not bills themselves (example US_CA_Bill which is an index page)
-    print(val)
-    print(val.find('<Page object'))
+    #print(val)
+    #print(val.find('<Page object'))
     if val.find('<Page object') > 0:
         val = val.replace("<Page object 'b'","").replace("'' for <Site object '('http', 'www.climatepolitics.info')/w/'>>","")
-        print (val)
+        #print (val)
     else:
-        print(val)
+        #print(val)
         pass
     if val.find('Bill') > 0:
         pass
     else:
          val = val.replace('b"<Pag','').replace("e object '","").replace("' for <Site object '('http', 'www.climatepolitics.info')/w/;","").replace("' for <Sit('http', 'www.climatepolitics.info')/w/'","").replace('>>"','')
-
-
          #print("Working on: " + val[0:] )
          print("Working on: " + val[1:] )
          #print("Working on: " + val[2:] )
@@ -231,26 +229,24 @@ for a_page in site.Categories[SpecifiedCategory]:
          for i in indices:
              custom += (profiletext[allends[i]:allends[i+1]])
          ##ADD custom back to page later
-
-
          #Get vote id values for Openstates query
          #print(val)
          val = val.split(" ")
          state = str(val[3][:-2]).lower()
-         print(state)
+         #print(state)
          #session = str(val[0])[2:6]+str(val[0])[7:]
          #print(session)
          session = str(val[0])[1:5]+str(val[0])[6:]
-         print(session)
+         #print(session)
          bill = str(val[1])[:2]+" "+str(val[1])[2:]
-         print(bill)
-
-         print("Forming API query akin to URL query: openstates.org/api/v1/bills/ca/20152016/AB 1550/")
+         #print(bill)
+         #print("Forming API query akin to URL query: openstates.org/api/v1/bills/ca/20152016/AB 1550/")
          delay = (1.72)
          sleep(delay)
-         print (state + session + bill)
+         print ("Query for: " + state + session + bill)
          # Input is expected to be formatted as ca20152016AB 197
          vote = openstates.bill_detail(state, session, bill)
+         print(vote)
          #print (bill)
          #print (vote['sponsors'])
          #    for x in vote:
@@ -278,26 +274,19 @@ for a_page in site.Categories[SpecifiedCategory]:
              new_c += ("\n|Authors=" + str(Roles[0]))
          if Roles[1] != 0:
              new_c += ("\n|Coauthors=" + str(Roles[1]))
-
-
          bd_final_actions_text = bd_final_actions_loop(vote)
          bd_final_actions_text += "\n<!--End_bd_final_actions-->"
          new_c += ("\n" +(bd_final_actions_text))
-
          bd_motion_votes_text = bd_motion_votes_loop(vote)
          bd_motion_votes_text += "\n<!--End_bd_motion_votes-->"
          new_c += ("\n" +(bd_motion_votes_text))
-
-
          if sub_category_current == str(session[:4])+"-"+str(session[4:]):
              page_end = "[[Category:US_CA_Bill_Current]]"
          else:
              page_end = "[[Category:US_CA_Bill_Historical]]"
          page_end += "\n}}"
          new_c += page_end
-
          newtext = new_c
-
          #Drop any accidental extra spacing
          old_A = "\n\n\n"
          new_A = "\n\n"
@@ -306,9 +295,9 @@ for a_page in site.Categories[SpecifiedCategory]:
          newtext = newtext.replace(old_A,new_A).replace(old_B,new_B)
          newtext = newtext.replace(old_A,new_A).replace(old_B,new_B)
          newtext = newtext.replace(old_A,new_A).replace(old_B,new_B)
-         #print (new_c)
+         print (newtext)
 
-         print(articlepage)
+         #print(articlepage)
 
          try:  #Due to some page objects being returned within page objects for an unknown reeason
              (a_page).save(newtext, 'Bill Updated (bill bot v01)')
