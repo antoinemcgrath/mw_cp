@@ -91,8 +91,9 @@ for a_page in site.Categories[Specified_B_Category]:
     list.append(a_page)
 
 #### Update all those pages
+print(list)
 for a_page in list:
-    #print(a_page)
+    print(a_page)
     articlepage = site.Pages[a_page]  #articlepage = site.Pages["Michael_Thompson"] #articlepage = site.Pages["Bill_Dodd_(USA_CA)"] #articlepage = site.Pages['Cathleen_Galgiani_(USA_CA)']
 
     #articlepage = site.Pages['Bill_Dodd_(USA_CA)']

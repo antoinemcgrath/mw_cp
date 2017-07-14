@@ -3,7 +3,7 @@
 # Searches each category for new twitter handles
 # Updates (category)_info page on MediaWiki
 # ex. http://www.climatepolitics.info/wiki/US_CA_Assembly_info
-# Updates twitter lists 
+# Updates twitter lists
 # ex. https://twitter.com/AGreenDCBike/lists/us-ca-assembly
 #Dir: /mnt/8TB/GITS/mw_cp/
 #Execution schedule is every day at 2:30AM  ##crontab -e
@@ -152,9 +152,14 @@ for cat in cat_list:
         #profiles_with_handles += 1
     else:
         pass
-
+    # Save handles to MW pages
     cat_info_page_mwObj = site.Pages[cat_info_page]
     cat_info_page_mwObj.save(str(cat_info), edit_note)
+    if cat.startswith("US_"):
+        cat_State = cat[:5]
+        cat_State_list = []
+        cat_State_list.append(handles)
+
     print (str(cat) + " profiles scanned: " + str(profiles_scanned))
     print (str(cat) + " profiles with handles: " + str(profiles_with_handles))
     print (str(cat) + " total handles in category: " + str(handles_in_cat))

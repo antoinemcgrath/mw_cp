@@ -89,7 +89,7 @@ def get_atweet_embed(obj):
 
 def get_tweets_from_handle(handle, total_climate_tweets, insert_body):
     handles_climate_tweets = 0
-    keywords_re = re.compile(r'climate|carbon|globalwarming|global warming|renewable', re.IGNORECASE)
+    keywords_re = re.compile(r'climate|carbon|globalwarming|global warming|renewable|energy|#ExtendItNow|#CapandTrade', re.IGNORECASE)
     falsepositives_re = re.compile(r'climate of politics|business climate|political climate', re.IGNORECASE)
     total_tws = str(db.politicians.find({"user.screen_name": handle}).count())
     results = db.politicians.find({"user.screen_name": handle, "text": keywords_re})
@@ -106,10 +106,10 @@ def get_tweets_from_handle(handle, total_climate_tweets, insert_body):
     for obj in results:
         #print (obj)
         atweet = get_atweet_embed(obj)
-        
+
         for match in re.finditer(falsepositives_re, str(obj["text"]) ):
             total_climate_tweets = total_climate_tweets - 1
-            handles_climate_tweets = handles_climate_tweets - 1 
+            handles_climate_tweets = handles_climate_tweets - 1
             pass
         else:
             insert_body += atweet
