@@ -246,7 +246,7 @@ for a_page in site.Categories[SpecifiedCategory]:
          print ("Query for: " + state + session + bill)
          # Input is expected to be formatted as ca20152016AB 197
          vote = openstates.bill_detail(state, session, bill)
-         print(vote)
+         print(vote.encode('utf-8'))
          #print (bill)
          #print (vote['sponsors'])
          #    for x in vote:
