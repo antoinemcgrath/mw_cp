@@ -1,1 +1,0 @@
-b"{{Candidate\n|Firstname=Darin\n|TW1=https://twitter.com/RepLaHood\n|Lastname=LaHood\n|Bioguide_id=L000585\n|Gender=M\n|State=Illinois\n|District=18\n|Office=House\n|Party=Republican\n\n|Q2=\n\n'''Automatically Generated Congressional Votes'''\n}}"

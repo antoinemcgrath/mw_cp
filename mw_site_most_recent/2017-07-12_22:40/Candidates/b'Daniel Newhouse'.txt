@@ -1,1 +1,0 @@
-b'{{Candidate\n|Firstname=Daniel\n|TW1=https://twitter.com/RepNewhouse\n|Lastname=Newhouse\n|State=Washington\n|District=4\n|Office=House\n|Party=Republican\n}}'

@@ -1,1 +1,0 @@
-b'{{Candidate\n|Firstname=Ronald\n|TW1=https://twitter.com/RepRonKind\n|Lastname=Kind\n|State=Wisconsin\n|District=3\n|Office=House\n|Party=Democratic\n}}'
