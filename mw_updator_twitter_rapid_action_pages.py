@@ -218,7 +218,8 @@ for cat in cat_list:
 
             ##from datetime import datetime
             #epoch date
-            start = int(1499670000) # July 4th 2017 #datetime.datetime(1499126400)
+            start = int(time.time()) - 1209600 # Two weeks prior to today
+            #start = int(1499670000) # July 4th 2017 #datetime.datetime(1499126400)
             end = int(time.time()) #datetime.datetime.now()
             #handle = "RepMikeQuigley" #Test value
             #db.politicians.find({'created_at_UNIXtime': {'$gte': start, '$lt': end}, "user.screen_name": handle}).count()
