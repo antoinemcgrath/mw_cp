@@ -33,7 +33,7 @@ from mwclient import Site #import mwclient
 from pymongo import MongoClient
 connection = c = MongoClient()
 from time import sleep
-sleep(30)
+#sleep(30)
 
 start_timer = time.time()
 
@@ -125,7 +125,22 @@ def get_pages_loop(cat):
         catpage = site.Pages[hashpagename]
         cats = catpage.text()
         return_list = cats.split("\n")
+        print(cat,action_page,tw_list_id,hashpagename)
         return (cat,action_page,tw_list_id,hashpagename)
+    elif cat.startswith("Candidate"):
+        cat = 'Congress'
+        tw_list_id = 'members-of-congress'
+        hashpagename="BotResource:" + (cat) + "_Hashes"
+        catpage = site.Pages[hashpagename]
+        cats = catpage.text()
+        action_page = cat + "_Latest_Climate_Tweets"
+        return_list = cats.split("\n")
+        print ("Special none state cat found!" + str(cat))
+        print("Returning cat,action_page,tw_list_id,hashpagename")
+        print(cat,action_page,tw_list_id,hashpagename)
+        return (cat,action_page,tw_list_id,hashpagename)
+        #http://www.climatecongress.info/wiki/BotResource:US_Congress_Hashes
+        #http://www.climatecongress.info/wiki/US_CA_Legislature_Climate_Bills_Track
     else:
         pass
 
@@ -170,6 +185,7 @@ for cat in cat_list:
             catinfo = (cat[0:5]) + "_info"
         else:
             catinfo = cat + "_info"
+        print(catinfo)
         #get hash list
         #get recent tweets
         #filter tweets
@@ -177,8 +193,9 @@ for cat in cat_list:
 
         action_page = site.Pages[action_page]
         a_pagetexts = action_page.text()
-
         a_tw_list_id_page = site.Pages[catinfo]
+        print(a_tw_list_id_page)
+
         tw_listtexts = a_tw_list_id_page.text()
         tw_list = ast.literal_eval(tw_listtexts)
         users_re = re.compile('|'.join(tw_list), re.IGNORECASE)
