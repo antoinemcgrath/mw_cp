@@ -51,6 +51,7 @@ _ReSharper*/
 # Directories to ignore
 gitignore/
 mw_site_backups/
+__pycache__/
 
 #Specific files to ignore
 deletelist.txt
