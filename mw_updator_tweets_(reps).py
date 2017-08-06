@@ -9,10 +9,6 @@ import mwclient
 import re
 import os
 import os.path
-import errno
-import datetime
-from dateutil.parser import *
-from mwclient import Site #import mwclient
 from pymongo import MongoClient
 connection = c = MongoClient()
 
@@ -72,7 +68,7 @@ def get_atweet_embed(obj):
     f_  = '</p>'  #&mdash; '
     #g_name = str(obj["user"]["name"])
     #h_ = ' (@'
-    i_atweet_user = str(obj["user"]["name"])
+    ####i_atweet_user = str(obj["user"]["name"])
     #j_ = ')
     j_ ='<a href="https://twitter.com/'
     k_ = str(obj["user"]["screen_name"])
@@ -146,7 +142,9 @@ def get_STW_insert(handles, total_handles, total_climate_tweets):
     for tweet in list_embed:
         #print(tweet[-44:-18])#Aug 10 21:47:18 +0000 2015 = MMM dd HH:mm:ss Z yyyy
         #print(str(parse(tweet[-44:-18])))
-        newt = (str(parse(tweet[-44:-18]))) + (tweet)
+        #newt = (str(parse(tweet[-44:-18]))) + (tweet)
+        newt = (str(tweet[-44:-18])) + (tweet)
+
         #print(newt)
         newts.append(newt)
     newts.sort(reverse=True)

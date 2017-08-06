@@ -4,15 +4,8 @@
 
 import yaml
 import pandas as pd
-import mwclient
-from mwclient import Site #import mwclient
-import sys
-import mwclient
-import json
+#import mwclient
 import re
-from mwclient import Site #import mwclient
-import csv
-import os
 
 #import subprocess #needed
 
@@ -23,7 +16,7 @@ updated = 0
 
 ##This block sets MediaWiki (MW) access
 
-
+site = "TEST"
 
 ##This block fetches the legislation of interest
 legislationpage = "BotResource:US_Congressional_Legislation"

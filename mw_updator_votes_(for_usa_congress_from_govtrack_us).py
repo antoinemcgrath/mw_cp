@@ -7,9 +7,6 @@
 
 import mwclient
 import json
-import re
-import csv
-from mwclient import Site #import mwclient
 import os
 
 #### Access your MW with bot/admin approved permissions
@@ -194,8 +191,8 @@ for a_page in site.Categories[SpecifiedCategory]:
                                 if gender == "E":
                                     Mx = "They"
                                     mx = "they"
-                                #print (Mx)
-                                #print (mx)    #print values_summary
+                                    print (Mx)
+                                    print (mx)    #print values_summary
 
                                 if values_summary == "111::2009::H::477::Aye":
                                     q2autoinsert +="\n\nIn 2009, as a member of the US House of Representatives, " + mx + " voted for the American Clean Energy and Security Act HR 2454 (Waxman-Markey). https://www.congress.gov/bill/111th-congress/house-bill/2454 "

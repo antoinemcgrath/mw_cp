@@ -1,7 +1,5 @@
 import mwclient
-from mwclient import Site
 import re
-import sunlight
 from sunlight import openstates
 import os
 

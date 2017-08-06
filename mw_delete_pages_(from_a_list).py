@@ -5,7 +5,6 @@
 #while read line; do python3 "/Users/macbook/Documents/GITS/mediawiki/mw_delete_pages_(from_a_list).py" $line; done < /Users/macbook/Documents/GITS/mediawiki/deletelist.txt
 
 import mwclient
-from mwclient import Site #import mwclient
 import sys
 import os
 

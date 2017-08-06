@@ -15,14 +15,8 @@
 #curl "https://api.propublica.org/congress/v1/114/house/members.json" -H "X-API-Key: keykeykey"
 
 import mwclient
-from mwclient import Site
-import re
-import sunlight
 from sunlight import openstates
-import json
-import csv
 import datetime
-from mwclient import Site #import mwclient
 import os
 
 #### Access your MW with bot/admin approved permissions

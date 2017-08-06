@@ -5,12 +5,7 @@
 
 #/Users/macbook/.invisible
 
-import re
-import csv
-import json
-import datetime
 import mwclient
-from mwclient import Site #import mwclient
 import os
 
 #### Access your MW with bot/admin approved permissions

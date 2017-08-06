@@ -10,18 +10,12 @@ from fuzzywuzzy import process
 
 #Import Twitter
 import tweepy #http://www.tweepy.org/
-from tweepy import TweepError
-from tweepy.streaming import StreamListener
-from tweepy import OAuthHandler
-from tweepy import Stream
 
 #Import MongoDB
-import json
 from pymongo import MongoClient
 
 #Import MediaWiki (MW)
 import mwclient
-from mwclient import Site #import mwclient
 
 #Setup Twitter
 #twitterKEYfile = os.path.expanduser('~') + "/.invisible/twitter01.csv" #
@@ -266,7 +260,7 @@ def add_handle_loop(t, page_name, dbmatch):
     pass
   else:
     print("No free twitter handle values. Mannually resolve this")
-    usertext = input("\n")
+    #usertext = input("\n")
 
 
 #### 3.  Calculate match confidence
@@ -279,7 +273,7 @@ for dbname in DB_handles_names:
   #eval = process.extractOne(dbname, mw_names)
   ## The token_ functions split the string on white-spaces, lowercase everything and get rid of non-alpha non-numeric characters, which means punctuation is ignored
   dbname_reduced = dbname.replace("Senator","").replace("Dr.","").replace("Judge.","").replace("President","").replace("Governor","")
-  eval = process.extractOne(dbname_reduced_reduced, mw_names, scorer=fuzz.token_sort_ratio)
+  eval = process.extractOne(dbname_reduced, mw_names, scorer=fuzz.token_sort_ratio)
   confidence = eval[1]
   #### 4.  Approve or reject matches
   if confidence >= 85: #  More than 80, High confidence match
@@ -296,7 +290,7 @@ for dbname in DB_handles_names:
   if confidence < 70: #  Less than 70, unlikely that there is a match
     #print ("The most likely MW profile is less than 70 match, no match is likely!")
     pass
-elif confidence in range(70,85): # Match is in the 70-80 range you decide!
+  elif confidence in range(70,85): # Match is in the 70-80 range you decide!
     print(dbname + " =" + str(eval[1]) + "= " + eval[0] )
     position = mw_names.index(eval[0])
     page_name = mw_handles_list[position][0]

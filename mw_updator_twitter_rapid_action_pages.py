@@ -23,17 +23,14 @@ import re
 import os
 import os.path
 import ast
-import errno
-import datetime, pymongo
-from dateutil.parser import *
+#from dateutil.parser import *
 import time
 
 #from dateutil.parser import *
-from mwclient import Site #import mwclient
 from pymongo import MongoClient
 connection = c = MongoClient()
 from time import sleep
-#sleep(30)
+sleep(30)
 
 start_timer = time.time()
 
@@ -125,8 +122,8 @@ def get_pages_loop(cat):
         catpage = site.Pages[hashpagename]
         cats = catpage.text()
         return_list = cats.split("\n")
-        print(cat,action_page,tw_list_id,hashpagename)
-        return (cat,action_page,tw_list_id,hashpagename)
+        print(cat,action_page,tw_list_id,hashpagename,return_list)
+        return (cat,action_page,tw_list_id,hashpagename,return_list)
     elif cat.startswith("Candidate"):
         cat = 'Congress'
         tw_list_id = 'members-of-congress'
@@ -136,9 +133,9 @@ def get_pages_loop(cat):
         action_page = cat + "_Latest_Climate_Tweets"
         return_list = cats.split("\n")
         print ("Special none state cat found!" + str(cat))
-        print("Returning cat,action_page,tw_list_id,hashpagename")
-        print(cat,action_page,tw_list_id,hashpagename)
-        return (cat,action_page,tw_list_id,hashpagename)
+        print("Returning cat,action_page,tw_list_id,hashpagename,return_list")
+        print(cat,action_page,tw_list_id,hashpagename,return_list)
+        return (cat,action_page,tw_list_id,hashpagename,return_list)
         #http://www.climatecongress.info/wiki/BotResource:US_Congress_Hashes
         #http://www.climatecongress.info/wiki/US_CA_Legislature_Climate_Bills_Track
     else:
@@ -154,7 +151,7 @@ def get_atweet_embed(obj):
     f_  = '</p>'  #&mdash; '
     #g_name = str(obj["user"]["name"])
     #h_ = ' (@'
-    i_atweet_user = str(obj["user"]["name"])
+    ####i_atweet_user = str(obj["user"]["name"])
     #j_ = ')
     j_ ='<a href="https://twitter.com/'
     k_ = str(obj["user"]["screen_name"])
@@ -179,6 +176,7 @@ for cat in cat_list:
         action_page = returns[1]
         tw_list_id = returns[2]
         hashpagename = returns[3]
+        return_list = returns[4]
 
         if cat.startswith("US_"):
             #print (cat[0:5])
@@ -273,7 +271,8 @@ for cat in cat_list:
             for tweet in list_embed:
                 #print(tweet[-44:-18])#Aug 10 21:47:18 +0000 2015 = MMM dd HH:mm:ss Z yyyy
                 #print(str(parse(tweet[-44:-18])))
-                newt = (str(parse(tweet[-44:-18]))) + (tweet)
+                #newt = (str(parse(tweet[-44:-18]))) + (tweet)
+                newt = (str((tweet[-44:-18]))) + (tweet)
                 #print(newt)
                 newts.append(newt)
             newts.sort(reverse=True)

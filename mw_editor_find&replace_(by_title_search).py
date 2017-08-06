@@ -3,14 +3,8 @@
 #find&replace bot v01
 #https://mwclient.readthedocs.io/en/latest/reference/site.html?highlight=categories
 
-import re
-import csv
-import json
-import datetime
+
 import mwclient
-from mwclient import Site #import mwclient
-
-
 import os
 
 #### Access your MW with bot/admin approved permissions

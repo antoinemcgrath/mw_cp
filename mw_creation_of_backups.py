@@ -7,16 +7,14 @@
 #30 1 * * 3 /usr/bin/python3 /mnt/8TB/GITS/mw_cp/mw_creation_of_backups.py
 #30 1 * * 6 /usr/bin/python3 /mnt/8TB/GITS/mw_cp/mw_creation_of_backups.py
 import mwclient
-import re
 import os
 import os.path
 import errno
 import datetime
 import shutil
-from mwclient import Site #import mwclient
 from glob import glob
 import subprocess
-#import unicodedata
+import unicodedata
 
 gitPath = '/mnt/8TB/GITS/mw_cp/'
 DATE = datetime.datetime.now().strftime('%Y-%m-%d_%H:%M')
@@ -39,7 +37,7 @@ ua = 'CCWPTool run by User:1A' #UserAgent bot note
 site = mwclient.Site(('http', 'www.climatepolitics.info'), path='/w/',)
 site.login(login_user, login_password)
 
-#### Replace special characters 
+#### Replace special characters
 def strip_accents(text):
         return ''.join(c for c in unicodedata.normalize('NFKD', text) if unicodedata.category(c) != 'Mn')
 
@@ -71,12 +69,12 @@ for sub_dir in sub_dirs:
     print(historical_dir)
     #if os.path.isfile(historical_dir+DATE) == True:
     #    print("Backup for this date already exists")
-             
+
     shutil.move(sub_dir, historical_dir)
     print("Moving " + sub_dir + "  to backups dir." )
 
 
-    
+
 make_path_exist(base_dir) # Create today's backup dir if it does not exist
 #### For each Category make a list of pages
 for cat in cat_list:
@@ -94,11 +92,11 @@ for cat in cat_list:
         text = text.replace("\n\n\n\n", "\n\n\n")
         text = text.encode("utf-8").strip()
         print(text)
-       # f.write(text.decode('utf-8'))        
+       # f.write(text.decode('utf-8'))
         f.write(str(text))
         f.close()
-        
-        
+
+
 #### Update git
 def update_git():
      print("git pull")

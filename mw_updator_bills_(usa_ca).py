@@ -5,14 +5,8 @@
 # openstates.org/api/v1/bills/ca/20152016/AB 1550/
 # cat ~/.sunlight.key
 import mwclient
-from mwclient import Site
 import re
-import sunlight
 from sunlight import openstates
-import json
-import csv
-import datetime
-from mwclient import Site #import mwclient
 import os
 from time import sleep
 
@@ -48,7 +42,7 @@ def get_leg_item(leg_list): ### legislationtext = get_leg_item(leg_list) ###Retu
         #input ca,20172018,AB 151,
         #output 2017-2018_AB378_(USA_CA)
         data_legis = line.split(',')
-        state = data_legis[0]
+        ####state = data_legis[0]
         session = data_legis[1]
         session = str(session[:4])+"-"+str(session[4:])
         bill = (data_legis[2]).replace(" ","")

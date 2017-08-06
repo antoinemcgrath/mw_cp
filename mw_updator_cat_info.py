@@ -19,19 +19,11 @@ import mwclient
 import re
 import os
 import os.path
-import errno
-import datetime
-from dateutil.parser import *
-from mwclient import Site #import mwclient
 from pymongo import MongoClient
 connection = c = MongoClient()
 
 #Import Twitter
 import tweepy #http://www.tweepy.org/
-from tweepy import TweepError
-from tweepy.streaming import StreamListener
-from tweepy import OAuthHandler
-from tweepy import Stream
 
 
 #Setup Twitter

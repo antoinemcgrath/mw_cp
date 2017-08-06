@@ -9,14 +9,8 @@ import logging
 logging.basicConfig(filename='python_debug.log', filemode='w', level=logging.DEBUG) #Stores last run
 #logging.debug('')#logging.info('')#logging.warning('')
 import mwclient
-import re
 import os
 import os.path
-import ast
-import errno
-import datetime
-from dateutil.parser import *
-from mwclient import Site #import mwclient
 
 ####v01
 edit_note = 'Updates hash list for each state (mw_updator_(creates&updates_states_hash_page).py bot v01)'
