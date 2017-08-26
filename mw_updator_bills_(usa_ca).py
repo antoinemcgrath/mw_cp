@@ -29,6 +29,7 @@ SpecifiedCategory="US_CA_Bill"
 catsig = "_(USA_CA)"
 new_bill_text = "{{US CA Bill}}"
 leg_list = "usa_ca_votes" ### Results in http://www.climatepolitics.info/wiki/BotResource:usa_ca_votes
+#### http://www.climatepolitics.info/wiki/BotResource:US_CA
 print(leg_list)
 
 def get_leg_item(leg_list): ### legislationtext = get_leg_item(leg_list) ###Returns a list of legislation
@@ -37,7 +38,7 @@ def get_leg_item(leg_list): ### legislationtext = get_leg_item(leg_list) ###Retu
     legislation = site.pages[legislationpage]
     legislationtext = legislation.text()
     legislationtext = legislationtext.split('\n')
-    #print (legislationtext)
+    print (legislationtext)
     for line in legislationtext:
         #input ca,20172018,AB 151,
         #output 2017-2018_AB378_(USA_CA)
@@ -46,7 +47,8 @@ def get_leg_item(leg_list): ### legislationtext = get_leg_item(leg_list) ###Retu
         session = data_legis[1]
         session = str(session[:4])+"-"+str(session[4:])
         bill = (data_legis[2]).replace(" ","")
-        bill_page = (session+ "_"+bill+catsig)
+        bill_page = (session + "_" + bill + catsig)
+        print(bill_page)
         if len(site.pages[bill_page].text()) < 10:
             print("create page")
             site.pages[bill_page].save(new_bill_text, 'New bill page created (bill updator bot v01)')
