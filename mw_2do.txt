@@ -1,0 +1,26 @@
+Created the TX landing page
+Created the TX Results page ("category page")
+   --we have ~60 in the TX
+
+Added "2018 Campaign for" as a Property
+Added "2018 Campaign for" property to the Template:US-House‎
+Added "2018 Campaign for" property to the Template:US-Senate
+Added "2018 Campaign for" property to the Form:US-Senate‎
+Added "2018 Campaign for" property to the Form:US-House
+Added bioguide ID for Ted Cruz
+
+2do--
+Instate updates for legislation of category "US-Senate"
+Instate updates for tweets of category "US-Senate"
+   OR
+Add all to single category of Person and update those
+Remove spam accounts
+Remove spam pages
+
+
+Digital Ocean 30$ per month https://www.digitalocean.com/pricing/
+   --saves us the cost of GoDaddy cPanel
+   --allows for easier free LetsEncrypt Certification
+
+1 mo.s goes to 'C'
+Funding by C ?ccbi?
