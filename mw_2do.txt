@@ -1,26 +1,42 @@
-Created the TX landing page
-Created the TX Results page ("category page")
-   --we have ~60 in the TX
+File Link:
+https://github.com/antoinemcgrath/drawdownwiki/blob/master/progress_drawdown.txt
 
-Added "2018 Campaign for" as a Property
-Added "2018 Campaign for" property to the Template:US-House‎
-Added "2018 Campaign for" property to the Template:US-Senate
-Added "2018 Campaign for" property to the Form:US-Senate‎
-Added "2018 Campaign for" property to the Form:US-House
-Added bioguide ID for Ted Cruz
+Climate Politics wiki Texas profiles
+##Done
+April Start
+1. Created the TX Home page
+2. Created the TX Index page ("category page") (--we have ~60 profiles in the TX)
+3. Added Texas Index 2 Sidebar (https://www.climatepolitics.info/wiki/MediaWiki:Sidebar)
+4. Added Texas Homepage 2 Sidebar (https://www.climatepolitics.info/wiki/MediaWiki:Sidebar)
+5. Added "2018 Campaign for" as a Property
+6. Added "2018 Campaign for" property to the Template:US-House‎
+7. Added "2018 Campaign for" property to the Template:US-Senate
+8. Added "2018 Campaign for" property to the Form:US-Senate‎
+9. Added "2018 Campaign for" property to the Form:US-House
+April End 
+
+May Start
+10. Added bioguide ID for Ted Cruz & "|2018_Campaign_for=US Senate, TX" for Ted Cruz
+-- Formating note
+    |2018_Campaign_for=US Senate, TX08
+    |AdditionalSite=http://www.bradyforcongress.com/
 
 2do--
-Instate updates for legislation of category "US-Senate"
-Instate updates for tweets of category "US-Senate"
+Manually add field to existing TX profiles if running for office in 2018
+Add bioguide_ids
+Merge duplicate profiles
+
+Start updates for legislation of category "US-Senate"
+Start updates for tweets of category "US-Senate"
+Start updates for legislation of category "US-House"
+Start updates for tweets of category "US-House"
    OR
 Add all to single category of Person and update those
 Remove spam accounts
 Remove spam pages
 
+Rename page “Texas Politicials” to “Texas profiles”
+Please add links on the home page to Culberson and Cruz and Beto O’Rourke.
+First table: can you put Cruz and Cornyn on top, then follow them by ALL House incumbents, ideally sequenced by CD so they say TX-**.
+No benefit in showing the second table now since it just makes clear we have no data. After the May 22 runoff, this page can list all Repub and Dem candidates for House and we can indicate in bold those with crowdsourced info
 
-Digital Ocean 30$ per month https://www.digitalocean.com/pricing/
-   --saves us the cost of GoDaddy cPanel
-   --allows for easier free LetsEncrypt Certification
-
-1 mo.s goes to 'C'
-Funding by C ?ccbi?
