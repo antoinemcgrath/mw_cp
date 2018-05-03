@@ -81,7 +81,7 @@ with open(os.path.expanduser('~') + "/.invisible/mw.csv", 'r') as f:
 
 
 ua = 'CCWPTool run by User:1A' #UserAgent bot note
-site = mwclient.Site(('http', 'www.climatepolitics.info'), path='/w/',)
+site = mwclient.Site(('https', 'www.climatepolitics.info'), path='/w/',)
 site.login(login_user, login_password)
 #End MW Setup
 

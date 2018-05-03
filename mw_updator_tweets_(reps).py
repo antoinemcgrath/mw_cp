@@ -34,7 +34,7 @@ with open(os.path.expanduser('~') + "/.invisible/mw.csv", 'r') as f:
 
 #### Set MW to access
 ua = 'CCWPTool run by User:1A' #UserAgent bot note
-site = mwclient.Site(('http', 'www.climatepolitics.info'), path='/w/',)
+site = mwclient.Site(('https', 'www.climatepolitics.info'), path='/w/',)
 site.login(login_user, login_password)
 
 #### MongoDB Login

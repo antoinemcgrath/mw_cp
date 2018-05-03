@@ -28,7 +28,7 @@ with open(os.path.expanduser('~') + "/.invisible/mw.csv", 'r') as f:
     login_password = keys[1]  #consumer_secret
 
 ua = 'CCWPTool run by User:1A' #UserAgent bot note
-site = mwclient.Site(('http', 'www.climatepolitics.info'), path='/w/',)
+site = mwclient.Site(('https', 'www.climatepolitics.info'), path='/w/',)
 site.login(login_user, login_password)
 
 Specified_A_Category = 'US_CA_Senate'
