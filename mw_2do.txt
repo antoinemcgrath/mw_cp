@@ -28,6 +28,7 @@ May Start
 13. Remove table2 from texas politicians (in response to Felix: No benefit in showing the second table now since it just makes clear we have no data. After the May 22 runoff, this page can list all Repub and Dem candidates for House and we can indicate in bold those with crowdsourced info)
 14. Manually edited existing TX profiles to specify which offices they are running for office in 2018
 15. Put Senate candidates at top via new table followed by numerical sort of House candidates (in response to request by Felix: First table: can you put Cruz and Cornyn on top, then follow them by ALL House incumbents, ideally sequenced by CD so they say TX-**.)
+16. Removed House candidates (table 2) changed table header (in reponse to Felix request: I still see Table 2. Can you retitle 1: “In Table 1 we list the first incumbents and candidates for whom we invite crowdsourcers to begin adding research.”)
 
 Merge content from duplicate profiles (delete dups)
 -Create sorting of text blob into desired values
