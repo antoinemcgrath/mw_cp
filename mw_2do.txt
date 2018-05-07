@@ -25,13 +25,14 @@ May Start
     --(Added TX Senate candidates (includes Cruz & O'Rourke.))
     --(We added senate candidates to the TX homepage, this is redundant to the Climate TX profiles page,
     --(? for FK: Did you mean to request that all TX House candidates be on the TX homepage? If not then why should I include Culberson?)
+13. Remove table2 from texas politicians (in response to Felix: No benefit in showing the second table now since it just makes clear we have no data. After the May 22 runoff, this page can list all Repub and Dem candidates for House and we can indicate in bold those with crowdsourced info)
+14. Manually edited existing TX profiles to specify which offices they are running for office in 2018
+15. Put Senate candidates at top via new table followed by numerical sort of House candidates (in response to request by Felix: First table: can you put Cruz and Cornyn on top, then follow them by ALL House incumbents, ideally sequenced by CD so they say TX-**.)
 
-
-2do--
-Manually add field to existing TX profiles if running for office in 2018
+Merge content from duplicate profiles (delete dups)
+-Create sorting of text blob into desired values
+-Compare to original values, append unique values
 Add bioguide_ids
-Merge duplicate profiles
-
 Start updates for legislation of category "US-Senate"
 Start updates for tweets of category "US-Senate"
 Start updates for legislation of category "US-House"
@@ -42,6 +43,4 @@ Remove spam accounts
 Remove spam pages
 
 
-First table: can you put Cruz and Cornyn on top, then follow them by ALL House incumbents, ideally sequenced by CD so they say TX-**.
-No benefit in showing the second table now since it just makes clear we have no data. After the May 22 runoff, this page can list all Repub and Dem candidates for House and we can indicate in bold those with crowdsourced info
 
