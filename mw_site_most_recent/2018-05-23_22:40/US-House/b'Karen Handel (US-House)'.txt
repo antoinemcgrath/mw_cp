@@ -1,0 +1,1 @@
+b'{{US-House\n|Firstname=Karen\n|Lastname=Handel\n|Fullname=Karen Handel\n|Gender=Female\n|Office=US-House\n|State=Georgia\n|Wing=House\n|Level=US-House\n|District=GA-6\n|Party=Republican\n|Session=115\n|OfficialGovSite=https://handel.house.gov\n|AdditionalSite=\n|Photo=https://theunitedstates.io/images/congress/225x275/H001078.jpg\n|id_CP_MW=Karen_Handel_(US-House)\n}}'

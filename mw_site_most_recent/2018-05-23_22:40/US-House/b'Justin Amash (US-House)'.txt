@@ -1,0 +1,1 @@
+b'{{US-House\n|Firstname=Justin\n|Lastname=Amash\n|Fullname=Justin Amash\n|Gender=Male\n|Office=US-House\n|State=Michigan\n|Wing=House\n|Level=US-House\n|District=MI-3\n|Party=Republican\n|Session=115\n|OfficialGovSite=http://amash.house.gov/\n|AdditionalSite=\n|Photo=https://theunitedstates.io/images/congress/225x275/A000367.jpg\n|id_CP_MW=Justin_Amash_(US-House)\n}}'

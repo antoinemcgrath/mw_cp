@@ -1,0 +1,1 @@
+b'{{US-House\n|Firstname=Wm.\n|Lastname=Clay\n|Fullname=Wm. Lacy Clay\n|Gender=Male\n|Office=US-House\n|State=Missouri\n|Wing=House\n|Level=US-House\n|District=MO-1\n|Party=Democrat\n|Session=115\n|OfficialGovSite=http://lacyclay.house.gov\n|AdditionalSite=\n|Photo=https://theunitedstates.io/images/congress/225x275/C001049.jpg\n|id_CP_MW=Wm._Lacy_Clay_(US-House)\n}}'

@@ -1,0 +1,1 @@
+b'{{US-House\n|Firstname=Ralph\n|Lastname=Norman\n|Fullname=Ralph Norman\n|Gender=Male\n|Office=US-House\n|State=South Carolina\n|Wing=House\n|Level=US-House\n|District=SC-5\n|Party=Republican\n|Session=115\n|OfficialGovSite=https://norman.house.gov\n|AdditionalSite=\n|Photo=https://theunitedstates.io/images/congress/225x275/N000190.jpg\n|id_CP_MW=Ralph_Norman_(US-House)\n}}'

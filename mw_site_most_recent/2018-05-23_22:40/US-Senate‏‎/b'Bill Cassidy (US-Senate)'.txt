@@ -1,0 +1,1 @@
+b'{{US-Senate\n|Firstname=Bill\n|Lastname=Cassidy\n|Fullname=Bill Cassidy\n|Gender=Male\n|Office=US-Senate\n|State=Louisiana\n|Wing=Senate\n|Level=US-Senate\n|District=LA\n|Party=Republican\n|Session=115\n|OfficialGovSite=https://www.cassidy.senate.gov\n|AdditionalSite=\n|Photo=https://theunitedstates.io/images/congress/225x275/C001075.jpg\n|id_CP_MW=Bill_Cassidy_(US-Senate)\n}}'
